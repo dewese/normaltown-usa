@@ -118,8 +118,13 @@ def _row_value(text, label):
     if not m:
         return None
     val = m.group(1).strip()
-    val = val.strip("`").strip()          # drop code ticks
+    # Prefer the text inside the first backtick-quoted segment (the clean value).
+    bt = re.search(r'`([^`]+)`', val)
+    val = bt.group(1) if bt else val.strip("`")
+    # Drop trailing editing notes like *(150 chars)* or (150 chars).
+    val = re.sub(r'\*?\(\s*\d+\s*chars?\s*\)\*?', '', val)
     val = re.sub(r'\*\*(.+?)\*\*', r'\1', val)  # drop bold
+    val = val.strip().strip("`").strip()
     return val or None
 
 
