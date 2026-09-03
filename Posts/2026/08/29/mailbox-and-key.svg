@@ -1,0 +1,16 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<text x="600" y="315" fill="#FFFFFF" font-family="Manrope" font-size="38" font-weight="700" letter-spacing="3" text-anchor="middle">YOUR BITCOIN WALLET</text>
+<line x1="555" y1="372" x2="555" y2="438" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<line x1="555" y1="438" x2="538" y2="416" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<line x1="555" y1="438" x2="572" y2="416" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<line x1="645" y1="372" x2="645" y2="438" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<line x1="645" y1="438" x2="628" y2="416" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<line x1="645" y1="438" x2="662" y2="416" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<rect x="540" y="450" width="120" height="16" fill="#FFFFFF"/>
+<rect x="430" y="478" width="340" height="272" rx="20" stroke="#FFFFFF" stroke-width="6" fill="none"/>
+<circle cx="600" cy="600" r="26" fill="#2DD4FF"/>
+<polygon points="585,616 615,616 625,674 575,674" fill="#2DD4FF"/>
+<text x="600" y="808" fill="#FFFFFF" font-family="Manrope" font-size="30" font-weight="700" letter-spacing="1" text-anchor="middle">ANYONE CAN SEND IN</text>
+<text x="600" y="862" fill="#2DD4FF" font-family="Manrope" font-size="34" font-weight="800" letter-spacing="1" text-anchor="middle">ONLY YOUR KEY OPENS</text>
+</svg>

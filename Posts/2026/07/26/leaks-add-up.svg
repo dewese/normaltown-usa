@@ -1,0 +1,17 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<text x="600" y="285" fill="#FFFFFF" font-family="Manrope" font-size="38" font-weight="700" letter-spacing="4" text-anchor="middle">5 SMALL LEAKS</text>
+<circle cx="400" cy="365" r="26" fill="#0F0F0F" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="500" cy="365" r="26" fill="#0F0F0F" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="600" cy="365" r="26" fill="#0F0F0F" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="700" cy="365" r="26" fill="#0F0F0F" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="800" cy="365" r="26" fill="#0F0F0F" stroke="#FFFFFF" stroke-width="3"/>
+<line x1="400" y1="393" x2="600" y2="600" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="500" y1="393" x2="600" y2="600" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="600" y1="393" x2="600" y2="600" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="700" y1="393" x2="600" y2="600" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="800" y1="393" x2="600" y2="600" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="600" y1="560" x2="600" y2="612" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="600" cy="762" r="108" fill="#2DD4FF"/>
+<text x="600" y="775" fill="#0F0F0F" font-family="Manrope" font-size="40" font-weight="800" text-anchor="middle">A FLOOD</text>
+</svg>

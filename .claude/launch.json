@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "normaltown-site",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/Users/daviddewese/Documents/Normaltown-USA/serve.py"],
+      "port": 8787
+    }
+  ]
+}

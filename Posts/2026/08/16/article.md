@@ -1,0 +1,43 @@
+# Why Hard-to-Make Money Holds Its Value
+
+If something is easy to make more of, it struggles to hold its value. If it's hard to make more of, it tends to hold value well. That one rule explains why gold has been money for thousands of years, and why the dollar in your pocket slowly buys less. Here's the plain version.
+
+## Two neighbors, two IOUs
+
+Imagine two neighbors both hand you an IOU.
+
+The first neighbor can print his IOUs at home, as many as he wants, whenever he feels like it. How much do you trust that IOU to be worth something next year? Not much. He can always make more, so each one means less.
+
+The second neighbor can only make an IOU by doing something genuinely hard, something slow and costly that can't be faked or rushed. When he hands you one, you know he can't just crank out a thousand more this afternoon. That IOU holds its value, because making it is hard on purpose.
+
+Money is the same. What holds value isn't magic. It's difficulty.
+
+## Why gold stuck around
+
+Gold is the classic example. Nobody decided in a meeting that gold should be valuable. It earned the job because it's genuinely hard to get. You have to find it, dig it up, and refine it, and even with modern machines the world's supply only grows a tiny bit each year.
+
+That difficulty is the whole point. It means no king, no bank, and no government can suddenly flood the world with ten times more gold to cover their bills. The supply can't be watered down on a whim. So it holds value across lifetimes.
+
+## Why easy-to-make money leaks
+
+Now compare that to money that can be created quickly and in large amounts. When more can always be made, more usually is. And every time the pile grows, each piece you're holding is worth a little less. That's the slow leak I wrote about [here](https://www.normaltownusa.com/p/the-dollars-slow-leak).
+
+It's not evil. It's just what happens to anything easy to produce. Easy to make equals easy to water down.
+
+## Where bitcoin enters the chat
+
+This is the exact reason some people got interested in bitcoin. It's built to be hard to make more of, with a fixed limit written into its rules that nobody can change. Whether or not it ends up mattering to you, it's trying to copy the one thing that made gold hold value: hard to make, impossible to fake more of.
+
+I keep the saving-versus-gambling line honest about all this [here](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling).
+
+## The honest catch
+
+Hard to make is one ingredient in holding value, not the only one. People also have to want the thing, trust it, and be able to use it. Difficulty alone doesn't make something valuable. But nothing holds value for long without it.
+
+## The takeaway
+
+Value sticks to things that are hard to make more of, and leaks out of things that aren't. Gold held its worth for centuries because digging it up is hard on purpose. Easy-to-make money slowly loses air for the opposite reason. Once you see money through that one lens, a lot of it stops being confusing.
+
+---
+
+*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*

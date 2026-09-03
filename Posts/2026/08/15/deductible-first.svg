@@ -1,0 +1,10 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<text x="600" y="420" fill="#FFFFFF" font-family="Manrope" font-size="38" font-weight="700" letter-spacing="4" text-anchor="middle">ONE MEDICAL BILL</text>
+<rect x="200" y="520" width="252" height="150" fill="#2DD4FF"/>
+<rect x="452" y="520" width="548" height="150" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+<text x="326" y="612" fill="#0F0F0F" font-family="Manrope" font-size="40" font-weight="800" letter-spacing="1" text-anchor="middle">YOU PAY</text>
+<text x="726" y="612" fill="#FFFFFF" font-family="Manrope" font-size="40" font-weight="800" letter-spacing="1" text-anchor="middle">INSURANCE PAYS</text>
+<text x="326" y="748" fill="#2DD4FF" font-family="Manrope" font-size="32" font-weight="700" letter-spacing="2" text-anchor="middle">DEDUCTIBLE</text>
+<text x="726" y="748" fill="#FFFFFF" font-family="Manrope" font-size="32" font-weight="700" letter-spacing="2" text-anchor="middle">AFTER YOU HIT IT</text>
+</svg>

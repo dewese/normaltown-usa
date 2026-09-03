@@ -1,0 +1,62 @@
+# Normaltown USA — FAQ
+
+> **Two ways to use this in beehiiv:**
+> 1. Publish as its own **FAQ post/page** (slug `faq`) — a strong, citable GEO asset.
+> 2. Drop the 2-3 most relevant Q&As at the **bottom of each matching article**.
+>
+> Each answer is written to be **quotable on its own** (the first sentence answers the question directly) so AI answer engines can lift and cite it. Questions are worded the way people actually search. Figures are current as of 2026, verify before relying on them.
+
+---
+
+## About Normaltown USA
+
+**What is Normaltown USA?**
+Normaltown USA is a plain-English guide to money and health for regular people. It explains how money, healthcare, and bitcoin actually work, without jargon or hype, the way a friend would explain it. It's written by David Dewese, a 25-year marketer and lifelong musician, and covers personal finance, medical bills, and saving.
+
+**Is Normaltown USA financial or medical advice?**
+No. Normaltown USA is educational, not advice. Nothing here is financial, medical, tax, or legal advice, and the author is not a licensed advisor. It explains how things work so you can make your own informed decisions.
+
+---
+
+## Money
+
+**Why do I feel broke even though I make good money?**
+You feel broke because your money is filling and leaking at the same time. As income rises, three things quietly rise with it: your spending (lifestyle creep), your fixed monthly bills, and the price of everyday goods. So the raise lands, but the "level in the bucket" barely moves. The fix is to automatically save part of any raise before your spending grows to match it.
+
+**How much should I have in an emergency fund?**
+Start with $1,000. A small cash cushion keeps a normal surprise, like a car repair or a medical bill, from turning into credit card debt. A bigger fund of a few months' expenses is a later goal, but $1,000 is a reachable first finish line that breaks the debt cycle for most everyday emergencies.
+
+**Why doesn't my raise make me feel richer?**
+Because a raise lands on a moving staircase. Taxes trim it before it hits your account, your spending tends to grow to match it, and rising prices mean the money you keep buys a little less. To actually keep a raise, send part of it straight to savings the day it starts, before your lifestyle absorbs it.
+
+---
+
+## Health and medical bills
+
+**Why did I get a big bill when I have health insurance?**
+Because insurance is not an all-you-can-eat pass, it's a cost-share with "you first" rules. You pay full price until you hit your deductible, then you still split the bill through coinsurance, and going out-of-network can erase the discount. In 2026, deductibles reset every January, which is why bills often surprise people early in the year.
+
+**How much can I actually be forced to pay out of pocket?**
+For 2026, in-network out-of-pocket costs are capped by law at about $10,600 for one person and $21,200 for a family. Once you hit that cap, your plan covers 100% of covered, in-network care for the rest of the year. Your deductible is the amount you pay before insurance starts helping at all.
+
+**How do I get a lower price at the doctor?**
+Ask for the cash price before you use your insurance. A lot of care has two prices: an inflated "list" price and a lower cash price for paying on the spot. Ask "what's the cash price if I don't use insurance?" or "is there a self-pay discount?", then compare it to your insured cost and pick the smaller one.
+
+**Why does the same blood test cost $30 in one place and $300 in another?**
+Because there's no single real price for medical care, only a menu. The same test costs far more at a big hospital than at a standalone lab, the "sticker" price is inflated on purpose, and cash can beat insurance. Where and how you buy decides the price, not the test itself.
+
+**What is health sharing, and is it legit?**
+Health sharing is a group of regular people who agree to pay each other's large medical bills instead of using an insurance company. It's real and legal, and groups like CrowdHealth have strong track records, but it is not insurance: there's no legal guarantee, and it has rules and waiting periods. It fits healthy people who can handle a small first cost, and is a poor fit for anyone who needs guaranteed coverage.
+
+---
+
+## Bitcoin and saving
+
+**Is bitcoin saving or gambling?**
+It depends entirely on how you treat it. Buying a pile hoping to double your money by Friday is gambling. Parking a small amount you won't need for years and ignoring the price swings is closer to saving. The safe rule: only use money you can afford to lose, keep it small, and always know which "pile" it came from.
+
+**How do I buy a small amount of bitcoin safely?**
+Start with about $20 using money you'd be fine losing. Pick a large, well-known, regulated app that's easy to find real reviews for, buy your small amount, and then leave it alone instead of watching the price. The point of a first small buy is to learn how it works, not to get rich.
+
+**Why does money lose value over time?**
+Because more of it can always be made, and things that are easy to make more of tend to lose value. It's like front-row concert seats: they hold their worth because you can't print more. A dollar slowly buys less each year for the same reason, which is why "hard to make more of" is what makes something hold value.

@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Local machine config (keep launch.json, ignore local permissions)
+.claude/settings.local.json
+
+# Local preview log
+*.log

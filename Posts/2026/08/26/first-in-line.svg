@@ -1,0 +1,16 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<text x="600" y="320" fill="#FFFFFF" font-family="Manrope" font-size="36" font-weight="700" letter-spacing="3" text-anchor="middle">WHO GETS NEW MONEY FIRST</text>
+<circle cx="250" cy="560" r="100" fill="#2DD4FF"/>
+<text x="250" y="588" fill="#0F0F0F" font-family="Manrope" font-size="64" font-weight="800" text-anchor="middle">$</text>
+<circle cx="470" cy="560" r="78" stroke="#FFFFFF" stroke-width="5" fill="none"/>
+<circle cx="650" cy="560" r="58" stroke="#FFFFFF" stroke-width="4" fill="none"/>
+<circle cx="800" cy="560" r="42" stroke="#FFFFFF" stroke-width="4" fill="none"/>
+<circle cx="920" cy="560" r="30" stroke="#FFFFFF" stroke-width="4" fill="none"/>
+<line x1="250" y1="720" x2="950" y2="720" stroke="#FFFFFF" stroke-width="3"/>
+<line x1="950" y1="720" x2="922" y2="708" stroke="#FFFFFF" stroke-width="3"/>
+<line x1="950" y1="720" x2="922" y2="732" stroke="#FFFFFF" stroke-width="3"/>
+<text x="250" y="775" fill="#2DD4FF" font-family="Manrope" font-size="30" font-weight="800" letter-spacing="1" text-anchor="middle">FIRST</text>
+<text x="920" y="775" fill="#FFFFFF" font-family="Manrope" font-size="30" font-weight="700" letter-spacing="1" text-anchor="middle">YOU</text>
+<text x="600" y="895" fill="#FFFFFF" font-family="Manrope" font-size="32" font-weight="700" letter-spacing="1" text-anchor="middle">PRICES RISE BEFORE IT REACHES YOU</text>
+</svg>

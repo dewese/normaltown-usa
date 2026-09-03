@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1500" fill="#0F0F0F"/>
+  <text x="80" y="92" font-size="34" font-weight="800" fill="#FFFFFF">VISUAL VOCABULARY</text>
+  <text x="80" y="126" font-size="18" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">Soft-black · white line · one cyan accent · Manrope</text>
+
+  <!-- 1. CIRCLE -->
+  <circle cx="225" cy="360" r="55" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <circle cx="415" cy="360" r="55" fill="#2DD4FF"/>
+  <text x="320" y="510" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">CIRCLE</text>
+  <text x="320" y="536" text-anchor="middle" font-size="15" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">ordinary vs. the point</text>
+
+  <!-- 2. ARROWS -->
+  <line x1="815" y1="420" x2="815" y2="300" stroke="#FFFFFF" stroke-width="3"/>
+  <line x1="815" y1="300" x2="803" y2="320" stroke="#FFFFFF" stroke-width="3"/>
+  <line x1="815" y1="300" x2="827" y2="320" stroke="#FFFFFF" stroke-width="3"/>
+  <polyline points="858,400 893,360 928,388 963,348" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <line x1="963" y1="348" x2="950" y2="350" stroke="#FFFFFF" stroke-width="3"/>
+  <line x1="963" y1="348" x2="961" y2="362" stroke="#FFFFFF" stroke-width="3"/>
+  <text x="880" y="510" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">ARROWS</text>
+  <text x="880" y="536" text-anchor="middle" font-size="15" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">direct · wasted · growth</text>
+
+  <!-- 3. TRIANGLE -->
+  <polygon points="195,820 315,820 255,700" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <polygon points="370,820 410,820 390,780" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <polygon points="410,820 450,820 430,780" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <polygon points="450,820 490,820 470,780" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <polygon points="390,780 430,780 410,740" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <polygon points="430,780 470,780 450,740" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <polygon points="410,740 450,740 430,700" fill="#2DD4FF"/>
+  <text x="320" y="910" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">TRIANGLE</text>
+  <text x="320" y="936" text-anchor="middle" font-size="15" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">whole vs. made of parts</text>
+
+  <!-- 4. BAR SPLIT -->
+  <clipPath id="vocbar"><rect x="720" y="735" width="320" height="50" rx="8"/></clipPath>
+  <g clip-path="url(#vocbar)"><rect x="960" y="735" width="80" height="50" fill="#2DD4FF"/></g>
+  <rect x="720" y="735" width="320" height="50" rx="8" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <line x1="960" y1="735" x2="960" y2="785" stroke="#FFFFFF" stroke-width="3"/>
+  <text x="880" y="910" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">BAR SPLIT</text>
+  <text x="880" y="936" text-anchor="middle" font-size="15" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">proportions / share</text>
+
+  <!-- 5. COMPARISON -->
+  <rect x="200" y="1105" width="110" height="110" rx="12" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <line x1="322" y1="1160" x2="360" y2="1160" stroke="#FFFFFF" stroke-width="3"/>
+  <line x1="360" y1="1160" x2="350" y2="1152" stroke="#FFFFFF" stroke-width="3"/>
+  <line x1="360" y1="1160" x2="350" y2="1168" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="370" y="1105" width="110" height="110" rx="12" fill="#2DD4FF"/>
+  <text x="320" y="1310" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">COMPARISON</text>
+  <text x="320" y="1336" text-anchor="middle" font-size="15" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">common vs. the point</text>
+
+  <!-- 6. GROWTH -->
+  <line x1="770" y1="1160" x2="940" y2="1160" stroke="#2DD4FF" stroke-width="3"/>
+  <line x1="940" y1="1160" x2="926" y2="1151" stroke="#2DD4FF" stroke-width="3"/>
+  <line x1="940" y1="1160" x2="926" y2="1169" stroke="#2DD4FF" stroke-width="3"/>
+  <line x1="952" y1="1160" x2="1010" y2="1160" stroke="#2DD4FF" stroke-width="3" stroke-dasharray="3 8"/>
+  <text x="880" y="1310" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">GROWTH</text>
+  <text x="880" y="1336" text-anchor="middle" font-size="15" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">cyan = this grows</text>
+</svg>

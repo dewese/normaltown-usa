@@ -1,0 +1,33 @@
+# Normaltown USA robots.txt
+# Paste into beehiiv: Settings -> SEO -> robots.txt (custom).
+# Goal: WELCOME AI answer engines so they can read and CITE Normaltown USA (GEO),
+# while keeping normal search crawlers and blocking only the login page.
+
+# --- AI answer / citation crawlers (the GEO ones you WANT reading you) ---
+User-agent: OAI-SearchBot        # ChatGPT search results + citations
+Allow: /
+
+User-agent: GPTBot               # OpenAI (also trains models)
+Allow: /
+
+User-agent: PerplexityBot        # Perplexity answers + citations
+Allow: /
+
+User-agent: Google-Extended      # feeds Google AI Overviews / Gemini
+Allow: /
+
+User-agent: ClaudeBot            # Anthropic / Claude
+Allow: /
+
+User-agent: Amazonbot            # Amazon / Alexa (beehiiv default BLOCKS this)
+Allow: /
+
+User-agent: CCBot                # Common Crawl (feeds many AI datasets)
+Allow: /
+
+# --- Everyone else (normal search engines included) ---
+User-agent: *
+Allow: /
+Disallow: /login
+
+Sitemap: https://www.normaltownusa.com/sitemap.xml

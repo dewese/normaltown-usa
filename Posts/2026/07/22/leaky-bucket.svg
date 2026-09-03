@@ -1,0 +1,20 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<text x="600" y="195" fill="#FFFFFF" font-family="Manrope" font-size="38" font-weight="700" letter-spacing="4" text-anchor="middle">INCOME</text>
+<line x1="600" y1="225" x2="600" y2="388" stroke="#FFFFFF" stroke-width="4"/>
+<line x1="600" y1="388" x2="578" y2="352" stroke="#FFFFFF" stroke-width="4"/>
+<line x1="600" y1="388" x2="622" y2="352" stroke="#FFFFFF" stroke-width="4"/>
+<path d="M 430 400 L 485 830 L 715 830 L 770 400" stroke="#FFFFFF" stroke-width="4" fill="none"/>
+<line x1="430" y1="400" x2="770" y2="400" stroke="#FFFFFF" stroke-width="4" stroke-dasharray="2 14"/>
+<line x1="452.4" y1="575" x2="747.6" y2="575" stroke="#2DD4FF" stroke-width="8"/>
+<line x1="545" y1="830" x2="531" y2="910" stroke="#FFFFFF" stroke-width="4"/>
+<line x1="531" y1="910" x2="515" y2="888" stroke="#FFFFFF" stroke-width="4"/>
+<line x1="531" y1="910" x2="539" y2="882" stroke="#FFFFFF" stroke-width="4"/>
+<line x1="600" y1="830" x2="586" y2="910" stroke="#FFFFFF" stroke-width="4"/>
+<line x1="586" y1="910" x2="570" y2="888" stroke="#FFFFFF" stroke-width="4"/>
+<line x1="586" y1="910" x2="594" y2="882" stroke="#FFFFFF" stroke-width="4"/>
+<line x1="655" y1="830" x2="641" y2="910" stroke="#FFFFFF" stroke-width="4"/>
+<line x1="641" y1="910" x2="625" y2="888" stroke="#FFFFFF" stroke-width="4"/>
+<line x1="641" y1="910" x2="649" y2="882" stroke="#FFFFFF" stroke-width="4"/>
+<text x="600" y="985" fill="#FFFFFF" font-family="Manrope" font-size="38" font-weight="700" letter-spacing="4" text-anchor="middle">LEAKS</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="520" fill="#0F0F0F"/>
+  <text x="80" y="92" font-size="34" font-weight="800" fill="#FFFFFF">PALETTE</text>
+  <text x="80" y="126" font-size="18" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">Exactly three. No gray, no orange.</text>
+
+  <!-- Accent -->
+  <rect x="120" y="190" width="220" height="220" rx="16" fill="#2DD4FF"/>
+  <text x="230" y="452" text-anchor="middle" font-size="22" font-weight="700" fill="#FFFFFF">ACCENT</text>
+  <text x="230" y="480" text-anchor="middle" font-size="18" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">#2DD4FF · the point</text>
+
+  <!-- Line / text -->
+  <rect x="490" y="190" width="220" height="220" rx="16" fill="#FFFFFF"/>
+  <text x="600" y="452" text-anchor="middle" font-size="22" font-weight="700" fill="#FFFFFF">LINE / TEXT</text>
+  <text x="600" y="480" text-anchor="middle" font-size="18" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">#FFFFFF</text>
+
+  <!-- Canvas -->
+  <rect x="860" y="190" width="220" height="220" rx="16" fill="#0F0F0F" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="970" y="452" text-anchor="middle" font-size="22" font-weight="700" fill="#FFFFFF">CANVAS</text>
+  <text x="970" y="480" text-anchor="middle" font-size="18" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">#0F0F0F · never #000</text>
+</svg>

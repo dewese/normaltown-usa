@@ -1,0 +1,9 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<rect x="210" y="520" width="780" height="150" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<rect x="210" y="520" width="234" height="150" fill="#2DD4FF"/>
+<line x1="444" y1="506" x2="444" y2="684" stroke="#FFFFFF" stroke-width="3"/>
+<text x="327.0" y="728" fill="#2DD4FF" font-family="Manrope" font-size="32" font-weight="700" letter-spacing="3" text-anchor="middle">YOU PAY FIRST</text>
+<text x="717.0" y="728" fill="#FFFFFF" font-family="Manrope" font-size="32" font-weight="700" letter-spacing="3" text-anchor="middle">THEN INSURANCE HELPS</text>
+<text x="327.0" y="490" fill="#FFFFFF" font-family="Manrope" font-size="26" font-weight="600" letter-spacing="3" text-anchor="middle">THE DEDUCTIBLE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<text x="600" y="320" fill="#FFFFFF" font-family="Manrope" font-size="36" font-weight="700" letter-spacing="3" text-anchor="middle">TWO WAYS TO COVER A BILL</text>
+<circle cx="330" cy="570" r="100" stroke="#FFFFFF" stroke-width="6" fill="none"/>
+<text x="600" y="595" fill="#FFFFFF" font-family="Manrope" font-size="58" font-weight="800" text-anchor="middle">vs</text>
+<circle cx="880" cy="570" r="34" stroke="#FFFFFF" stroke-width="4" fill="none"/>
+<circle cx="975" cy="570" r="18" fill="#2DD4FF"/>
+<circle cx="947" cy="502" r="18" fill="#2DD4FF"/>
+<circle cx="880" cy="475" r="18" fill="#2DD4FF"/>
+<circle cx="813" cy="502" r="18" fill="#2DD4FF"/>
+<circle cx="785" cy="570" r="18" fill="#2DD4FF"/>
+<circle cx="813" cy="638" r="18" fill="#2DD4FF"/>
+<circle cx="880" cy="665" r="18" fill="#2DD4FF"/>
+<circle cx="947" cy="638" r="18" fill="#2DD4FF"/>
+<text x="330" y="730" fill="#FFFFFF" font-family="Manrope" font-size="32" font-weight="700" letter-spacing="1" text-anchor="middle">INSURANCE</text>
+<text x="330" y="774" fill="#FFFFFF" fill-opacity="0.6" font-family="Manrope" font-size="24" font-weight="600" letter-spacing="1" text-anchor="middle">ONE CATERER</text>
+<text x="880" y="760" fill="#2DD4FF" font-family="Manrope" font-size="32" font-weight="700" letter-spacing="1" text-anchor="middle">HEALTH SHARING</text>
+<text x="880" y="804" fill="#FFFFFF" fill-opacity="0.6" font-family="Manrope" font-size="24" font-weight="600" letter-spacing="1" text-anchor="middle">A POTLUCK</text>
+</svg>

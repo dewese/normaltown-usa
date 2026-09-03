@@ -1,0 +1,11 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<text x="600" y="235" fill="#FFFFFF" font-family="Manrope" font-size="40" font-weight="700" letter-spacing="4" text-anchor="middle">SURPRISE BILL</text>
+<line x1="600" y1="285" x2="600" y2="470" stroke="#FFFFFF" stroke-width="5"/>
+<line x1="600" y1="470" x2="573" y2="435" stroke="#FFFFFF" stroke-width="5"/>
+<line x1="600" y1="470" x2="627" y2="435" stroke="#FFFFFF" stroke-width="5"/>
+<rect x="300" y="510" width="600" height="140" rx="24" fill="#2DD4FF"/>
+<text x="600" y="600" fill="#0F0F0F" font-family="Manrope" font-size="70" font-weight="800" text-anchor="middle">$1,000</text>
+<line x1="260" y1="780" x2="940" y2="780" stroke="#FFFFFF" stroke-width="5"/>
+<text x="600" y="840" fill="#FFFFFF" font-family="Manrope" font-size="38" font-weight="700" letter-spacing="4" text-anchor="middle">YOUR BUDGET</text>
+</svg>

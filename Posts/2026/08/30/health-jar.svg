@@ -1,0 +1,15 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<text x="600" y="320" fill="#FFFFFF" font-family="Manrope" font-size="38" font-weight="700" letter-spacing="3" text-anchor="middle">A HEALTH SAVINGS JAR</text>
+<text x="600" y="408" fill="#FFFFFF" font-family="Manrope" font-size="46" font-weight="800" text-anchor="middle">$</text>
+<line x1="600" y1="418" x2="600" y2="452" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+<line x1="600" y1="452" x2="586" y2="436" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+<line x1="600" y1="452" x2="614" y2="436" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+<rect x="450" y="466" width="300" height="40" rx="8" stroke="#FFFFFF" stroke-width="6" fill="none"/>
+<rect x="470" y="516" width="260" height="256" rx="18" stroke="#FFFFFF" stroke-width="6" fill="none"/>
+<rect x="482" y="588" width="236" height="172" rx="8" fill="#2DD4FF"/>
+<rect x="588" y="628" width="24" height="92" fill="#0F0F0F"/>
+<rect x="554" y="662" width="92" height="24" fill="#0F0F0F"/>
+<text x="600" y="838" fill="#FFFFFF" font-family="Manrope" font-size="30" font-weight="700" letter-spacing="1" text-anchor="middle">MONEY IN, NO TAX</text>
+<text x="600" y="892" fill="#2DD4FF" font-family="Manrope" font-size="32" font-weight="800" letter-spacing="1" text-anchor="middle">OUT FOR HEALTH, NO TAX</text>
+</svg>

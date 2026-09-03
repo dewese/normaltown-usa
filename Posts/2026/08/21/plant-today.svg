@@ -1,0 +1,18 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<text x="600" y="330" fill="#FFFFFF" font-family="Manrope" font-size="38" font-weight="700" letter-spacing="4" text-anchor="middle">BEST DAY TO PLANT?</text>
+<line x1="200" y1="700" x2="1000" y2="700" stroke="#FFFFFF" stroke-width="4"/>
+<g opacity="0.5">
+<line x1="340" y1="700" x2="340" y2="580" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<line x1="340" y1="618" x2="303" y2="590" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<line x1="340" y1="618" x2="377" y2="590" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<line x1="340" y1="690" x2="340" y2="710" stroke="#FFFFFF" stroke-width="4"/>
+</g>
+<line x1="860" y1="700" x2="860" y2="500" stroke="#2DD4FF" stroke-width="8" stroke-linecap="round"/>
+<line x1="860" y1="560" x2="815" y2="524" stroke="#2DD4FF" stroke-width="8" stroke-linecap="round"/>
+<line x1="860" y1="560" x2="905" y2="524" stroke="#2DD4FF" stroke-width="8" stroke-linecap="round"/>
+<line x1="860" y1="610" x2="828" y2="586" stroke="#2DD4FF" stroke-width="8" stroke-linecap="round"/>
+<line x1="860" y1="610" x2="892" y2="586" stroke="#2DD4FF" stroke-width="8" stroke-linecap="round"/>
+<text x="340" y="775" fill="#FFFFFF" fill-opacity="0.6" font-family="Manrope" font-size="30" font-weight="700" letter-spacing="2" text-anchor="middle">YEARS AGO</text>
+<text x="860" y="800" fill="#2DD4FF" font-family="Manrope" font-size="40" font-weight="800" letter-spacing="2" text-anchor="middle">TODAY</text>
+</svg>

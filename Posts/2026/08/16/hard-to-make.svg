@@ -1,0 +1,30 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<text x="600" y="330" fill="#FFFFFF" font-family="Manrope" font-size="38" font-weight="700" letter-spacing="4" text-anchor="middle">WHAT HOLDS VALUE?</text>
+<circle cx="240" cy="470" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="300" cy="470" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="360" cy="470" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="420" cy="470" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="240" cy="540" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="300" cy="540" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="360" cy="540" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="420" cy="540" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="240" cy="610" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="300" cy="610" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="360" cy="610" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="420" cy="610" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="240" cy="680" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="300" cy="680" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="360" cy="680" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="420" cy="680" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="240" cy="750" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="300" cy="750" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="360" cy="750" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<circle cx="420" cy="750" r="20" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<text x="600" y="625" fill="#FFFFFF" font-family="Manrope" font-size="90" font-weight="800" text-anchor="middle">&#8800;</text>
+<circle cx="880" cy="610" r="115" fill="#2DD4FF"/>
+<text x="330" y="880" fill="#FFFFFF" font-family="Manrope" font-size="34" font-weight="700" letter-spacing="2" text-anchor="middle">EASY TO MAKE</text>
+<text x="880" y="880" fill="#2DD4FF" font-family="Manrope" font-size="34" font-weight="700" letter-spacing="2" text-anchor="middle">HARD TO MAKE</text>
+<text x="330" y="928" fill="#FFFFFF" fill-opacity="0.6" font-family="Manrope" font-size="28" font-weight="600" letter-spacing="1" text-anchor="middle">LOSES VALUE</text>
+<text x="880" y="928" fill="#2DD4FF" font-family="Manrope" font-size="28" font-weight="600" letter-spacing="1" text-anchor="middle">HOLDS VALUE</text>
+</svg>

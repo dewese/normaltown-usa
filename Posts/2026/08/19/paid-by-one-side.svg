@@ -1,0 +1,16 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<text x="600" y="330" fill="#FFFFFF" font-family="Manrope" font-size="38" font-weight="700" letter-spacing="4" text-anchor="middle">WHO PAYS THE REF?</text>
+<circle cx="250" cy="620" r="85" stroke="#FFFFFF" stroke-width="6" fill="none"/>
+<text x="250" y="765" fill="#FFFFFF" font-family="Manrope" font-size="32" font-weight="700" letter-spacing="1" text-anchor="middle">YOU</text>
+<circle cx="600" cy="620" r="72" stroke="#FFFFFF" stroke-width="6" fill="none"/>
+<circle cx="600" cy="620" r="20" stroke="#FFFFFF" stroke-width="6" fill="none"/>
+<text x="600" y="500" fill="#FFFFFF" font-family="Manrope" font-size="30" font-weight="700" letter-spacing="2" text-anchor="middle">REFEREE</text>
+<circle cx="950" cy="620" r="85" stroke="#FFFFFF" stroke-width="6" fill="none"/>
+<text x="950" y="765" fill="#FFFFFF" font-family="Manrope" font-size="30" font-weight="700" letter-spacing="1" text-anchor="middle">THE COMPANY</text>
+<line x1="858" y1="620" x2="690" y2="620" stroke="#2DD4FF" stroke-width="9"/>
+<line x1="690" y1="620" x2="722" y2="600" stroke="#2DD4FF" stroke-width="9"/>
+<line x1="690" y1="620" x2="722" y2="640" stroke="#2DD4FF" stroke-width="9"/>
+<text x="785" y="588" fill="#2DD4FF" font-family="Manrope" font-size="44" font-weight="800" text-anchor="middle">$</text>
+<text x="600" y="905" fill="#2DD4FF" font-family="Manrope" font-size="34" font-weight="800" letter-spacing="2" text-anchor="middle">THE REF WORKS FOR THEM</text>
+</svg>

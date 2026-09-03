@@ -1,0 +1,9 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<circle cx="410" cy="470" r="70" fill="#0F0F0F" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="790" cy="470" r="70" fill="#0F0F0F" stroke="#FFFFFF" stroke-width="3"/>
+<line x1="575" y1="455" x2="625" y2="455" stroke="#FFFFFF" stroke-width="3"/>
+<line x1="575" y1="485" x2="625" y2="485" stroke="#FFFFFF" stroke-width="3"/>
+<text x="410" y="695" fill="#2DD4FF" font-family="Manrope" font-size="72" font-weight="800" text-anchor="middle">$30</text>
+<text x="790" y="695" fill="#FFFFFF" font-family="Manrope" font-size="72" font-weight="800" text-anchor="middle">$300</text>
+</svg>

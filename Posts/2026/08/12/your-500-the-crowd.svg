@@ -1,0 +1,8 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<rect x="200" y="520" width="800" height="140" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+<rect x="200" y="520" width="140" height="140" fill="#2DD4FF"/>
+<line x1="340" y1="506" x2="340" y2="674" stroke="#FFFFFF" stroke-width="3"/>
+<text x="270.0" y="718" fill="#2DD4FF" font-family="Manrope" font-size="30" font-weight="800" letter-spacing="2" text-anchor="middle">YOUR $500</text>
+<text x="670.0" y="718" fill="#FFFFFF" font-family="Manrope" font-size="32" font-weight="700" letter-spacing="3" text-anchor="middle">THE CROWD COVERS THE REST</text>
+</svg>

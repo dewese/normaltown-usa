@@ -1,0 +1,14 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="1200" fill="#0F0F0F"/>
+<rect x="322" y="710" width="76" height="90" fill="#2DD4FF"/>
+<rect x="418" y="630" width="76" height="170" fill="#2DD4FF"/>
+<rect x="514" y="550" width="76" height="250" fill="#2DD4FF"/>
+<rect x="610" y="470" width="76" height="330" fill="#2DD4FF"/>
+<rect x="706" y="390" width="76" height="410" fill="#2DD4FF"/>
+<rect x="802" y="310" width="76" height="490" fill="#2DD4FF"/>
+<line x1="360" y1="700" x2="840" y2="300" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<line x1="840" y1="300" x2="806" y2="312" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<line x1="840" y1="300" x2="828" y2="334" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<text x="600" y="878" fill="#2DD4FF" font-family="Manrope" font-size="40" font-weight="800" letter-spacing="2" text-anchor="middle">A LITTLE EACH WEEK</text>
+<text x="600" y="932" fill="#FFFFFF" font-family="Manrope" font-size="34" font-weight="700" letter-spacing="4" text-anchor="middle">ADDS UP</text>
+</svg>
