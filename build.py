@@ -33,7 +33,13 @@ MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
 
 # Date-gated publishing: a post whose folder date is in the future is written
 # but NOT published until that day. Rebuild (or the daily cron) to release it.
-TODAY = date.today()
+# Use Eastern time so posts release on the brand's clock, not the CI server's UTC.
+try:
+    from zoneinfo import ZoneInfo
+    from datetime import datetime
+    TODAY = datetime.now(ZoneInfo("America/New_York")).date()
+except Exception:
+    TODAY = date.today()
 
 # ----------------------------------------------------------------------------
 # Minimal, controlled Markdown -> HTML (only the subset our articles use).

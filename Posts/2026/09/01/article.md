@@ -32,6 +32,6 @@ This works best if you are relatively healthy, you have $500 set aside for a hea
 
 Health sharing costs a flat $60 a month per person, plus a modest monthly contribution to the crowd, plus $500 when you have a real health event. No premium black box, no five-figure deductible waiting to ambush you. For a lot of normal families, that is a smaller and calmer number than what they pay now.
 
-If you want to see what your own number would be, you can check it on CrowdHealth's site with my code **NORMAL**: [see your cost at CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get a discount on their first few months.
+If you want to see what your own number would be, you can check it on CrowdHealth's site with my code **NORMAL**: [see your cost at CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 
-*Full disclosure: I use CrowdHealth and believe in the model, and Normaltown USA earns a referral bonus if you join through my link (code NORMAL). It costs you nothing extra. I only send you to things I would tell a friend to look at. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

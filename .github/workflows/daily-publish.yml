@@ -1,0 +1,45 @@
+name: Daily publish
+
+# Rebuilds the site every morning so date-gated posts go live on their day.
+# build.py only includes posts dated today or earlier (Eastern time), so writing
+# ahead is safe: each post appears automatically when its date arrives.
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # 13:00 UTC = ~9am Eastern (shifts 1h with US daylight time)
+  workflow_dispatch: {}      # lets you trigger a publish by hand from the Actions tab
+
+permissions:
+  contents: write            # allow the action to commit the rebuilt dist/ and push
+
+concurrency:
+  group: daily-publish
+  cancel-in-progress: false
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Rebuild the site
+        run: python3 build.py
+
+      - name: Commit and push if the site changed
+        run: |
+          git config user.name "Normaltown Publisher"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- dist; then
+            echo "No changes to publish today."
+          else
+            git add dist
+            git commit -m "Daily publish: release scheduled posts ($(date -u +%Y-%m-%d))"
+            git push
+            echo "Published today's changes."
+          fi

@@ -42,10 +42,12 @@ live on its date the next time the site is built.
 
 ## Releasing a future-dated post on its day
 Because a static site only changes when rebuilt, a scheduled post needs a rebuild on
-its date. Two options:
-- **Manual:** run steps 2 + 4 that morning.
-- **Machine (recommended, TODO):** a daily GitHub Action cron that runs `build.py`,
-  commits `dist/` if it changed, and pushes — auto-releasing that day's post.
+its date. This is now automated:
+- **Machine (live):** `.github/workflows/daily-publish.yml` runs every day at ~9am
+  Eastern (13:00 UTC), rebuilds, and commits/pushes `dist/` if it changed, so that
+  day's post auto-releases. You can also trigger it by hand: repo → Actions →
+  "Daily publish" → Run workflow. `build.py` uses Eastern time for the date gate.
+- **Manual fallback:** run steps 2 + 4 yourself any morning.
 
 ## Voice + rules still apply
 Stations 1–5 (topic → outline → draft → fact-check → repurpose) are unchanged. Keep

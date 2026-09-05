@@ -32,6 +32,6 @@ Switching is not right for everyone. If you have an ongoing, expensive condition
 
 The first 90 days of health sharing are: set aside your $500, read the rules, sign up (overlap your old coverage briefly), meet your care advocate and learn the app, then settle into a quiet monthly rhythm. It is a smaller change than the fear makes it feel.
 
-If you are ready to see your number and the current new-member discount, use my code **NORMAL**: [start at CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL).
+If you are ready to see your number and the $99-a-month new-member deal (your first 3 months), use my code **NORMAL**: [start at CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
-*Full disclosure: I use CrowdHealth and believe in the model, and Normaltown USA earns a referral bonus if you join through my link (code NORMAL), at no extra cost to you. I only recommend what I would tell a friend to check. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

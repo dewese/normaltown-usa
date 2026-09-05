@@ -30,6 +30,6 @@ With a high-deductible insurance plan, that same big event could cost you the fu
 
 A big hospital bill on health sharing goes like this: you pay the first $500, negotiators cut the bill down hard, and the community funds the rest, usually within about a week. The crowd has done this for bills north of $600,000. It is not insurance and it is not guaranteed, but the mechanism is real, it is fast, and it has a public track record.
 
-Want to see the guidelines and what your cost would be? Use my code **NORMAL**: [look at CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get a discount on their first few months.
+Want to see the guidelines and what your cost would be? Use my code **NORMAL**: [look at CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 
-*Full disclosure: I use CrowdHealth and believe in the model, and Normaltown USA earns a referral bonus if you join through my link (code NORMAL), at no cost to you. I only recommend things I would tell a friend to check. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

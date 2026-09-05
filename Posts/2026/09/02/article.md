@@ -28,6 +28,6 @@ Do not take my word or theirs. Read the member reviews on Trustpilot, both the g
 
 Can you trust health sharing with a big bill? The community has a real, public track record of funding very large bills, fast, and the company profits by helping you, not denying you. But it is not insurance, it does not guarantee funding, and it has clear limits you need to read first. Go in with eyes open, and for a lot of people it is more trustworthy than the plan they have now, not less.
 
-If you want to look at the guidelines and see your own cost, use my code **NORMAL**: [check out CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get a discount on their first few months.
+If you want to look at the guidelines and see your own cost, use my code **NORMAL**: [check out CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 
-*Full disclosure: I use CrowdHealth and believe in the model, and Normaltown USA earns a referral bonus if you join through my link (code NORMAL), at no extra cost to you. I only point you to things I would tell a friend to check. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

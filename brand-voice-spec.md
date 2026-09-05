@@ -78,6 +78,13 @@ of us who did the homework.
   always (it's, you're, they're).
 - **Show the math/the why,** don't just assert. Respect the reader's brain even
   while keeping the words simple.
+- **Write in the first person, and lean casual (updated 2026-09-05).** Use "I,"
+  "we," and "my family" whenever it fits. David is a real guy with a **family of
+  four** who actually uses these things, so say so. "My family uses CrowdHealth,"
+  "here's what we do," "I stopped worrying about." First-hand and personal beats
+  neutral and reported. Err on the side of *more* casual than you think, like
+  texting a friend, not writing an essay. (Confirmed reader preference after the
+  Sept 1-5 posts.)
 
 ### Voice rules (the don'ts)
 
@@ -130,9 +137,13 @@ Before publishing, read it out loud. It passes if:
 Topics naturally fall into one of three buckets. The pipeline tags each article
 so we know how it earns its keep:
 
-- **Trust-builders** — pure value, no pitch. Build the audience and the email list.
+- **Trust-builders** — pure value, no pitch. Build the audience and the SEO base.
+  (Note 2026-09: the site is self-hosted with no email list; see `pipeline/08-publish-web.md`.)
 - **Health-cost angle** — where the broken-insurance story leads naturally to
-  CrowdHealth (the crowd-sourced alternative). Affiliate revenue path.
+  CrowdHealth (the crowd-sourced alternative). **Primary affiliate revenue path.**
+  Referral code **NORMAL**: new member pays $99/mo for 3 months, David earns $250
+  per signup after they stay active 3 months. Standard disclaimer + honest limits
+  live in `pipeline/06-cta-affiliate.md`.
 - **Money/bitcoin angle** — leads to finance tools, bitcoin on-ramps, etc.
   (affiliates TBD).
 

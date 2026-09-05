@@ -42,9 +42,25 @@ be worth reading. If it isn't, the pitch was the point — start over.
 - **Excluded:** dental, vision, cosmetic, mental-health counseling, alternative
   therapies, brand-name Rx when a generic exists, IVF, injuries from hazardous activity.
 - **State notes:** extra insurance-mandate steps in VT, CA, MA, NJ, RI, DC.
-- **Referral:** code **NORMAL** → `https://www.joincrowdhealth.com/?referral_code=NORMAL`.
-  New members get a discounted first stretch; David earns a kickback if they stay.
-  (Confirm the exact current new-member offer on their site before quoting specifics.)
+- **Referral (verified 2026-09-03, joincrowdhealth.com/resources/referral-program):**
+  code **NORMAL** → `https://www.joincrowdhealth.com/?referral_code=NORMAL`.
+  - **New member gets:** first **3 months at $99/mo** (a 3-month discount).
+  - **David earns:** **$250 per signup**, paid after the new member stays active and
+    in good standing for 3 months (ACH, end of the following month).
+
+## Standard disclaimer — paste at the END of every CrowdHealth post (updated 2026-09-05)
+Casual, first-person, family-of-four, discount + link baked in, honest limits. Italicize it:
+
+> *My family of four uses CrowdHealth and I really believe in the model. If you join
+> through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL)
+> (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA
+> earns a referral bonus if you stick around. It costs you nothing extra, and I only
+> refer you to things I would tell a friend about. Health sharing is not insurance,
+> and nothing here is medical, tax, or financial advice.*
+
+Also link the referral naturally at least once in the body (the CTA), not only in the
+disclaimer. Keep the honest limits (not insurance, no guarantee, exclusions, pre-existing
+rules) somewhere in the body of every referral post.
 
 ## Verifiable social proof (attributable to CrowdHealth; use instead of invented quotes)
 - 37,000+ members signed up; 45,000+ bills funded by the community.
