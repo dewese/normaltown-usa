@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <text x="600" y="170" text-anchor="middle" font-size="44" font-weight="800" fill="#FFFFFF">Same bet, better shape.</text>
+
+  <!-- divider -->
+  <line x1="600" y1="250" x2="600" y2="1010" stroke="#FFFFFF" stroke-width="2" stroke-opacity="0.2"/>
+
+  <!-- LEFT: high-deductible plan -->
+  <text x="340" y="330" text-anchor="middle" font-size="32" font-weight="800" fill="#FFFFFF" fill-opacity="0.55">HIGH-DEDUCTIBLE PLAN</text>
+  <text x="340" y="470" text-anchor="middle" font-size="30" font-weight="600" fill="#FFFFFF" fill-opacity="0.5">high monthly bill</text>
+  <text x="340" y="560" text-anchor="middle" font-size="30" font-weight="600" fill="#FFFFFF" fill-opacity="0.5">five-figure wall</text>
+  <text x="340" y="650" text-anchor="middle" font-size="30" font-weight="600" fill="#FFFFFF" fill-opacity="0.5">then it helps</text>
+  <text x="340" y="800" text-anchor="middle" font-size="30" font-weight="700" fill="#2DD4FF" fill-opacity="0.8">+ legal guarantee</text>
+
+  <!-- RIGHT: health sharing -->
+  <text x="860" y="330" text-anchor="middle" font-size="32" font-weight="800" fill="#2DD4FF">HEALTH SHARING</text>
+  <text x="860" y="470" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">flat $60/mo</text>
+  <text x="860" y="560" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">$500 per event</text>
+  <text x="860" y="650" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">crowd funds the rest</text>
+  <text x="860" y="800" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF" fill-opacity="0.55">no legal guarantee</text>
+</svg>

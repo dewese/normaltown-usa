@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <text x="600" y="230" text-anchor="middle" font-size="44" font-weight="800" fill="#FFFFFF">The whole delivery, one event.</text>
+
+  <!-- a single wide bar split: small cyan (your part) + large white (crowd) -->
+  <rect x="200" y="470" width="200" height="180" fill="#2DD4FF"/>
+  <rect x="400" y="470" width="600" height="180" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-opacity="0.7"/>
+
+  <text x="300" y="420" text-anchor="middle" font-size="40" font-weight="800" fill="#2DD4FF">$3,000</text>
+  <text x="300" y="720" text-anchor="middle" font-size="28" font-weight="700" fill="#FFFFFF">your part</text>
+
+  <text x="700" y="420" text-anchor="middle" font-size="40" font-weight="800" fill="#FFFFFF" fill-opacity="0.8">the rest</text>
+  <text x="700" y="720" text-anchor="middle" font-size="28" font-weight="700" fill="#FFFFFF" fill-opacity="0.7">the crowd shares</text>
+
+  <text x="600" y="900" text-anchor="middle" font-size="34" font-weight="700" fill="#FFFFFF" fill-opacity="0.6">Just join before you're expecting.</text>
+</svg>

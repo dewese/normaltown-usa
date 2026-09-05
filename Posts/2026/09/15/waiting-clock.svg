@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <!-- clock circle -->
+  <circle cx="600" cy="540" r="260" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-opacity="0.5"/>
+  <!-- faint arc (not yet) -->
+  <path d="M600 280 A260 260 0 0 0 340 540" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-opacity="0.3" stroke-linecap="round"/>
+  <!-- bright cyan arc (becomes eligible) -->
+  <path d="M600 280 A260 260 0 0 1 860 540" fill="none" stroke="#2DD4FF" stroke-width="18" stroke-linecap="round"/>
+
+  <!-- hand -->
+  <line x1="600" y1="540" x2="770" y2="440" stroke="#2DD4FF" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="600" cy="540" r="16" fill="#2DD4FF"/>
+
+  <text x="360" y="900" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF" fill-opacity="0.5">not yet eligible</text>
+  <text x="840" y="900" text-anchor="middle" font-size="30" font-weight="800" fill="#2DD4FF">may be shared</text>
+
+  <text x="600" y="1030" text-anchor="middle" font-size="40" font-weight="800" fill="#FFFFFF">Time healthy earns eligibility.</text>
+</svg>

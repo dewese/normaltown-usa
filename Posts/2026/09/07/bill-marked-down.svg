@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <!-- bill -->
+  <rect x="360" y="230" width="480" height="620" rx="16" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-opacity="0.7"/>
+  <text x="600" y="330" text-anchor="middle" font-size="34" font-weight="700" fill="#FFFFFF" fill-opacity="0.6" letter-spacing="3">HOSPITAL BILL</text>
+  <line x1="420" y1="380" x2="780" y2="380" stroke="#FFFFFF" stroke-width="4" stroke-opacity="0.25"/>
+  <line x1="420" y1="440" x2="700" y2="440" stroke="#FFFFFF" stroke-width="4" stroke-opacity="0.25"/>
+  <line x1="420" y1="500" x2="740" y2="500" stroke="#FFFFFF" stroke-width="4" stroke-opacity="0.25"/>
+
+  <!-- sticker price crossed out -->
+  <text x="600" y="640" text-anchor="middle" font-size="72" font-weight="800" fill="#FFFFFF" fill-opacity="0.4">$12,400</text>
+  <line x1="410" y1="618" x2="790" y2="618" stroke="#FFFFFF" stroke-width="8" stroke-opacity="0.7"/>
+
+  <!-- cash price -->
+  <text x="600" y="760" text-anchor="middle" font-size="86" font-weight="800" fill="#2DD4FF">$3,900</text>
+
+  <text x="600" y="960" text-anchor="middle" font-size="46" font-weight="800" fill="#FFFFFF">Ask for the cash price.</text>
+</svg>

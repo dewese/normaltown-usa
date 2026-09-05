@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <text x="600" y="230" text-anchor="middle" font-size="46" font-weight="800" fill="#FFFFFF">Care first. Bill later.</text>
+
+  <!-- three step circles -->
+  <circle cx="300" cy="560" r="90" fill="#2DD4FF"/>
+  <text x="300" y="590" text-anchor="middle" font-size="64" font-weight="800" fill="#0F0F0F">1</text>
+  <text x="300" y="720" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">get care</text>
+
+  <circle cx="600" cy="560" r="90" fill="none" stroke="#FFFFFF" stroke-width="7"/>
+  <text x="600" y="590" text-anchor="middle" font-size="64" font-weight="800" fill="#FFFFFF">2</text>
+  <text x="600" y="720" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF" fill-opacity="0.8">advocate cuts the bill</text>
+
+  <circle cx="900" cy="560" r="90" fill="none" stroke="#FFFFFF" stroke-width="7"/>
+  <text x="900" y="590" text-anchor="middle" font-size="64" font-weight="800" fill="#FFFFFF">3</text>
+  <text x="900" y="720" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF" fill-opacity="0.8">crowd shares the rest</text>
+
+  <!-- arrows -->
+  <g stroke="#2DD4FF" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="405" y1="560" x2="495" y2="560"/><polyline points="470,540 500,560 470,580"/>
+    <line x1="705" y1="560" x2="795" y2="560"/><polyline points="770,540 800,560 770,580"/>
+  </g>
+
+  <text x="600" y="900" text-anchor="middle" font-size="34" font-weight="800" fill="#2DD4FF">Never do math in the parking lot.</text>
+</svg>

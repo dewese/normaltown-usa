@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <!-- 1099 form -->
+  <rect x="220" y="360" width="330" height="420" rx="14" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-opacity="0.7"/>
+  <text x="385" y="500" text-anchor="middle" font-size="90" font-weight="800" fill="#FFFFFF" fill-opacity="0.8">1099</text>
+  <line x1="270" y1="560" x2="500" y2="560" stroke="#FFFFFF" stroke-width="4" stroke-opacity="0.25"/>
+  <line x1="270" y1="620" x2="500" y2="620" stroke="#FFFFFF" stroke-width="4" stroke-opacity="0.25"/>
+  <line x1="270" y1="680" x2="440" y2="680" stroke="#FFFFFF" stroke-width="4" stroke-opacity="0.25"/>
+
+  <!-- flat line = flat fee -->
+  <line x1="620" y1="570" x2="980" y2="570" stroke="#2DD4FF" stroke-width="14" stroke-linecap="round"/>
+  <text x="800" y="530" text-anchor="middle" font-size="40" font-weight="800" fill="#2DD4FF">flat $60/mo</text>
+  <text x="800" y="640" text-anchor="middle" font-size="30" font-weight="600" fill="#FFFFFF" fill-opacity="0.7">not tied to any job</text>
+
+  <text x="600" y="900" text-anchor="middle" font-size="44" font-weight="800" fill="#FFFFFF">Coverage that's yours.</text>
+</svg>

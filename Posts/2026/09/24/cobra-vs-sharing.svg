@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <text x="600" y="180" text-anchor="middle" font-size="44" font-weight="800" fill="#FFFFFF">Same coverage, very different bill.</text>
+
+  <!-- baseline -->
+  <line x1="200" y1="880" x2="1000" y2="880" stroke="#FFFFFF" stroke-width="3" stroke-opacity="0.25"/>
+
+  <!-- COBRA tall bar -->
+  <rect x="290" y="320" width="220" height="560" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-opacity="0.6"/>
+  <text x="400" y="280" text-anchor="middle" font-size="46" font-weight="800" fill="#FFFFFF" fill-opacity="0.7">$1,600/mo</text>
+  <text x="400" y="940" text-anchor="middle" font-size="32" font-weight="700" fill="#FFFFFF" fill-opacity="0.7">COBRA</text>
+
+  <!-- health sharing short bar -->
+  <rect x="690" y="790" width="220" height="90" fill="#2DD4FF"/>
+  <text x="800" y="750" text-anchor="middle" font-size="46" font-weight="800" fill="#2DD4FF">~$300/mo</text>
+  <text x="800" y="940" text-anchor="middle" font-size="32" font-weight="800" fill="#FFFFFF">health sharing</text>
+
+  <text x="600" y="1060" text-anchor="middle" font-size="34" font-weight="700" fill="#FFFFFF" fill-opacity="0.6">If you're healthy, bridge cheaper.</text>
+</svg>

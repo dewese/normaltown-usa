@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <text x="600" y="180" text-anchor="middle" font-size="42" font-weight="800" fill="#FFFFFF">Same MRI. Two prices.</text>
+
+  <!-- insured price tag (tall/faint) -->
+  <g stroke="#FFFFFF" stroke-width="6" stroke-opacity="0.5" fill="none">
+    <path d="M300 320 h200 v300 h-200 z"/>
+  </g>
+  <circle cx="470" cy="355" r="12" fill="#FFFFFF" fill-opacity="0.5"/>
+  <text x="400" y="500" text-anchor="middle" font-size="46" font-weight="800" fill="#FFFFFF" fill-opacity="0.5">$2,400</text>
+  <text x="400" y="700" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF" fill-opacity="0.5">insured price</text>
+
+  <!-- cash price tag (cyan, bold) -->
+  <g stroke="#2DD4FF" stroke-width="8" fill="none">
+    <path d="M700 320 h200 v300 h-200 z"/>
+  </g>
+  <circle cx="870" cy="355" r="12" fill="#2DD4FF"/>
+  <text x="800" y="500" text-anchor="middle" font-size="54" font-weight="800" fill="#2DD4FF">$600</text>
+  <text x="800" y="700" text-anchor="middle" font-size="30" font-weight="800" fill="#FFFFFF">cash price</text>
+
+  <text x="600" y="900" text-anchor="middle" font-size="40" font-weight="800" fill="#FFFFFF">Just ask for it.</text>
+</svg>

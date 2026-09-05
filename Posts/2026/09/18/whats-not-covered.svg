@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <text x="600" y="230" text-anchor="middle" font-size="46" font-weight="800" fill="#FFFFFF" letter-spacing="1">NOT SHARED</text>
+  <line x1="380" y1="270" x2="820" y2="270" stroke="#2DD4FF" stroke-width="4"/>
+
+  <!-- rows with X marks -->
+  <g font-size="40" font-weight="700" fill="#FFFFFF" fill-opacity="0.75">
+    <text x="480" y="410">routine dental &amp; vision</text>
+    <text x="480" y="530">cosmetic work</text>
+    <text x="480" y="650">costly ongoing meds</text>
+    <text x="480" y="770">pre-existing (at first)</text>
+  </g>
+  <g stroke="#FFFFFF" stroke-width="9" stroke-opacity="0.5" stroke-linecap="round">
+    <line x1="400" y1="380" x2="450" y2="410"/><line x1="450" y1="380" x2="400" y2="410"/>
+    <line x1="400" y1="500" x2="450" y2="530"/><line x1="450" y1="500" x2="400" y2="530"/>
+    <line x1="400" y1="620" x2="450" y2="650"/><line x1="450" y1="620" x2="400" y2="650"/>
+    <line x1="400" y1="740" x2="450" y2="770"/><line x1="450" y1="740" x2="400" y2="770"/>
+  </g>
+
+  <text x="600" y="940" text-anchor="middle" font-size="34" font-weight="800" fill="#2DD4FF">The gaps are why it's cheap.</text>
+</svg>

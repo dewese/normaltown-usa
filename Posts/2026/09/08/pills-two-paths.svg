@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <!-- capsule -->
+  <g transform="translate(600,340) rotate(45)">
+    <rect x="-150" y="-55" width="300" height="110" rx="55" fill="none" stroke="#2DD4FF" stroke-width="12"/>
+    <line x1="0" y1="-55" x2="0" y2="55" stroke="#2DD4FF" stroke-width="12"/>
+  </g>
+
+  <!-- two branching arrows -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- cheap generics (cyan) -->
+    <path d="M540 470 C 460 600, 380 640, 320 700" stroke="#2DD4FF" stroke-width="10"/>
+    <polyline points="345,660 320,705 365,712" stroke="#2DD4FF" stroke-width="10"/>
+    <!-- costly ongoing (faint) -->
+    <path d="M660 470 C 740 600, 820 640, 880 700" stroke="#FFFFFF" stroke-width="10" stroke-opacity="0.4"/>
+    <polyline points="855,660 880,705 835,712" stroke="#FFFFFF" stroke-width="10" stroke-opacity="0.4"/>
+  </g>
+
+  <text x="320" y="800" text-anchor="middle" font-size="34" font-weight="800" fill="#2DD4FF">cheap generics</text>
+  <text x="320" y="846" text-anchor="middle" font-size="26" font-weight="500" fill="#FFFFFF" fill-opacity="0.7">pay the cash price</text>
+
+  <text x="880" y="800" text-anchor="middle" font-size="34" font-weight="800" fill="#FFFFFF" fill-opacity="0.55">costly ongoing meds</text>
+  <text x="880" y="846" text-anchor="middle" font-size="26" font-weight="500" fill="#FFFFFF" fill-opacity="0.4">the real limit</text>
+
+  <text x="600" y="1000" text-anchor="middle" font-size="42" font-weight="800" fill="#FFFFFF">Know which camp you're in.</text>
+</svg>

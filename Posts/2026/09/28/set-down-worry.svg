@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <!-- ground -->
+  <line x1="200" y1="820" x2="1000" y2="820" stroke="#FFFFFF" stroke-width="3" stroke-opacity="0.25"/>
+
+  <!-- person, standing lighter (cyan) -->
+  <circle cx="470" cy="420" r="60" fill="none" stroke="#2DD4FF" stroke-width="12"/>
+  <line x1="470" y1="480" x2="470" y2="700" stroke="#2DD4FF" stroke-width="12" stroke-linecap="round"/>
+  <line x1="470" y1="700" x2="420" y2="815" stroke="#2DD4FF" stroke-width="12" stroke-linecap="round"/>
+  <line x1="470" y1="700" x2="520" y2="815" stroke="#2DD4FF" stroke-width="12" stroke-linecap="round"/>
+  <line x1="470" y1="540" x2="410" y2="620" stroke="#2DD4FF" stroke-width="12" stroke-linecap="round"/>
+  <line x1="470" y1="540" x2="560" y2="600" stroke="#2DD4FF" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- heavy weight set down on the ground -->
+  <rect x="640" y="690" width="200" height="130" rx="14" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-opacity="0.6"/>
+  <text x="740" y="772" text-anchor="middle" font-size="40" font-weight="800" fill="#FFFFFF" fill-opacity="0.6">what if</text>
+
+  <text x="600" y="960" text-anchor="middle" font-size="46" font-weight="800" fill="#FFFFFF">Do your part. Set it down.</text>
+</svg>

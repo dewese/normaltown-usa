@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <!-- person icon (the advocate) -->
+  <circle cx="360" cy="470" r="70" fill="none" stroke="#2DD4FF" stroke-width="14"/>
+  <path d="M250 700 a110 110 0 0 1 220 0" fill="none" stroke="#2DD4FF" stroke-width="14" stroke-linecap="round"/>
+  <text x="360" y="770" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">your advocate</text>
+
+  <!-- bill with shrinking total -->
+  <rect x="640" y="360" width="300" height="380" rx="12" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-opacity="0.7"/>
+  <line x1="690" y1="430" x2="890" y2="430" stroke="#FFFFFF" stroke-width="6" stroke-opacity="0.35"/>
+  <line x1="690" y1="480" x2="890" y2="480" stroke="#FFFFFF" stroke-width="6" stroke-opacity="0.35"/>
+  <text x="790" y="600" text-anchor="middle" font-size="52" font-weight="800" fill="#FFFFFF" fill-opacity="0.4" text-decoration="line-through">$9,000</text>
+  <text x="790" y="690" text-anchor="middle" font-size="60" font-weight="800" fill="#2DD4FF">$1,400</text>
+
+  <!-- arrow from advocate to bill -->
+  <g stroke="#2DD4FF" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="470" y1="540" x2="620" y2="540"/>
+    <polyline points="580,510 620,540 580,570"/>
+  </g>
+
+  <text x="600" y="900" text-anchor="middle" font-size="46" font-weight="800" fill="#FFFFFF">A real person, in your corner.</text>
+</svg>

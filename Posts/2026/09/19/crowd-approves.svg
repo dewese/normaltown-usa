@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <!-- central bill -->
+  <rect x="480" y="470" width="240" height="260" rx="14" fill="none" stroke="#FFFFFF" stroke-width="7"/>
+  <text x="600" y="590" text-anchor="middle" font-size="34" font-weight="800" fill="#FFFFFF">ONE</text>
+  <text x="600" y="640" text-anchor="middle" font-size="34" font-weight="800" fill="#FFFFFF">BILL</text>
+
+  <!-- ring of small cyan checks (many members) -->
+  <g stroke="#2DD4FF" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="230,250 255,278 300,225"/>
+    <polyline points="580,180 605,208 650,155"/>
+    <polyline points="930,250 955,278 1000,225"/>
+    <polyline points="180,570 205,598 250,545"/>
+    <polyline points="960,570 985,598 1030,545"/>
+    <polyline points="240,900 265,928 310,875"/>
+    <polyline points="580,980 605,1008 650,955"/>
+    <polyline points="930,900 955,928 1000,875"/>
+    <polyline points="410,300 435,328 480,275" stroke-opacity="0.6"/>
+    <polyline points="760,300 785,328 830,275" stroke-opacity="0.6"/>
+    <polyline points="410,850 435,878 480,825" stroke-opacity="0.6"/>
+    <polyline points="760,850 785,878 830,825" stroke-opacity="0.6"/>
+  </g>
+
+  <text x="600" y="1120" text-anchor="middle" font-size="40" font-weight="800" fill="#FFFFFF">Many members, one bill.</text>
+</svg>
