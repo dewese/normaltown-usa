@@ -8,10 +8,14 @@
 honest answer to the reader's problem. If you cut the pitch, the article must still
 be worth reading. If it isn't, the pitch was the point — start over.
 
-## Email CTA (every article)
-- One clear invite to the Normaltown USA list, near the end, in plain voice.
-- Promise what they'll actually get: "one short email, written like a friend."
-- The email list is the real asset. Every article's first job is to grow it.
+## Site CTA (every article) — updated 2026-09 for the self-hosted site
+- The site is now a self-hosted static blog (no beehiiv, no email list). The
+  builder appends a standard "New here? → Start Here" footer card to every post,
+  so the article body does NOT need an email/newsletter invite.
+- Do NOT write "join the list / land in your inbox" CTAs anymore (there's no list).
+  If an email list is added later (Buttondown/MailerLite), revisit this.
+- Instead, earn the next click with strong internal links to related posts and,
+  where it honestly fits, the CrowdHealth referral (below).
 
 ## Affiliate mention (only when it genuinely fits)
 - **One** honest mention, where the content naturally leads to it (e.g., the
@@ -24,12 +28,34 @@ be worth reading. If it isn't, the pitch was the point — start over.
   ongoing condition. (See member guide; keep current.)
 - Never bolt a pitch onto an unrelated article. No fake urgency. No "act now."
 
-## CrowdHealth quick-facts (keep current — last checked 2026-06)
-- Flat **$60/mo** advocacy fee per member (plus variable crowdfunding contributions
-  toward others' bills; family plans from ~$180/mo).
+## CrowdHealth quick-facts (verified from joincrowdhealth.com — last checked 2026-09-03)
+- Flat **$60/mo** advocacy fee per member (plus variable monthly crowdfunding
+  contributions toward others' bills; members get 2 days to approve/deny each request).
 - Makes money from the flat fee, **not** a percentage of claims → aligned incentive.
-- **$500 member commitment** per health event (instead of a deductible).
-- **Not insurance.** No guarantee of funding. Exclusions/waiting periods apply.
+- **$500 member commitment** per health event (instead of a deductible). Maternity
+  is a **$3,000** commitment. One preventive/wellness visit a year is crowdfunded up
+  to $300 with the commitment waived.
+- **Self-pay discounts 25%–85%** off billed charges (they negotiate cash prices).
+- **Not insurance.** No guarantee bills are funded; members are ultimately responsible.
+- **Pre-existing** (documented/diagnosed/symptomatic within 5 yrs): not eligible years
+  1–2, then capped at **$25,000/yr** from year 3.
+- **Excluded:** dental, vision, cosmetic, mental-health counseling, alternative
+  therapies, brand-name Rx when a generic exists, IVF, injuries from hazardous activity.
+- **State notes:** extra insurance-mandate steps in VT, CA, MA, NJ, RI, DC.
+- **Referral:** code **NORMAL** → `https://www.joincrowdhealth.com/?referral_code=NORMAL`.
+  New members get a discounted first stretch; David earns a kickback if they stay.
+  (Confirm the exact current new-member offer on their site before quoting specifics.)
+
+## Verifiable social proof (attributable to CrowdHealth; use instead of invented quotes)
+- 37,000+ members signed up; 45,000+ bills funded by the community.
+- ~7 days average from complete bill submission to fully funded; reimbursed ~2 days
+  after approval.
+- ~$86.7M estimated saved vs. traditional insurance (their figure).
+- Largest bills funded: $643K (firearm injury, CA), $437K (NICU, ND), $333K (appendicitis, GA).
+- 4.9-star Trustpilot rating, 1,000+ reviews.
+- **Testimonials rule:** never invent a member quote or name. Use the stats above,
+  or paraphrase real review *themes* with attribution ("members on Trustpilot
+  describe…"). For named/photo testimonials, get them from CrowdHealth with permission.
 
 ## Standard disclaimers (every money/health article)
 > Nothing here is financial, medical, tax, or legal advice. I'm a guy who did the

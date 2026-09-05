@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <!-- connecting line -->
+  <line x1="260" y1="600" x2="940" y2="600" stroke="#FFFFFF" stroke-width="3" stroke-opacity="0.5"/>
+
+  <!-- step 1 -->
+  <circle cx="260" cy="600" r="70" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <text x="260" y="613" text-anchor="middle" font-size="46" font-weight="800" fill="#FFFFFF">1</text>
+  <text x="260" y="740" text-anchor="middle" font-size="30" font-weight="800" fill="#FFFFFF">SIGN UP</text>
+  <text x="260" y="778" text-anchor="middle" font-size="23" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">days 1–7</text>
+
+  <!-- step 2 -->
+  <circle cx="600" cy="600" r="70" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <text x="600" y="613" text-anchor="middle" font-size="46" font-weight="800" fill="#FFFFFF">2</text>
+  <text x="600" y="740" text-anchor="middle" font-size="30" font-weight="800" fill="#FFFFFF">GET SET UP</text>
+  <text x="600" y="778" text-anchor="middle" font-size="23" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">days 8–30</text>
+
+  <!-- step 3, the point, cyan filled -->
+  <circle cx="940" cy="600" r="70" fill="#2DD4FF"/>
+  <text x="940" y="614" text-anchor="middle" font-size="46" font-weight="800" fill="#0F0F0F">3</text>
+  <text x="940" y="740" text-anchor="middle" font-size="30" font-weight="800" fill="#FFFFFF">SETTLE IN</text>
+  <text x="940" y="778" text-anchor="middle" font-size="23" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">days 31–90</text>
+
+  <text x="600" y="360" text-anchor="middle" font-size="30" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">a calmer setup in three quiet steps</text>
+</svg>

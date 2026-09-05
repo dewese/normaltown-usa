@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <!-- falling big bill -->
+  <circle cx="600" cy="330" r="120" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <text x="600" y="320" text-anchor="middle" font-size="34" font-weight="800" fill="#FFFFFF">BIG</text>
+  <text x="600" y="362" text-anchor="middle" font-size="34" font-weight="800" fill="#FFFFFF">BILL</text>
+  <!-- motion -->
+  <line x1="600" y1="470" x2="600" y2="560" stroke="#FFFFFF" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="6 12"/>
+
+  <!-- the crowd: a wide net of connected cyan dots -->
+  <g fill="#2DD4FF">
+    <circle cx="360" cy="720" r="16"/><circle cx="440" cy="700" r="16"/><circle cx="520" cy="690" r="16"/>
+    <circle cx="600" cy="686" r="16"/><circle cx="680" cy="690" r="16"/><circle cx="760" cy="700" r="16"/>
+    <circle cx="840" cy="720" r="16"/>
+    <circle cx="400" cy="770" r="16"/><circle cx="480" cy="756" r="16"/><circle cx="560" cy="750" r="16"/>
+    <circle cx="640" cy="750" r="16"/><circle cx="720" cy="756" r="16"/><circle cx="800" cy="770" r="16"/>
+  </g>
+  <path d="M360 720 Q600 640 840 720" fill="none" stroke="#2DD4FF" stroke-width="3" stroke-opacity="0.7"/>
+  <path d="M400 770 Q600 700 800 770" fill="none" stroke="#2DD4FF" stroke-width="3" stroke-opacity="0.7"/>
+
+  <text x="600" y="900" text-anchor="middle" font-size="40" font-weight="800" fill="#FFFFFF">THE CROWD CATCHES IT</text>
+  <text x="600" y="952" text-anchor="middle" font-size="27" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">many give a little, together it covers a lot</text>
+</svg>

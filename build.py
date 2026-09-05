@@ -31,6 +31,10 @@ AUTHOR = "David Dewese"
 MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
           "August", "September", "October", "November", "December"]
 
+# Date-gated publishing: a post whose folder date is in the future is written
+# but NOT published until that day. Rebuild (or the daily cron) to release it.
+TODAY = date.today()
+
 # ----------------------------------------------------------------------------
 # Minimal, controlled Markdown -> HTML (only the subset our articles use).
 # ----------------------------------------------------------------------------
@@ -149,6 +153,8 @@ def load_posts():
         folder = article.parent
         parts = folder.parts
         y, m, d = int(parts[-3]), int(parts[-2]), int(parts[-1])
+        if date(y, m, d) > TODAY:
+            continue  # future-dated: written ahead, not published yet
         raw = article.read_text(encoding="utf-8")
 
         # title = first "# " line; body = everything after it
@@ -160,7 +166,9 @@ def load_posts():
                 body_md = "\n".join(raw.split("\n")[idx + 1:])
                 break
 
-        pub_file = folder / "publish-beehiiv.md"
+        pub_file = folder / "publish.md"          # new web-native name
+        if not pub_file.exists():
+            pub_file = folder / "publish-beehiiv.md"  # legacy fallback
         pub = pub_file.read_text(encoding="utf-8") if pub_file.exists() else ""
 
         slug = _row_value(pub, "slug") or slugify(title)

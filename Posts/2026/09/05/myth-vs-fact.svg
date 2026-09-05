@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+
+  <!-- divider -->
+  <line x1="600" y1="300" x2="600" y2="900" stroke="#FFFFFF" stroke-width="2" stroke-opacity="0.25"/>
+
+  <!-- LEFT: myth, faint white X -->
+  <g stroke="#FFFFFF" stroke-width="10" stroke-opacity="0.45" stroke-linecap="round">
+    <line x1="300" y1="500" x2="420" y2="620"/>
+    <line x1="420" y1="500" x2="300" y2="620"/>
+  </g>
+  <text x="360" y="760" text-anchor="middle" font-size="40" font-weight="800" fill="#FFFFFF" fill-opacity="0.55">MYTH</text>
+  <text x="360" y="806" text-anchor="middle" font-size="24" font-weight="500" fill="#FFFFFF" fill-opacity="0.4">leftover confusion</text>
+
+  <!-- RIGHT: fact, bold cyan check -->
+  <g stroke="#2DD4FF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <polyline points="770,570 830,630 940,500"/>
+  </g>
+  <text x="855" y="760" text-anchor="middle" font-size="40" font-weight="800" fill="#FFFFFF">FACT</text>
+  <text x="855" y="806" text-anchor="middle" font-size="24" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">what holds up</text>
+</svg>

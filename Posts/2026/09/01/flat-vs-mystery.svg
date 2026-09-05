@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+  <!-- baseline -->
+  <line x1="220" y1="880" x2="980" y2="880" stroke="#FFFFFF" stroke-width="2" stroke-opacity="0.5"/>
+
+  <!-- LEFT: flat fee, cyan, short and clean -->
+  <rect x="330" y="700" width="180" height="180" rx="10" fill="#2DD4FF"/>
+  <text x="420" y="945" text-anchor="middle" font-size="34" font-weight="800" fill="#FFFFFF">FLAT FEE</text>
+  <text x="420" y="988" text-anchor="middle" font-size="26" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">predictable</text>
+
+  <!-- RIGHT: premium + deductible, white, tall, many uneven segments -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="3">
+    <rect x="690" y="300" width="180" height="70" rx="6"/>
+    <rect x="690" y="378" width="180" height="120" rx="6"/>
+    <rect x="690" y="506" width="180" height="55" rx="6"/>
+    <rect x="690" y="569" width="180" height="150" rx="6"/>
+    <rect x="690" y="727" width="180" height="45" rx="6"/>
+    <rect x="690" y="780" width="180" height="100" rx="6"/>
+  </g>
+  <text x="780" y="945" text-anchor="middle" font-size="34" font-weight="800" fill="#FFFFFF">PREMIUM</text>
+  <text x="780" y="988" text-anchor="middle" font-size="34" font-weight="800" fill="#FFFFFF">+ DEDUCTIBLE</text>
+  <text x="780" y="1031" text-anchor="middle" font-size="26" font-weight="500" fill="#FFFFFF" fill-opacity="0.6">a stack of surprises</text>
+</svg>
