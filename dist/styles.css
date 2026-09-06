@@ -29,6 +29,20 @@ img{max-width:100%; height:auto; display:block}
 nav.main{display:flex; gap:1.3rem; font-size:.95rem; font-weight:600; flex-wrap:wrap}
 nav.main a{color:var(--muted)}
 nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none}
+.menu-btn{display:none; background:none; border:1px solid var(--faint); border-radius:10px;
+  color:var(--ink); padding:.45rem .6rem; cursor:pointer; line-height:0}
+.menu-btn svg{width:22px; height:22px; display:block}
+.menu-btn .x{display:none}
+.site-head.open .menu-btn .bars{display:none}
+.site-head.open .menu-btn .x{display:block}
+@media (max-width:720px){
+  .site-head .wrap{flex-wrap:nowrap}
+  .menu-btn{display:block}
+  nav.main{display:none; flex-basis:100%; flex-direction:column; gap:0; padding:.4rem 0 .6rem}
+  nav.main a{padding:.7rem 0; border-top:1px solid var(--faint); font-size:1.05rem}
+  .site-head.open .wrap{flex-wrap:wrap}
+  .site-head.open nav.main{display:flex}
+}
 
 /* hero */
 .hero{padding:4.5rem 0 2.5rem; border-bottom:1px solid var(--faint)}

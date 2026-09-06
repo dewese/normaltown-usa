@@ -491,6 +491,20 @@ img{max-width:100%; height:auto; display:block}
 nav.main{display:flex; gap:1.3rem; font-size:.95rem; font-weight:600; flex-wrap:wrap}
 nav.main a{color:var(--muted)}
 nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none}
+.menu-btn{display:none; background:none; border:1px solid var(--faint); border-radius:10px;
+  color:var(--ink); padding:.45rem .6rem; cursor:pointer; line-height:0}
+.menu-btn svg{width:22px; height:22px; display:block}
+.menu-btn .x{display:none}
+.site-head.open .menu-btn .bars{display:none}
+.site-head.open .menu-btn .x{display:block}
+@media (max-width:720px){
+  .site-head .wrap{flex-wrap:nowrap}
+  .menu-btn{display:block}
+  nav.main{display:none; flex-basis:100%; flex-direction:column; gap:0; padding:.4rem 0 .6rem}
+  nav.main a{padding:.7rem 0; border-top:1px solid var(--faint); font-size:1.05rem}
+  .site-head.open .wrap{flex-wrap:wrap}
+  .site-head.open nav.main{display:flex}
+}
 
 /* hero */
 .hero{padding:4.5rem 0 2.5rem; border-bottom:1px solid var(--faint)}
@@ -643,6 +657,11 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 }
 """
 
+MENU_SCRIPT = """<script>
+(function(){var h=document.querySelector('.site-head'),b=h.querySelector('.menu-btn');if(!b)return;b.hidden=false;
+b.addEventListener('click',function(){var o=h.classList.toggle('open');b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Close menu':'Open menu');});})();
+</script>"""
+
 CSS_VERSION = hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
 
 NAV = [("/", "Home"), ("/money/", "Money"), ("/health/", "Health"), ("/bitcoin/", "Bitcoin"),
@@ -751,7 +770,11 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head"><div class="wrap">
   <a class="brand" href="/" aria-label="{SITE_NAME} home"><img src="/assets/normaltown-logo-reverse.svg" alt="{SITE_NAME}" width="1132" height="156"></a>
-  <nav class="main" aria-label="Main">
+  <button class="menu-btn" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="main-nav" hidden>
+    <svg class="bars" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    <svg class="x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+  </button>
+  <nav class="main" id="main-nav" aria-label="Main">
 {nav}
   </nav>
 </div></header>
@@ -763,6 +786,7 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
   <span><a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/rss.xml">RSS</a></span>
   <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. Some links (CrowdHealth, code NORMAL) pay a referral bonus at no extra cost to you. Health sharing is not insurance.</p>
 </div></footer>
+{MENU_SCRIPT}
 </body>
 </html>"""
 
