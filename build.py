@@ -310,6 +310,25 @@ nav.main a:hover{color:var(--ink); text-decoration:none}
 .page h1{font-size:clamp(1.9rem,4.5vw,2.6rem); letter-spacing:-.03em; font-weight:800;
   margin:0 0 1.4rem}
 
+/* about page: text + family photo */
+.about .wrap{display:grid; grid-template-columns:minmax(0,1fr) 21rem; gap:3.5rem;
+  align-items:start}
+.about .body{max-width:var(--measure)}
+.about-photo{margin:.4rem 0 0; isolation:isolate}
+.about-photo img{width:100%; border-radius:14px; background:var(--panel);
+  border:1px solid var(--faint);
+  /* thin cyan frame offset behind the photo: the one accent on the page */
+  box-shadow:16px 16px 0 -1px var(--canvas), 16px 16px 0 0 var(--accent)}
+.about-photo figcaption{margin:2rem 0 0; color:var(--muted); font-size:.9rem;
+  line-height:1.5; display:flex; gap:.6rem; align-items:baseline}
+.about-photo figcaption::before{content:""; flex:none; width:.5rem; height:.5rem;
+  border-radius:50%; background:var(--accent); transform:translateY(-.05rem)}
+@media (max-width:820px){
+  .about .wrap{grid-template-columns:1fr; gap:2.2rem}
+  .about-photo{order:-1; max-width:20rem}
+  .about-photo figcaption{margin-top:1.6rem}
+}
+
 /* footer */
 .site-foot{border-top:1px solid var(--faint); padding:2.5rem 0; color:var(--muted);
   font-size:.9rem}
@@ -415,13 +434,39 @@ def render_post(p):
     return layout(p["title"], p["meta"], body, canonical, og_image=og_image)
 
 
-def render_page(title, md_body, slug, description):
+def render_page(title, md_body, slug, description, figure="", page_class="", og_image=None):
     body_html = md_to_html(md_body, drop_email_cta=False)
-    body = f"""<section class="page"><div class="wrap">
-      <h1>{html.escape(title)}</h1>
-      <div class="body">{body_html}</div>
+    cls = f"page {page_class}".strip()
+    body = f"""<section class="{cls}"><div class="wrap">
+      <div>
+        <h1>{html.escape(title)}</h1>
+        <div class="body">{body_html}</div>
+      </div>
+      {figure}
     </div></section>"""
-    return layout(title, description, body, f"{SITE_URL}/{slug}/")
+    return layout(title, description, body, f"{SITE_URL}/{slug}/", og_image=og_image)
+
+
+# About page photo: black-and-white family portrait, 4:5, two sizes for srcset.
+ABOUT_PHOTO = SITE_DIR / "about-family.jpg"          # 1400x1750
+ABOUT_PHOTO_SM = SITE_DIR / "about-family-700.jpg"   # 700x875
+ABOUT_PHOTO_ALT = ("Black and white photo of David kneeling with his family, "
+                   "everyone laughing, in front of giant paper letters.")
+ABOUT_PHOTO_CAPTION = "The whole reason I do the homework."
+
+
+def about_figure():
+    """Return the <figure> for the About page, or '' if the photo isn't there."""
+    if not ABOUT_PHOTO.exists():
+        return ""
+    srcset = "family.jpg 1400w"
+    if ABOUT_PHOTO_SM.exists():
+        srcset = "family-700.jpg 700w, " + srcset
+    return f"""<figure class="about-photo">
+        <img src="family.jpg" srcset="{srcset}" sizes="(max-width:820px) 20rem, 21rem"
+             alt="{html.escape(ABOUT_PHOTO_ALT, quote=True)}" width="1400" height="1750" loading="eager">
+        <figcaption>{html.escape(ABOUT_PHOTO_CAPTION)}</figcaption>
+      </figure>"""
 
 
 def load_page_md(filename):
@@ -514,7 +559,16 @@ def main():
         title, body = load_page_md(fname)
         if title is None:
             continue
-        write(DIST / slug / "index.html", render_page(title, body, slug, desc))
+        figure, page_class, og_image = "", "", None
+        if slug == "about" and ABOUT_PHOTO.exists():
+            figure, page_class = about_figure(), "about"
+            og_image = f"{SITE_URL}/about/family.jpg"
+            (DIST / slug).mkdir(parents=True, exist_ok=True)
+            shutil.copy(ABOUT_PHOTO, DIST / slug / "family.jpg")
+            if ABOUT_PHOTO_SM.exists():
+                shutil.copy(ABOUT_PHOTO_SM, DIST / slug / "family-700.jpg")
+        write(DIST / slug / "index.html",
+              render_page(title, body, slug, desc, figure=figure, page_class=page_class, og_image=og_image))
         page_slugs.append(slug)
 
     # feeds + robots
