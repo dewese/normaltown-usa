@@ -1,5 +1,7 @@
 # Why Prices Climb but the News Says Inflation's Down
 
+> "Inflation is down" means prices are rising slower, not that they're falling. Inflation is the speed of the climb. The hill got less steep, but you're still going up, and the last few years of price hikes are baked in for good. Your gut is right and the news isn't lying. Budget for today's prices, not the ones you remember.
+
 You've probably had this moment. The news says inflation is "cooling" or "coming down," and you think, great. Then you go to the store and everything still costs a fortune. You're not confused, and the news isn't lying. It's just measuring something different from what you're feeling. Here's the gap, in plain terms.
 
 ## A hill that stops getting steeper is still a hill
@@ -28,6 +30,16 @@ Two things. First, stop waiting for prices to "go back to normal." Normal moved.
 
 "Inflation is down" means the hill got less steep, not that you're walking back down it. Prices rose fast, then rose slower, but they didn't reverse. Your gut isn't wrong, and the news isn't lying. They're just talking about the speed while you're feeling the altitude. Budget for where you're standing now.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Will prices ever go back to normal?
+
+Almost never, in normal times. For prices to actually fall you'd need the opposite of inflation, and that comes with its own problems nobody wants. "Good inflation news" means prices climbing gently instead of steeply. Normal moved. Budget for where you're standing now.
+
+### What's the difference between inflation and prices?
+
+Inflation is the rate prices are rising. Prices are the altitude. When inflation drops from high to low, the climb slowed, but the altitude stayed. That's why the register still rings up more than it did three years ago.
+
+### What should I do about it?
+
+Two things. Stop waiting for prices to reverse and budget for today's numbers. And since dollars keep slowly buying less even in good times, keep some savings in things that at least have a chance to keep pace, instead of only in cash that quietly shrinks. The [dollar's slow leak](/p/the-dollars-slow-leak/) explains why.

@@ -1,5 +1,7 @@
 # Health Sharing for Early Retirees
 
+> Between leaving work and Medicare at 65, individual insurance in your late 50s and early 60s can cost well over a thousand dollars a month per person. Health sharing's flat $60 per person base fee doesn't rise with age, and a lower-cost backstop for a known stretch of years is exactly the job. Mind the pre-existing rules and the lack of a legal guarantee.
+
 There's a special kind of trap that catches people who did everything right. You save hard, you retire early, maybe at 58 or 60, and then you run into the wall nobody warned you about: you're too young for Medicare, which doesn't start until 65, and buying your own health insurance in that gap can cost more than your mortgage. That stretch is where a lot of early-retirement dreams get scared back into the workforce. Health sharing is one of the best-kept answers to it.
 
 ## The pre-Medicare gap problem
@@ -27,6 +29,20 @@ Second, it is not insurance and has no legal guarantee. If you have an active co
 ## The takeaway
 
 If you're staring at the pre-Medicare gap and gasping at insurance quotes, health sharing deserves a serious look. Flat pricing that doesn't punish you for your age, a model built to bridge a known stretch of years, and savings you can use to handle the small stuff. Mind the pre-existing rules and the lack of a legal guarantee, and it can be the difference between staying retired and going back to work just for the benefits.
+
+## Questions I get about this
+
+### Does health sharing cost more as you get older?
+
+With CrowdHealth the $60 per person advocacy fee is the same at 60 as at 30. The monthly crowd contribution varies by age and household, but there's no age-priced premium the way individual insurance works. For an older adult, that flat base pricing is a huge deal.
+
+### What should early retirees be careful about with health sharing?
+
+Pre-existing conditions. By your late 50s many people have something, and health sharing has real waiting-period rules. Read them carefully for your situation, which I explain in [Pre-Existing Conditions and Health Sharing](/p/pre-existing-conditions-and-health-sharing/). And remember it isn't insurance and has no legal guarantee.
+
+### What happens when I reach 65?
+
+Medicare starts, and the bridge is over. Health sharing is a month-to-month membership with no long contract, so you can move to Medicare when it kicks in.
 
 Want to see your number for the bridge years? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

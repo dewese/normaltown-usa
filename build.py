@@ -8,16 +8,31 @@ copy in site/, then writes a complete static website to dist/.
 Publishing a new post = drop its folder in Posts/ (article.md + publish.md
 + one .png), run `python3 build.py`, commit, push. Cloudflare Pages serves dist/.
 
+SEO / GEO features (all automatic, driven by the post files):
+  * JSON-LD on every page: WebSite + Organization, BlogPosting + BreadcrumbList
+    on posts, FAQPage wherever a post (or the FAQ page) has question headings,
+    Person on the About page, CollectionPage on topic hubs.
+  * "In short" answer box: a `> ` blockquote right after the title in article.md.
+  * FAQ: a `## Questions ...` section in article.md whose `### ` headings are the
+    questions; each becomes visible content AND FAQPage schema.
+  * Topic hubs (/money/, /health/, /bitcoin/), related posts, prev/next links,
+    author box, visible published + updated dates, reading time, heading anchors.
+  * llms.txt + llms-full.txt, RSS with full text, sitemap with lastmod,
+    Cloudflare `_headers`, 404 page, absolute internal links normalised.
+
 Brand (locked): canvas #0F0F0F (never #000), text #FFFFFF, accent cyan #2DD4FF,
 Manrope for body/UI type. Logo = the SVG lockup in brand/logo/ (Montserrat ExtraBold,
 outlined to paths, so no logo font is loaded). Visualize-Value aesthetic: one idea,
 lots of negative space.
 """
 
+import hashlib
 import html
+import json
 import re
 import shutil
-from datetime import date
+import subprocess
+from datetime import date, datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -29,7 +44,18 @@ DIST = ROOT / "dist"
 SITE_NAME = "Normaltown USA"
 SITE_TAGLINE = "Money & Healthcare Made Simple"
 SITE_URL = "https://www.normaltownusa.com"
+HOME_TITLE = "Normaltown USA: Plain-English Money and Health Help for Regular People"
+HOME_DESC = ("Plain-English help with money, medical bills, health insurance, health "
+             "sharing, and saving in bitcoin. Written by a regular guy with a family "
+             "of four, for regular people. No jargon, no hype.")
 AUTHOR = "David Dewese"
+AUTHOR_FIRST = "David"
+AUTHOR_URL = f"{SITE_URL}/about/"
+AUTHOR_BIO = ("Regular guy with a full-time job, a wife, and two little girls. Twenty-five "
+              "years in marketing, twenty-five making music. I got tired of how money and "
+              "healthcare get explained to normal people, so I do the homework and write "
+              "it down the way I'd tell a friend. Not a financial advisor.")
+AFFILIATE_URL = "https://www.joincrowdhealth.com/?referral_code=NORMAL"
 
 MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
           "August", "September", "October", "November", "December"]
@@ -39,42 +65,145 @@ MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
 # Use Eastern time so posts release on the brand's clock, not the CI server's UTC.
 try:
     from zoneinfo import ZoneInfo
-    from datetime import datetime
     TODAY = datetime.now(ZoneInfo("America/New_York")).date()
 except Exception:
     TODAY = date.today()
+
+# Topic hubs. Key = category slug; "name" is the pill label on cards.
+CATEGORIES = {
+    "money": {
+        "name": "Money",
+        "title": "Money for Normal People",
+        "page_title": "Money for Normal People: Budgets, Raises, Debt, and Leaks Explained Plainly",
+        "description": ("Plain-English money help for working families: why you feel broke on a "
+                        "good income, where money leaks out, credit card interest, budgets that "
+                        "survive a busy week, and what to do with a raise."),
+        "intro": ("You work hard, you pay your bills, and the account still looks the same at the "
+                  "end of the month. These posts explain why, in normal words, and give you one "
+                  "small move at a time. No spreadsheets, no shame."),
+    },
+    "health": {
+        "name": "Health",
+        "title": "Health Insurance, Medical Bills, and Health Sharing",
+        "page_title": "Medical Bills, Health Insurance, and Health Sharing Explained in Plain English",
+        "description": ("Why you get big bills with insurance, how deductibles and HSAs really work, "
+                        "how to ask for the cash price, how to negotiate a hospital bill, and an "
+                        "honest look at health sharing from a family that uses it."),
+        "intro": ("A medical bill is the biggest money leak most families have. It's a money problem "
+                  "wearing a lab coat. These posts explain how the system actually works, how to pay "
+                  "less for care, and what health sharing is (my family of four uses CrowdHealth, "
+                  "and I'll always tell you its honest limits)."),
+    },
+    "bitcoin": {
+        "name": "Bitcoin",
+        "title": "Bitcoin and the Dollar, Explained Calmly",
+        "page_title": "Bitcoin for Normal People: Saving, Not Gambling, Explained Calmly",
+        "description": ("A calm, plain-English look at why the dollar loses value over time and where "
+                        "bitcoin fits as savings, not gambling: how to buy a first $20, how much is too "
+                        "much, wallets, keys, and price swings."),
+        "intro": ("This is the quiet corner of the internet on bitcoin. No hype, no price predictions. "
+                  "Just why money loses value over time, why something hard to make holds its value, "
+                  "and how a normal family can save a small amount in bitcoin without losing sleep."),
+    },
+}
+
+# Slugs that belong in the Bitcoin hub even if publish.md still says "Money".
+BITCOIN_SLUGS = {
+    "is-bitcoin-saving-or-gambling", "what-scarce-means-for-your-money",
+    "your-first-20-in-bitcoin", "the-dollars-slow-leak",
+    "why-hard-to-make-money-holds-its-value", "a-little-each-week-beats-betting-it-all",
+    "why-i-dont-try-to-time-the-price", "bitcoins-wild-price-swings-explained-calmly",
+    "who-gets-the-new-money-first", "not-your-keys-what-it-means",
+    "what-is-a-bitcoin-wallet", "how-much-is-too-much-sizing-a-small-bet",
+}
 
 # ----------------------------------------------------------------------------
 # Minimal, controlled Markdown -> HTML (only the subset our articles use).
 # ----------------------------------------------------------------------------
 
+INTERNAL_ABS = re.compile(r'https?://(?:www\.)?normaltownusa\.com(/[^\s)"]*)?')
+
+# Slugs of posts that exist but aren't published yet (future-dated). Links to
+# them are rendered as plain text until the post goes live, so nothing 404s.
+UNPUBLISHED = set()
+
+
+def normalise_url(url):
+    """Absolute links to our own site become root-relative, with a trailing slash
+    on directory URLs (avoids a redirect hop on Cloudflare)."""
+    m = INTERNAL_ABS.fullmatch(url.strip())
+    if m:
+        path = m.group(1) or "/"
+        if not path.endswith("/") and "." not in path.rsplit("/", 1)[-1] and "#" not in path:
+            path += "/"
+        return path
+    return url
+
+
 def _inline(text):
     """Escape HTML, then apply inline markdown: links, bold, italic, code."""
     text = html.escape(text, quote=False)
-    # links [text](url)  -- process before emphasis
+
     def link(m):
-        label, url = m.group(1), m.group(2)
+        label, url = m.group(1), normalise_url(m.group(2))
+        um = re.match(r'^/p/([^/#?]+)/?', url)
+        if um and um.group(1) in UNPUBLISHED:
+            return label
         safe_url = html.escape(url, quote=True)
-        return f'<a href="{safe_url}">{label}</a>'
+        attrs = ""
+        if url.startswith("http"):
+            rel = "noopener nofollow sponsored" if "joincrowdhealth.com" in url else "noopener"
+            attrs = f' target="_blank" rel="{rel}"'
+        return f'<a href="{safe_url}"{attrs}>{label}</a>'
     text = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', link, text)
     text = re.sub(r'`([^`]+)`', r'<code>\1</code>', text)
     text = re.sub(r'\*\*([^*]+)\*\*', r'<strong>\1</strong>', text)
-    text = re.sub(r'\*([^*]+)\*', r'<em>\1</em>', text)
+    text = re.sub(r'(?<![*\w])\*([^*\n]+)\*(?![*\w])', r'<em>\1</em>', text)
     return text
 
 
-def md_to_html(md, drop_email_cta=True):
-    """Convert an article body (title line already removed) to HTML blocks."""
-    lines = md.split("\n")
+def plain_text(md):
+    """Markdown -> plain text (for schema answers, descriptions, llms-full)."""
+    t = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', md)
+    t = re.sub(r'[*`_]', '', t)
+    t = re.sub(r'\s+', ' ', t)
+    return t.strip()
 
-    # Drop a trailing email-style CTA block: a final '---' followed by inbox/list copy.
+
+def slugify(title):
+    s = title.lower()
+    s = re.sub(r'&', ' and ', s)
+    s = re.sub(r'[^a-z0-9]+', '-', s)
+    return s.strip('-')
+
+
+def heading_id(text, used):
+    base = slugify(plain_text(text))[:60].strip('-') or "section"
+    hid, n = base, 2
+    while hid in used:
+        hid, n = f"{base}-{n}", n + 1
+    used.add(hid)
+    return hid
+
+
+def strip_email_cta(md):
+    """Drop a trailing email-style CTA block: a final '---' followed by inbox/list copy."""
+    lines = md.split("\n")
+    for i in range(len(lines) - 1, -1, -1):
+        if lines[i].strip() == "---":
+            tail = "\n".join(lines[i + 1:]).lower()
+            if any(k in tail for k in ("inbox", "normaltown usa list", "join the")):
+                lines = lines[:i]
+            break
+    return "\n".join(lines)
+
+
+def md_to_html(md, drop_email_cta=True, ids=None):
+    """Convert an article body (title line already removed) to HTML blocks."""
     if drop_email_cta:
-        for i in range(len(lines) - 1, -1, -1):
-            if lines[i].strip() == "---":
-                tail = "\n".join(lines[i + 1:]).lower()
-                if any(k in tail for k in ("inbox", "normaltown usa list", "join the")):
-                    lines = lines[:i]
-                break
+        md = strip_email_cta(md)
+    lines = md.split("\n")
+    used = ids if ids is not None else set()
 
     blocks = []
     buf = []
@@ -97,13 +226,20 @@ def md_to_html(md, drop_email_cta=True):
             blocks.append('<hr class="rule">')
         elif stripped.startswith("### "):
             flush_para()
-            blocks.append(f"<h3>{_inline(stripped[4:].strip())}</h3>")
-        elif stripped.startswith("## "):
+            t = stripped[4:].strip()
+            blocks.append(f'<h3 id="{heading_id(t, used)}">{_inline(t)}</h3>')
+        elif stripped.startswith("## ") or stripped.startswith("# "):
             flush_para()
-            blocks.append(f"<h2>{_inline(stripped[3:].strip())}</h2>")
-        elif stripped.startswith("# "):
+            t = stripped.split(" ", 1)[1].strip()
+            blocks.append(f'<h2 id="{heading_id(t, used)}">{_inline(t)}</h2>')
+        elif stripped.startswith("> "):
             flush_para()
-            blocks.append(f"<h2>{_inline(stripped[2:].strip())}</h2>")
+            q = []
+            while i < len(lines) and lines[i].strip().startswith(">"):
+                q.append(lines[i].strip().lstrip(">").strip())
+                i += 1
+            blocks.append(f"<blockquote><p>{_inline(' '.join(q))}</p></blockquote>")
+            continue
         elif re.match(r'^[-*] ', stripped):
             flush_para()
             items = []
@@ -128,6 +264,59 @@ def md_to_html(md, drop_email_cta=True):
     return "\n".join(blocks)
 
 
+def extract_short_answer(body_md):
+    """A `> ` blockquote right after the title (before any heading) is the
+    'In short' answer. Returns (answer_markdown or None, body_without_it)."""
+    lines = body_md.split("\n")
+    i = 0
+    while i < len(lines) and not lines[i].strip():
+        i += 1
+    if i < len(lines) and lines[i].strip().startswith("> "):
+        q = []
+        j = i
+        while j < len(lines) and lines[j].strip().startswith(">"):
+            q.append(lines[j].strip().lstrip(">").strip())
+            j += 1
+        rest = lines[:i] + lines[j:]
+        return " ".join(q).strip(), "\n".join(rest)
+    return None, body_md
+
+
+FAQ_HEADING = re.compile(r'^##\s+.*(question|faq|people ask)', re.IGNORECASE)
+
+
+def extract_faqs(md, every_h3=False):
+    """Return [(question, answer_plain_text)] from `### ` headings.
+    By default only inside a `## Questions ...` style section; with every_h3
+    the whole document's ### headings count (used for the FAQ page)."""
+    faqs = []
+    in_section = every_h3
+    q, ans = None, []
+
+    def close():
+        nonlocal q, ans
+        if q and ans:
+            faqs.append((plain_text(q), plain_text(" ".join(ans))))
+        q, ans = None, []
+
+    for line in md.split("\n"):
+        s = line.strip()
+        if s.startswith("## ") or s.startswith("# "):
+            close()
+            in_section = every_h3 or bool(FAQ_HEADING.match(s))
+        elif s.startswith("### "):
+            close()
+            if in_section:
+                q = s[4:].strip()
+        elif q is not None:
+            if s == "---":
+                close()
+            elif s:
+                ans.append(s)
+    close()
+    return faqs
+
+
 # ----------------------------------------------------------------------------
 # Parsing posts
 # ----------------------------------------------------------------------------
@@ -140,42 +329,59 @@ def _row_value(text, label):
     if not m:
         return None
     val = m.group(1).strip()
-    # Prefer the text inside the first backtick-quoted segment (the clean value).
     bt = re.search(r'`([^`]+)`', val)
     val = bt.group(1) if bt else val.strip("`")
-    # Drop trailing editing notes like *(150 chars)* or (150 chars).
     val = re.sub(r'\*?\(\s*\d+\s*chars?\s*\)\*?', '', val)
-    val = re.sub(r'\*\*(.+?)\*\*', r'\1', val)  # drop bold
+    val = re.sub(r'\*\*(.+?)\*\*', r'\1', val)
     val = val.strip().strip("`").strip()
     return val or None
 
 
-def slugify(title):
-    s = title.lower()
-    s = re.sub(r'[^a-z0-9]+', '-', s)
-    return s.strip('-')
-
-
-def classify(title, slug):
+def classify(pub_category, title, slug):
+    if slug in BITCOIN_SLUGS:
+        return "bitcoin"
+    c = (pub_category or "").strip().lower()
+    if c in CATEGORIES:
+        return c
     text = (title + " " + slug).lower()
+    if "bitcoin" in text:
+        return "bitcoin"
     health = ("health", "insur", "deductible", "hsa", "sharing", "medical",
-              "blood test", "crowd", "bill")
+              "blood test", "crowd", "bill", "hospital", "advocate", "cobra", "er")
     if any(k in text for k in health):
-        return "Health"
-    return "Money"
+        return "health"
+    return "money"
 
 
-def load_posts():
+def git_modified(path):
+    """Date of the last commit touching path, or None (no git / shallow clone)."""
+    try:
+        out = subprocess.run(["git", "log", "-1", "--format=%cs", "--", str(path)],
+                             capture_output=True, text=True, cwd=ROOT, timeout=10).stdout.strip()
+        return date.fromisoformat(out) if out else None
+    except Exception:
+        return None
+
+
+def load_posts(include_future=False):
     posts = []
+    # First pass: which slugs are written ahead but not yet live?
+    UNPUBLISHED.clear()
+    for article in POSTS_DIR.glob("*/*/*/article.md"):
+        parts = article.parent.parts
+        if date(int(parts[-3]), int(parts[-2]), int(parts[-1])) > TODAY and not include_future:
+            pub_file = article.parent / "publish.md"
+            pub = pub_file.read_text(encoding="utf-8") if pub_file.exists() else ""
+            UNPUBLISHED.add(_row_value(pub, "slug") or "")
     for article in sorted(POSTS_DIR.glob("*/*/*/article.md")):
         folder = article.parent
         parts = folder.parts
         y, m, d = int(parts[-3]), int(parts[-2]), int(parts[-1])
-        if date(y, m, d) > TODAY:
+        pub_date = date(y, m, d)
+        if pub_date > TODAY and not include_future:
             continue  # future-dated: written ahead, not published yet
         raw = article.read_text(encoding="utf-8")
 
-        # title = first "# " line; body = everything after it
         title = folder.name
         body_md = raw
         for idx, line in enumerate(raw.split("\n")):
@@ -183,6 +389,7 @@ def load_posts():
                 title = line[2:].strip()
                 body_md = "\n".join(raw.split("\n")[idx + 1:])
                 break
+        body_md = strip_email_cta(body_md)
 
         pub_file = folder / "publish.md"
         pub = pub_file.read_text(encoding="utf-8") if pub_file.exists() else ""
@@ -190,18 +397,22 @@ def load_posts():
         slug = _row_value(pub, "slug") or slugify(title)
         subtitle = _row_value(pub, "Subtitle")
         meta = _row_value(pub, "Meta description")
+        title_tag = _row_value(pub, "Title tag")
+        if title_tag and title_tag.strip().lower() == title.strip().lower():
+            title_tag = None
 
-        # first paragraph as fallback description / preview
+        short, body_md = extract_short_answer(body_md)
+
         first_para = ""
         for para in body_md.split("\n\n"):
             p = para.strip()
-            if p and not p.startswith("#") and p != "---":
+            if p and not p.startswith("#") and p != "---" and not p.startswith(">"):
                 first_para = re.sub(r'\s+', ' ', p)
                 break
         if not meta:
-            meta = (first_para[:157] + "...") if len(first_para) > 160 else first_para
+            src = plain_text(short or first_para)
+            meta = (src[:157] + "...") if len(src) > 160 else src
 
-        # alt text (from "Alt text:" line) fallback to title
         alt = None
         am = re.search(r'[Aa]lt text[:*\s]+`?([^`\n|]+)`?', pub)
         if am:
@@ -210,19 +421,36 @@ def load_posts():
             alt = title
 
         png = next(iter(sorted(folder.glob("*.png"))), None)
+        ids = set()
+        body_html = md_to_html(body_md, drop_email_cta=False, ids=ids)
+        words = len(plain_text(body_md).split())
+        modified = git_modified(article)
+        if not modified or modified < pub_date:
+            modified = pub_date
+        links = set(re.findall(r'\]\((?:https?://(?:www\.)?normaltownusa\.com)?/p/([^/)#]+)', body_md))
 
         posts.append({
-            "date": date(y, m, d),
+            "date": pub_date,
+            "modified": modified,
             "title": title,
+            "title_tag": title_tag,
             "slug": slug,
+            "url": f"{SITE_URL}/p/{slug}/",
             "subtitle": subtitle,
             "meta": meta,
+            "short": short,
             "preview": first_para,
             "alt": alt,
             "png": png,
             "png_name": png.name if png else None,
-            "body_html": md_to_html(body_md),
-            "category": classify(title, slug),
+            "body_md": body_md,
+            "body_html": body_html,
+            "faqs": extract_faqs(body_md),
+            "words": words,
+            "minutes": max(1, round(words / 220)),
+            "links": links,
+            "category": classify(_row_value(pub, "Category"), title, slug),
+            "affiliate": "joincrowdhealth.com" in body_md,
         })
     posts.sort(key=lambda p: p["date"], reverse=True)
     return posts
@@ -239,7 +467,7 @@ CSS = """
   --panel:#161616; --measure:40rem;
 }
 *{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%}
+html{-webkit-text-size-adjust:100%; scroll-behavior:smooth}
 body{
   margin:0; background:var(--canvas); color:var(--ink);
   font-family:Manrope,'Helvetica Neue',Arial,sans-serif;
@@ -250,6 +478,8 @@ a{color:var(--accent); text-decoration:none}
 a:hover{text-decoration:underline}
 img{max-width:100%; height:auto; display:block}
 .wrap{width:100%; max-width:64rem; margin:0 auto; padding:0 1.5rem}
+.skip{position:absolute; left:-999px; top:0; background:var(--accent); color:#000; padding:.5rem 1rem}
+.skip:focus{left:1rem; z-index:10}
 
 /* header */
 .site-head{border-bottom:1px solid var(--faint)}
@@ -258,41 +488,68 @@ img{max-width:100%; height:auto; display:block}
 .brand{display:flex; align-items:center; flex:none}
 .brand:hover{text-decoration:none}
 .brand img{height:34px; width:auto; display:block}
-nav.main{display:flex; gap:1.4rem; font-size:.95rem; font-weight:600}
+nav.main{display:flex; gap:1.3rem; font-size:.95rem; font-weight:600; flex-wrap:wrap}
 nav.main a{color:var(--muted)}
-nav.main a:hover{color:var(--ink); text-decoration:none}
+nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none}
 
 /* hero */
-.hero{padding:4.5rem 0 2rem; border-bottom:1px solid var(--faint)}
+.hero{padding:4.5rem 0 2.5rem; border-bottom:1px solid var(--faint)}
 .hero h1{font-size:clamp(2rem,5vw,3.1rem); line-height:1.08; letter-spacing:-.03em;
-  font-weight:800; margin:0 0 1rem; max-width:20ch}
-.hero p{font-size:1.2rem; color:var(--muted); margin:0; max-width:46ch}
+  font-weight:800; margin:0 0 1rem; max-width:22ch}
+.hero p{font-size:1.2rem; color:var(--muted); margin:0 0 .8rem; max-width:52ch}
+.hero p.promise{color:var(--ink); font-size:1.05rem; max-width:60ch}
 .hero .accent{color:var(--accent)}
 
+/* section headings + topic tiles */
+.section-title{font-size:.82rem; color:var(--muted); font-weight:700; text-transform:uppercase;
+  letter-spacing:.1em; margin:0 0 1rem}
+.featured{padding:2.5rem 0 1rem}
+.tiles{display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1rem; margin:0 0 1rem}
+.tile{display:block; padding:1.2rem 1.3rem; border:1px solid var(--faint); border-radius:14px;
+  background:var(--panel); color:var(--ink)}
+.tile:hover{text-decoration:none; border-color:var(--accent)}
+.tile h2,.tile h3{margin:0 0 .3rem; font-size:1.15rem; font-weight:800; letter-spacing:-.01em}
+.tile p{margin:0; color:var(--muted); font-size:.95rem}
+.tile .count{color:var(--accent); font-size:.8rem; font-weight:700; text-transform:uppercase; letter-spacing:.08em}
+@media (max-width:720px){.tiles{grid-template-columns:1fr}}
+
 /* post list */
-.list{padding:2.5rem 0 4rem}
+.list{padding:2rem 0 4rem}
 .post-card{display:block; padding:1.6rem 0; border-bottom:1px solid var(--faint);
   color:var(--ink)}
 .post-card:hover{text-decoration:none}
-.post-card:hover h2{color:var(--accent)}
+.post-card:hover h2,.post-card:hover h3{color:var(--accent)}
 .post-card .meta{font-size:.82rem; color:var(--muted); font-weight:600;
   text-transform:uppercase; letter-spacing:.08em; margin-bottom:.5rem;
-  display:flex; gap:.7rem; align-items:center}
+  display:flex; gap:.7rem; align-items:center; flex-wrap:wrap}
 .tag{color:var(--accent); border:1px solid var(--faint); border-radius:999px;
   padding:.05rem .55rem; font-size:.72rem}
-.post-card h2{font-size:1.5rem; line-height:1.2; letter-spacing:-.02em;
+a.tag:hover{border-color:var(--accent); text-decoration:none}
+.post-card h2,.post-card h3{font-size:1.5rem; line-height:1.2; letter-spacing:-.02em;
   font-weight:800; margin:0 0 .35rem; transition:color .15s}
 .post-card p{margin:0; color:var(--muted); font-size:1rem; max-width:60ch}
 
 /* article */
-.article{padding:3rem 0 4rem}
+.article{padding:2.5rem 0 4rem}
+.crumbs{max-width:var(--measure); margin:0 auto 1.4rem; font-size:.82rem; color:var(--muted)}
+.crumbs ol{list-style:none; margin:0; padding:0; display:flex; gap:.5rem; flex-wrap:wrap}
+.crumbs li+li::before{content:"\\203A"; margin-right:.5rem; color:var(--muted)}
+.crumbs a{color:var(--muted)}
+.crumbs a:hover{color:var(--ink)}
 .article-head{max-width:var(--measure); margin:0 auto 2rem}
 .article-head .meta{font-size:.82rem; color:var(--muted); font-weight:600;
   text-transform:uppercase; letter-spacing:.08em; margin-bottom:.9rem;
-  display:flex; gap:.7rem; align-items:center}
+  display:flex; gap:.7rem; align-items:center; flex-wrap:wrap}
+.article-head .meta a{color:var(--muted)}
+.article-head .meta a:hover{color:var(--ink)}
 .article-head h1{font-size:clamp(1.9rem,4.5vw,2.7rem); line-height:1.12;
   letter-spacing:-.03em; font-weight:800; margin:0 0 .6rem}
 .article-head .subtitle{font-size:1.25rem; color:var(--muted); margin:0}
+.short-answer{max-width:var(--measure); margin:0 auto 2rem; padding:1.2rem 1.4rem;
+  border-left:3px solid var(--accent); background:var(--panel); border-radius:0 14px 14px 0}
+.short-answer .label{display:block; font-size:.78rem; font-weight:800; letter-spacing:.1em;
+  text-transform:uppercase; color:var(--accent); margin-bottom:.35rem}
+.short-answer p{margin:0; font-size:1.05rem}
 .hero-img{max-width:var(--measure); margin:0 auto 2.5rem; border-radius:14px;
   overflow:hidden; background:var(--panel); border:1px solid var(--faint)}
 .body{max-width:var(--measure); margin:0 auto}
@@ -305,12 +562,43 @@ nav.main a:hover{color:var(--ink); text-decoration:none}
 .body strong{font-weight:700}
 .body code{background:var(--panel); padding:.1rem .35rem; border-radius:5px;
   font-size:.9em}
+.body blockquote{margin:0 0 1.15rem; padding:.2rem 0 .2rem 1.1rem; border-left:3px solid var(--accent);
+  color:var(--muted)}
+.body blockquote p{margin:0}
 .body hr.rule{border:none; height:1px; background:var(--faint); margin:2.2rem 0}
+.body h2:target,.body h3:target{color:var(--accent)}
 
-/* post footer CTA */
-.post-cta{max-width:var(--measure); margin:3rem auto 0; padding:1.8rem;
+/* table of contents (FAQ page) */
+.toc{margin:0 0 2rem; padding:1rem 1.3rem; border:1px solid var(--faint); border-radius:14px;
+  background:var(--panel); font-size:.95rem}
+.toc strong{display:block; margin-bottom:.4rem; font-size:.78rem; letter-spacing:.1em;
+  text-transform:uppercase; color:var(--muted)}
+.toc ol{margin:0; padding-left:1.2rem}
+.toc li{margin:.15rem 0}
+
+/* author box, related, pager, CTA */
+.author-box{max-width:var(--measure); margin:2.5rem auto 0; padding:1.4rem 1.6rem;
+  border:1px solid var(--faint); border-radius:14px; display:flex; gap:1.2rem; align-items:flex-start}
+.author-box img{width:64px; height:64px; border-radius:50%; object-fit:cover; flex:none; filter:grayscale(1)}
+.author-box .name{font-weight:800; margin:0 0 .2rem; font-size:1rem}
+.author-box p{margin:0; color:var(--muted); font-size:.95rem}
+.related{max-width:var(--measure); margin:2.5rem auto 0}
+.related h2{font-size:.82rem; color:var(--muted); font-weight:700; text-transform:uppercase;
+  letter-spacing:.1em; margin:0 0 .6rem}
+.related ul{list-style:none; margin:0; padding:0}
+.related li{padding:.7rem 0; border-top:1px solid var(--faint)}
+.related li:last-child{border-bottom:1px solid var(--faint)}
+.related a{font-weight:700; color:var(--ink)}
+.related a:hover{color:var(--accent); text-decoration:none}
+.related span{display:block; color:var(--muted); font-size:.92rem}
+.pager{max-width:var(--measure); margin:2rem auto 0; display:flex; justify-content:space-between;
+  gap:1rem; font-size:.95rem}
+.pager a{color:var(--muted); max-width:48%}
+.pager a:hover{color:var(--ink)}
+.pager small{display:block; font-size:.75rem; text-transform:uppercase; letter-spacing:.08em}
+.post-cta{max-width:var(--measure); margin:2.5rem auto 0; padding:1.8rem;
   border:1px solid var(--faint); border-radius:14px; background:var(--panel)}
-.post-cta h3{margin:0 0 .4rem; font-size:1.2rem; font-weight:800; letter-spacing:-.01em}
+.post-cta h2{margin:0 0 .4rem; font-size:1.2rem; font-weight:800; letter-spacing:-.01em}
 .post-cta p{margin:0; color:var(--muted); font-size:1rem}
 
 /* generic page */
@@ -318,6 +606,7 @@ nav.main a:hover{color:var(--ink); text-decoration:none}
 .page .body{max-width:var(--measure)}
 .page h1{font-size:clamp(1.9rem,4.5vw,2.6rem); letter-spacing:-.03em; font-weight:800;
   margin:0 0 1.4rem}
+.page .lede{font-size:1.2rem; color:var(--muted); max-width:var(--measure); margin:-.6rem 0 1.8rem}
 
 /* about page: text + family photo */
 .about .wrap{display:grid; grid-template-columns:minmax(0,1fr) 21rem; gap:3.5rem;
@@ -326,7 +615,6 @@ nav.main a:hover{color:var(--ink); text-decoration:none}
 .about-photo{margin:.4rem 0 0; isolation:isolate}
 .about-photo img{width:100%; border-radius:14px; background:var(--panel);
   border:1px solid var(--faint);
-  /* thin cyan frame offset behind the photo: the one accent on the page */
   box-shadow:16px 16px 0 -1px var(--canvas), 16px 16px 0 0 var(--accent)}
 .about-photo figcaption{margin:2rem 0 0; color:var(--muted); font-size:.9rem;
   line-height:1.5; display:flex; gap:.6rem; align-items:baseline}
@@ -344,20 +632,90 @@ nav.main a:hover{color:var(--ink); text-decoration:none}
 .site-foot .wrap{display:flex; justify-content:space-between; gap:1rem; flex-wrap:wrap}
 .site-foot a{color:var(--muted)}
 .site-foot a:hover{color:var(--ink)}
+.site-foot .disclaimer{width:100%; font-size:.82rem; max-width:70ch}
 
 @media (max-width:640px){
   body{font-size:17px}
   .hero{padding:3rem 0 1.6rem}
-  nav.main{gap:1rem; font-size:.9rem}
+  nav.main{gap:.9rem; font-size:.9rem}
   .brand img{height:28px}
+  .author-box{flex-direction:column}
 }
 """
 
+CSS_VERSION = hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
 
-def layout(title, description, body, canonical, og_image=None, is_home=False):
+NAV = [("/", "Home"), ("/money/", "Money"), ("/health/", "Health"), ("/bitcoin/", "Bitcoin"),
+       ("/start-here/", "Start Here"), ("/faq/", "FAQ"), ("/about/", "About")]
+
+
+def fmt_date(d):
+    return f'{MONTHS[d.month]} {d.day}, {d.year}'
+
+
+def json_ld(data):
+    txt = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    return f'<script type="application/ld+json">{txt}</script>'
+
+
+def org_schema():
+    return {
+        "@type": "Organization",
+        "@id": f"{SITE_URL}/#organization",
+        "name": SITE_NAME,
+        "url": SITE_URL + "/",
+        "logo": {"@type": "ImageObject", "url": f"{SITE_URL}/assets/og-default.png",
+                 "width": 1200, "height": 630},
+        "founder": {"@id": f"{SITE_URL}/#david"},
+        "description": HOME_DESC,
+    }
+
+
+def person_schema(full=False):
+    p = {
+        "@type": "Person",
+        "@id": f"{SITE_URL}/#david",
+        "name": AUTHOR,
+        "url": AUTHOR_URL,
+        "jobTitle": "Writer and founder, Normaltown USA",
+        "description": AUTHOR_BIO,
+        "image": f"{SITE_URL}/about/family.jpg",
+        "worksFor": {"@id": f"{SITE_URL}/#organization"},
+        "knowsAbout": ["personal finance for families", "medical bills", "health insurance",
+                       "health sharing", "CrowdHealth", "cash prices for medical care",
+                       "bitcoin as savings", "inflation"],
+    }
+    if full:
+        p["mainEntityOfPage"] = AUTHOR_URL
+    return p
+
+
+def website_schema():
+    return {
+        "@type": "WebSite",
+        "@id": f"{SITE_URL}/#website",
+        "url": SITE_URL + "/",
+        "name": SITE_NAME,
+        "description": HOME_DESC,
+        "publisher": {"@id": f"{SITE_URL}/#organization"},
+        "inLanguage": "en-US",
+    }
+
+
+def layout(title, description, body, canonical, og_image=None, og_type="article",
+           schema=None, current=None, extra_head="", og_size=None, page_title=None):
     desc = html.escape(description or SITE_TAGLINE, quote=True)
-    page_title = title if title == SITE_NAME else f"{title} | {SITE_NAME}"
-    og = f'<meta property="og:image" content="{html.escape(og_image, quote=True)}">' if og_image else ""
+    if page_title is None:
+        page_title = title if title == SITE_NAME else f"{title} | {SITE_NAME}"
+    og_image = og_image or f"{SITE_URL}/assets/og-default.png"
+    w, h = og_size or ((1200, 630) if og_image.endswith("og-default.png") else (1200, 1200))
+    og_img = html.escape(og_image, quote=True)
+    nav_items = []
+    for href, label in NAV:
+        cur = ' aria-current="page"' if href == current else ""
+        nav_items.append(f'    <a href="{href}"{cur}>{label}</a>')
+    nav = "\n".join(nav_items)
+    graph = {"@context": "https://schema.org", "@graph": schema} if schema else None
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -365,102 +723,284 @@ def layout(title, description, body, canonical, og_image=None, is_home=False):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(page_title)}</title>
 <meta name="description" content="{desc}">
+<meta name="author" content="{AUTHOR}">
+<meta name="theme-color" content="#0F0F0F">
 <link rel="canonical" href="{canonical}">
 <meta property="og:site_name" content="{SITE_NAME}">
-<meta property="og:title" content="{html.escape(title)}">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="{html.escape(title, quote=True)}">
 <meta property="og:description" content="{desc}">
-<meta property="og:type" content="{'website' if is_home else 'article'}">
+<meta property="og:type" content="{og_type}">
 <meta property="og:url" content="{canonical}">
-{og}
+<meta property="og:image" content="{og_img}">
+<meta property="og:image:width" content="{w}">
+<meta property="og:image:height" content="{h}">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/svg+xml" href="/assets/normaltown-icon.svg">
+<meta name="twitter:title" content="{html.escape(title, quote=True)}">
+<meta name="twitter:description" content="{desc}">
+<meta name="twitter:image" content="{og_img}">
+{extra_head}<link rel="icon" type="image/svg+xml" href="/assets/normaltown-icon.svg">
+<link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/styles.css?v={CSS_VERSION}">
+{json_ld(graph) if graph else ""}
 </head>
 <body>
+<a class="skip" href="#main">Skip to content</a>
 <header class="site-head"><div class="wrap">
   <a class="brand" href="/" aria-label="{SITE_NAME} home"><img src="/assets/normaltown-logo-reverse.svg" alt="{SITE_NAME}" width="1132" height="156"></a>
-  <nav class="main">
-    <a href="/">Home</a>
-    <a href="/start-here/">Start Here</a>
-    <a href="/faq/">FAQ</a>
-    <a href="/about/">About</a>
+  <nav class="main" aria-label="Main">
+{nav}
   </nav>
 </div></header>
+<main id="main">
 {body}
+</main>
 <footer class="site-foot"><div class="wrap">
-  <span>&copy; {date.today().year} {SITE_NAME}. {SITE_TAGLINE}.</span>
-  <span><a href="/rss.xml">RSS</a> &middot; <a href="/start-here/">Start Here</a></span>
+  <span>&copy; {TODAY.year} {SITE_NAME}. {SITE_TAGLINE}.</span>
+  <span><a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/rss.xml">RSS</a></span>
+  <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. Some links (CrowdHealth, code NORMAL) pay a referral bonus at no extra cost to you. Health sharing is not insurance.</p>
 </div></footer>
 </body>
 </html>"""
 
 
 POST_CTA = """<div class="post-cta">
-  <h3>New here?</h3>
-  <p>Normaltown USA is plain-English money and healthcare help for normal people. No jargon, no hype. <a href="/start-here/">Start here</a>.</p>
+  <h2>New here?</h2>
+  <p>Normaltown USA is plain-English money and healthcare help for normal people, written by a regular guy with a family of four. No jargon, no hype. <a href="/start-here/">Start here</a>, or read the <a href="/faq/">FAQ</a>.</p>
 </div>"""
 
 
-def render_home(posts):
-    hero = f"""<section class="hero"><div class="wrap">
-      <h1>Money help for normal people, <span class="accent">explained plainly</span>.</h1>
-      <p>{SITE_TAGLINE}. No jargon, no being talked down to. One clear idea at a time.</p>
-    </div></section>"""
-    cards = []
-    for p in posts:
-        d = f'{MONTHS[p["date"].month]} {p["date"].day}, {p["date"].year}'
-        cards.append(f"""<a class="post-card" href="/p/{p['slug']}/">
-          <div class="meta"><span class="tag">{p['category']}</span><span>{d}</span></div>
-          <h2>{html.escape(p['title'])}</h2>
+def post_card(p, heading="h2"):
+    cat = CATEGORIES[p["category"]]
+    return f"""<a class="post-card" href="/p/{p['slug']}/">
+          <div class="meta"><span class="tag">{cat['name']}</span><span>{fmt_date(p['date'])}</span><span>{p['minutes']} min read</span></div>
+          <{heading}>{html.escape(p['title'])}</{heading}>
           <p>{html.escape(p['meta'] or '')}</p>
-        </a>""")
-    body = hero + '<section class="list"><div class="wrap">' + "\n".join(cards) + "</div></section>"
-    return layout(SITE_NAME, SITE_TAGLINE, body, SITE_URL + "/", is_home=True)
+        </a>"""
 
 
-def render_post(p):
-    d = f'{MONTHS[p["date"].month]} {p["date"].day}, {p["date"].year}'
-    canonical = f"{SITE_URL}/p/{p['slug']}/"
+def by_slug(posts):
+    return {p["slug"]: p for p in posts}
+
+
+START_HERE_SLUGS = ["nobody-gets-paid-to-make-you-well", "why-you-feel-broke-on-a-good-income",
+                    "is-bitcoin-saving-or-gambling"]
+
+
+def render_home(posts):
+    lookup = by_slug(posts)
+    hero = f"""<section class="hero"><div class="wrap">
+      <h1>Keep more of the money <span class="accent">you already make</span>.</h1>
+      <p>Plain-English money and healthcare help from a regular guy with a full-time job and a family of four, for regular people with full-time jobs. One idea per post, short enough to read with your coffee.</p>
+      <p class="promise">Read for a month and you'll know how to ask for the cash price on a medical bill, name the leaks quietly draining your paycheck, build a first $1,000 cushion, and save a little in something that holds its value. Almost nobody teaches this, because almost nobody gets paid to.</p>
+    </div></section>"""
+    featured = [lookup[s] for s in START_HERE_SLUGS if s in lookup]
+    feat_html = ""
+    if featured:
+        feat_html = '<section class="featured"><div class="wrap"><p class="section-title">New here? Read these three first</p><div class="tiles">' + "".join(
+            f'<a class="tile" href="/p/{p["slug"]}/"><span class="count">{CATEGORIES[p["category"]]["name"]}</span><h2>{html.escape(p["title"])}</h2><p>{html.escape(p["meta"] or "")}</p></a>'
+            for p in featured) + '</div></div></section>'
+    counts = {k: sum(1 for p in posts if p["category"] == k) for k in CATEGORIES}
+    tiles = '<section class="featured"><div class="wrap"><p class="section-title">Pick a topic</p><div class="tiles">' + "".join(
+        f'<a class="tile" href="/{k}/"><span class="count">{counts[k]} posts</span><h2>{html.escape(c["title"])}</h2><p>{html.escape(c["description"].split(":")[0] if ":" in c["description"] else c["description"])}</p></a>'
+        for k, c in CATEGORIES.items()) + '</div></div></section>'
+    cards = "\n".join(post_card(p) for p in posts)
+    body = hero + feat_html + tiles + f'<section class="list"><div class="wrap"><p class="section-title">All posts, newest first</p>{cards}</div></section>'
+    schema = [website_schema(), org_schema(), person_schema(),
+              {"@type": "CollectionPage", "@id": f"{SITE_URL}/#home", "url": SITE_URL + "/",
+               "name": HOME_TITLE, "description": HOME_DESC,
+               "isPartOf": {"@id": f"{SITE_URL}/#website"},
+               "hasPart": [{"@type": "BlogPosting", "headline": p["title"], "url": p["url"],
+                            "datePublished": p["date"].isoformat()} for p in posts[:20]]}]
+    return layout(SITE_NAME, HOME_DESC, body, SITE_URL + "/", og_type="website",
+                  schema=schema, current="/", page_title=HOME_TITLE)
+
+
+def render_hub(key, posts):
+    c = CATEGORIES[key]
+    mine = [p for p in posts if p["category"] == key]
+    cards = "\n".join(post_card(p) for p in mine)
+    body = f"""<section class="page"><div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li>{c['name']}</li></ol></nav>
+      <h1>{html.escape(c['title'])}</h1>
+      <p class="lede">{html.escape(c['intro'])}</p>
+      <p class="section-title">{len(mine)} posts, newest first</p>
+      {cards}
+    </div></section>"""
+    schema = [website_schema(), org_schema(),
+              {"@type": "CollectionPage", "@id": f"{SITE_URL}/{key}/#page", "url": f"{SITE_URL}/{key}/",
+               "name": c["page_title"], "description": c["description"],
+               "isPartOf": {"@id": f"{SITE_URL}/#website"},
+               "breadcrumb": {"@id": f"{SITE_URL}/{key}/#crumbs"},
+               "hasPart": [{"@type": "BlogPosting", "headline": p["title"], "url": p["url"],
+                            "datePublished": p["date"].isoformat()} for p in mine]},
+              {"@type": "BreadcrumbList", "@id": f"{SITE_URL}/{key}/#crumbs", "itemListElement": [
+                  {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE_URL + "/"},
+                  {"@type": "ListItem", "position": 2, "name": c["name"], "item": f"{SITE_URL}/{key}/"}]}]
+    return layout(c["title"], c["description"], body, f"{SITE_URL}/{key}/", og_type="website",
+                  schema=schema, current=f"/{key}/", page_title=f"{c['page_title']} | {SITE_NAME}")
+
+
+def related_posts(p, posts, n=3):
+    lookup = by_slug(posts)
+    picks = []
+    for s in p["links"]:
+        if s in lookup and s != p["slug"] and lookup[s] not in picks:
+            picks.append(lookup[s])
+    same = [q for q in posts if q["category"] == p["category"] and q["slug"] != p["slug"] and q not in picks]
+    same.sort(key=lambda q: abs((q["date"] - p["date"]).days))
+    picks += same
+    if len(picks) < n:
+        picks += [q for q in posts if q["slug"] != p["slug"] and q not in picks]
+    return picks[:n]
+
+
+def render_post(p, posts):
+    canonical = p["url"]
+    cat = CATEGORIES[p["category"]]
     subtitle = f'<p class="subtitle">{html.escape(p["subtitle"])}</p>' if p["subtitle"] else ""
-    hero_img = ""
-    og_image = None
+    hero_img, og_image = "", None
     if p["png_name"]:
-        hero_img = f'<figure class="hero-img"><img src="{p["png_name"]}" alt="{html.escape(p["alt"], quote=True)}" width="1200" height="1200"></figure>'
+        hero_img = f'<figure class="hero-img"><img src="{p["png_name"]}" alt="{html.escape(p["alt"], quote=True)}" width="1200" height="1200" fetchpriority="high"></figure>'
         og_image = f"{canonical}{p['png_name']}"
+    short = ""
+    if p["short"]:
+        short = f'<div class="short-answer"><span class="label">In short</span><p>{_inline(p["short"])}</p></div>'
+    updated = ""
+    if p["modified"] > p["date"]:
+        updated = f'<span>Updated <time datetime="{p["modified"].isoformat()}">{fmt_date(p["modified"])}</time></span>'
+
+    rel = related_posts(p, posts)
+    related = ""
+    if rel:
+        related = '<aside class="related"><h2>Read next</h2><ul>' + "".join(
+            f'<li><a href="/p/{q["slug"]}/">{html.escape(q["title"])}</a><span>{html.escape(q["meta"] or "")}</span></li>'
+            for q in rel) + '</ul></aside>'
+
+    # prev = older, next = newer (posts is newest-first)
+    idx = next(i for i, q in enumerate(posts) if q["slug"] == p["slug"])
+    older = posts[idx + 1] if idx + 1 < len(posts) else None
+    newer = posts[idx - 1] if idx > 0 else None
+    pager = ""
+    if older or newer:
+        o = f'<a href="/p/{older["slug"]}/" rel="prev"><small>Older</small>{html.escape(older["title"])}</a>' if older else "<span></span>"
+        nw = f'<a href="/p/{newer["slug"]}/" rel="next" style="text-align:right"><small>Newer</small>{html.escape(newer["title"])}</a>' if newer else "<span></span>"
+        pager = f'<nav class="pager" aria-label="Older and newer posts">{o}{nw}</nav>'
+
+    author_box = f"""<aside class="author-box">
+        <img src="/about/family-700.jpg" alt="{AUTHOR} with his family" width="64" height="64" loading="lazy">
+        <div><p class="name">Written by <a href="/about/">{AUTHOR}</a></p>
+        <p>{html.escape(AUTHOR_BIO)} <a href="/about/">More about me</a>.</p></div>
+      </aside>"""
+
     body = f"""<article class="article"><div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/{p['category']}/">{cat['name']}</a></li><li>{html.escape(p['title'])}</li></ol></nav>
       <div class="article-head">
-        <div class="meta"><span class="tag">{p['category']}</span><span>{d}</span><span>by {AUTHOR}</span></div>
+        <div class="meta"><a class="tag" href="/{p['category']}/">{cat['name']}</a><span><time datetime="{p['date'].isoformat()}">{fmt_date(p['date'])}</time></span>{updated}<span>by <a href="/about/" rel="author">{AUTHOR}</a></span><span>{p['minutes']} min read</span></div>
         <h1>{html.escape(p['title'])}</h1>
         {subtitle}
       </div>
+      {short}
       {hero_img}
       <div class="body">{p['body_html']}</div>
+      {author_box}
+      {related}
+      {pager}
       {POST_CTA}
     </div></article>"""
-    return layout(p["title"], p["meta"], body, canonical, og_image=og_image)
+
+    article = {
+        "@type": "BlogPosting",
+        "@id": f"{canonical}#article",
+        "mainEntityOfPage": {"@type": "WebPage", "@id": canonical},
+        "url": canonical,
+        "headline": p["title"],
+        "description": p["meta"],
+        "datePublished": f"{p['date'].isoformat()}T09:00:00-04:00",
+        "dateModified": f"{p['modified'].isoformat()}T09:00:00-04:00",
+        "author": {"@id": f"{SITE_URL}/#david"},
+        "publisher": {"@id": f"{SITE_URL}/#organization"},
+        "isPartOf": {"@id": f"{SITE_URL}/#website"},
+        "articleSection": cat["name"],
+        "inLanguage": "en-US",
+        "wordCount": p["words"],
+        "isAccessibleForFree": True,
+    }
+    if p["short"]:
+        article["abstract"] = plain_text(p["short"])
+    if og_image:
+        article["image"] = {"@type": "ImageObject", "url": og_image, "width": 1200, "height": 1200}
+    if p["subtitle"]:
+        article["alternativeHeadline"] = p["subtitle"]
+    if p["affiliate"]:
+        article["mentions"] = {"@type": "Organization", "name": "CrowdHealth", "url": "https://www.joincrowdhealth.com/"}
+    schema = [article, person_schema(), org_schema(), website_schema(),
+              {"@type": "BreadcrumbList", "@id": f"{canonical}#crumbs", "itemListElement": [
+                  {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE_URL + "/"},
+                  {"@type": "ListItem", "position": 2, "name": cat["name"], "item": f"{SITE_URL}/{p['category']}/"},
+                  {"@type": "ListItem", "position": 3, "name": p["title"], "item": canonical}]}]
+    if p["faqs"]:
+        schema.append({"@type": "FAQPage", "@id": f"{canonical}#faq", "mainEntity": [
+            {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}}
+            for q, a in p["faqs"]]})
+    extra = (f'<meta property="article:published_time" content="{p["date"].isoformat()}">\n'
+             f'<meta property="article:modified_time" content="{p["modified"].isoformat()}">\n'
+             f'<meta property="article:author" content="{AUTHOR_URL}">\n'
+             f'<meta property="article:section" content="{cat["name"]}">\n')
+    if older:
+        extra += f'<link rel="prev" href="{older["url"]}">\n'
+    if newer:
+        extra += f'<link rel="next" href="{newer["url"]}">\n'
+    page_title = f"{p['title_tag'] or p['title']} | {SITE_NAME}"
+    return layout(p["title"], p["meta"], body, canonical, og_image=og_image, schema=schema,
+                  current=f"/{p['category']}/", extra_head=extra, page_title=page_title)
 
 
-def render_page(title, md_body, slug, description, figure="", page_class="", og_image=None):
+def toc_html(md):
+    """Jump links for a long page: one entry per ## heading."""
+    used = set()
+    items = []
+    for line in md.split("\n"):
+        s = line.strip()
+        if s.startswith("### "):
+            heading_id(s[4:].strip(), used)
+        elif s.startswith("## "):
+            t = s[3:].strip()
+            items.append(f'<li><a href="#{heading_id(t, used)}">{_inline(t)}</a></li>')
+    if not items:
+        return ""
+    return '<nav class="toc" aria-label="On this page"><strong>On this page</strong><ol>' + "".join(items) + '</ol></nav>'
+
+
+def render_page(title, md_body, slug, description, figure="", page_class="", og_image=None,
+                schema=None, toc=False, page_title=None, lede=None):
     body_html = md_to_html(md_body, drop_email_cta=False)
     cls = f"page {page_class}".strip()
+    lede_html = f'<p class="lede">{_inline(lede)}</p>' if lede else ""
     body = f"""<section class="{cls}"><div class="wrap">
       <div>
+        <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li>{html.escape(title)}</li></ol></nav>
         <h1>{html.escape(title)}</h1>
+        {lede_html}
+        {toc_html(md_body) if toc else ""}
         <div class="body">{body_html}</div>
       </div>
       {figure}
     </div></section>"""
-    return layout(title, description, body, f"{SITE_URL}/{slug}/", og_image=og_image)
+    og_size = (1400, 1750) if og_image and og_image.endswith("family.jpg") else None
+    return layout(title, description, body, f"{SITE_URL}/{slug}/", og_image=og_image,
+                  og_type="website", schema=schema, current=f"/{slug}/", og_size=og_size,
+                  page_title=page_title)
 
 
 # About page photo: black-and-white family portrait, 4:5, two sizes for srcset.
 ABOUT_PHOTO = SITE_DIR / "about-family.jpg"          # 1400x1750
 ABOUT_PHOTO_SM = SITE_DIR / "about-family-700.jpg"   # 700x875
-ABOUT_PHOTO_ALT = ("Black and white photo of David kneeling with his family, "
-                   "everyone laughing, in front of giant paper letters.")
+ABOUT_PHOTO_ALT = ("Black and white photo of David Dewese kneeling with his wife and two "
+                   "daughters, everyone laughing, in front of giant paper letters.")
 ABOUT_PHOTO_CAPTION = "The whole reason I do the homework."
 
 
@@ -495,37 +1035,139 @@ def load_page_md(filename):
 
 
 # ----------------------------------------------------------------------------
-# Feeds
+# Feeds, llms.txt, sitemap, static extras
 # ----------------------------------------------------------------------------
 
 def render_rss(posts):
     items = []
-    for p in posts[:20]:
-        link = f"{SITE_URL}/p/{p['slug']}/"
-        pub = p["date"].strftime("%a, %d %b %Y 09:00:00 +0000")
+    for p in posts[:30]:
+        pub = p["date"].strftime("%a, %d %b %Y 09:00:00 -0400")
+        content = p["body_html"]
+        if p["short"]:
+            content = f"<p><strong>In short:</strong> {_inline(p['short'])}</p>" + content
+        content = content.replace('src="' + (p["png_name"] or "\x00"), f'src="{p["url"]}{p["png_name"]}"')
+        content = re.sub(r'href="/', f'href="{SITE_URL}/', content)
         items.append(f"""<item>
       <title>{html.escape(p['title'])}</title>
-      <link>{link}</link>
-      <guid>{link}</guid>
+      <link>{p['url']}</link>
+      <guid isPermaLink="true">{p['url']}</guid>
       <pubDate>{pub}</pubDate>
+      <dc:creator>{AUTHOR}</dc:creator>
+      <category>{CATEGORIES[p['category']]['name']}</category>
       <description>{html.escape(p['meta'] or '')}</description>
+      <content:encoded><![CDATA[{content}]]></content:encoded>
     </item>""")
     return f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel>
     <title>{SITE_NAME}</title>
     <link>{SITE_URL}/</link>
-    <description>{SITE_TAGLINE}</description>
+    <atom:link href="{SITE_URL}/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>{html.escape(HOME_DESC)}</description>
     <language>en-us</language>
+    <lastBuildDate>{TODAY.strftime("%a, %d %b %Y 09:00:00 -0400")}</lastBuildDate>
     {"".join(items)}
 </channel></rss>"""
 
 
-def render_sitemap(posts, page_slugs):
-    urls = [SITE_URL + "/"]
-    urls += [f"{SITE_URL}/{s}/" for s in page_slugs]
-    urls += [f"{SITE_URL}/p/{p['slug']}/" for p in posts]
-    body = "".join(f"<url><loc>{u}</loc></url>" for u in urls)
-    return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">{body}</urlset>'
+def render_sitemap(posts, pages):
+    """pages = [(url, lastmod_date)]"""
+    entries = []
+    for url, mod in pages:
+        entries.append(f"<url><loc>{url}</loc><lastmod>{mod.isoformat()}</lastmod></url>")
+    for p in posts:
+        entries.append(f"<url><loc>{p['url']}</loc><lastmod>{p['modified'].isoformat()}</lastmod></url>")
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">' + "".join(entries) + '</urlset>')
+
+
+def render_llms(posts):
+    lookup = by_slug(posts)
+    out = [f"# {SITE_NAME}", "",
+           f"> Plain-English help with money, medical bills, health insurance, health sharing, and "
+           f"saving in bitcoin, written by {AUTHOR}: a regular guy with a full-time job and a family of "
+           f"four who uses these things himself (his family left health insurance for CrowdHealth, a "
+           f"health sharing service). Not a financial advisor. Every post is short, first-person, and "
+           f"explains one idea with a plain analogy. No jargon, no hype.", "",
+           "Site: " + SITE_URL + "/. Every page is free and has no paywall. Posts live at /p/<slug>/. "
+           "Full text of every post is in /llms-full.txt. Categories: Money, Health (medical bills, "
+           "insurance, health sharing), Bitcoin (saving, not gambling).", "",
+           "## Start here", "",
+           f"- [Start Here]({SITE_URL}/start-here/): the reading paths and the three posts to read first.",
+           f"- [FAQ]({SITE_URL}/faq/): short answers to the most common money, medical bill, health sharing, and bitcoin questions.",
+           f"- [About David Dewese]({SITE_URL}/about/): who writes this, how he researches, how the site makes money.", ""]
+    for s in START_HERE_SLUGS:
+        if s in lookup:
+            p = lookup[s]
+            out.append(f"- [{p['title']}]({p['url']}): {p['meta']}")
+    for key, c in CATEGORIES.items():
+        out += ["", f"## {c['title']}", "", f"Hub: {SITE_URL}/{key}/", ""]
+        for p in posts:
+            if p["category"] == key:
+                out.append(f"- [{p['title']}]({p['url']}): {p['meta']}")
+    out += ["", "## Optional", "",
+            f"- [Full text of every post]({SITE_URL}/llms-full.txt)",
+            f"- [RSS feed]({SITE_URL}/rss.xml)",
+            f"- [Sitemap]({SITE_URL}/sitemap.xml)", ""]
+    return "\n".join(out)
+
+
+def render_llms_full(posts):
+    out = [f"# {SITE_NAME}: full text of every post", "",
+           f"> {HOME_DESC}", "",
+           f"Author: {AUTHOR} ({AUTHOR_URL}). Site: {SITE_URL}/. Each post below starts with its URL, "
+           "publish date, and category.", ""]
+    for p in posts:
+        out += ["", "---", "", f"# {p['title']}", "",
+                f"URL: {p['url']}", f"Published: {p['date'].isoformat()}",
+                f"Updated: {p['modified'].isoformat()}", f"Category: {CATEGORIES[p['category']]['name']}",
+                f"Author: {AUTHOR}", ""]
+        if p["subtitle"]:
+            out += [f"*{p['subtitle']}*", ""]
+        if p["short"]:
+            out += [f"**In short:** {p['short']}", ""]
+        body = re.sub(r'\]\((/p/[^)]+)\)', lambda m: f"]({SITE_URL}{m.group(1)})",
+                      re.sub(r'\]\(https?://(?:www\.)?normaltownusa\.com(/p/[^)]+?)/?\)',
+                             lambda m: f"]({SITE_URL}{m.group(1)}/)", p["body_md"]))
+        out += [body.strip(), ""]
+    return "\n".join(out)
+
+
+HEADERS = """# Cloudflare Pages headers (https://developers.cloudflare.com/pages/configuration/headers/)
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/styles.css
+  Cache-Control: public, max-age=31536000, immutable
+
+/p/*.png
+  Cache-Control: public, max-age=2592000
+
+/about/*.jpg
+  Cache-Control: public, max-age=2592000
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+
+/llms-full.txt
+  Content-Type: text/plain; charset=utf-8
+"""
+
+
+def render_404():
+    body = """<section class="page"><div class="wrap"><div>
+      <h1>That page isn't here.</h1>
+      <div class="body"><p>Maybe the link was old, or maybe I moved something. Either way, no harm done.</p>
+      <p>Try the <a href="/">home page</a>, the <a href="/start-here/">Start Here</a> page, or the <a href="/faq/">FAQ</a>.</p></div>
+    </div></div></section>"""
+    return layout("Page not found", "That page isn't here. Try the home page or Start Here.",
+                  body, SITE_URL + "/404.html", og_type="website",
+                  extra_head='<meta name="robots" content="noindex">\n')
 
 
 # ----------------------------------------------------------------------------
@@ -537,6 +1179,26 @@ def write(path, content):
     path.write_text(content, encoding="utf-8")
 
 
+def check_links(posts, page_slugs):
+    """Warn about internal links that point nowhere."""
+    valid = {f"/p/{p['slug']}/" for p in posts} | {f"/{s}/" for s in page_slugs} | {"/", "/rss.xml", "/llms.txt"}
+    valid |= {f"/p/{s}/" for s in UNPUBLISHED}
+    valid |= {f"/{k}/" for k in CATEGORIES}
+    problems = []
+    for p in posts:
+        for m in re.finditer(r'\]\(([^)]+)\)', p["body_md"]):
+            url = normalise_url(m.group(1)).split("#")[0]
+            if url.startswith("/") and url not in valid:
+                problems.append((p["slug"], url))
+    for m in re.finditer(r'\]\(([^)]+)\)', "\n".join((SITE_DIR / f).read_text(encoding="utf-8") for f in ("start-here.md", "faqs.md", "author-bio.md") if (SITE_DIR / f).exists())):
+        url = normalise_url(m.group(1)).split("#")[0]
+        if url.startswith("/") and url not in valid:
+            problems.append(("site page", url))
+    for slug, url in problems:
+        print(f"  WARNING: /p/{slug}/ links to missing page {url}")
+    return problems
+
+
 def main():
     if DIST.exists():
         shutil.rmtree(DIST)
@@ -544,31 +1206,54 @@ def main():
 
     posts = load_posts()
 
-    # styles
     write(DIST / "styles.css", CSS)
     shutil.copytree(LOGO_DIR, DIST / "assets")
+    og_default = SITE_DIR / "og-default.png"
+    if og_default.exists():
+        shutil.copy(og_default, DIST / "assets" / "og-default.png")
 
-    # home
     write(DIST / "index.html", render_home(posts))
+    for key in CATEGORIES:
+        write(DIST / key / "index.html", render_hub(key, posts))
 
-    # posts + their images
     for p in posts:
-        write(DIST / "p" / p["slug"] / "index.html", render_post(p))
+        write(DIST / "p" / p["slug"] / "index.html", render_post(p, posts))
         if p["png"]:
             shutil.copy(p["png"], DIST / "p" / p["slug"] / p["png_name"])
 
     # static pages from site/*.md
     page_map = {
-        "start-here.md": ("start-here", "Where to begin with Normaltown USA."),
-        "faqs.md": ("faq", "Common questions about money, healthcare, and Normaltown USA."),
-        "author-bio.md": ("about", f"About {AUTHOR} and Normaltown USA."),
+        "start-here.md": {
+            "slug": "start-here",
+            "desc": ("New to Normaltown USA? Here's who it's for, what I write about, the three posts "
+                     "to read first, and where my family actually landed on health insurance."),
+            "page_title": "Start Here: Plain-English Money and Health Help, and Where to Begin",
+        },
+        "faqs.md": {
+            "slug": "faq",
+            "desc": ("Short, plain-English answers to the questions I get most: why you feel broke on a "
+                     "good income, why you got a big bill with insurance, what health sharing costs and "
+                     "who it's wrong for, and how to start with bitcoin."),
+            "page_title": "FAQ: Money, Medical Bills, Health Sharing, and Bitcoin Questions Answered Plainly",
+            "toc": True,
+        },
+        "author-bio.md": {
+            "slug": "about",
+            "desc": (f"About {AUTHOR}: a regular guy with a full-time job and a family of four who "
+                     "explains money, medical bills, health sharing, and bitcoin in plain English. "
+                     "How I research, how this site makes money, and what I'm not."),
+            "page_title": f"About {AUTHOR} and Normaltown USA",
+        },
     }
-    page_slugs = []
-    for fname, (slug, desc) in page_map.items():
+    page_slugs, sitemap_pages = [], [(SITE_URL + "/", TODAY)]
+    for fname, cfg in page_map.items():
+        slug = cfg["slug"]
         title, body = load_page_md(fname)
         if title is None:
             continue
         figure, page_class, og_image = "", "", None
+        schema = [website_schema(), org_schema()]
+        page_url = f"{SITE_URL}/{slug}/"
         if slug == "about" and ABOUT_PHOTO.exists():
             figure, page_class = about_figure(), "about"
             og_image = f"{SITE_URL}/about/family.jpg"
@@ -576,21 +1261,57 @@ def main():
             shutil.copy(ABOUT_PHOTO, DIST / slug / "family.jpg")
             if ABOUT_PHOTO_SM.exists():
                 shutil.copy(ABOUT_PHOTO_SM, DIST / slug / "family-700.jpg")
+            schema.append(person_schema(full=True))
+            schema.append({"@type": "AboutPage", "@id": page_url + "#page", "url": page_url,
+                           "name": cfg["page_title"], "description": cfg["desc"],
+                           "mainEntity": {"@id": f"{SITE_URL}/#david"},
+                           "isPartOf": {"@id": f"{SITE_URL}/#website"}})
+        elif slug == "faq":
+            faqs = extract_faqs(body, every_h3=True)
+            schema.append({"@type": "FAQPage", "@id": page_url + "#faq", "url": page_url,
+                           "name": cfg["page_title"], "description": cfg["desc"],
+                           "isPartOf": {"@id": f"{SITE_URL}/#website"},
+                           "author": {"@id": f"{SITE_URL}/#david"},
+                           "mainEntity": [{"@type": "Question", "name": q,
+                                           "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faqs]})
+        else:
+            schema.append({"@type": "WebPage", "@id": page_url + "#page", "url": page_url,
+                           "name": cfg["page_title"], "description": cfg["desc"],
+                           "isPartOf": {"@id": f"{SITE_URL}/#website"},
+                           "author": {"@id": f"{SITE_URL}/#david"}})
         write(DIST / slug / "index.html",
-              render_page(title, body, slug, desc, figure=figure, page_class=page_class, og_image=og_image))
+              render_page(title, body, slug, cfg["desc"], figure=figure, page_class=page_class,
+                          og_image=og_image, schema=schema, toc=cfg.get("toc", False),
+                          page_title=f"{cfg['page_title']} | {SITE_NAME}"))
         page_slugs.append(slug)
+        sitemap_pages.append((page_url, git_modified(SITE_DIR / fname) or TODAY))
+    for key in CATEGORIES:
+        sitemap_pages.append((f"{SITE_URL}/{key}/", max([p["modified"] for p in posts if p["category"] == key] or [TODAY])))
 
-    # feeds + robots
+    # feeds, llms.txt, robots, headers, 404
     write(DIST / "rss.xml", render_rss(posts))
-    write(DIST / "sitemap.xml", render_sitemap(posts, page_slugs))
+    write(DIST / "sitemap.xml", render_sitemap(posts, sitemap_pages))
+    write(DIST / "llms.txt", render_llms(posts))
+    write(DIST / "llms-full.txt", render_llms_full(posts))
+    write(DIST / "_headers", HEADERS)
+    write(DIST / "404.html", render_404())
     robots = SITE_DIR / "robots.txt"
     robots_txt = robots.read_text(encoding="utf-8") if robots.exists() else "User-agent: *\nAllow: /\n"
     if "Sitemap:" not in robots_txt:
         robots_txt = robots_txt.rstrip() + f"\n\nSitemap: {SITE_URL}/sitemap.xml\n"
     write(DIST / "robots.txt", robots_txt)
 
-    print(f"Built {len(posts)} posts + {len(page_slugs)} pages -> {DIST}")
+    problems = check_links(posts, page_slugs)
+    no_short = [p["slug"] for p in posts if not p["short"]]
+    no_faq = [p["slug"] for p in posts if not p["faqs"]]
+    print(f"Built {len(posts)} posts + {len(page_slugs)} pages + {len(CATEGORIES)} hubs -> {DIST}")
     print("Latest:", posts[0]["title"] if posts else "(none)")
+    if no_short:
+        print(f"  {len(no_short)} posts without an 'In short' blockquote: {', '.join(no_short[:5])}{'...' if len(no_short) > 5 else ''}")
+    if no_faq:
+        print(f"  {len(no_faq)} posts without a Questions section: {', '.join(no_faq[:5])}{'...' if len(no_faq) > 5 else ''}")
+    if problems:
+        print(f"  {len(problems)} broken internal links (see warnings above)")
 
 
 if __name__ == "__main__":

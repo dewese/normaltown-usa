@@ -3,6 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `why-cash-prices-beat-insured-prices` |
+| **Title tag** | `Why Cash Prices Beat Insured Prices at the Hospital` |
 | **Subtitle** | `The same procedure can cost less in cash than through insurance. Here's why.` |
 | **Meta description** | `Why the cash price often beats the insured price for the same procedure: it's the real price with the insurance hassle stripped out. How to use it every time.` |
 | **Category** | Health |

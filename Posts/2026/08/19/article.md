@@ -1,5 +1,7 @@
 # Health Insurance's Built-In Conflict of Interest
 
+> Your health insurance company makes more money when it pays out less. The company deciding whether to pay your claim is the same company that keeps the money if it doesn't. That's a built-in conflict of interest, like a referee paid by one team. Nobody has to be evil for it to tilt against you.
+
 Here's a thing that took me too long to understand. Your health insurance company makes more money when it pays out less. That's not a scandal. It's just how the business is built. And once you see it, a lot of frustrating experiences start to make sense.
 
 ## The referee paid by one team
@@ -30,6 +32,16 @@ One health-sharing community I've looked into is CrowdHealth, which charges a fl
 
 Health insurance has a referee who's paid by one of the teams. Nobody has to be evil for that to work against you. It's just a setup where the company earns more by paying you less. Knowing that won't fix your next claim, but it does explain the runaround, and it's worth knowing there are other ways to handle a big medical bill.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Why do insurance companies deny claims?
+
+Because a dollar they don't pay out is a dollar they keep. So the process is built to be slow and full of doors: pre-approvals, technicalities, bills that bounce back three times. Every door is a chance for the claim to fall through. It's the setup, not the people.
+
+### Is there a health setup without this conflict?
+
+Health sharing is one. The community pools money to cover each other's big bills and has no leftover to keep as profit, so it has no reason to fight your bill. My family uses CrowdHealth, which charges a flat $60 a month per person. It's not insurance, though, and it isn't right for everyone. Start with [What Is Health Sharing?](/p/what-is-health-sharing/).
+
+### Does knowing this help me with my next claim?
+
+It explains the runaround, which lowers the blood pressure. Practically: get pre-approvals in writing, ask for the itemized bill, appeal denials, and ask for the cash price when you're under your deductible. And know that other ways to handle a big bill exist.

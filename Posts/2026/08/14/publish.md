@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `the-dollars-slow-leak` |
-| **Title tag** | `The Dollar's Slow Leak, Explained Simple` |
+| **Title tag** | `The Dollar's Slow Leak: Why Money Loses Value Over Time` |
 | **Subtitle** | `Why a dollar buys less every year, and it's not your fault.` |
 | **Meta description** | `Why does money lose value over time? Because more dollars can always be made. Here's inflation explained simply, with a slow-leaking tire.` |
 | **Category** | Money |

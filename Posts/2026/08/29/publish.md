@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `what-is-a-bitcoin-wallet` |
-| **Title tag** | `What a Bitcoin Wallet Actually Is` |
+| **Title tag** | `What a Bitcoin Wallet Actually Is (a Mailbox, Not a Coin Purse)` |
 | **Subtitle** | `It's a mailbox, not a coin purse. Here's what that changes.` |
 | **Meta description** | `What is a bitcoin wallet, in simple terms? It's a mailbox: an address anyone can send to, and a key only you should open. The coins live on a shared record.` |
 | **Category** | Money |

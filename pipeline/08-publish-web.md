@@ -16,15 +16,38 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `kebab-case-slug` |
+| **Title tag** | `Optional keyword-first SEO title, ≤70 chars (H1 stays the hooky one)` |
 | **Subtitle** | `One-line subtitle shown under the title.` |
-| **Meta description** | `~150-char search/social description.` |
-| **Category** | Money  (or Health) |
+| **Meta description** | `~150-char search/social description (hard max 160).` |
+| **Category** | Money  (or Health, or Bitcoin) |
 
 - **Image:** `<name>.png` — Alt text: `plain description of the graphic`.
 - **Internal links:** list the /p/<slug>/ posts linked in the body.
 - **Affiliate:** CrowdHealth referral present? yes/no (if yes: disclosure + limits in body).
 ```
 The builder auto-derives the slug/description if a row is missing, but always set them.
+
+## `article.md` SEO/GEO structure (added 2026-09-06, every post has it)
+```
+# Title
+
+> In short: a 40-70 word self-contained answer with a specific number in it. This is
+> the box AI answer engines lift, so it must stand alone. One blockquote, right here.
+
+...body, with ## question-shaped headings, one analogy, "## The takeaway"...
+
+## Questions I get about this
+
+### A real question someone would type?
+
+40-70 word answer in David's voice. Link the related post with a root-relative
+link like [text](/p/slug/). 3-4 questions per post.
+
+*standard disclaimer if CrowdHealth is mentioned*
+```
+Rules: root-relative links (`/p/slug/`, trailing slash), no em dashes/ellipses, numbers
+where possible (GEO rewards fact density), first person. Linking to a post that isn't
+live yet is fine: the builder shows plain text until the day it publishes.
 
 ## Date-gated publishing (write ahead safely)
 `build.py` **only publishes posts dated today or earlier.** Future-dated folders are

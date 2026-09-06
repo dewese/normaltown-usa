@@ -1,5 +1,7 @@
 # What CrowdHealth Doesn't Cover
 
+> CrowdHealth doesn't share routine dental and vision, cosmetic procedures, expensive ongoing medications, some elective and lifestyle care, or pre-existing conditions until their waiting period is up. That's the design, not fine print. Sharing is for the big unexpected things, and the gaps are exactly why the monthly number stays low.
+
 The fastest way to trust something is to hear its honest limits before you hear its pitch. So instead of another list of what health sharing does, let me hand you the other list: the stuff it doesn't share, and how to plan around it. My family uses CrowdHealth, and knowing these gaps up front is exactly why we've never been blindsided. None of this is hidden, it's all in the guidelines, but let me put it in plain English.
 
 ## The big categories that aren't shared
@@ -32,6 +34,20 @@ The good news is that each gap has a simple, cheap workaround:
 ## The takeaway
 
 CrowdHealth doesn't cover routine dental and vision, cosmetic work, expensive ongoing meds, or pre-existing conditions before their waiting periods. That's not fine print, it's the design, and it's exactly why the monthly cost stays low. Know the gaps, plan the cheap workarounds, and you get the best of it: a strong, affordable backstop for the big stuff, with no nasty surprises.
+
+## Questions I get about this
+
+### Does CrowdHealth cover dental and vision?
+
+Not routine dental and vision. Cleanings, fillings, glasses, and contacts are everyday maintenance, not unexpected events. Pay cash, which is often reasonable, or add a low-cost standalone dental or vision plan. I explain how my family handles it in [Dental and Vision Without Insurance](/p/dental-and-vision-without-insurance/).
+
+### Does CrowdHealth cover prescriptions?
+
+Everyday generics you pay at the cash price, often a few dollars a month with a free discount tool. Medications tied to a health event ride along with the event. An expensive brand-name drug you take every month isn't what the model is built for.
+
+### Why doesn't health sharing cover everything?
+
+Because if the pool also paid for everyone's glasses, cleanings, and elective procedures, it would just be regular insurance with regular insurance prices. You're trading "covers every little thing" for "cheap and strong on the big things." For a healthy family, that's usually the better trade.
 
 Want to read the full guidelines yourself? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

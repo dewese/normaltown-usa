@@ -1,5 +1,7 @@
 # Where Your Raise Actually Went
 
+> Your raise landed on a down escalator. Taxes took the first bite before it hit your account, your spending quietly grew to match it, and prices rose under you at the same time. To keep the next one, give it a job before it arrives: send half straight to savings automatically, the day it starts.
+
 You got a raise. You were happy. And then a few months later you looked around and thought, wait, where did it go? I don't feel any richer.
 
 You're not imagining it, and you're not bad with money. Your raise was real. It just landed on a moving staircase.
@@ -34,6 +36,16 @@ That's the whole move. A raise you never see is a raise the escalator can't eat.
 
 Your raise didn't vanish. Taxes trimmed it, your spending grew to match it, and prices nudged up under it, all at once, like an escalator running down while you climb. Give the next one a job before it lands, and you finally start moving up for real.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### How much of a raise do I actually keep after taxes?
+
+Less than the headline number. A "$5,000 raise" often feels more like three-something once taxes come out before it lands. That's not a scam, just how it works, but it means the raise was smaller than it sounded from day one.
+
+### What should I do with a raise?
+
+Decide before it arrives. The day the raise kicks in, set an automatic transfer of part of it, even half, straight into savings. You never see it, so your lifestyle never grows to swallow it. A raise you never see is a raise the escalator can't eat.
+
+### Why do prices go up right when I earn more?
+
+They're going up for everyone all the time. The staircase moves under everybody, not just you. Rising prices mean the money you keep buys a little less, which is the [dollar's slow leak](/p/the-dollars-slow-leak/) measured in your grocery cart.

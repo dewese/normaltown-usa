@@ -1,5 +1,7 @@
 # Who Health Sharing Is Wrong For
 
+> Health sharing is the wrong tool if you have an ongoing condition that needs regular expensive care, if you need a signed, enforceable guarantee that bills get paid, if you take a pricey brand-name drug every month, or if you can't keep $500 set aside for an event. If that's you, a regular plan is the right tool, no shame in it.
+
 I write a fair bit about health sharing as a real option, so let me do the opposite today. This is who health sharing is wrong for. Because the honest truth is it's a great fit for some people and a bad fit for others, and pretending otherwise would make me exactly the kind of salesman this brand refuses to be.
 
 ## Right tool, wrong job
@@ -36,6 +38,16 @@ If you think you might be that person and want to look closer, the community I'v
 
 Health sharing is a motorcycle: great for the right job, wrong for hauling lumber. It's wrong for you if you have ongoing medical needs, if you require a legal guarantee, or if the community's rules don't fit your life. Know yourself first. The best money decision is the one you make with your eyes open, even when the answer is no.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Does health sharing cover pre-existing conditions?
+
+Not right away. With CrowdHealth, a condition you've had within the last few years isn't shared for the first two years, then it can be shared with a yearly cap. Something minor and well-controlled from years ago is treated differently from something you're being treated for today. Read the exact rule for your condition before you decide.
+
+### Can I use health sharing if I take expensive medication?
+
+Everyday generics at cash prices work fine, often a few dollars a month. An expensive brand-name drug you take every month is the real limit. Sharing isn't built for that, and I'd rather tell you now than after you switch.
+
+### Who is health sharing right for?
+
+Relatively healthy people and families who mostly want protection from the big surprise bill, want a much lower monthly cost, can keep $500 on hand, and are comfortable with a strong commitment instead of a legal contract. That's my family of four, which is why we use it.

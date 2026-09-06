@@ -1,5 +1,7 @@
 # What the Health Sharing Numbers Actually Say
 
+> The numbers behind CrowdHealth: more than 45,000 bills funded, single bills over $600,000, about a week on average to fund a complete eligible submission, cash-pay discounts commonly 25 to 85 percent, and a flat $60 per person monthly fee that doesn't rise with age. Strong track record. Not a legal guarantee, because it isn't insurance.
+
 I'm a stories guy, but stories can fool you. Anybody can find one happy customer or one horror story to prove whatever they already believe. So let's set the anecdotes aside for a minute and look at the actual numbers behind health sharing, specifically CrowdHealth, the service I use. Numbers don't have a sales pitch. Here's what they say, and what they don't.
 
 ## The numbers worth knowing
@@ -29,6 +31,20 @@ Whenever you're weighing anything with your money, do this. Ask for the track re
 ## The takeaway
 
 The numbers behind health sharing are strong and specific: tens of thousands of bills funded, six-figure bills included, funded in about a week on average, with big negotiated discounts keeping it cheap. They knock down the main fears. They don't turn a sharing community into an insurance guarantee, and that's the one honest asterisk. Weigh the real figures with clear eyes, and decide from there.
+
+## Questions I get about this
+
+### What's the biggest bill CrowdHealth has funded?
+
+More than $643,000 for a serious injury, with another over $437,000 for a newborn who needed intensive care. Those knock down the "sure, but what about a truly catastrophic bill?" fear.
+
+### How fast does CrowdHealth fund bills?
+
+About a week on average for a complete, eligible submission, with reimbursement a couple of days after approval. Faster than plenty of insurance reimbursements I've personally waited on.
+
+### Do these numbers guarantee my bill gets paid?
+
+No. "45,000 bills funded" describes what has happened, not a contractual promise about your specific future bill. Health sharing is not insurance. The history is genuinely reassuring and the limits are real, and an honest reading holds both.
 
 Want to see the current numbers for yourself? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

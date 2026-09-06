@@ -1,5 +1,7 @@
 # The $500 Question: How One Health Event Gets Paid
 
+> In health sharing, one health event, like a broken ankle and an ER visit, gets paid in a simple loop. You cover the first $500. A care advocate negotiates the bill down toward the cash price. Then the community funds the rest. It's neighbors passing the hat, with a small piece of skin in the game to keep it fair.
+
 If you've ever looked at health sharing and wondered "okay, but what actually happens when I get hurt?", this is for you. Let's walk through one real health event, step by step, in plain English.
 
 The short version: you cover the first $500, and the group covers the rest. Here's how that works.
@@ -37,9 +39,19 @@ Health sharing is not insurance. There's no legal promise the hat comes back ful
 
 When a big health event hits, health sharing works in a simple loop: you cover the first $500, the bill gets negotiated down, and the crowd passes the hat for the rest. It's an old idea, neighbors covering neighbors, with a small piece of skin in the game to keep it fair. Not insurance, but for the right person, a genuinely good deal.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### What counts as a health event in health sharing?
+
+One thing that happens to you: a broken arm, an appendix that has to come out, a trip to the ER. All the bills tied to that one event roll together. You cover the first $500 of the event, not $500 per bill.
+
+### Do I have to pay the hospital myself and wait to be reimbursed?
+
+With CrowdHealth, you submit the bills, the care advocate negotiates them, and the community funds the eligible amount. You're responsible for your $500 and for keeping every piece of paperwork. Read the guidelines for the exact steps before you join.
+
+### What if the crowd doesn't fund my bill?
+
+It can happen, and I won't pretend otherwise. Most of the time it's because the bill fell outside the written guidelines, like a pre-existing condition still in its waiting period. I cover the honest worst case in [What If the Crowd Doesn't Fund Your Bill?](/p/what-if-the-crowd-doesnt-fund-your-bill/).
 
 ---
 

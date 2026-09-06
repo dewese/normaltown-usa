@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `why-hard-to-make-money-holds-its-value` |
-| **Title tag** | `Why Hard-to-Make Money Holds Its Value` |
+| **Title tag** | `Why Hard-to-Make Money Holds Its Value: Gold, Dollars, Bitcoin` |
 | **Subtitle** | `Gold is heavy to dig up on purpose. That's the whole trick.` |
 | **Meta description** | `What makes money hold its value over time? Difficulty. Hard-to-make money holds value; easy-to-make money gets watered down. Explained with two IOUs and gold.` |
 | **Category** | Money |

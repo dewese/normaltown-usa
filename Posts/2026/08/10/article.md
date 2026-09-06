@@ -1,5 +1,7 @@
 # What "Scarce" Means for Your Money
 
+> Money holds its value when it's hard to make more of, and loses it when more can always be made. Front-row concert seats hold their worth because nobody can print more. Dollars slowly buy less for the opposite reason. Bitcoin has a hard cap written into its rules, but scarce doesn't automatically mean safe or valuable.
+
 Money holds its value when it's hard to make more of. That one idea explains a lot about why some things stay valuable and others slowly turn into dust. The fancy word is "scarce." Here's what it really means, in plain terms.
 
 ## Front-row seats
@@ -32,6 +34,16 @@ Scarce does not automatically mean safe, or valuable, or a good buy. Plenty of s
 
 Value sticks to things that are hard to make more of, and leaks out of things that aren't. Front-row seats hold their worth because you can't print more. Dollars slowly lose theirs because more can always be made. Once you see money through that one simple lens, a lot of confusing headlines suddenly make sense.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Why does the dollar lose value over time?
+
+Because more dollars can always be made, and when there's more of something, each one is worth a little less. It's nothing you did. It's what happens to anything that can be produced in unlimited amounts. I explain the slow leak with a flat tire in [The Dollar's Slow Leak](/p/the-dollars-slow-leak/).
+
+### Does scarcity make bitcoin valuable?
+
+Scarcity is one ingredient, not a guarantee. Bitcoin has a fixed limit on how many can ever exist, which is the same reason front-row seats and gold hold value. But people also have to want it and trust it, and the price still swings wildly in the short run.
+
+### Is scarce money always a good buy?
+
+No. Plenty of scarce things are worthless because nobody wants them. Scarcity is a lens for understanding money, not a green light to bet money you can't afford to lose. Keep the [saving-versus-gambling](/p/is-bitcoin-saving-or-gambling/) line honest.

@@ -3,6 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `health-sharing-and-prescriptions` |
+| **Title tag** | `Health Sharing and Prescriptions: How Meds Work Without Copays` |
 | **Subtitle** | `Everyday generics are often cheap. Expensive ongoing meds are the real limit.` |
 | **Meta description** | `How prescriptions work with health sharing: pay the cash price (often cheap for generics), event meds ride along, and know the limit on costly ongoing drugs.` |
 | **Category** | Health |

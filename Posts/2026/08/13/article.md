@@ -1,5 +1,7 @@
 # Your First $20 in Bitcoin, Step by Step
 
+> You can try bitcoin with $20 and no expertise. Pick a large, well-known app based in your country, use only money you'd be fine losing, buy your $20, then walk away and don't watch the price. The lesson is the point. The twenty bucks is just the tuition.
+
 You don't need to understand everything about bitcoin to try it. And you definitely don't need a pile of money. You can start with twenty dollars, just to learn by doing. Here's how, in plain steps.
 
 ## Dip a toe first
@@ -34,9 +36,19 @@ A fair warning, because this brand doesn't sell the shiny half and hide the rest
 
 You learn bitcoin the same way you learn a lake, by dipping a toe, not by reading the whole book first. Pick a boring, trusted app, use twenty dollars you can afford to lose, buy, and then leave it alone. The lesson is the point. The twenty bucks is just how you pay for it.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### What app should I use to buy bitcoin?
+
+A big, boring, established one, based in your country, that's easy to find real reviews for. The financial equivalent of a well-lit store on Main Street, not a stranger in a parking lot. If you have to squint to figure out who's behind it, close the tab.
+
+### Can I buy less than one bitcoin?
+
+Yes. Bitcoin splits into tiny fractions, so $20 buys you a small sliver. You don't need to buy a whole coin, and you never will need to.
+
+### What should I do after I buy?
+
+Leave it alone. Don't check the price every hour. Then, when you're ready for more, the calm next step is buying a little on a schedule, which I explain in [A Little Each Week Beats Betting It All](/p/a-little-each-week-beats-betting-it-all/). As your amount grows, learn about [wallets and keys](/p/what-is-a-bitcoin-wallet/).
 
 ---
 

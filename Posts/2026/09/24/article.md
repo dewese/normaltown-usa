@@ -1,5 +1,7 @@
 # Health Sharing vs. COBRA
 
+> COBRA keeps your exact work plan after you leave a job, but you pay the full price your employer used to hide, often well over a thousand dollars a month for a family. If you're healthy and just bridging to the next job, health sharing usually does it for a fraction. If you're mid-treatment or need an ironclad guarantee, keep COBRA.
+
 If you've ever lost or left a job, you've met COBRA, and you probably remember the sticker shock. COBRA lets you keep your old work health insurance for a while after you leave, which sounds great until you see the price. Suddenly you're paying the full cost your employer used to hide from you, and it's brutal. When that letter shows up, health sharing is worth a serious look. Let me compare them honestly.
 
 ## What COBRA actually is
@@ -35,6 +37,20 @@ It really comes down to two questions. Are you healthy right now, and can you ha
 ## The takeaway
 
 COBRA keeps your exact plan but charges you the brutal full price, which makes sense only when you need continuity, like being mid-treatment. If you're healthy and just bridging a gap between jobs, health sharing usually does the job for a fraction of the cost, and it isn't tied to the job you left. Match the tool to your situation, and don't overpay for a guarantee you may not need.
+
+## Questions I get about this
+
+### Why is COBRA so expensive?
+
+Because the hidden employer subsidy is gone. At your job, your employer quietly paid a big chunk of the premium. COBRA lets you keep the same plan, but now you pay the whole thing yourself, employer's share included, plus a small admin fee.
+
+### When is COBRA the right choice?
+
+When you need continuity. It's the same plan and network, it's real insurance with a legal guarantee, and it keeps the deductible you've already paid toward this year. If you're in the middle of a serious health situation, do not switch away from real coverage to save money.
+
+### Does health sharing end when my COBRA window would?
+
+No. Health sharing isn't tied to a job you no longer have, so it doesn't expire after the COBRA period. It moves with you to the next job, self-employment, or whatever comes next.
 
 Between jobs and staring at a COBRA quote? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `why-i-dont-try-to-time-the-price` |
-| **Title tag** | `Why I Don't Try to Time the Price` |
+| **Title tag** | `Why I Don't Try to Time the Bitcoin Price (and What I Do Instead)` |
 | **Subtitle** | `The best day to plant a tree was years ago. The second best is today.` |
 | **Meta description** | `Should you wait for bitcoin to drop before you buy? Almost nobody times the market. Here's why I don't try, and the calm habit I use instead.` |
 | **Category** | Money |

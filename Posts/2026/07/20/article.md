@@ -1,5 +1,7 @@
 # What Is Health Sharing? An Honest Plain-English Guide
 
+> Health sharing is a group of regular people who agree to pay each other's big medical bills instead of paying an insurance company. With CrowdHealth, my family's group, you pay a flat monthly fee, cover the first $500 of a health event, and the crowd funds the rest. It's not insurance, and there's no legal guarantee a bill gets paid.
+
 Health sharing is a group of regular people who agree to pay each other's big medical bills, instead of handing that job to an insurance company.
 
 That's the whole idea in one sentence. No jargon. But that one sentence changes a lot, so let's walk through it slowly, the good and the bad, so you can tell if it's a fit for you or a trap for you.
@@ -63,9 +65,23 @@ You don't have to decide today. You just have to know the option exists, because
 
 Health sharing is neighbors passing the hat, scaled up to a whole country. It's cheaper and its incentives point the right way, but it trades a legal guarantee for a group promise. For the right person that's a fantastic deal. For the wrong person it's a real risk. Now you know which questions to ask to tell which one you are.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Is health sharing the same as health insurance?
+
+No. Insurance is a legal contract where a company must pay covered claims. Health sharing is a community that agrees to share eligible bills by a set of written rules. Strong track record, but no legal guarantee. That's the trade you make for a much lower monthly cost.
+
+### How much does health sharing cost per month?
+
+With CrowdHealth it's a flat $60 a month per adult for the service, plus a modest, variable amount that goes to other members' bills. When you have a health event, you cover the first $500 and the community shares the rest. I break the real numbers down in [What Health Sharing Actually Costs Each Month](/p/the-real-monthly-cost-of-health-sharing/).
+
+### Who is health sharing wrong for?
+
+Anyone who needs a legal guarantee that bills get paid, anyone with an expensive ongoing condition, and anyone who can't keep $500 set aside for an event. Pre-existing conditions have waiting rules. If that's you, a regular plan is the right tool. Full honesty in [Who Health Sharing Is Wrong For](/p/who-health-sharing-is-wrong-for/).
+
+### Does your family actually use health sharing?
+
+Yes. My wife, our two girls, and I are on CrowdHealth. I write about what we actually do, not what a brochure says, and I'll always tell you the limits in the same breath.
 
 ---
 

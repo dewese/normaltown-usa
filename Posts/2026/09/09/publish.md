@@ -3,6 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `the-500-you-pay-vs-the-deductible-you-dont` |
+| **Title tag** | `The $500 Commitment vs. an Insurance Deductible, Side by Side` |
 | **Subtitle** | `$500 per event is a step. A deductible is a wall you climb every year.` |
 | **Meta description** | `Health sharing's $500 per-event commitment vs. a multi-thousand-dollar yearly deductible. A real example, the honest trade-off, and why the shape matters.` |
 | **Category** | Health |

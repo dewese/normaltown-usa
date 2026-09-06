@@ -1,5 +1,7 @@
 # Bitcoin's Wild Price Swings, Explained Calmly
 
+> Bitcoin's price swings because it's still young and small compared to dollars or gold, like a new dirt road that isn't paved yet. Less traffic, bigger bumps. A wild ride isn't proof it's broken, and calm isn't proof of safety. The swings just mean: use money you won't need soon, buy a little at a time, and stop watching daily.
+
 Bitcoin's price jumps around. A lot. It can be up big one month and down big the next, enough to make anybody nervous. That's real, and it's worth understanding calmly instead of getting swept up in the drama. Here's why it swings, and what it does and doesn't tell you.
 
 ## The new road that isn't paved yet
@@ -28,6 +30,16 @@ The swings are only scary if you're watching the price every day and using money
 
 Bitcoin swings because it's a young, small road that isn't paved yet, so every bump feels big. That's not proof it's broken, and calm isn't proof of safety. The swings just mean: use money you won't need soon, buy a little at a time, and stop watching the daily price. The bumps feel a lot smaller from there.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Is bitcoin's volatility a sign it's a bad investment?
+
+Not by itself. The bumps are about how new and small it is, not a verdict on where it's headed. Plenty of calm, steady things have quietly lost value, and plenty of bumpy things have climbed over time. Size your amount for the bumps and they stop mattering.
+
+### Will bitcoin ever stop being so volatile?
+
+The general expectation is that as more people use it over the years, the ride smooths out, the way a road gets smoother once it's paved and busy. Nobody can promise that. That's the logic, not a guarantee.
+
+### How do I handle the price drops without panicking?
+
+Use money you won't miss, buy slowly on a schedule, and don't stare at the screen. The swings are only scary if you're watching every day and using money you can't spare. Take away both and the drama mostly disappears.

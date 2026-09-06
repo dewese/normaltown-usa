@@ -1,5 +1,7 @@
 # The Cash Price Secret Hospitals Don't Advertise
 
+> A lot of medical care has two prices: a high sticker price built for insurance haggling, and a lower cash price for people who pay directly. Ask "What's the cash price if I don't use insurance?" before your visit, compare it to what you'd owe with insurance, and pay the smaller one. Cash paid usually doesn't count toward your deductible.
+
 Here's a secret that can save you real money at the doctor: for a lot of care, there are two prices, and the cheaper one is often the price you pay when you *don't* run it through insurance. It's called the cash price, and most people never think to ask for it.
 
 That sounds backward. Insurance is supposed to make things cheaper, not more expensive. So let's clear it up fast.
@@ -45,9 +47,23 @@ You don't need to change your whole life. You just need to ask one more question
 
 For a lot of everyday care, the cash price is the quiet discount hiding in plain sight. Ask "what's the cash price?" before you hand over your insurance card, compare it to your normal cost, and pocket the difference. The cheapest bill is the one you thought to ask about.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### How do I ask for the cash price at the doctor?
+
+Before the visit, test, or procedure, ask: "What's the cash price if I don't use insurance?" If the front desk seems unsure, try "Is there a self-pay or prompt-pay discount?" Ask before, not after. Once it's billed through insurance, the cash price is usually off the table.
+
+### Why is the cash price cheaper than using insurance?
+
+Two reasons. Billing insurance is slow and expensive for the provider, so a patient who pays today saves them paperwork and waiting. And the big list price was never meant for you. It's an opening number in a negotiation between the hospital and the insurer.
+
+### Does paying cash count toward my deductible?
+
+Usually not. So if you expect to hit a big bill later in the year anyway, running care through insurance might make more sense. The move is simple: ask for both numbers, then pick the smaller one for your situation.
+
+### Can I pay cash even if I have insurance?
+
+Yes. You can choose not to use your insurance for a visit and pay the self-pay price instead. Many people do this for labs, imaging, and routine visits while they're still under their deductible. Just ask for both prices first.
 
 ---
 

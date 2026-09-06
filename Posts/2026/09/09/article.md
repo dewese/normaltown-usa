@@ -1,5 +1,7 @@
 # The $500 You Pay vs. the Deductible You Don't
 
+> A deductible is a wall you climb every year before insurance helps, often $8,000 or more for a family. CrowdHealth's $500 member commitment is per health event, not per year. Same broken arm with a $4,000 bill: on an $8,000-deductible plan you pay all $4,000, on health sharing you pay $500 and the community funds the rest.
+
 I want to compare two numbers that sound similar but aren't. On one side, the $500 you pay per health event with health sharing. On the other, the deductible you carry with most insurance plans. People mix these up all the time, and the difference is worth real money and a lot less stress. Let me lay it out the way I wish someone had for me.
 
 ## What a deductible really is
@@ -30,6 +32,20 @@ I'm not going to pretend it's all upside. The $500 is per event, so if two separ
 ## The takeaway
 
 A deductible is a wall you have to climb every year before your plan helps, and it's often thousands of dollars tall. The $500 member commitment is a small, known step you take per event. For a healthy family that mostly needs a backstop against the big stuff, that's a much friendlier shape.
+
+## Questions I get about this
+
+### Is the $500 per year or per event?
+
+Per event. A health event is one thing that happens to you, like a broken wrist or an appendix out. If two separate things happen in a year, that's two $500 commitments. Even so, that's usually far less than one year's deductible.
+
+### Does a deductible reset every year?
+
+Yes, every January. So you can pay your premium all year, hit your deductible in December, and start over from zero the next month. The $500 has no annual reset because it's tied to events, not calendars.
+
+### Is a deductible safer than the $500 commitment?
+
+In one way, yes. A deductible, for all its pain, comes with a contractual promise and a hard yearly out-of-pocket maximum. Health sharing isn't insurance and has no legal guarantee, though the track record is strong. I cover that trade honestly in [Can You Trust Health Sharing With a Big Bill?](/p/can-you-trust-health-sharing-with-a-big-bill/).
 
 Want to see your own numbers side by side? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

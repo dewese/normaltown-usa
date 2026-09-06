@@ -3,6 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `can-you-trust-health-sharing-with-a-big-bill` |
+| **Title tag** | `Can You Trust Health Sharing With a Big Bill? The Track Record` |
 | **Subtitle** | `A real track record, an honest look at the limits, and why the model isn't playing against you.` |
 | **Meta description** | `Can you trust health sharing with a big medical bill? The community has funded 45,000+ bills, but it's not insurance. Here's the honest trust check.` |
 | **Category** | Health |

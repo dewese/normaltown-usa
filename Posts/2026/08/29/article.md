@@ -1,5 +1,7 @@
 # What a Bitcoin Wallet Actually Is
 
+> A bitcoin wallet is a mailbox, not a coin purse. The address is the slot anyone can drop mail into, so share it freely. The key is the door only you should open. The coins themselves live on a shared public record, and the wallet just holds the key that proves they're yours.
+
 The word "wallet" throws people off. A bitcoin wallet is not a little pouch with your coins inside it. Nothing is actually stored in it the way cash sits in your back pocket. Once you get what a wallet really is, a lot of the confusing bitcoin stuff clicks into place. Here's the plain version.
 
 ## A mailbox on the street
@@ -32,6 +34,16 @@ For a beginner with a small amount, an app where the company holds the key is a 
 
 A bitcoin wallet is a mailbox, not a coin purse. The address is the slot anyone can drop mail into, so share it freely. The key is the door only you should open, so guard it with your life. The coins live on a shared public record, and the wallet just holds the key that proves they're yours. Get that, and bitcoin stops feeling like magic and starts feeling like a locked mailbox.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### What's the difference between a bitcoin address and a key?
+
+The address is public. Hand it to anyone so they can send you bitcoin, like a mailing address. The key is the secret that opens the box and moves the coins. Share the address, never the key.
+
+### What's the difference between a custodial wallet and holding my own keys?
+
+A wallet on an app where the company holds the key is like letting the post office keep your mailbox key: convenient, but you're trusting them. Holding the key yourself, on your own device or a small dedicated gadget, means full control and no one to call if you lose it. The phrase for this is ["not your keys, not your coins"](/p/not-your-keys-what-it-means/).
+
+### Which wallet should a beginner use?
+
+For a small amount, an app where the company holds the key is a reasonable start. Simple is good when you're learning. As your amount grows into money you'd hate to lose, that's the time to graduate to holding your own key.

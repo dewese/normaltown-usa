@@ -1,5 +1,7 @@
 # What to Ask Before You Switch
 
+> Before you switch to health sharing, answer four sets of questions honestly. Health: any pre-existing conditions or expensive ongoing meds? Money: can you keep $500 liquid plus a small emergency fund, and what do you pay now, all in? The model: have you read the actual guidelines and accepted it's not insurance? Temperament: are you okay being a little hands-on?
+
 If you're seriously thinking about switching to health sharing, don't do it on a feeling, good or bad. Do it on answers. Below is the exact list of questions I'd sit down and answer honestly before making the jump. Run through these, and you'll either feel confident or you'll realize it's not your fit. Either outcome is a win, because both beat guessing.
 
 ## Questions about your health
@@ -31,6 +33,20 @@ If most of your answers point toward "healthy, some savings, comfortable managin
 ## The takeaway
 
 Switching to health sharing is a good decision when it's an informed one. Answer these questions about your health, your money, the model, and your own temperament, and the right choice usually makes itself obvious. Don't switch on hype, and don't dismiss it on fear. Switch on answers.
+
+## Questions I get about this
+
+### What's the most important question before switching to health sharing?
+
+Whether anyone in your family has an active pre-existing condition or takes an expensive ongoing medication. That's the biggest factor. Look up the exact waiting-period rule for each condition in [Pre-Existing Conditions and Health Sharing](/p/pre-existing-conditions-and-health-sharing/).
+
+### How do I compare my current insurance cost honestly?
+
+Add up your premiums, your deductible exposure, and your typical out-of-pocket for a year. Then compare that to the health sharing fees plus $500 per event. Monthly bill alone is only half the story.
+
+### What if my answers are mixed?
+
+If most point toward healthy, some savings, comfortable managing a bit of risk, and willing to read the rules, it's likely a strong fit. If several point toward an active condition, pricey meds, no cushion, or needing a guarantee, it's probably not, and that's fine. Use the right tool.
 
 Ready to check your answers against the real thing? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

@@ -1,5 +1,7 @@
 # Saving vs. Gambling: Where Bitcoin Actually Fits
 
+> Bitcoin isn't automatically saving or gambling. It becomes one or the other based on how you treat it. Buying a pile hoping to double it by Friday is gambling. Putting away a small amount you won't need for years and ignoring the swings is closer to saving. The one rule: always know which pile the money came from.
+
 Ask ten people about bitcoin and you'll get two answers, shouted. One camp says it's the future of money. The other says it's a casino. Here's the thing they're both missing: how you treat a thing matters more than what the thing is.
 
 A savings account and a slot machine are both "money." You'd never confuse the two, because you treat them completely differently. The question isn't whether bitcoin is good or bad. It's which of those two buckets you're putting it in, and whether you're being honest with yourself about it.
@@ -42,6 +44,16 @@ That single question does more to protect you than any price prediction ever wil
 
 Bitcoin isn't automatically saving and it isn't automatically gambling. It becomes one or the other based on how you treat it and how much you put in. Keep it small, keep it long-term, use only money you can afford to leave alone, and always know which pile it came from. Get that right and the shouting on both sides stops mattering.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### How much bitcoin should a normal person own?
+
+A small slice. Money you won't need for years, in an amount that wouldn't wreck your month if it went to zero. If the price dropping by half would keep you up at night, you own too much. I go deeper in [How Much Is Too Much?](/p/how-much-is-too-much-sizing-a-small-bet/).
+
+### Is bitcoin a good way to save?
+
+For some people, as a small long-term experiment, yes. The case for it is that it's hard to make more of, so it can't be quietly watered down like the dollar. The case against is the wild price swings. That's why the size has to be dialed down to match the risk.
+
+### What money should I never put into bitcoin?
+
+Rent money, car money, your kid's braces money, and anything you'll need in the next few years. If losing it would change your life, it doesn't belong here, no matter how confident anyone sounds. Confidence is not a plan.

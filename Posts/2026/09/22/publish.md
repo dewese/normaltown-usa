@@ -3,8 +3,9 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `is-health-sharing-legit` |
+| **Title tag** | `Is Health Sharing Legit? How to Tell a Real One From a Shady One` |
 | **Subtitle** | `Yes, and the good ones prove it by being upfront that they're not insurance.` |
-| **Meta description** | `Is health sharing legit? Yes, it's a real, decades-old model with a strong track record. What "legit but not insurance" means, and a checklist to vet any organization.` |
+| **Meta description** | `Is health sharing legit? Yes: real, legal, decades old, and CrowdHealth has funded 45,000+ bills. But legit isn't insurance. A checklist to vet any one.` |
 | **Category** | Health |
 
 - **Image:** `legit-check.png` — Alt text: `A cyan check mark inside a seal or badge outline, with a small label reading real, but not insurance.`

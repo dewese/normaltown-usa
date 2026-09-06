@@ -1,0 +1,73 @@
+# Normaltown USA
+
+> Plain-English help with money, medical bills, health insurance, health sharing, and saving in bitcoin, written by David Dewese: a regular guy with a full-time job and a family of four who uses these things himself (his family left health insurance for CrowdHealth, a health sharing service). Not a financial advisor. Every post is short, first-person, and explains one idea with a plain analogy. No jargon, no hype.
+
+Site: https://www.normaltownusa.com/. Every page is free and has no paywall. Posts live at /p/<slug>/. Full text of every post is in /llms-full.txt. Categories: Money, Health (medical bills, insurance, health sharing), Bitcoin (saving, not gambling).
+
+## Start here
+
+- [Start Here](https://www.normaltownusa.com/start-here/): the reading paths and the three posts to read first.
+- [FAQ](https://www.normaltownusa.com/faq/): short answers to the most common money, medical bill, health sharing, and bitcoin questions.
+- [About David Dewese](https://www.normaltownusa.com/about/): who writes this, how he researches, how the site makes money.
+
+- [Nobody Gets Paid to Make You Well](https://www.normaltownusa.com/p/nobody-gets-paid-to-make-you-well/): You pay for health insurance every month and still get billed. Here's the simple money reason the system profits from managing sickness, not curing it.
+- [Why You Feel Broke on a Good Income](https://www.normaltownusa.com/p/why-you-feel-broke-on-a-good-income/): You earn more than you used to but still feel broke. Here's the simple reason your money leaks out as fast as it comes in, and how to patch the holes.
+- [Saving vs. Gambling: Where Bitcoin Actually Fits](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/): Is bitcoin saving or gambling? It depends how you treat it. A plain-English way to decide where a volatile asset fits, and the one question that keeps you safe.
+
+## Money for Normal People
+
+Hub: https://www.normaltownusa.com/money/
+
+- [The Real Cost of Carrying a Credit Card Balance](https://www.normaltownusa.com/p/real-cost-of-a-credit-card-balance/): Why does my credit card balance never go down? The interest is a hole in the boat and the minimum payment barely bails it. Here's how to actually drain it.
+- [Why Prices Climb but the News Says Inflation's Down](https://www.normaltownusa.com/p/why-prices-climb-but-inflation-is-down/): Why are prices still high if inflation went down? Because inflation is the speed prices rise, not the prices. The hill got less steep; you're still climbing.
+- [Stop Renting Your Subscriptions a Mansion](https://www.normaltownusa.com/p/stop-renting-your-subscriptions-a-mansion/): How to cut subscriptions you forgot about: a 20-minute statement walk-through. Turn off the lights in the empty rooms and move that money to savings.
+- [A Budget That Survives a Busy Week](https://www.normaltownusa.com/p/a-budget-that-survives-a-busy-week/): A simple budget for people with no time. Three lines, one spending number to watch, and a save-first move on payday. Built for a real, busy week.
+- [Where Your Raise Actually Went](https://www.normaltownusa.com/p/where-your-raise-actually-went/): You got a raise but don't feel richer. Here's where it went, in plain English: taxes, lifestyle creep, and rising prices, plus how to keep the next one.
+- [The 5 Money Leaks Busy Families Miss](https://www.normaltownusa.com/p/5-money-leaks-busy-families-miss/): Where does your money go every month? Usually five small leaks, not one big one. Here are the five busy families miss, and a one-minute fix for each.
+- [The First $1,000: Your Family's Shock Absorber](https://www.normaltownusa.com/p/the-first-1000-emergency-fund/): A small emergency fund keeps a normal surprise from becoming debt. Here's why your first $1,000 matters more than any investment, and how to build it fast.
+- [Why You Feel Broke on a Good Income](https://www.normaltownusa.com/p/why-you-feel-broke-on-a-good-income/): You earn more than you used to but still feel broke. Here's the simple reason your money leaks out as fast as it comes in, and how to patch the holes.
+- [The Cash Price Secret Hospitals Don't Advertise](https://www.normaltownusa.com/p/the-cash-price-secret/): For a lot of care there are two prices, and the cash price is often far lower. Here's how to ask for it, and when it actually beats using insurance.
+
+## Health Insurance, Medical Bills, and Health Sharing
+
+Hub: https://www.normaltownusa.com/health/
+
+- [What a Care Advocate Actually Does](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does/): A care advocate is a real person who negotiates your medical bills down before the crowd funds them. Here's what they actually do, and the honest limits.
+- [Health Sharing: Myths vs. Facts](https://www.normaltownusa.com/p/health-sharing-myths-vs-facts/): Health sharing myths vs. facts: it's not insurance, it has funded 45,000+ bills, its limits are stated not hidden, and it fits more people than you'd think.
+- [Switching to Health Sharing: What the First 90 Days Look Like](https://www.normaltownusa.com/p/switching-to-health-sharing-first-90-days/): The first 90 days of health sharing: set aside $500, read the rules, sign up and overlap your old plan, meet your care advocate, then a quiet monthly rhythm.
+- [How a Big Hospital Bill Gets Paid Without Insurance](https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance/): How does a six-figure hospital bill get paid without insurance? You cover $500, the bill gets negotiated down, and the community funds the rest in about a week.
+- [Can You Trust Health Sharing With a Big Bill?](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill/): Can you trust health sharing with a big medical bill? The community has funded 45,000+ bills, but it's not insurance. Here's the honest trust check.
+- [What Health Sharing Actually Costs Each Month](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing/): What does health sharing cost? A flat $60/month per person plus $500 per health event, not a premium and a deductible. Here's the honest math.
+- [What an HSA Actually Is (and Who It's For)](https://www.normaltownusa.com/p/what-is-an-hsa/): What is an HSA? A health savings jar the tax man doesn't touch: money in untaxed, out untaxed for health costs, and it rolls over. Needs a high-deductible plan.
+- [Who Health Sharing Is Wrong For](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/): Health sharing is wrong for you if you have ongoing medical needs, need a legal guarantee that bills get paid, or can't keep $500 set aside. The honest test.
+- [Health Sharing vs. Insurance: The Honest Trade-offs](https://www.normaltownusa.com/p/health-sharing-vs-insurance-honest-trade-offs/): Health sharing vs. insurance, pros and cons laid side by side. Cost, the legal guarantee, what's covered, and the incentive, explained plainly with a potluck.
+- [Health Insurance's Built-In Conflict of Interest](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest/): Do insurers want to deny claims? They earn more when they pay out less. That built-in conflict of interest, explained with a referee paid by one team.
+- [What a Deductible Really Means (No Jargon)](https://www.normaltownusa.com/p/what-a-deductible-really-means/): What is a deductible? The part of a medical bill you pay before insurance pays anything. Premium, copay, and out-of-pocket max explained plainly too.
+- [The $500 Question: How One Health Event Gets Paid](https://www.normaltownusa.com/p/how-one-health-event-gets-paid/): How does health sharing actually pay a big medical bill? You cover the first $500, the bill gets negotiated down, and the crowd covers the rest. Here's how.
+- [Why the Same Blood Test Costs $30 or $300](https://www.normaltownusa.com/p/why-the-same-blood-test-costs-different/): The same blood test can cost $30 or $300. Here's why, in plain English, and three simple ways to make sure you pay the lower price.
+- [Why You Got a Big Bill With Insurance](https://www.normaltownusa.com/p/why-you-got-a-big-bill-with-insurance/): You have health insurance and still got a big bill. Here's why, in plain English: the deductible, coinsurance, and network rules that make you pay first.
+- [What Is Health Sharing? An Honest Plain-English Guide](https://www.normaltownusa.com/p/what-is-health-sharing/): Health sharing is regular people paying each other's big medical bills instead of an insurance company. Here's how it really works, and who it's wrong for.
+- [Nobody Gets Paid to Make You Well](https://www.normaltownusa.com/p/nobody-gets-paid-to-make-you-well/): You pay for health insurance every month and still get billed. Here's the simple money reason the system profits from managing sickness, not curing it.
+
+## Bitcoin and the Dollar, Explained Calmly
+
+Hub: https://www.normaltownusa.com/bitcoin/
+
+- [How Much Is Too Much? Sizing a Small Bet](https://www.normaltownusa.com/p/how-much-is-too-much-sizing-a-small-bet/): How much of my savings should be in bitcoin? Any amount whose loss would touch your real life is too much. Size it like hot sauce: a small dash on a full meal.
+- [What a Bitcoin Wallet Actually Is](https://www.normaltownusa.com/p/what-is-a-bitcoin-wallet/): What is a bitcoin wallet, in simple terms? It's a mailbox: an address anyone can send to, and a key only you should open. The coins live on a shared record.
+- [Not Your Keys, Not Your Coins: What That Warning Actually Means](https://www.normaltownusa.com/p/not-your-keys-what-it-means/): Not your keys, not your coins: if an app holds your bitcoin, you have a promise, not the cash. When an app is fine and when to hold your own keys.
+- [Who Gets the New Money First (and Why It's Not You)](https://www.normaltownusa.com/p/who-gets-the-new-money-first/): Why do the rich get richer with inflation? New money reaches them first, before prices rise. Regular people are last in line. Explained with a buffet line.
+- [Bitcoin's Wild Price Swings, Explained Calmly](https://www.normaltownusa.com/p/bitcoins-wild-price-swings-explained-calmly/): Why does bitcoin's price swing so much? Because it's young and small, so a big buyer or scary headline moves it hard. What the swings do and don't mean, calmly.
+- [Why I Don't Try to Time the Price](https://www.normaltownusa.com/p/why-i-dont-try-to-time-the-price/): Should you wait for bitcoin to drop before you buy? Almost nobody times the market. Here's why I don't try, and the calm habit I use instead.
+- [A Little Each Week Beats Betting It All](https://www.normaltownusa.com/p/a-little-each-week-beats-betting-it-all/): What is dollar-cost averaging? Buying a little on a set schedule instead of betting it all at once. Be the steady faucet, not the one big bucket.
+- [Why Hard-to-Make Money Holds Its Value](https://www.normaltownusa.com/p/why-hard-to-make-money-holds-its-value/): What makes money hold its value over time? Difficulty. Hard-to-make money holds value; easy-to-make money gets watered down. Explained with two IOUs and gold.
+- [The Dollar's Slow Leak, Explained Simple](https://www.normaltownusa.com/p/the-dollars-slow-leak/): Why does money lose value over time? Because more dollars can always be made. Here's inflation explained simply, with a slow-leaking tire.
+- [Your First $20 in Bitcoin, Step by Step](https://www.normaltownusa.com/p/your-first-20-in-bitcoin/): Want to try bitcoin without risking much? Here's how to buy your first $20, step by step, using money you can afford to lose. Plain English, no hype.
+- [What "Scarce" Means for Your Money](https://www.normaltownusa.com/p/what-scarce-means-for-your-money/): Why does money lose value over time? Because more can always be made. Here's what scarcity really means, explained with front-row concert seats.
+- [Saving vs. Gambling: Where Bitcoin Actually Fits](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/): Is bitcoin saving or gambling? It depends how you treat it. A plain-English way to decide where a volatile asset fits, and the one question that keeps you safe.
+
+## Optional
+
+- [Full text of every post](https://www.normaltownusa.com/llms-full.txt)
+- [RSS feed](https://www.normaltownusa.com/rss.xml)
+- [Sitemap](https://www.normaltownusa.com/sitemap.xml)

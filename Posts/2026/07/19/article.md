@@ -1,5 +1,7 @@
 # Nobody Gets Paid to Make You Well
 
+> You pay for health insurance every month and still get bills because nobody in the chain earns money when you're simply well. Doctors get paid per visit and test, and insurers can only keep 20 cents of every premium dollar, so their slice grows when the whole bill grows. It's the wiring, not you.
+
 You do everything right.
 
 You go to work. You pay your bills. Every month, money comes out for health insurance before you even see your paycheck. You're a responsible person doing the responsible thing.
@@ -90,9 +92,23 @@ None of this makes you anti-doctor. It just makes you someone who finally unders
 
 Nobody in the system gets paid to make you well. Once you really know that, the surprise bills stop being a mystery and start being a map. And a map is something you can actually use.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Why do I still get medical bills when I have insurance?
+
+Because insurance is a "you pay first" deal, not an all-you-can-eat pass. You cover the full price until you hit your deductible, and even after that you usually split the bill. I walk through the three "you first" rules in [Why You Got a Big Bill With Insurance](/p/why-you-got-a-big-bill-with-insurance/).
+
+### What is the 80/20 rule in health insurance?
+
+It's a rule from the 2010 health law that says an insurer has to spend at least 80 cents of every premium dollar on actual care (85 cents for big employer plans). The catch: if their slice is capped at 20 percent, the only way to grow it is to grow the whole bill.
+
+### Are doctors and insurance companies the bad guys?
+
+No. Your doctor almost certainly wants you healthy. The problem is the plumbing, the way the money flows underneath everyone. Fee-for-service pays by the piece, and insurers keep a fixed slice of a bigger pie. Good people inside backward incentives still drift toward backward results.
+
+### Is there a setup where the company isn't paid to run up your bill?
+
+Health sharing is one. My family of four uses CrowdHealth, which charges a flat $60 a month per person and makes its money from that fee, not a cut of your claims. It's not insurance, there's no legal guarantee a bill gets paid, and it's wrong for some people. Start with [What Is Health Sharing?](/p/what-is-health-sharing/).
 
 ---
 

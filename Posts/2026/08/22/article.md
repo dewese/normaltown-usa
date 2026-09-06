@@ -1,5 +1,7 @@
 # Health Sharing vs. Insurance: The Honest Trade-offs
 
+> Insurance is a catered dinner: a legal contract, reliable, regulated, and expensive. Health sharing is a potluck: usually much cheaper, fairer incentives, but a commitment instead of a contract. Insurance fits people who need a guaranteed, broad safety net. Sharing fits healthy families worried about the big surprise bill.
+
 If you've heard about health sharing and wondered whether it's a smart move or too good to be true, this is the honest comparison. No hype, no scare tactics. Just the real trade-offs, laid side by side, so you can decide for yourself.
 
 ## First, the one-sentence version of each
@@ -42,6 +44,16 @@ The sharing community I've looked into most is CrowdHealth. It charges a flat mo
 
 Insurance is the catered dinner: reliable, regulated, and pricey. Health sharing is the potluck: cheaper, friendlier, fairer incentives, but a commitment instead of a contract. Neither is a scam. The right one depends on your health, your budget, and how much you value a legal guarantee versus a lower bill. Now you can choose with your eyes open.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Is health sharing cheaper than insurance?
+
+Usually, a lot cheaper month to month, and that's the big draw. With CrowdHealth it's a flat $60 a month per person plus a modest community contribution, and $500 when you have a health event. No five-figure deductible. Real numbers in [What Health Sharing Actually Costs Each Month](/p/the-real-monthly-cost-of-health-sharing/).
+
+### What does insurance cover that health sharing doesn't?
+
+Insurance covers a broad, regulated list. Sharing communities focus on big, unexpected events and have rules about pre-existing conditions and waiting periods. Routine dental, vision, cosmetic work, and expensive ongoing medications usually aren't shared. It's built for the broken-leg surprise, not the routine stuff.
+
+### Which one is right for me?
+
+If you need a broad, legally guaranteed safety net, especially with an ongoing condition, insurance. If you're relatively healthy, can keep $500 set aside, want a lower monthly number, and can live with a commitment instead of a contract, sharing is worth pricing. Read [Who Health Sharing Is Wrong For](/p/who-health-sharing-is-wrong-for/) first.

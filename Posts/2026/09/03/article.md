@@ -1,5 +1,7 @@
 # How a Big Hospital Bill Gets Paid Without Insurance
 
+> On health sharing, a big hospital bill goes like this: you pay the first $500, negotiators cut the bill down hard (cash-pay discounts commonly run 25 to 85 percent), and the community funds the rest, usually within about a week. CrowdHealth's crowd has done this for bills north of $600,000. Not insurance, not guaranteed, but real and fast.
+
 A six-figure hospital bill is the thing everyone is quietly afraid of. It is the reason a lot of people keep paying for insurance they do not really understand. So let us walk through exactly what happens with health sharing when a genuinely big bill lands, step by step, using real examples. No hand-waving.
 
 ## Start with a real one
@@ -29,6 +31,20 @@ With a high-deductible insurance plan, that same big event could cost you the fu
 ## The takeaway
 
 A big hospital bill on health sharing goes like this: you pay the first $500, negotiators cut the bill down hard, and the community funds the rest, usually within about a week. The crowd has done this for bills north of $600,000. It is not insurance and it is not guaranteed, but the mechanism is real, it is fast, and it has a public track record.
+
+## Questions I get about this
+
+### What's the biggest bill health sharing has paid?
+
+CrowdHealth's community funded a single bill of more than $643,000 for a serious injury, and another over $437,000 for a newborn who needed intensive care. Those are the nightmare scenarios, and the crowd covered them.
+
+### Do I have to negotiate the hospital bill myself?
+
+No. A care advocate and a team of negotiators work the bill down toward the cash price before a dollar gets crowdfunded. That's the part that surprised me most. If you're on your own, though, you can do a version of it yourself: [How to Negotiate a Hospital Bill Yourself](/p/how-to-negotiate-a-hospital-bill-yourself/).
+
+### Is being a cash-pay patient a disadvantage?
+
+It's often an advantage. Hospitals have an inflated list price and a much lower cash price. As a cash-pay patient you step out of the insurance haggling game entirely, which is exactly [the cash price secret](/p/the-cash-price-secret/).
 
 Want to see the guidelines and what your cost would be? Use my code **NORMAL**: [look at CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

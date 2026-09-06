@@ -1,5 +1,7 @@
 # What a Deductible Really Means (No Jargon)
 
+> A deductible is the part of a medical bill you pay yourself before your insurance pays anything. If your deductible is $3,000, the first $3,000 of care each year is on you. Premium is the monthly bill to have insurance, copay is the small flat fee at the visit, and the out-of-pocket max is the most you'll pay in a year.
+
 A deductible is the part of a medical bill you pay yourself before your insurance pays anything. That's it. That's the whole idea. But because nobody says it that plainly, a lot of people find out the hard way. Let's fix that.
 
 ## The umbrella that opens late
@@ -34,6 +36,16 @@ Here's the useful bit. If you haven't hit your deductible yet, you're paying ful
 
 A deductible is just the first chunk of the bill that's yours before the umbrella opens. Premium is the monthly cost to have the umbrella. Copay is the small fee at the door. Out-of-pocket max is the ceiling on your worst year. None of it is complicated once somebody lays it flat. Now you'll see the bill coming, instead of it seeing you first.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### What's the difference between a deductible and a premium?
+
+The premium is the monthly bill you pay to have insurance at all, whether you see a doctor or not, like a gym membership. The deductible is the chunk of care costs you cover yourself each year before the plan starts paying its bigger share.
+
+### What is an out-of-pocket maximum?
+
+The ceiling. It's the most you'll have to pay for covered, in-network care in a whole year. Once you hit it, the plan covers the rest. For 2026 that cap is about $10,600 for one person and $21,200 for a family, which is real protection, but also a lot of money.
+
+### Should I ask for the cash price if I haven't met my deductible?
+
+Yes. Until you hit your deductible you're paying full price anyway, so it pays to ask what something costs before you get it and ask for the cash price. Sometimes cash is cheaper than the insurance price. Here's [how to ask](/p/the-cash-price-secret/).

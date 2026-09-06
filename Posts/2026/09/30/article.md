@@ -1,5 +1,7 @@
 # Should You Switch? A 5-Question Guide
 
+> Five questions decide it. Are you and your family generally healthy? Can you keep $500 on hand at all times? Are you okay trading a legal guarantee for a big cost savings? Are your prescriptions and routine needs a fit? Are you willing to be a little hands-on? Mostly yeses means health sharing is likely a strong fit. Hard nos on the first or third mean keep your plan.
+
 All month we've dug into health sharing from every angle: the costs, the limits, the ER, the pre-existing rules, the numbers, the peace of mind. Let's bring it home. Here's a simple five-question guide that pulls it all together. Answer these honestly, and you'll know whether health sharing is right for your family, no guru required. This is the whole month, boiled down.
 
 ## Question 1: Are you and your family generally healthy?
@@ -29,6 +31,20 @@ Mostly yeses? Health sharing is very likely a strong, money-saving fit for your 
 ## The takeaway
 
 Five questions: Are you healthy? Can you keep $500 ready? Are you okay trading a guarantee for big savings? Do your meds and needs fit? Are you willing to be a little hands-on? Answer those honestly and the right call is usually obvious. Thanks for spending September working through this with me. However you decide, decide with your eyes open.
+
+## Questions I get about this
+
+### What's the one question that matters most?
+
+Whether your family is generally healthy. Health sharing rewards the relatively healthy and is a poor fit for someone who needs constant, costly care right now. If someone has a serious active condition, keep guaranteed coverage for that person. The honest fit test is in [Who Health Sharing Is Wrong For](/p/who-health-sharing-is-wrong-for/).
+
+### Can I switch to health sharing at any time?
+
+Yes. Unlike marketplace insurance, there's no open enrollment window. You can join any month. Just don't cancel your old coverage until your membership is active and you understand the waiting periods, which I cover in [the first 90 days](/p/switching-to-health-sharing-first-90-days/).
+
+### What if I'm not sure?
+
+Read the actual guidelines, run your all-in numbers for a good year and a bad one, and answer the five questions honestly. If several answers are hard nos, it's not your tool right now, and that's completely fine. The goal was never to talk you into anything.
 
 Ready to see your own numbers? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

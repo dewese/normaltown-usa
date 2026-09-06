@@ -1,5 +1,7 @@
 # The 5 Money Leaks Busy Families Miss
 
+> Most families aren't broke because of one big mistake. Money leaks out through five small drips: forgotten subscriptions, bank fees, the convenience tax, spending to "save" on sales, and bills that quietly crept up. Each one has a one-minute fix, and you only need to plug one this week.
+
 Your money probably isn't vanishing on one big thing. It's leaking out through five small ones you stopped noticing.
 
 Think of a sink with five tiny drips under it. No single drip looks like a problem. But leave them all running and you come home to a flooded floor. Money works the same way. The little leaks are quiet, so they get ignored, and quiet is exactly what makes them add up.
@@ -52,6 +54,16 @@ Pick the one leak that made you nod the hardest while reading. Plug just that on
 
 You're probably not broke because of one giant mistake. You're leaking through five small drips that feel too tiny to bother with. But tiny and constant is exactly what drains a bucket. Find your drips, patch them one by one, and watch how much stays in.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### How do I find subscriptions I forgot about?
+
+Pull up last month's bank and card statements and circle every charge that repeats. Cancel anything you'd forgotten you were paying for. You'll find at least one. I walk through the whole 20-minute job in [Stop Renting Your Subscriptions a Mansion](/p/stop-renting-your-subscriptions-a-mansion/).
+
+### Can I get bank fees waived?
+
+Often, yes. Call your bank and ask, "Can you waive this fee and switch me to an account with none?" Keeping you is cheaper for them than losing you, so they say yes more than you'd expect.
+
+### How do I stop my bills from creeping up?
+
+Once a year, pull up your three biggest monthly bills (phone, streaming, insurance) and compare them to what a new customer pays. Then call and ask them to match it. A ten-minute call can plug a leak that runs all year.

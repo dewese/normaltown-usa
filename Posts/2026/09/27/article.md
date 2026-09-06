@@ -1,5 +1,7 @@
 # Health Sharing and the ER
 
+> In a real emergency on health sharing, go to the ER. Don't stand in the parking lot doing math. Afterward it's treated like any health event: you pay your $500 member commitment, your care advocate negotiates the inflated ER bill down to the cash price and lower, and the community shares the rest, usually within about a week.
+
 The emergency room is the scenario that makes people nervous about leaving traditional insurance. It's the middle-of-the-night, no-time-to-think situation. So let me answer the question head on: what actually happens if you're on health sharing and you have a real emergency? The short version is comforting, and the details are worth knowing before you ever need them.
 
 ## Rule one: in an emergency, get care. Period.
@@ -34,6 +36,20 @@ Same as always, because I won't skip them for the scary scenarios. It is not ins
 ## The takeaway
 
 If you have a real emergency on health sharing, the answer is simple: get care immediately, don't hesitate over money. Afterward, you pay your $500, your advocate negotiates the inflated ER bill way down, and the community shares the rest. Keep your cushion ready and your paperwork complete, and the ER stops being the thing that scares you out of a model that's actually built for exactly this.
+
+## Questions I get about this
+
+### Will the ER treat me if I don't have insurance?
+
+Yes. Emergency rooms treat you regardless of coverage. You're a cash-pay patient, which often means the bill can be negotiated harder afterward. Get the care first and sort the paperwork later.
+
+### Are ER bills eligible for sharing?
+
+A genuine emergency is exactly the kind of unexpected, big event the model is built to catch. Care that falls outside the guidelines has its own rules, so read them, but if there's a situation health sharing is designed for, this is it.
+
+### What should I do after an ER visit on health sharing?
+
+Keep your $500 ready, save every document (itemized bills, discharge papers, everything), and submit through the app. Complete submissions get funded fastest, so good paperwork is your friend. Your [care advocate](/p/what-a-care-advocate-actually-does/) handles the fight with the hospital.
 
 Want the peace of mind before you ever need the ER? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

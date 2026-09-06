@@ -1,5 +1,7 @@
 # Health Sharing: Myths vs. Facts
 
+> Most health sharing myths fall apart under a plain look. It's not insurance, and that distinction matters. CrowdHealth's community has funded more than 45,000 bills, including single bills over $600,000. Its limits are stated, not hidden. It fits families, the self-employed, and early retirees, not just healthy singles. The fair worries are handled by reading the rules and keeping $500 on hand.
+
 Health sharing sounds strange the first time you hear it, so it collects myths the way a screen door collects dust. Some of the worries are fair. Some are just leftover confusion. Let us sort the real from the noise, honestly, including the ones where the myth is actually pointing at something true.
 
 ## Myth: "It's just cheap insurance."
@@ -29,6 +31,20 @@ Fact: you actually get more human help, not less. Every member has a care advoca
 ## The takeaway
 
 Most health sharing myths fall apart under a plain look: it is not insurance, it has a real track record on big bills, its limits are stated not hidden, and it fits more people than the stereotype suggests. The fair worries, no legal guarantee and real exclusions, are things you manage by reading the rules and keeping $500 on hand, not reasons to dismiss it.
+
+## Questions I get about this
+
+### Is health sharing a scam?
+
+No. It's real, legal, and has a public track record: tens of thousands of bills funded, some over $600,000, usually within about a week. What it isn't is insurance. There's no legal guarantee, so read the guidelines and keep your $500 ready. I go deeper in [Is Health Sharing Legit?](/p/is-health-sharing-legit/).
+
+### Is health sharing only for religious people?
+
+Not CrowdHealth. Unlike faith-based sharing ministries, it has no statement of faith or church requirement. What matters is being relatively healthy, keeping $500 on hand, and not needing guaranteed coverage for an ongoing condition.
+
+### Do I lose the help of a real person if I leave insurance?
+
+You get more of it. Every member has a care advocate, a real human who finds care and negotiates bills down before anything is crowdfunded. Most insurance plans don't give you a person whose job is to shrink your bill.
 
 Want to read the guidelines and see your own cost? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

@@ -1,5 +1,7 @@
 # Switching to Health Sharing: What the First 90 Days Look Like
 
+> The first 90 days of health sharing: set aside your $500, read the eligibility rules, sign up and overlap your old coverage by a few days, meet your care advocate and learn how to submit a bill, then settle into a quiet monthly rhythm. By day 90 most people have stopped thinking about it.
+
 Deciding to try health sharing is one thing. Actually switching feels like another, because change involving your family's health is scary. The good news is the first three months are simpler than you would guess. Here is the honest walk-through, so you know what you are signing up for before you do it.
 
 ## Before you switch: two quick checks
@@ -31,6 +33,20 @@ Switching is not right for everyone. If you have an ongoing, expensive condition
 ## The takeaway
 
 The first 90 days of health sharing are: set aside your $500, read the rules, sign up (overlap your old coverage briefly), meet your care advocate and learn the app, then settle into a quiet monthly rhythm. It is a smaller change than the fear makes it feel.
+
+## Questions I get about this
+
+### Should I cancel my insurance before joining health sharing?
+
+No. Don't cancel your old coverage until your membership is active and you understand any waiting periods. Overlap by a few days on purpose. There's no prize for a scary gap.
+
+### What do I need before I switch?
+
+Two things. $500 sitting in savings for a health event, not on a credit card. And five minutes reading the guidelines on what's eligible, because health sharing is not insurance and has real exclusions and pre-existing rules.
+
+### What is a care advocate?
+
+A real person you can text, call, or email who helps you find fair-priced care and negotiates your bills. Spend twenty minutes in the first month learning how to submit a bill before you need to. I wrote up [what a care advocate actually does](/p/what-a-care-advocate-actually-does/).
 
 If you are ready to see your number and the $99-a-month new-member deal (your first 3 months), use my code **NORMAL**: [start at CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 

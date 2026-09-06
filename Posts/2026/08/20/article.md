@@ -1,5 +1,7 @@
 # Stop Renting Your Subscriptions a Mansion
 
+> Subscriptions are lights left on in rooms you never walk into, and the bill comes whether you're in there or not. Pull up one full month of statements, circle every repeating charge, and cancel anything you didn't use last month. Then move the money you freed into your automatic savings transfer the same day.
+
 You are probably paying for rooms you never walk into. Not real rooms. Subscription rooms. The streaming service you watched twice, the app you signed up for during a free trial, the thing that auto-renewed while you weren't looking. Each one is a light left on in an empty room, and the bill comes every month whether you're in there or not.
 
 ## The house nobody lives in
@@ -30,6 +32,16 @@ Don't let it just melt back into spending. The day you cancel, bump up your auto
 
 You're probably renting a mansion and living in two rooms of it. Subscriptions are lights left on for nobody, small enough that you never feel them, which is the whole trick. Spend twenty minutes reading your statements, turn off the lights in the empty rooms, and move that money to savings. It's the easiest raise you'll give yourself all year.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### How do I find all my subscriptions?
+
+Read every line of your last full month of bank and card statements. Circle anything that repeats: streaming, apps, memberships, cloud storage, that magazine. Write the monthly cost next to each one. It's a one-time, 20-minute job.
+
+### Why are subscriptions so easy to forget?
+
+Because they're designed to be. A small charge, once a month, on autopilot, is the easiest money in the world for a company to collect. You decided once, a year ago, and you've been paying ever since. When a coffee is bought you feel it. When a subscription renews, you feel nothing.
+
+### What should I do with the money I save?
+
+Bump up your automatic savings transfer by the same amount the day you cancel. You were already living without that money. If you don't have a save-first move yet, it's Line 3 of the [busy-week budget](/p/a-budget-that-survives-a-busy-week/).

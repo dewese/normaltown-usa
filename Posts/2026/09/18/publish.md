@@ -3,8 +3,9 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `what-crowdhealth-doesnt-cover` |
+| **Title tag** | `What CrowdHealth Doesn't Cover (and the Cheap Workarounds)` |
 | **Subtitle** | `The honest list of gaps, and the cheap workaround for every one of them.` |
-| **Meta description** | `What CrowdHealth doesn't cover: routine dental and vision, cosmetic work, costly ongoing meds, and pre-existing conditions before waiting periods, plus how to plan around each.` |
+| **Meta description** | `What CrowdHealth doesn't cover: routine dental and vision, cosmetic work, expensive ongoing meds, and pre-existing conditions in their waiting period.` |
 | **Category** | Health |
 
 - **Image:** `whats-not-covered.png` — Alt text: `A short list with faint white X marks beside dental, vision, cosmetic, and ongoing meds, under the heading not shared.`

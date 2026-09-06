@@ -3,8 +3,9 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `the-all-in-yearly-cost-side-by-side` |
+| **Title tag** | `Health Sharing vs. Insurance: All-In Yearly Cost for a Family` |
 | **Subtitle** | `Everything you actually pay in a year, in a quiet year and a rough one.` |
-| **Meta description** | `The all-in yearly cost of a traditional family plan vs. health sharing, in both a healthy year and a year with one event. Round numbers, and the honest guarantee asterisk.` |
+| **Meta description** | `All-in yearly cost for a healthy family of four: a traditional plan runs $13,000 to $28,000 depending on the year. Health sharing runs about $5,000 to $6,000.` |
 | **Category** | Health |
 
 - **Image:** `yearly-side-by-side.png` — Alt text: `Two tall bars for a full year's cost, a large faint one labeled traditional plan and a much shorter cyan one labeled health sharing.`

@@ -3,8 +3,9 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `how-members-vote-to-fund-bills` |
+| **Title tag** | `How CrowdHealth Members Actually Fund Each Other's Bills` |
 | **Subtitle** | `Not a chaotic tip jar. An orderly system, shown from the inside.` |
-| **Meta description** | `How health sharing members fund each other's bills: negotiate the bill down, confirm eligibility, pay your $500, and the community shares the rest, usually in about a week.` |
+| **Meta description** | `Health sharing isn't a tip jar. The bill gets negotiated down, checked against the rules, you pay $500, and members fund the rest in about a week.` |
 | **Category** | Health |
 
 - **Image:** `crowd-approves.png` — Alt text: `A grid of small cyan check marks flowing toward a single bill in the center, showing many members funding one bill.`

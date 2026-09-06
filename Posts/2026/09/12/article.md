@@ -1,5 +1,7 @@
 # The DIY Healthcare Safety Net
 
+> You don't need one magic product to protect your family from a health disaster. You need three layers: an emergency fund you can reach fast, the habit of asking for the cash price, and a real plan for the big stuff, whether that's insurance or health sharing. When you have layers, one weak spot doesn't sink you.
+
 Here's a mindset that changed how I think about all of this. You don't need one magic product to protect your family from a health disaster. You need a few simple layers that work together. Firefighters don't rely on one thing, they've got the alarm, the extinguisher, and the exit plan. Your healthcare safety net can work the same way, and you can start building it today no matter what plan you're on.
 
 ## Layer one: a real emergency fund
@@ -29,5 +31,19 @@ That's resilience. It's boring, and boring is exactly what you want when you're 
 ## The takeaway
 
 Stop looking for the one perfect plan that solves everything. Build the net instead: an emergency fund you can reach, the habit of asking for the cash price, and a real plan for the big stuff. Start with whichever layer you're missing. Each one you add makes the whole thing stronger, and none of them require you to have it all figured out today.
+
+## Questions I get about this
+
+### What's the first layer to build?
+
+A real emergency fund, even a first $1,000. It turns a crisis into an inconvenience. If you use health sharing, this is where your $500 event commitment lives. If you're on insurance, it's what covers the deductible before the plan helps. Start with [the first $1,000](/p/the-first-1000-emergency-fund/).
+
+### Which layer has the highest return?
+
+Knowing the cash price. The most expensive mistake in American healthcare is assuming the printed price is the real price. The cash price is often a fraction of the sticker, and it costs you nothing but the willingness to ask. Here's [how](/p/the-cash-price-secret/).
+
+### Do I need insurance or health sharing for layer three?
+
+You need something in that slot. A long hospital stay or major surgery can blow past any emergency fund. For a lot of families that's insurance. For others, health sharing fills it at a lower monthly cost. The point is choosing consciously instead of hoping nothing big happens.
 
 *Nothing here is medical, tax, or financial advice, just what I've learned building my own family's net. My family uses CrowdHealth, so I'll always flag when a post is a referral. This one isn't.*

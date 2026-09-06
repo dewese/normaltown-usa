@@ -20,21 +20,21 @@ I'm not a financial advisor. I'm a guy who takes good notes. You make your own c
 
 Three things, all in plain English. Here's where to start on each one.
 
-**Money for normal people.** Why you feel broke on a decent income, where it leaks out, and small moves that actually help.
+**[Money for normal people](/money/).** Why you feel broke on a decent income, where it leaks out, and small moves that actually help.
 
 - [Why You Feel Broke on a Good Income](/p/why-you-feel-broke-on-a-good-income/)
 - [The First $1,000: Your Family's Shock Absorber](/p/the-first-1000-emergency-fund/)
 - [The 5 Money Leaks Busy Families Miss](/p/5-money-leaks-busy-families-miss/)
 - [The Real Cost of Carrying a Credit Card Balance](/p/real-cost-of-a-credit-card-balance/)
 
-**Health, and the bills.** Why the system works the way it does, and how to stop overpaying for it.
+**[Health, and the bills](/health/).** Why the system works the way it does, and how to stop overpaying for it.
 
 - [Nobody Gets Paid to Make You Well](/p/nobody-gets-paid-to-make-you-well/)
 - [Why You Got a Big Bill With Insurance](/p/why-you-got-a-big-bill-with-insurance/)
 - [The Cash Price Secret Hospitals Don't Advertise](/p/the-cash-price-secret/)
 - [What Is Health Sharing? An Honest Plain-English Guide](/p/what-is-health-sharing/)
 
-**Saving in something that lasts.** A calm look at why the dollar loses value and where bitcoin fits, as savings, not gambling.
+**[Saving in something that lasts](/bitcoin/).** A calm look at why the dollar loses value and where bitcoin fits, as savings, not gambling.
 
 - [The Dollar's Slow Leak, Explained Simple](/p/the-dollars-slow-leak/)
 - [Saving vs. Gambling: Where Bitcoin Actually Fits](/p/is-bitcoin-saving-or-gambling/)

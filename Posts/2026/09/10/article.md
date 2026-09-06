@@ -1,5 +1,7 @@
 # High-Deductible Plan vs. Health Sharing: The Head-to-Head
 
+> If you're healthy and already on a high-deductible plan to keep costs down, health sharing is usually the same bet made better: a lower monthly number ($60 per person plus a modest crowd contribution) and a $500 step per event instead of a $7,000 to $15,000 wall. The trade is giving up the legal guarantee and the hard out-of-pocket maximum.
+
 A lot of responsible families end up on a high-deductible health plan because it has the lowest monthly bill on the menu. If that's you, you're already comfortable carrying some risk to keep your monthly cost down. That's exactly the mindset health sharing is built for. So let's put them side by side and do the actual math, no spin.
 
 ## What each one costs you monthly
@@ -30,6 +32,20 @@ I promised no spin, so here it is. The high-deductible plan is real insurance, w
 ## The takeaway
 
 If you're healthy and already chose a high-deductible plan to keep costs down, health sharing is usually the same bet made better. Lower monthly cost, and a $500 step instead of a five-figure wall when something happens. The trade is giving up the legal guarantee. For a lot of us, that trade is clearly worth it. For some, it isn't. Now you can tell which one you are.
+
+## Questions I get about this
+
+### How much does a high-deductible plan cost a family?
+
+Often several hundred to over a thousand dollars a month in premiums, with a family deductible of $7,000 to $15,000 behind it. When a health event hits, you pay the full cost yourself until you reach that deductible, even though you've been paying premiums the whole time.
+
+### What does a high-deductible plan have that health sharing doesn't?
+
+It's real insurance: a legal guarantee that covered claims get paid and a hard yearly out-of-pocket maximum. It also lets you open an [HSA](/p/what-is-an-hsa/). If you have a chronic condition, take costly ongoing medication, or can't stomach uncertainty, that guarantee is worth paying for.
+
+### What does a $6,000 health event cost on each?
+
+On a high-deductible plan: a year of premiums plus the full $6,000, because you likely never cleared the deductible. Easily over ten grand. On health sharing: the year's flat fees plus $500 for the event, with the community funding the rest of the eligible bill.
 
 Want to run your own comparison? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

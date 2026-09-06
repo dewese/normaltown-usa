@@ -1,5 +1,7 @@
 # How Members Actually Fund Each Other's Bills
 
+> Funding a bill in health sharing is an orderly process, not a chaotic tip jar. First the care advocate negotiates the bill down (commonly 25 to 85 percent off). Then it's confirmed eligible under the guidelines. You pay your $500. The community shares the rest, usually within about a week. Your monthly money goes straight to real members' bills.
+
 The word "crowdfunding" makes some people picture a chaotic online tip jar where you hope enough strangers chip in. That's not how health sharing works. There's an actual, orderly system behind it, and once you see the machinery, the whole thing feels a lot less mysterious and a lot more trustworthy. Here's how members really fund each other's bills with CrowdHealth, the service I use.
 
 ## It starts with shrinking the bill
@@ -27,6 +29,20 @@ It's a system run by people under a set of guidelines, not a legal guarantee, be
 ## The takeaway
 
 Funding a bill isn't a chaotic tip jar. It's a real process: negotiate the bill way down, confirm it's eligible, you pay your $500, and the community shares the rest, usually within about a week. Your monthly money goes straight to helping real members, not padding a company's profit. Once you see the machinery, "trusting the crowd" stops feeling like a leap and starts feeling like a system.
+
+## Questions I get about this
+
+### Do CrowdHealth members vote on every bill?
+
+Each month you see the community's funding requests and approve your share, with a couple of days to respond. Bills are already negotiated and checked against the guidelines before they reach you, so it's an orderly system, not strangers deciding your fate on a whim.
+
+### How long does it take for the crowd to fund a bill?
+
+Complete, eligible submissions get funded in about a week on average. That's faster than plenty of insurance reimbursements I've dealt with. Incomplete paperwork is the usual cause of delay.
+
+### Where does my monthly contribution actually go?
+
+Directly to fund the actual bills of actual members that month, not into a corporate pool to boost quarterly profit. Nobody in this system gets richer by denying your bill. That's the incentive flip I unpack in [Health Insurance's Built-In Conflict of Interest](/p/health-insurances-conflict-of-interest/).
 
 Want to see the process from the inside? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

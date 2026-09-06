@@ -1,5 +1,7 @@
 # Why the Same Blood Test Costs $30 or $300
 
+> The same blood test costs $30 in one place and $300 in another because there's no single real price in medical care, just a menu. Hospitals set sky-high sticker prices for haggling with insurers, a hospital lab charges far more than a standalone lab, and cash often beats insurance. Ask the price first and pick the cheaper chair.
+
 The same simple blood test can cost you thirty dollars in one place and three hundred in another. Not a better test. Not a fancier needle. The exact same thing, at ten times the price.
 
 That sounds insane, so let's make sense of it with something you already know.
@@ -34,6 +36,16 @@ That's it. You're not being difficult. You're just refusing to overpay for the s
 
 The same blood test costs thirty or three hundred dollars for the same reason two people pay wildly different fares for the same airplane seat. There's no single real price, just a menu, and where and how you buy decides what you pay. Ask the price first, ask for cash, and choose the cheaper chair. It's the same flight either way.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Why do hospitals charge so much more than a standalone lab?
+
+Same test, bigger price tag on the door. Hospitals keep a master list of inflated prices meant as a starting point for haggling with insurance companies. A dedicated lab down the street doesn't carry that overhead, so for routine tests it's often far cheaper for the identical result.
+
+### How do I find out what a blood test will cost before I get it?
+
+Ask. "What will this cost me?" is a normal, fair question, and you should ask it before they draw the blood. Then ask for the cash price too and compare it to what you'd pay with insurance. Pick the smaller one.
+
+### Is it cheaper to pay cash for lab work?
+
+Often, yes, especially while you're still under your deductible. The cash price skips the paperwork and haggling that inflate the insurance price. Here's exactly [how to ask for the cash price](/p/the-cash-price-secret/).

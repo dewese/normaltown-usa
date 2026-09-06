@@ -3,6 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `the-real-monthly-cost-of-health-sharing` |
+| **Title tag** | `What Health Sharing Costs Per Month: CrowdHealth's Real Numbers` |
 | **Subtitle** | `The real numbers: a flat fee, a set amount per health event, and no surprise premium.` |
 | **Meta description** | `What does health sharing cost? A flat $60/month per person plus $500 per health event, not a premium and a deductible. Here's the honest math.` |
 | **Category** | Health |

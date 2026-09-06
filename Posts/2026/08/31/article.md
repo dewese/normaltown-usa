@@ -1,5 +1,7 @@
 # How Much Is Too Much? Sizing a Small Bet
 
+> How much is too much? Any amount whose loss would touch your real life. Treat a swingy investment like hot sauce: a small dash on a plate that's already a full meal. Get the emergency fund and high-interest debt handled first, keep the bet small enough that a bad year is a shrug, and buy it slowly.
+
 If you've decided to put a little money into something that swings around, like bitcoin, the very next question is the smart one: how much? Too little and it won't matter. Too much and one bad stretch could hurt your real life. Here's a plain way to think about the size, without anyone handing you a magic number.
 
 ## Hot sauce on the meal
@@ -28,6 +30,16 @@ Here's the order that keeps people safe. Get the meal on the table before you re
 
 How much is too much? Any amount whose loss would touch your real life. Treat a swingy investment like hot sauce: a small dash on a plate that's already a full meal. Get the boring basics handled first, keep the bet small enough that a bad year is a shrug, and buy it slowly. Flavor, not the whole dinner.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### What percentage of my savings should go into bitcoin?
+
+There's no official number, and anyone who gives you one with total confidence is guessing. For most regular people the "wouldn't hurt me" amount lands somewhere small, often a single-digit slice of savings, not half. Small enough that a bad year is a shrug.
+
+### What should I do before investing in anything risky?
+
+Get the meal on the table first: a small emergency fund, high-interest debt handled, bills covered. Hot sauce on an empty plate is just an upset stomach. Start with the [first $1,000](/p/the-first-1000-emergency-fund/).
+
+### Should I put the whole amount in at once?
+
+No need. Sizing the bet small and buying it slowly are two separate protections that stack. I explain the buy-slowly part in [A Little Each Week Beats Betting It All](/p/a-little-each-week-beats-betting-it-all/).

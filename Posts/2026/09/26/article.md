@@ -1,5 +1,7 @@
 # Budgeting When You're Self-Insured
 
+> If you're on a high-deductible plan or health sharing, you're partly self-insured, and the habit that makes it work is a healthcare sinking fund. Park your event number ($500 on health sharing), build a buffer of a few thousand on top, automate a small monthly transfer to a separate account, and feed it with the premiums you're no longer paying.
+
 "Self-insured" sounds fancy, but it just means this: you've decided to cover some of your own risk instead of paying a company to cover all of it. Anyone with a high deductible is partly self-insured already. Anyone on health sharing is too. The trick that makes it work isn't luck. It's a boring little budgeting habit that turns scary surprise bills into planned-for expenses. Here's how to do it.
 
 ## The one idea that makes self-insuring work
@@ -30,5 +32,19 @@ Self-insuring works great for the small and medium bumps. It does not, by itself
 ## The takeaway
 
 Budgeting when you're self-insured comes down to one habit: a healthcare sinking fund. Park your event number, build a buffer on top, automate a small monthly transfer, and feed it with the money you save on premiums. It turns "surprise" bills into ones you already planned for. Boring, quiet, and exactly the kind of thing that lets normal families sleep at night.
+
+## Questions I get about this
+
+### What is a sinking fund?
+
+Saving a little every month toward an expense you know is coming eventually, even if you don't know exactly when. You already do it for tires and brakes. Your health works the same way: you don't know when a health event will hit, but you know one eventually will.
+
+### How much should be in my healthcare sinking fund?
+
+Start with your event number and keep it parked. Then build past it toward a cushion of a few thousand, so two events in one year, or a gap, never wrecks you. It's a layer in the [DIY healthcare safety net](/p/the-diy-healthcare-safety-net/), not the whole plan.
+
+### Where does the money for the sinking fund come from?
+
+From the gap between what you used to pay in premiums and what you pay now. You're not finding new money. You're redirecting savings into your own cushion instead of a company's pocket.
 
 *Nothing here is medical, tax, or financial advice, just the habit that works for my family. My family uses CrowdHealth, so I'll always flag when a post is a referral. This one isn't.*

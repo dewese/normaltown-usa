@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `the-first-1000-emergency-fund` |
-| **Title tag** | `The First $1,000: Your Family's Shock Absorber` |
+| **Title tag** | `How to Build a $1,000 Emergency Fund: Your Family's Shock Absorber` |
 | **Subtitle** | `The least exciting money move you'll ever make, and the one you'll be most grateful for.` |
 | **Meta description** | `A small emergency fund keeps a normal surprise from becoming debt. Here's why your first $1,000 matters more than any investment, and how to build it fast.` |
 | **Category** | Money |

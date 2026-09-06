@@ -1,5 +1,7 @@
 # Dental and Vision Without Insurance
 
+> Dental and vision are the easy part of going without insurance because they're predictable, not emergencies. Ask the dentist for the cash price or use a dental savings plan. Pay for the eye exam directly, then buy glasses online for a fraction of the shop price. Add a cheap standalone dental or vision plan only if your family truly needs a lot of work.
+
 Dental and vision are the two things that trip people up when they think about leaving traditional insurance, or when they go with health sharing, which doesn't cover routine dental and vision. So people panic a little: "How will I afford the dentist and my glasses?" Take a breath. This stuff is way more manageable to pay for directly than the big medical scary stuff. Here's exactly how my family handles it, no insurance required.
 
 ## The mindset: these are predictable, so budget them
@@ -32,5 +34,19 @@ If your family needs a lot of dental work, or someone needs regular specialized 
 ## The takeaway
 
 Dental and vision feel scary without insurance, but they're actually the easy part. They're predictable, so you budget for them. Ask for the cash price, shop for glasses like any other purchase, and add a cheap standalone plan only if you truly need one. The dentist and the eye doctor are not the reason to fear leaving traditional insurance.
+
+## Questions I get about this
+
+### How much does a dental cleaning cost without insurance?
+
+As a cash-pay patient, a cleaning, exam, and X-rays is often a very reasonable number, sometimes less than what you were paying in monthly dental premiums for coverage you barely used. Ask for the self-pay price up front, or check a dental school near you for low-cost cleanings.
+
+### What is a dental savings plan?
+
+Not insurance. It's a membership that gets you discounted rates at participating dentists for a small annual fee. Worth a look if your family goes to the dentist a lot.
+
+### How do I save money on glasses?
+
+Get your prescription and your pupillary distance from the exam, then shop online. Online retailers sell glasses for a fraction of what the shop next to the eye doctor charges. The exam itself is usually less than a hundred dollars out of pocket.
 
 *Nothing here is medical, tax, or financial advice, just what my family actually does. My family uses CrowdHealth, so I'll always flag when a post is a referral. This one isn't.*

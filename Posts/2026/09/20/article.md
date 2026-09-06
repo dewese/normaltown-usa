@@ -1,5 +1,7 @@
 # A Healthy Family's Year on Health Sharing
 
+> A full year on CrowdHealth for a healthy family of four: $240 a month in advocacy fees plus a modest crowd contribution, call it about $400 a month or roughly $4,800 a year. Add $500 for one health event (a kid's broken arm) and a few hundred in cash-pay checkups and cheap generics. Around $5,500 to $6,000 for the year, broken arm included.
+
 Let's do something concrete. Instead of talking about health sharing in the abstract, let me walk you through a whole year for a normal, healthy family of four, with real numbers, including the bumps. This is basically how a year looks for my own family, and seeing the full twelve months laid out is what made the math finally click for me.
 
 ## The cast
@@ -43,6 +45,20 @@ This is the healthy-family scenario, and that's the whole point: health sharing 
 ## The takeaway
 
 For a normal healthy family, a full year on health sharing, bumps and a broken arm included, can land thousands below what a traditional plan costs. Flat monthly fees, cash prices on the small stuff, and a $500 step when something big happens. Run your own version of this year with your real numbers, and see where you land.
+
+## Questions I get about this
+
+### How much does health sharing cost a family of four per month?
+
+With CrowdHealth, $60 per person is $240 a month in advocacy fees, plus the monthly crowd contribution that moves around but stays modest. An honest round estimate is about $400 a month all in. Run your own numbers, because household ages change the sharing amount.
+
+### What about checkups and sick visits on health sharing?
+
+You pay the cash price, which for a normal office visit is often very reasonable. Across a year that's a few hundred dollars for a family. CrowdHealth also crowdfunds one preventive visit a year per member up to $300 with the commitment waived.
+
+### How does this compare to a traditional family plan?
+
+Family premiums alone often run past $5,500 a year before anyone gets sick, and you'd still owe a big deductible when the arm breaks. I put the two side by side for a good year and a bad one in [The All-In Yearly Cost, Side by Side](/p/the-all-in-yearly-cost-side-by-side/).
 
 Want to map out your family's year? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

@@ -3,6 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `health-sharing-for-the-self-employed` |
+| **Title tag** | `Health Sharing for the Self-Employed: Flat Cost, Not Tied to a Job` |
 | **Subtitle** | `A flat, low cost that isn't tied to any job, and the tax note to factor in.` |
 | **Meta description** | `Why health sharing fits the 1099 life: a flat monthly cost that's not tied to a job, real help with bills, plus the honest tax difference and limits to weigh.` |
 | **Category** | Health |

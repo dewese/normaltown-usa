@@ -1,5 +1,7 @@
 # Why I Don't Try to Time the Price
 
+> I don't try to time the price because almost nobody can, not the pros on TV, not the billion-dollar funds, not your confident buddy. People who wait for the perfect price mostly watch from the sidelines. Instead I buy a small fixed amount on a schedule and let time average it out. Calm beats clever.
+
 People ask me if they should wait for the price to drop before they buy. It's a fair question. It's also a trap, and I've watched a lot of smart people lose years to it. Here's why I stopped trying to time the price, and what I do instead.
 
 ## The best day to plant a tree
@@ -28,6 +30,16 @@ Not trying to time the price is not the same as "buy anything, any time, without
 
 I don't try to time the price because almost nobody can, and the people who try mostly end up watching from the sidelines. The best day to plant a tree was years ago. The second best is today. So I plant a little at a time, on a schedule, and let it grow. Calm beats clever.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Should I wait for the price to drop before buying bitcoin?
+
+I don't. Prices move on news nobody saw coming, and you can't schedule a surprise. The best time to plant a tree was twenty years ago. The second best is today. A little at a time, on a schedule, beats guessing.
+
+### Does buying on a schedule work for anything?
+
+No. If what you're buying is a bad idea, buying it on a schedule just spreads out a bad idea. This calm approach only makes sense for something you believe holds value over the long haul, with money you won't need soon.
+
+### How does buying a little each week actually work?
+
+Some buys land high, some land low, and you never have to be right about any single one. Your fixed amount buys more when the price is low and less when it's high, automatically. I lay it out in [A Little Each Week Beats Betting It All](/p/a-little-each-week-beats-betting-it-all/).

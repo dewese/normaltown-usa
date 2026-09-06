@@ -1,5 +1,7 @@
 # The All-In Yearly Cost, Side by Side
 
+> For a healthy family of four, a traditional plan runs roughly $13,000 to $22,000 all in during a quiet year and $18,000 to $28,000 in a year with one $6,000 health event. Health sharing on CrowdHealth runs roughly $5,000 to $5,500 in a quiet year and $5,500 to $6,000 with the event, because per-event exposure is capped at $500. The extra cost of insurance buys a legal guarantee.
+
 We've talked about monthly fees, deductibles, and per-event costs all month. Now let's put it all in one place and answer the only question that really matters at the end of the year: what does each option actually cost you, all in, for twelve months? Here's the honest side-by-side, using round, realistic numbers for a healthy family of four.
 
 ## The rule for a fair comparison
@@ -45,6 +47,20 @@ Two things keep this fair. First, your real numbers will differ, so run your own
 ## The takeaway
 
 All in, for a healthy family, health sharing usually lands many thousands of dollars below a traditional plan, in both a quiet year and a rough one, because you skip fat premiums and cap your per-event cost at $500. The traditional plan's extra cost buys a guarantee some people need. Run your own all-in numbers for both a good year and a bad one, and the right answer for your family gets very clear.
+
+## Questions I get about this
+
+### How do I compare health insurance and health sharing fairly?
+
+Add up everything you'd actually pay across twelve months, not just the monthly bill: premiums or fees, deductible exposure, and typical out-of-pocket. Then run it twice, once for a healthy year and once with a real health event. That's the only fair comparison.
+
+### Why does the gap get bigger in a bad year?
+
+Because on a traditional plan you likely pay most or all of a $6,000 event yourself if it's under your deductible, on top of the premiums. On health sharing your exposure per event is $500 and the community shares the rest of the eligible amount.
+
+### Are these numbers exact?
+
+No. They're round, realistic estimates. Your premium, deductible, and household will differ, so run your own numbers for both a good year and a bad one. And remember the traditional plan's higher cost buys a legal guarantee that health sharing doesn't have.
 
 Want to run your own all-in number? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

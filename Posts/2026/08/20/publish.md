@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `stop-renting-your-subscriptions-a-mansion` |
-| **Title tag** | `Stop Renting Your Subscriptions a Mansion` |
+| **Title tag** | `How to Find and Cancel Forgotten Subscriptions in 20 Minutes` |
 | **Subtitle** | `You're paying to light rooms nobody walks into. Here's the 20-minute fix.` |
 | **Meta description** | `How to cut subscriptions you forgot about: a 20-minute statement walk-through. Turn off the lights in the empty rooms and move that money to savings.` |
 | **Category** | Money |

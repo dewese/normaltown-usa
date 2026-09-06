@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `how-much-is-too-much-sizing-a-small-bet` |
-| **Title tag** | `How Much Is Too Much? Sizing a Small Bet` |
+| **Title tag** | `How Much Bitcoin Is Too Much? Sizing a Small Bet Without a Magic Number` |
 | **Subtitle** | `Treat a swingy investment like hot sauce. A dash, not the dinner.` |
 | **Meta description** | `How much of my savings should be in bitcoin? Any amount whose loss would touch your real life is too much. Size it like hot sauce: a small dash on a full meal.` |
 | **Category** | Money |

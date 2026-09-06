@@ -1,31 +1,66 @@
 # Normaltown USA robots.txt
 # Goal: WELCOME AI answer engines so they can read and CITE Normaltown USA (GEO),
 # while keeping normal search crawlers.
+#
+# NOTE: Cloudflare's "managed robots.txt" (Security > Settings > Bot traffic, and
+# "Display Content Signals Policy" on the zone Overview) PREPENDS its own block that
+# DISALLOWS GPTBot, ClaudeBot, Google-Extended, CCBot, Amazonbot and more. Turn that
+# setting off in the Cloudflare dashboard or this file's Allow rules are moot.
+
+User-agent: *
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
 # --- AI answer / citation crawlers (the GEO ones you WANT reading you) ---
-User-agent: OAI-SearchBot        # ChatGPT search results + citations
+User-agent: OAI-SearchBot
 Allow: /
 
-User-agent: GPTBot               # OpenAI (also trains models)
+User-agent: ChatGPT-User
 Allow: /
 
-User-agent: PerplexityBot        # Perplexity answers + citations
+User-agent: GPTBot
 Allow: /
 
-User-agent: Google-Extended      # feeds Google AI Overviews / Gemini
+User-agent: PerplexityBot
 Allow: /
 
-User-agent: ClaudeBot            # Anthropic / Claude
+User-agent: Perplexity-User
 Allow: /
 
-User-agent: Amazonbot            # Amazon / Alexa
+User-agent: Google-Extended
 Allow: /
 
-User-agent: CCBot                # Common Crawl (feeds many AI datasets)
+User-agent: ClaudeBot
 Allow: /
 
-# --- Everyone else (normal search engines included) ---
-User-agent: *
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: DuckAssistBot
 Allow: /
 
 Sitemap: https://www.normaltownusa.com/sitemap.xml

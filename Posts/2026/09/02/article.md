@@ -1,5 +1,7 @@
 # Can You Trust Health Sharing With a Big Bill?
 
+> CrowdHealth's community has funded more than 45,000 bills, including a single bill over $643,000, and complete submissions get funded in about a week on average. It profits from a flat $60 fee, not from denying you. But it's not insurance and funding isn't legally guaranteed, so read the guidelines before you trust it with anything.
+
 This is the question that stops most people. The monthly cost looks great, the idea sounds nice, and then your gut says the quiet part out loud: "But will it actually be there when I really need it?" That is the right question to ask. Here is the honest answer, with the parts that should reassure you and the parts that should keep you careful.
 
 ## What "trust" should mean here
@@ -27,6 +29,20 @@ Do not take my word or theirs. Read the member reviews on Trustpilot, both the g
 ## The takeaway
 
 Can you trust health sharing with a big bill? The community has a real, public track record of funding very large bills, fast, and the company profits by helping you, not denying you. But it is not insurance, it does not guarantee funding, and it has clear limits you need to read first. Go in with eyes open, and for a lot of people it is more trustworthy than the plan they have now, not less.
+
+## Questions I get about this
+
+### Has health sharing ever failed to pay a bill?
+
+Bills do get declined, usually because they fell outside the written guidelines, like a pre-existing condition still in its waiting period or incomplete paperwork. The critical Trustpilot reviews mostly say a complex bill took longer than expected, not that it went unpaid. I cover the worst case in [What If the Crowd Doesn't Fund Your Bill?](/p/what-if-the-crowd-doesnt-fund-your-bill/).
+
+### How fast does CrowdHealth pay bills?
+
+On average a complete submission is fully funded in about a week, and members are reimbursed a couple of days after approval. Incomplete paperwork is the usual cause of delays, so keep every piece of paper.
+
+### How can I check the track record myself?
+
+Read the member reviews on Trustpilot, both glowing and critical. Then read the actual guidelines on what's eligible before you join. Trust that survives your skepticism is the only kind worth having.
 
 If you want to look at the guidelines and see your own cost, use my code **NORMAL**: [check out CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

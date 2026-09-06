@@ -1,5 +1,7 @@
 # Why Hard-to-Make Money Holds Its Value
 
+> If something is easy to make more of, it struggles to hold value. If it's hard to make, it tends to hold value well. Gold has been money for thousands of years because digging it up is slow and costly. Dollars leak because more can always be made. Bitcoin copies gold's trick with a fixed limit written into its rules.
+
 If something is easy to make more of, it struggles to hold its value. If it's hard to make more of, it tends to hold value well. That one rule explains why gold has been money for thousands of years, and why the dollar in your pocket slowly buys less. Here's the plain version.
 
 ## Two neighbors, two IOUs
@@ -38,6 +40,16 @@ Hard to make is one ingredient in holding value, not the only one. People also h
 
 Value sticks to things that are hard to make more of, and leaks out of things that aren't. Gold held its worth for centuries because digging it up is hard on purpose. Easy-to-make money slowly loses air for the opposite reason. Once you see money through that one lens, a lot of it stops being confusing.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Why has gold held its value for so long?
+
+Because it's genuinely hard to get. You have to find it, dig it up, and refine it, and even with modern machines the world's supply grows only a tiny bit each year. No king, bank, or government can flood the world with ten times more gold to cover their bills.
+
+### Is bitcoin like digital gold?
+
+That's the idea people are reaching for. It's built to be hard to make more of, with a fixed cap nobody can change. Whether it ends up mattering to you, it's trying to copy the one thing that made gold hold value. The honest [saving-versus-gambling](/p/is-bitcoin-saving-or-gambling/) line still applies.
+
+### Does hard to make guarantee something is valuable?
+
+No. Difficulty is one ingredient. People also have to want the thing, trust it, and be able to use it. Difficulty alone doesn't make something valuable, but nothing holds value for long without it.

@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `why-the-same-blood-test-costs-different` |
-| **Title tag** | `Why the Same Blood Test Costs $30 or $300` |
+| **Title tag** | `Why the Same Blood Test Costs $30 or $300: Medical Prices Explained` |
 | **Subtitle** | `Same test, ten times the price. It's not the test. It's the billing.` |
 | **Meta description** | `The same blood test can cost $30 or $300. Here's why, in plain English, and three simple ways to make sure you pay the lower price.` |
 | **Category** | Health |

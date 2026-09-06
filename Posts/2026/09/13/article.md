@@ -1,5 +1,7 @@
 # Maternity on Health Sharing: The Honest $3,000 Breakdown
 
+> With CrowdHealth, a maternity event has a set member commitment of about $3,000 for the whole pregnancy and delivery, and the community shares the rest of the eligible costs from prenatal care through the birth. The rule you can't skip: you must join before you're pregnant. A pregnancy that's already underway when you sign up is treated as pre-existing and won't be shared.
+
 Having a baby is one of the few big, planned health events most families go through, which makes it a perfect thing to run the real numbers on. If you've ever seen a hospital bill for a delivery, you know it can be terrifying. So let's talk about how maternity actually works on health sharing, with honest numbers and honest limits, because this is one where the rules really matter.
 
 ## The headline number
@@ -25,6 +27,20 @@ I won't leave anything out. It is not insurance, so there's no legal guarantee. 
 ## The takeaway
 
 If you're planning to grow your family in the next couple of years, maternity on health sharing is worth a serious look. A set commitment of around $3,000, the whole event handled together, and a real human helping with the bills. The one thing you can't do is wait until you're already pregnant. Set it up early, and it's one of the calmest ways I've seen to handle a delivery.
+
+## Questions I get about this
+
+### Does health sharing cover pregnancy?
+
+Yes, if you conceived after you'd been a member for the required waiting period. Prenatal visits, the delivery, and typical newborn care around the birth are wrapped into one maternity event with one commitment from you.
+
+### What if I'm already pregnant when I join?
+
+That pregnancy is treated like a pre-existing condition and won't be funded. Health sharing is something you set up before you're planning a baby, not after you see two lines on the test.
+
+### How does $3,000 compare to having a baby on insurance?
+
+On a traditional plan, even after a year of premiums, you can still owe your full deductible, often more than $3,000, plus coinsurance on top. So for many families the health sharing number isn't just simpler, it's smaller. It's not insurance, though, and complications outside the normal maternity guidelines have their own rules.
 
 Thinking ahead for your family? Use my code **NORMAL**: [see how CrowdHealth handles maternity](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

@@ -1,5 +1,7 @@
 # Why You Got a Big Bill With Insurance
 
+> You got a big bill with insurance because insurance is a "you pay first" deal, not an all-you-can-eat pass. Three rules stack: you pay full price until you hit your deductible, you split the bill (coinsurance) after that, and going out of network can erase the discount entirely. Deductibles reset every January.
+
 You have insurance. You pay for it every month. So when a bill shows up anyway, a real one, with a number that makes your stomach drop, it feels like a mistake. It usually isn't. It's how the thing is built.
 
 Here's the short version: health insurance isn't an all-you-can-eat pass. It's a cost-sharing deal with a bunch of "you first" rules baked in. Once you see them, the surprise bill stops being a shock.
@@ -43,6 +45,20 @@ You can't rewrite your plan today, but you can stop getting blindsided.
 
 A big bill with insurance isn't a glitch. It's the deductible, the coinsurance, and the network doing exactly what they were built to do. You paid to get in the door. Knowing the three "you first" rules is how you stop paying full price by the plate.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### What is coinsurance?
+
+It's the share of the bill you still pay after you've hit your deductible. If your plan pays 80 percent, you pay the other 20. Even when the insurance "kicks in," you're still splitting the check on every plate.
+
+### What does out-of-network mean?
+
+Your insurer has a list of doctors and hospitals it made a deal with. That's the network. See someone off the list, sometimes without knowing it, and there's no deal in place, so you can be charged far more. One phone call, "Are you in-network for my plan?", prevents the ugliest kind of bill.
+
+### Why do medical bills sting more early in the year?
+
+Because your deductible resets every January. The counter goes back to zero, so the first visits and labs of the year come mostly out of your pocket until you've spent your way back up to the deductible.
+
+### How can I avoid a surprise medical bill?
+
+Know your deductible number, ask for the cash price before you've hit it, and confirm in-network before you go. If your plan barely helps until a huge deductible, it's worth pricing alternatives like [health sharing](/p/what-is-health-sharing/).

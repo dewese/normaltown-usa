@@ -3,6 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `maternity-on-health-sharing` |
+| **Title tag** | `Maternity on Health Sharing: The $3,000 Pregnancy Commitment` |
 | **Subtitle** | `A set commitment around $3,000, the whole event together, and the one rule you can't skip.` |
 | **Meta description** | `How maternity works on health sharing: about a $3,000 member commitment for the whole pregnancy, what it covers, and the waiting-period rule you can't skip.` |
 | **Category** | Health |

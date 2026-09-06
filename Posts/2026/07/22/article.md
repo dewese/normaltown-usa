@@ -1,5 +1,7 @@
 # Why You Feel Broke on a Good Income
 
+> You feel broke on a good income because your money is filling and leaking at the same time. Three holes: your lifestyle grew with your paycheck, your fixed monthly costs ratcheted up, and the dollar itself buys a little less each year. The fix isn't a bigger faucet. It's patching the holes, starting with your three biggest fixed costs.
+
 You make decent money now. More than you used to. And somehow the bank account still looks the same at the end of the month. If you feel a little crazy about that, you're not. There's a simple reason, and it isn't that you're bad with money.
 
 Here it is: your money is filling and leaking at the same time.
@@ -46,6 +48,16 @@ That's it. No spreadsheet, no shame. Just three holes patched.
 
 Feeling broke on a good income isn't a character flaw. It's a leaky bucket. And the fix was never a bigger faucet. It's finding the holes and quietly patching them, one at a time, until the level finally starts to rise.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### What is lifestyle creep?
+
+It's when your spending quietly grows to match your income, dollar for dollar. A nicer car, more dinners out, an upgraded phone. Each step is small and feels earned, but the raise gets spent before it ever settles. That's why you don't feel richer.
+
+### Why does a raise not make me feel richer?
+
+Because a raise turns up the faucet while the holes in the bucket grow to match. Taxes trim it, your spending rises, and prices creep up under you. I break the three pushes down in [Where Your Raise Actually Went](/p/where-your-raise-actually-went/).
+
+### What's the first thing to do if I feel broke on a good income?
+
+Name your three biggest fixed monthly costs. That's where real money hides. Then freeze one lifestyle upgrade you were about to make, and set up an automatic transfer to savings the moment your paycheck lands. Water you never see can't drain out.

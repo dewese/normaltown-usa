@@ -1,5 +1,7 @@
 # How to Negotiate a Hospital Bill Yourself
 
+> A hospital bill is an opening offer, not a fixed price. To negotiate it yourself: ask for the fully itemized bill and check it for errors, ask for the cash or self-pay price, ask for a further discount or financial assistance, and get the final number in writing before you pay a cent. Regular people do this every day and save thousands.
+
 Most people don't know this, so I'll say it plainly. A hospital bill is not a fixed price. It's an opening offer. The number they print is the sticker price, and almost nobody pays it. If you know how to ask, you can knock a shocking amount off, no membership or insurance required. Here's exactly how I'd do it.
 
 ## First, get the itemized bill
@@ -35,5 +37,23 @@ Negotiating takes a few phone calls and some patience, and not every hospital be
 ## The takeaway
 
 The bill is a starting point, not a verdict. Get it itemized, ask for the cash price, ask for a discount, and get the final number in writing. Regular people do this every day and save thousands. You can too.
+
+## Questions I get about this
+
+### What should I say to negotiate a medical bill?
+
+Start with "What's the cash price if I pay out of pocket?" Then try "That's still more than I can pay at once. What can you do if I pay today?", "Can you match what Medicare would pay for this?", and "Is there a financial assistance or charity care program I qualify for?"
+
+### Why should I ask for an itemized bill?
+
+Because you'll find mistakes: double-charged items, a test you never got, a "supply" that costs more than your car payment. Billing errors are common, and every wrong line is money back in your pocket. Never negotiate off the summary.
+
+### Can I negotiate a hospital bill if I have insurance?
+
+Yes. You can still ask for an itemized bill, dispute errors, ask about financial assistance, and ask for a prompt-pay discount on your share. Nonprofit hospitals are required to offer financial assistance, and a lot of people who qualify never ask.
+
+### How much can I save by negotiating?
+
+It varies. You might get 20 percent off, you might get 60. But going from the sticker price to the cash price alone is usually worth real money, and it costs you nothing but an afternoon of phone calls.
 
 *Nothing here is medical, tax, or financial advice, just what I've learned the hard way. My family uses CrowdHealth, so I'll always tell you when a post is a referral. This one isn't. It's just how the game works.*

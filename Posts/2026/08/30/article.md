@@ -1,5 +1,7 @@
 # What an HSA Actually Is (and Who It's For)
 
+> A Health Savings Account is a jar for health costs that the tax man doesn't touch. Money goes in untaxed, comes out untaxed when spent on health care, and rolls over year to year as your own money. The catch: you need a high-deductible health plan to open one, so the two come as a pair.
+
 An HSA is one of the most useful money tools most people barely understand. The name is forgettable: Health Savings Account. But the idea is simple and genuinely helpful, if it fits your situation. Here's the plain version, including the honest catch about who can actually use one.
 
 ## A special jar the tax man doesn't touch
@@ -28,8 +30,18 @@ If you qualify and it fits, two simple moves. Put money in regularly, even a lit
 
 An HSA is a health-only savings jar the tax man doesn't touch: money in untaxed, money out for health untaxed, and it rolls over as your own money. The catch is you need a high-deductible health plan to open one, so it's a pair, and that pair fits healthier people better than those with heavy ongoing costs. If it fits you, it's one of the best deals in personal finance. If it doesn't, now you know why, and that's worth knowing too.
 
+## Questions I get about this
+
+### Is an HSA use-it-or-lose-it?
+
+No. That's a different thing (a flexible spending account) that sounds similar and works the opposite way. Whatever you don't spend in an HSA rolls over year after year, and it's yours to keep even if you change jobs.
+
+### Who should get an HSA?
+
+It tends to fit healthier people who don't rack up a lot of medical bills. They get the low monthly premium of the high-deductible plan plus the tax-free jar, and rarely hit the big deductible. It fits worse for people with steady, heavy medical needs who would feel that deductible often.
+
+### Can I have an HSA with health sharing?
+
+Generally no, because an HSA requires a qualifying high-deductible insurance plan, and health sharing isn't insurance. If you already have an HSA balance, it stays yours and you can keep spending it on health costs. Rules change, so check current guidance.
+
 *(Amounts and rules change year to year, so check the current figures before you set one up. I share what I've learned, not tax advice.)*
-
----
-
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*

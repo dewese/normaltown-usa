@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `who-gets-the-new-money-first` |
-| **Title tag** | `Who Gets the New Money First (and Why It's Not You)` |
+| **Title tag** | `Who Gets the New Money First When Money Is Printed (and Why It's Not You)` |
 | **Subtitle** | `The front of the buffet eats before the prices go up. You're near the back.` |
 | **Meta description** | `Why do the rich get richer with inflation? New money reaches them first, before prices rise. Regular people are last in line. Explained with a buffet line.` |
 | **Category** | Money |

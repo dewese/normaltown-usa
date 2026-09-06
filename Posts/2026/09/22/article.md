@@ -1,5 +1,7 @@
 # Is Health Sharing Legit?
 
+> Yes, health sharing is legit. It's a real, legal, decades-old way hundreds of thousands of Americans handle healthcare, and CrowdHealth has funded more than 45,000 bills, including single bills over $600,000. But legit doesn't mean insurance. A trustworthy organization says so loudly, publishes specific guidelines, shows a track record, and prices transparently.
+
 Let's just ask the blunt question everybody's thinking. Is this thing legit, or is it some too-good-to-be-true scheme that leaves you holding the bag? It's the right question to ask about anything involving your family's health and money. So here's the honest answer, with the reasons, so you can decide for yourself instead of taking my word for it.
 
 ## The short answer
@@ -32,6 +34,20 @@ Being legit doesn't erase the limits. It is not insurance, so there's no legal g
 ## The takeaway
 
 Health sharing is a legitimate, long-established way to handle healthcare costs, and the good organizations prove it by being upfront that they're not insurance and by showing real track records. "Legit" and "not insurance" are both true at once. Vet any organization with the checklist, read the guidelines, and you can trust the model with your eyes open.
+
+## Questions I get about this
+
+### Is health sharing a scam?
+
+No. The scam version would be pretending to be insurance while not delivering it. Legit organizations tell you clearly "this is sharing, not insurance," publish exactly what's shared and what isn't, and show a public track record. Vet any one with that checklist, including CrowdHealth.
+
+### Is health sharing legal?
+
+Yes. Health sharing organizations have existed for decades and operate above board. A few states (Vermont, California, Massachusetts, New Jersey, Rhode Island, and DC) have extra insurance-mandate steps for members, so check your state.
+
+### How do I know CrowdHealth will pay?
+
+You don't get a legal guarantee, because it isn't insurance. You get a public track record: tens of thousands of bills funded, usually in about a week, and independent member reviews you can read. I dig into that in [Can You Trust Health Sharing With a Big Bill?](/p/can-you-trust-health-sharing-with-a-big-bill/).
 
 Want to check the track record and guidelines yourself? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

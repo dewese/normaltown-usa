@@ -1,5 +1,7 @@
 # Pre-Existing Conditions and Health Sharing: The Real Rules
 
+> Pre-existing conditions are health sharing's most important limit. A condition you already have, or had recently, isn't shared right away. There's a waiting period, and if you go a stretch without symptoms, treatment, or medication, it can gradually become eligible over the first few years. A serious active condition needing expensive care now is usually the wrong fit.
+
 This is the topic where you most need a straight shooter, because it's where health sharing has its biggest, most important limit. If you or someone in your family has a pre-existing condition, you have to understand these rules before you join, not after. So no spin here, just how it actually works with CrowdHealth, the service I use, and how to think about whether it's right for you.
 
 ## First, what counts as pre-existing
@@ -29,6 +31,20 @@ On the other hand, if your "pre-existing condition" is something minor, well-con
 ## The takeaway
 
 Pre-existing conditions are health sharing's most important limit, and the rules are real: waiting periods, and some active conditions that simply aren't a fit. But the rules are written down plainly, not hidden. Read the guidelines for your exact situation, be honest with yourself about how active your condition is, and you'll know clearly whether this is your tool or not.
+
+## Questions I get about this
+
+### What counts as a pre-existing condition for health sharing?
+
+Any health issue you already have when you sign up, or had recently: diabetes, high blood pressure, a past cancer, a bad back you've been treated for. Sharing pools money for unexpected events, and something you already have isn't unexpected, so the model treats it differently.
+
+### How long is the waiting period for pre-existing conditions?
+
+With CrowdHealth, a condition documented, diagnosed, or symptomatic in recent years isn't eligible for the first two years of membership, and after that it can be shared with a yearly cap. The exact rule depends on your condition, so read the guidelines for your specific situation before you join.
+
+### Can I use health sharing if I have a minor, well-controlled condition?
+
+Often yes. Something minor, well-controlled, or years behind you may matter far less than you fear, especially after the waiting period, and plenty of people with a manageable history use sharing happily for everything else. The only way to know your case is to read the rule for your specific condition.
 
 Want to read the actual guidelines for your situation? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

@@ -3,6 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `pre-existing-conditions-and-health-sharing` |
+| **Title tag** | `Pre-Existing Conditions and Health Sharing: The Real Waiting-Period Rules` |
 | **Subtitle** | `Health sharing's biggest limit, explained straight: waiting periods and when it's the wrong tool.` |
 | **Meta description** | `The real rules for pre-existing conditions and health sharing: what counts, how waiting periods work, when it's the wrong tool, and when it can still work.` |
 | **Category** | Health |

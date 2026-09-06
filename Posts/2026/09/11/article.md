@@ -1,5 +1,7 @@
 # What If the Crowd Doesn't Fund Your Bill?
 
+> Yes, the crowd can decline a bill. There's no legal guarantee, ever. But most declines happen because the bill fell outside the written guidelines: something not eligible, a pre-existing waiting period not met, or incomplete paperwork. Read the rules first, keep your $500 plus a small emergency fund, and use the appeal process. Then the worst case is a bump, not a disaster.
+
 This is the question I respect the most, because it's the one a careful person actually loses sleep over. Everybody selling health sharing wants to talk about the wins. I'd rather talk about the worst case with you first, because if the worst case is survivable, the rest of the decision gets easy. So let's stare at it straight.
 
 ## The honest truth up front
@@ -38,6 +40,20 @@ Do that, and even the bad scenario becomes a bump, not a catastrophe.
 ## The takeaway
 
 Could the crowd not fund a bill? Yes, and I won't pretend otherwise. There's no legal guarantee, ever. But the real risk is much smaller than the fear, because the track record is deep and most denials come from clear guideline rules you can read up front. Go in informed, keep a cushion, and the worst case is something you can handle. That's the honest deal, and honest is the only way I'll sell it.
+
+## Questions I get about this
+
+### How often does CrowdHealth not fund a bill?
+
+The public track record is strong: more than 45,000 bills funded, including single bills over $600,000, with complete eligible submissions funded in about a week on average. Declines mostly come from clear guideline rules you can read up front, not from mystery.
+
+### Can I appeal if my bill is declined?
+
+Yes. The appeal process is not a dead end. Often the fix is completing paperwork or documenting that the event was eligible. Keep every piece of paper from day one.
+
+### How do I protect myself against a declined bill?
+
+Keep your $500 event commitment liquid, keep a modest emergency fund on top of it, know the guidelines so you never submit something that was never eligible, and appeal if needed. Do that and a gap never wrecks you. Start with the [first $1,000](/p/the-first-1000-emergency-fund/).
 
 Want to read the guidelines yourself before deciding? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

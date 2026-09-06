@@ -3,6 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `how-a-big-hospital-bill-gets-paid-without-insurance` |
+| **Title tag** | `How a Big Hospital Bill Gets Paid Without Insurance` |
 | **Subtitle** | `You pay $500, negotiators shrink the bill, the crowd funds the rest. Here's the real mechanism.` |
 | **Meta description** | `How does a six-figure hospital bill get paid without insurance? You cover $500, the bill gets negotiated down, and the community funds the rest in about a week.` |
 | **Category** | Health |

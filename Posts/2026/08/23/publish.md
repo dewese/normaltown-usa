@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `why-prices-climb-but-inflation-is-down` |
-| **Title tag** | `Why Prices Climb but the News Says Inflation's Down` |
+| **Title tag** | `Why Prices Keep Climbing When the News Says Inflation Is Down` |
 | **Subtitle** | `A hill that gets less steep is still a hill you're climbing.` |
 | **Meta description** | `Why are prices still high if inflation went down? Because inflation is the speed prices rise, not the prices. The hill got less steep; you're still climbing.` |
 | **Category** | Money |

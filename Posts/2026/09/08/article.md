@@ -1,5 +1,7 @@
 # Health Sharing and Prescriptions: The Honest Version
 
+> With health sharing you pay the cash price for everyday prescriptions instead of a copay, and for most generics that's a few dollars a month if you shop around with a free discount tool. Medications tied to a health event ride along with the event. The one real limit is an expensive brand-name drug you take every month.
+
 This is one of the questions I get most, and it's a good one. "If health sharing isn't insurance, what happens to my prescriptions?" It deserves a straight answer, because this is an area where you need to plan, not assume. So here's how it actually works with CrowdHealth, the service my family uses, and where you're on your own.
 
 ## First, the mindset shift
@@ -29,6 +31,20 @@ Ask yourself two questions. Are my regular prescriptions cheap generics? And do 
 ## The takeaway
 
 Health sharing handles prescriptions differently, not worse, for most people. Everyday generics are often dirt cheap at the cash price, and event-related meds ride along with the event. The one real limit is expensive ongoing brand-name drugs, which the model isn't built for. Know which camp you're in before you decide.
+
+## Questions I get about this
+
+### How do I get cheap prescriptions without insurance?
+
+Shop the cash price. Use a free discount tool like GoodRx, ask the pharmacist for the cash price directly, or check a low-cost pharmacy. The same pill can be four dollars at one place and forty at another. A little looking around goes a long way.
+
+### Are prescriptions after a surgery or injury covered by health sharing?
+
+With CrowdHealth, medications tied to a health event, like pain pills and an antibiotic after a broken ankle, are part of that event and are shared the same way the rest of the eligible bills are.
+
+### What if I take an expensive brand-name drug every month?
+
+Then health sharing is probably not your best fit for that cost. Sharing is built for unexpected events, not a predictable high monthly drug bill. Read [Who Health Sharing Is Wrong For](/p/who-health-sharing-is-wrong-for/) before you switch.
 
 Curious whether it fits your family's meds and budget? Use my code **NORMAL**: [see how CrowdHealth works](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

@@ -1,5 +1,7 @@
 # The Dollar's Slow Leak, Explained Simple
 
+> Your dollar has a slow leak, like a tire with a pinhole. It buys a little less each year because more dollars can always be made, and more of anything makes each one worth less. That slide is what people mean by inflation. It's not your fault, but it's a reason not to keep every dollar in the spot that leaks fastest.
+
 Your money has a slow leak. Not a dramatic one. The slow kind, the kind you don't notice day to day, until one afternoon you look up and a twenty just doesn't go as far as it used to. Here's why that happens, in plain terms.
 
 ## The flat tire you can't see
@@ -34,6 +36,16 @@ That last idea, keeping some savings in something that's hard to water down, is 
 
 Your dollar has a slow leak, and the leak comes from one simple fact: more dollars can always be made. It's nothing you did. But now that you can see it, you don't have to leave all your money sitting in the one spot where the air escapes fastest.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### What is inflation in simple terms?
+
+It's the slow leak in what a dollar can buy. When more dollars get made, there are more of them chasing the same stuff, so each one buys a little less. It's a leak, not a one-time event, and you feel it when you compare a grocery cart today to one from five years ago.
+
+### Is it my fault I feel like I'm falling behind?
+
+No. If you're running as hard as ever and staying in the same place, the tire's been leaking the whole time. That's a feature of money that can always be printed, not a personal failing. Some of the raise that didn't feel like a raise is the leak at work.
+
+### Where should I keep money so it doesn't lose value?
+
+Money in a plain checking account is fully exposed. That doesn't mean do something risky. It means a savings account that pays real interest for near-term money, and for money you won't need soon, learning about things built to hold value. I start that conversation in [What "Scarce" Means for Your Money](/p/what-scarce-means-for-your-money/).

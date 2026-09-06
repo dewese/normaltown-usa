@@ -1,5 +1,7 @@
 # Letting Go of the "What If"
 
+> No coverage on earth erases risk. Insurance doesn't, health sharing doesn't, being rich doesn't. The goal isn't zero worry. It's turning the vague "what if" into a concrete plan: pay my $500, let the advocate negotiate, get care first in an emergency, cover gaps with the emergency fund, pay cash for routine. Do the controllable part well, then set the rest down.
+
 I want to talk about the quiet thing underneath all these health and money decisions. It's not really about premiums or deductibles or crowd funding. It's about the "what if" that runs in the back of your mind. What if something big happens? What if I picked wrong? That worry is heavy, and I've carried it too. So let me talk honestly about how to set it down, whatever coverage you end up choosing.
 
 ## The "what if" never fully goes away, and that's okay
@@ -36,6 +38,20 @@ This isn't just feel-good talk. Chronic worry about money and health is its own 
 ## The takeaway
 
 You will never buy your way to zero risk, so stop trying. Instead, do the reasonable things a responsible person can do, turn the vague "what if" into a concrete plan, and then genuinely let the rest go. You've done your part. Carrying the worry on top of the plan doesn't make you safer. It just makes you tired. Set it down.
+
+## Questions I get about this
+
+### How do I stop worrying about medical bills?
+
+Make the fear concrete. Vague worry lets your brain fill the blank with the scariest movie. Write down the actual plan for each scenario, and the monster under the bed becomes a list. Lists aren't scary. I built mine as a [layered safety net](/p/the-diy-healthcare-safety-net/).
+
+### Is health sharing riskier than insurance?
+
+It trades a legal guarantee for a lower cost and a strong track record. Whether that's "riskier" depends on your health and temperament. Both leave real risk on the table. Neither erases it.
+
+### Does worry about money actually affect health?
+
+Chronic worry about money and health is its own tax on your body and your sleep. Part of why my family landed where we did is that a simple, understandable plan let us stop white-knuckling it. That peace is a real benefit, not a soft one.
 
 If a simple, honest plan would help you set it down, use my code **NORMAL**: [see how CrowdHealth works](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

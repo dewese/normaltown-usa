@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `a-budget-that-survives-a-busy-week` |
-| **Title tag** | `A Budget That Survives a Busy Week` |
+| **Title tag** | `A Simple 3-Line Budget That Survives a Busy Week (No Spreadsheet)` |
 | **Subtitle** | `A grocery list, not a spreadsheet. Three lines, one number to watch.` |
 | **Meta description** | `A simple budget for people with no time. Three lines, one spending number to watch, and a save-first move on payday. Built for a real, busy week.` |
 | **Category** | Money |

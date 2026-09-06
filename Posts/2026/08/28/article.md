@@ -1,5 +1,7 @@
 # The Real Cost of Carrying a Credit Card Balance
 
+> Paying your credit card on time and watching the balance barely move isn't your failure. It's the design. Your payment is bailing water, and interest, often over 20 percent a year, is the hole letting it back in. Pay more than the minimum, attack the highest-rate card first, and build a small cushion so the next surprise stays off the card.
+
 If you've ever made your credit card payment on time, every month, and watched the balance barely move, you're not doing anything wrong. The card is built to work that way. Once you see how, you can beat it. Here's the plain version.
 
 ## Bailing a boat with a hole in it
@@ -30,6 +32,16 @@ The reason a lot of people end up carrying a balance in the first place is a sur
 
 A credit card balance is a boat with a hole in it, and the minimum payment is a cup barely keeping up with the leak. The interest is the hole. Pay more than the minimum, attack the highest rate first, and build a small cushion so the next surprise doesn't put you back in the water. You can drain this boat. The card is just betting you won't try.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Why is the minimum payment so low?
+
+On purpose. It's the smallest cup they'll let you bail with. Pay only the minimum and you can be at it for years, sometimes paying back far more than you ever charged. Anything above the minimum goes straight at the balance itself.
+
+### Which credit card should I pay off first?
+
+The one with the highest interest rate, while paying the minimum on the rest. That's the biggest hole, so plug it first. When it's gone, roll that whole payment onto the next card. The boat drains faster and faster as you go.
+
+### How do I stop ending up with a balance again?
+
+A small emergency fund. Most balances start with a surprise expense and no cushion to catch it. Even a starter $1,000 keeps the next surprise off the card. Here's [how to build it](/p/the-first-1000-emergency-fund/).

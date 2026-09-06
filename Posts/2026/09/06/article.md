@@ -1,5 +1,7 @@
 # What a Care Advocate Actually Does
 
+> A care advocate is a real person, not a chatbot, whose whole job is to be on your side during a health event. They find fair-priced care, negotiate the bill down (members commonly see 25 to 85 percent off the list price), and handle the back-and-forth with the hospital so you don't have to. It's the part of health sharing that surprised me most.
+
 When I tell people my family uses health sharing instead of insurance, the first worry is always the same. "So when something goes wrong, you're on your own with the hospital?" It's a fair worry. It's also backwards. With CrowdHealth, the service I use, you actually get more human help than we ever got from a big insurance plan, not less. That help has a name. It's called a care advocate.
 
 ## The short version
@@ -30,6 +32,20 @@ I'm not going to oversell it. An advocate is a person helping you, not a magic w
 ## The takeaway
 
 The scariest part of a big health event isn't just the money. It's feeling alone with it. A care advocate is the part of health sharing that surprised me most. We pay less and we have more actual help than we did before. That's a rare combination.
+
+## Questions I get about this
+
+### Do I get a care advocate with regular insurance?
+
+Usually not. With insurance, when a scary bill lands you're the one who has to fight it. You call the insurer, they point at the hospital, the hospital points back, and you're stuck in the middle. Nobody in that chain is paid to make your bill smaller.
+
+### Can a care advocate guarantee my bill gets paid?
+
+No. An advocate is a person helping you, not a magic wand. They can't force a hospital to do anything, and health sharing isn't insurance, so there's no legal guarantee on what gets funded. What they can do is get better prices and take the fight off your plate.
+
+### How do I reach my care advocate?
+
+With CrowdHealth you can text, call, or email a real human who knows your situation. Spend twenty minutes in your first month learning how to submit a bill, so you know where the fire extinguisher is before there's a fire. More in [the first 90 days](/p/switching-to-health-sharing-first-90-days/).
 
 Want to see how it works for your family? Use my code **NORMAL**: [check out CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 

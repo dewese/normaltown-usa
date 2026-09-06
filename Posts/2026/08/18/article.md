@@ -1,5 +1,7 @@
 # A Little Each Week Beats Betting It All
 
+> Dollar-cost averaging means buying a small, fixed amount on a regular schedule instead of betting it all on one day. Your fixed amount buys more when the price is low and less when it's high, without you ever having to be clever. Pick a boring amount, make it automatic, and stop watching the price.
+
 There's a calm way to buy something that jumps around in price, and it removes almost all the stress. You don't try to nail the perfect moment. You buy a little on a regular schedule and let time do the work. It has a clunky name, dollar-cost averaging, but the idea is as simple as a dripping faucet.
 
 ## The bathtub, not the bucket
@@ -30,6 +32,16 @@ A steady trickle protects you from bad timing. It does not protect you from the 
 
 A little each week beats betting it all, because it takes timing off the table. Be the steady faucet, not the one big bucket. Pick a boring amount, make it automatic, and stop watching the price. Calm beats clever more often than anyone admits.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### Is dollar-cost averaging better than buying all at once?
+
+It's calmer, and calm wins for most normal people. A lump sum can land on a great day or a terrible one, and you only get one shot. A steady trickle takes timing off the table, so no single moment decides your fate.
+
+### How much should I put in each week?
+
+An amount so small it's boring. Ten dollars a week. Twenty-five a paycheck. Money that, if it vanished, wouldn't dent your life. Then set it to repeat and ignore it.
+
+### Does buying a little each week protect me from losing money?
+
+No. It protects you from bad timing, not from the thing itself going down. If what you're buying loses value over the long run, buying slowly just means you lost slowly. It's a method, not a magic wand, so only use money you won't need soon.

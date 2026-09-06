@@ -1,4 +1,6 @@
-# "Not Your Keys" — What That Warning Actually Means
+# Not Your Keys, Not Your Coins: What That Warning Actually Means
+
+> "Not your keys, not your coins" means that if an app or company holds your bitcoin for you, you have a promise, not the cash. Whoever holds the secret key controls the coins. For a small starter amount, a reputable app is fine. As the amount grows into money you'd hate to lose, learn to hold the key yourself.
 
 If you spend any time around bitcoin, you'll hear a strange little phrase: "not your keys, not your coins." It sounds like a riddle. It's actually one of the most important safety ideas in the whole space, and it's simple once somebody explains it plainly. Here's what it means and why it matters.
 
@@ -28,6 +30,16 @@ For a small amount you're just getting started with, leaving it on a reputable a
 
 "Not your keys, not your coins" just means this: if someone else is holding it for you, you have a promise, not the cash. Holding your own key is money in your own pocket, with full control and full responsibility. Small amount, an app is fine. Bigger amount, it's worth learning to hold the key yourself. Either way, now you know what the riddle means.
 
----
+## Questions I get about this
 
-*Want the plain-English version of money and health, no jargon, no scare tactics, landing in your inbox? **Join the Normaltown USA list.** One short email, written like a friend, not a brochure.*
+### What is a bitcoin key?
+
+A secret code that proves the coins are yours and lets you move them. It's like the only key to a lockbox. Whoever holds it is in control, no matter whose name is on the account. I explain the whole mailbox-and-key picture in [What a Bitcoin Wallet Actually Is](/p/what-is-a-bitcoin-wallet/).
+
+### Is it safe to leave bitcoin on an exchange or app?
+
+For a small amount you're learning with, usually reasonable and simpler. But you're trusting the company, and history has painful examples of companies that lost people's coins or wouldn't give them back. The bigger the amount, the more that trust costs.
+
+### What happens if I lose my own key?
+
+There's no help desk, no "forgot password," no way to get the coins back. Holding your own keys means total control and total responsibility. That's why it's worth learning carefully before you move real money.

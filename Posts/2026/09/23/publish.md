@@ -3,8 +3,9 @@
 | Field | Value |
 |---|---|
 | **URL slug** | `what-to-ask-before-you-switch` |
+| **Title tag** | `What to Ask Before You Switch to Health Sharing: The Honest Checklist` |
 | **Subtitle** | `The exact questions to answer before you jump. Switch on answers, not hype.` |
-| **Meta description** | `A checklist of questions to answer before switching to health sharing: your health, your money, the model, and your temperament. Decide on answers, not hype or fear.` |
+| **Meta description** | `Before switching to health sharing, answer these questions about your health, money, the model, and your temperament. Mostly yeses means a strong fit.` |
 | **Category** | Health |
 
 - **Image:** `checklist.png` — Alt text: `A simple checklist with cyan check marks in the boxes beside four short question lines.`
