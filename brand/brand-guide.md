@@ -82,5 +82,5 @@ Normaltown-USA/
 ## Quick facts (keep current)
 - **Accent color decided:** cyan `#2DD4FF` (chosen over green/magenta/yellow).
 - **Cornerstone article:** `articles/nobody-gets-paid-to-make-you-well/`.
-- **Platform:** Ghost vs. beehiiv — not yet chosen.
+- **Platform:** self-hosted static site (`build.py` → GitHub `dewese/normaltown-usa` → Cloudflare). Publish = git push.
 - **CrowdHealth:** flat $60/mo fee (not a cut of claims); not insurance; has limits.

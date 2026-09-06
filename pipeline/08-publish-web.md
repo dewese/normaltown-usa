@@ -1,14 +1,12 @@
-# Pipeline Station 8 — Publish (self-hosted web) — REPLACES beehiiv (2026-09)
+# Pipeline Station 8 — Publish (self-hosted web)
 
-> The brand left beehiiv (~$50/mo, and its API can't publish anyway). The site is
-> now a zero-cost, self-hosted static blog that Claude writes AND publishes.
+> The site is a zero-cost, self-hosted static blog that Claude writes AND publishes.
 > Live at https://www.normaltownusa.com (Cloudflare, GitHub repo `dewese/normaltown-usa`).
 
 ## Where a post lives
 `Posts/<YYYY>/<MM>/<DD>/` — the folder date IS the publish date. Files:
 - `article.md` — the post. **First `# ` line = the title.** Body follows. No email CTA.
 - `publish.md` — metadata table the builder reads (see template below).
-  (Legacy posts use `publish-beehiiv.md`; the builder still reads that as a fallback.)
 - one `<name>.png` — the hero image (1200×1200, VV style, PNG not SVG). Keep the .svg too.
 
 ## `publish.md` template (builder parses these rows)

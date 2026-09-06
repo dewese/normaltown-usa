@@ -1,12 +1,5 @@
 # Normaltown USA — FAQ
 
-> **Two ways to use this in beehiiv:**
-> 1. Publish as its own **FAQ post/page** (slug `faq`) — a strong, citable GEO asset.
-> 2. Drop the 2-3 most relevant Q&As at the **bottom of each matching article**.
->
-> Each answer is written to be **quotable on its own** (the first sentence answers the question directly) so AI answer engines can lift and cite it. Questions are worded the way people actually search. Figures are current as of 2026, verify before relying on them.
-
----
 
 ## About Normaltown USA
 

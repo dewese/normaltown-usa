@@ -9,7 +9,7 @@ honest answer to the reader's problem. If you cut the pitch, the article must st
 be worth reading. If it isn't, the pitch was the point — start over.
 
 ## Site CTA (every article) — updated 2026-09 for the self-hosted site
-- The site is now a self-hosted static blog (no beehiiv, no email list). The
+- The site is now a self-hosted static blog (no email list). The
   builder appends a standard "New here? → Start Here" footer card to every post,
   so the article body does NOT need an email/newsletter invite.
 - Do NOT write "join the list / land in your inbox" CTAs anymore (there's no list).

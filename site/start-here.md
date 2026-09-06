@@ -1,8 +1,5 @@
 # Start Here: Welcome to Normaltown USA
 
-> How to use this in beehiiv: publish as a normal post, then **pin it** (or link it from your nav / homepage) so new visitors land here first. Slug: `start-here`. Before publishing, make sure the three featured posts below are already live, or swap in ones that are.
-
----
 
 # Start Here
 

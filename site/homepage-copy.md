@@ -11,7 +11,7 @@ Style guardrails hold: no em dashes, no ellipses, plain English, polite, no curs
 
 ---
 
-## 1. TAGLINE (beehiiv: Settings > Publication > Description/tagline)
+## 1. TAGLINE (SITE_TAGLINE in build.py)
 
 CURRENT: Money and health, from a friend
 
@@ -86,8 +86,7 @@ a) Publish site/start-here.md and pin it. Slug `start-here`. A new reader
    currently lands on a reverse-chronological list with no entry point.
    Verify the three featured posts are live first.
 
-b) Publish site/author-bio.md to the beehiiv author profile with a real
-   headshot. Right now the author page is empty, so "from a friend" has no
+b) Add a real headshot to the About page (site/author-bio.md). Right now the author page is empty, so "from a friend" has no
    friend attached to it. This is the largest single trust lever available.
 
 c) Homepage title tag: change "Home | Normaltown USA" to

@@ -5,7 +5,7 @@ Normaltown USA - static site generator (zero dependencies, Python 3 stdlib only)
 The "machine": reads finished posts from Posts/<YYYY>/<MM>/<DD>/ and the site
 copy in site/, then writes a complete static website to dist/.
 
-Publishing a new post = drop its folder in Posts/ (article.md + publish-beehiiv.md
+Publishing a new post = drop its folder in Posts/ (article.md + publish.md
 + one .png), run `python3 build.py`, commit, push. Cloudflare Pages serves dist/.
 
 Brand (locked): canvas #0F0F0F (never #000), text #FFFFFF, accent cyan #2DD4FF,
@@ -175,9 +175,7 @@ def load_posts():
                 body_md = "\n".join(raw.split("\n")[idx + 1:])
                 break
 
-        pub_file = folder / "publish.md"          # new web-native name
-        if not pub_file.exists():
-            pub_file = folder / "publish-beehiiv.md"  # legacy fallback
+        pub_file = folder / "publish.md"
         pub = pub_file.read_text(encoding="utf-8") if pub_file.exists() else ""
 
         slug = _row_value(pub, "slug") or slugify(title)
