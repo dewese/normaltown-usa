@@ -41,10 +41,36 @@ allowance: white at reduced opacity (e.g., 60%) for a quieter label — still wh
 
 ---
 
-## Typography — Manrope (Google Font)
-- **The brand typeface is Manrope.** Use it for everything that carries type.
+## Logo (updated 2026-09-05)
+The logo is a **lockup: icon + wordmark**. Master files live in `brand/logo/`.
+
+| File | What it is | Use |
+|---|---|---|
+| `normaltown-logo-reverse.svg` | Full lockup: cyan icon + "Normaltown" (white) + "USA" (cyan). 1132×156. | Site header, anything on the soft-black canvas |
+| `normaltown-wordmark-reverse.svg` | Wordmark only, no icon. 977×99. | Tight horizontal spaces |
+| `normaltown-icon.svg` | The icon alone (two cyan shapes, ~118×156, portrait). | Favicon, avatars, app-style tiles |
+
+- **Wordmark font: Montserrat ExtraBold.** "Normaltown" is white, "USA" is cyan
+  `#2DD4FF`. The text is **outlined to paths** in the SVGs, so nothing needs to load
+  Montserrat to render the logo correctly. Never re-typeset the wordmark in Manrope.
+- **Icon is always cyan** on the soft-black canvas. Do not recolor it, add a stroke, or
+  put it on a light background (these are "reverse" files: built for dark canvas only).
+  A light-canvas version does not exist yet; make one from the same paths if needed.
+- Clear space: at least the icon's width on every side. Minimum header height 28px.
+- On the website the logo is the only branding: it sits in the header (`build.py`),
+  the icon is the favicon (`/assets/normaltown-icon.svg`), and both are copied to
+  `dist/assets/` on every build. **Graphics still carry no logo** (see below).
+
+---
+
+## Typography
+Two typefaces, each with one job:
+
+- **Logo only: Montserrat ExtraBold.** Lives inside the logo SVGs as outlined paths.
+  Not used for body copy, headlines, labels, or graphics.
+- **Everything else: Manrope (Google Font).** Body, headlines, UI, and every graphic label.
   `font-family="Manrope, 'Helvetica Neue', Arial, sans-serif"`.
-- Bold / ExtraBold for emphasis; Regular / Medium for labels. Tight tracking.
+  Bold / ExtraBold for emphasis; Regular / Medium for labels. Tight tracking.
 - Manrope is installed locally (`~/Library/Fonts/Manrope.ttf`) so SVG previews render
   true. For portable hand-off files, outline text to paths so the font always holds.
 
@@ -61,7 +87,8 @@ allowance: white at reduced opacity (e.g., 60%) for a quieter label — still wh
 
 ## No branding in the graphic
 - No wordmark, no "Normaltown USA" footer, no logo, no kicker line. The art stands
-  alone. Branding lives in the post/page around it, not on it.
+  alone. Branding lives in the post/page around it, not on it. The logo files in
+  `brand/logo/` are for the site chrome and social profiles, never for the graphics.
 
 ---
 

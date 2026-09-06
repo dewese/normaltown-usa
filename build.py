@@ -9,7 +9,9 @@ Publishing a new post = drop its folder in Posts/ (article.md + publish-beehiiv.
 + one .png), run `python3 build.py`, commit, push. Cloudflare Pages serves dist/.
 
 Brand (locked): canvas #0F0F0F (never #000), text #FFFFFF, accent cyan #2DD4FF,
-Manrope. Visualize-Value aesthetic: one idea, lots of negative space.
+Manrope for body/UI type. Logo = the SVG lockup in brand/logo/ (Montserrat ExtraBold,
+outlined to paths, so no logo font is loaded). Visualize-Value aesthetic: one idea,
+lots of negative space.
 """
 
 import html
@@ -21,6 +23,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 POSTS_DIR = ROOT / "Posts"
 SITE_DIR = ROOT / "site"
+LOGO_DIR = ROOT / "brand" / "logo"   # SVG logo lockup + icon; copied to dist/assets/
 DIST = ROOT / "dist"
 
 SITE_NAME = "Normaltown USA"
@@ -245,11 +248,9 @@ img{max-width:100%; height:auto; display:block}
 .site-head{border-bottom:1px solid var(--faint)}
 .site-head .wrap{display:flex; align-items:center; justify-content:space-between;
   gap:1rem; padding-top:1.1rem; padding-bottom:1.1rem; flex-wrap:wrap}
-.brand{display:flex; align-items:center; gap:.6rem; font-weight:800;
-  letter-spacing:-.02em; color:var(--ink); font-size:1.15rem}
+.brand{display:flex; align-items:center; flex:none}
 .brand:hover{text-decoration:none}
-.dot{width:.7rem; height:.7rem; border-radius:50%; background:var(--accent);
-  display:inline-block; flex:none}
+.brand img{height:34px; width:auto; display:block}
 nav.main{display:flex; gap:1.4rem; font-size:.95rem; font-weight:600}
 nav.main a{color:var(--muted)}
 nav.main a:hover{color:var(--ink); text-decoration:none}
@@ -322,6 +323,7 @@ nav.main a:hover{color:var(--ink); text-decoration:none}
   body{font-size:17px}
   .hero{padding:3rem 0 1.6rem}
   nav.main{gap:1rem; font-size:.9rem}
+  .brand img{height:28px}
 }
 """
 
@@ -345,6 +347,7 @@ def layout(title, description, body, canonical, og_image=None, is_home=False):
 <meta property="og:url" content="{canonical}">
 {og}
 <meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="/assets/normaltown-icon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -352,7 +355,7 @@ def layout(title, description, body, canonical, og_image=None, is_home=False):
 </head>
 <body>
 <header class="site-head"><div class="wrap">
-  <a class="brand" href="/"><span class="dot"></span>{SITE_NAME}</a>
+  <a class="brand" href="/" aria-label="{SITE_NAME} home"><img src="/assets/normaltown-logo-reverse.svg" alt="{SITE_NAME}" width="1132" height="156"></a>
   <nav class="main">
     <a href="/">Home</a>
     <a href="/start-here/">Start Here</a>
@@ -491,6 +494,7 @@ def main():
 
     # styles
     write(DIST / "styles.css", CSS)
+    shutil.copytree(LOGO_DIR, DIST / "assets")
 
     # home
     write(DIST / "index.html", render_home(posts))

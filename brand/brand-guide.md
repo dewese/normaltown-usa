@@ -33,12 +33,17 @@ Visualize-Value style: **one idea per graphic, reduced to geometry, with the poi
 marked in one color.**
 - **Colors (exactly three):** soft-black `#0F0F0F` (never true black), white
   `#FFFFFF`, cyan `#2DD4FF` (the accent that marks "the point"). No gray, no orange.
-- **Font:** Manrope (Google Font).
+- **Logo:** icon + wordmark lockup in `brand/logo/` (wordmark set in **Montserrat
+  ExtraBold**, outlined to paths; "Normaltown" white, "USA" + icon cyan). Reverse
+  (dark-canvas) versions only. The icon alone is the favicon.
+- **Font:** Manrope (Google Font) for all body, headline, UI, and graphic type. The
+  logo is the only place Montserrat appears.
 - **Format:** 1:1 square (1200×1200) by default.
 - **Rules:** no embedded title (titles go in the article/caption), no branding on the
   art, lots of negative space.
 → Full spec: [`visual-identity.md`](visual-identity.md)
 → Palette: [`palette.svg`](palette.svg) · Building blocks: [`visual-vocabulary.svg`](visual-vocabulary.svg)
+→ Logo files: [`logo/`](logo/) (full lockup, wordmark only, icon only)
 
 ## How we make money (ethos)
 **Value first, pitch second, always.** Three buckets: pure trust-builders, a health
@@ -68,7 +73,8 @@ Normaltown-USA/
 │  ├─ brand-guide.md           ← you are here (master entry point)
 │  ├─ visual-identity.md       ← how we look (full visual spec)
 │  ├─ palette.svg              ← the locked 3-color palette
-│  └─ visual-vocabulary.svg    ← reusable geometric building blocks
+│  ├─ visual-vocabulary.svg    ← reusable geometric building blocks
+│  └─ logo/                    ← SVG logo: full lockup, wordmark, icon (Montserrat ExtraBold, outlined)
 ├─ pipeline/                   ← the 7-station content machine (prompts)
 └─ articles/<slug>/            ← each article + its assets (svg, alt text, repurpose)
 ```
