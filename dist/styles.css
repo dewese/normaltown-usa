@@ -81,6 +81,9 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
   font-weight:800; margin:0 0 .35rem; transition:color .15s}
 .post-card p{margin:0; color:var(--muted); font-size:1rem; max-width:60ch}
 
+.more{margin:1.5rem 0 0; font-weight:700}
+.page .tiles{margin-top:.2rem}
+
 /* article */
 .article{padding:2.5rem 0 4rem}
 .crumbs{max-width:var(--measure); margin:0 auto 1.4rem; font-size:.82rem; color:var(--muted)}

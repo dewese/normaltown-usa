@@ -544,6 +544,9 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
   font-weight:800; margin:0 0 .35rem; transition:color .15s}
 .post-card p{margin:0; color:var(--muted); font-size:1rem; max-width:60ch}
 
+.more{margin:1.5rem 0 0; font-weight:700}
+.page .tiles{margin-top:.2rem}
+
 /* article */
 .article{padding:2.5rem 0 4rem}
 .crumbs{max-width:var(--measure); margin:0 auto 1.4rem; font-size:.82rem; color:var(--muted)}
@@ -684,8 +687,8 @@ b.addEventListener('click',function(){var o=h.classList.toggle('open');b.setAttr
 
 CSS_VERSION = hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
 
-NAV = [("/", "Home"), ("/money/", "Money"), ("/health/", "Health"), ("/bitcoin/", "Bitcoin"),
-       ("/start-here/", "Start Here"), ("/faq/", "FAQ"), ("/about/", "About"), ("/contact/", "Contact")]
+NAV = [("/start-here/", "Start Here"), ("/blog/", "Blog"), ("/faq/", "FAQ"),
+       ("/about/", "About"), ("/contact/", "Contact")]
 
 
 def fmt_date(d):
@@ -707,10 +710,8 @@ def org_schema():
                  "width": 1200, "height": 630},
         "founder": {"@id": f"{SITE_URL}/#david"},
         "description": HOME_DESC,
-        "email": CONTACT_EMAIL,
         "contactPoint": {"@type": "ContactPoint", "contactType": "customer support",
-                         "email": CONTACT_EMAIL, "url": f"{SITE_URL}/contact/",
-                         "availableLanguage": "English"},
+                         "url": f"{SITE_URL}/contact/", "availableLanguage": "English"},
     }
 
 
@@ -807,7 +808,7 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 </main>
 <footer class="site-foot"><div class="wrap">
   <span>&copy; {TODAY.year} {SITE_NAME}. {SITE_TAGLINE}.</span>
-  <span><a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/rss.xml">RSS</a></span>
+  <span><a href="/blog/">All posts</a> &middot; <a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/rss.xml">RSS</a></span>
   <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. Some links (CrowdHealth, code NORMAL) pay a referral bonus at no extra cost to you. Health sharing is not insurance.</p>
 </div></footer>
 {MENU_SCRIPT}
@@ -855,8 +856,9 @@ def render_home(posts):
     tiles = '<section class="featured"><div class="wrap"><p class="section-title">Pick a topic</p><div class="tiles">' + "".join(
         f'<a class="tile" href="/{k}/"><span class="count">{counts[k]} posts</span><h2>{html.escape(c["title"])}</h2><p>{html.escape(c["description"].split(":")[0] if ":" in c["description"] else c["description"])}</p></a>'
         for k, c in CATEGORIES.items()) + '</div></div></section>'
-    cards = "\n".join(post_card(p) for p in posts)
-    body = hero + feat_html + tiles + f'<section class="list"><div class="wrap"><p class="section-title">All posts, newest first</p>{cards}</div></section>'
+    cards = "\n".join(post_card(p) for p in posts[:10])
+    more = f'<p class="more"><a href="/blog/">See all {len(posts)} posts</a></p>' if len(posts) > 10 else ""
+    body = hero + feat_html + tiles + f'<section class="list"><div class="wrap"><p class="section-title">Latest posts</p>{cards}{more}</div></section>'
     schema = [website_schema(), org_schema(), person_schema(),
               {"@type": "CollectionPage", "@id": f"{SITE_URL}/#home", "url": SITE_URL + "/",
                "name": HOME_TITLE, "description": HOME_DESC,
@@ -865,6 +867,35 @@ def render_home(posts):
                             "datePublished": p["date"].isoformat()} for p in posts[:20]]}]
     return layout(SITE_NAME, HOME_DESC, body, SITE_URL + "/", og_type="website",
                   schema=schema, current="/", page_title=HOME_TITLE)
+
+
+BLOG_TITLE = "All Posts: Plain-English Money, Medical Bills, Health Sharing, and Bitcoin"
+BLOG_DESC = ("Every Normaltown USA post, newest first: money for normal people, medical bills and "
+             "health sharing, and bitcoin as savings. Short, first-person, one idea each.")
+
+
+def render_blog(posts):
+    counts = {k: sum(1 for p in posts if p["category"] == k) for k in CATEGORIES}
+    tiles = '<p class="section-title">Pick a topic</p><div class="tiles">' + "".join(
+        f'<a class="tile" href="/{k}/"><span class="count">{counts[k]} posts</span><h2>{html.escape(c["title"])}</h2><p>{html.escape(c["description"].split(":")[0] if ":" in c["description"] else c["description"])}</p></a>'
+        for k, c in CATEGORIES.items()) + '</div>'
+    cards = "\n".join(post_card(p) for p in posts)
+    body = f"""<section class="page"><div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li>Blog</li></ol></nav>
+      <h1>All posts</h1>
+      <p class="lede">One idea per post, short enough to read with your coffee. Newest first, or pick a topic.</p>
+      {tiles}
+      <p class="section-title" style="margin-top:2rem">{len(posts)} posts, newest first</p>
+      {cards}
+    </div></section>"""
+    schema = [website_schema(), org_schema(),
+              {"@type": "CollectionPage", "@id": f"{SITE_URL}/blog/#page", "url": f"{SITE_URL}/blog/",
+               "name": BLOG_TITLE, "description": BLOG_DESC,
+               "isPartOf": {"@id": f"{SITE_URL}/#website"},
+               "hasPart": [{"@type": "BlogPosting", "headline": p["title"], "url": p["url"],
+                            "datePublished": p["date"].isoformat()} for p in posts]}]
+    return layout("Blog", BLOG_DESC, body, f"{SITE_URL}/blog/", og_type="website",
+                  schema=schema, current="/blog/", page_title=f"{BLOG_TITLE} | {SITE_NAME}")
 
 
 def render_hub(key, posts):
@@ -889,7 +920,7 @@ def render_hub(key, posts):
                   {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE_URL + "/"},
                   {"@type": "ListItem", "position": 2, "name": c["name"], "item": f"{SITE_URL}/{key}/"}]}]
     return layout(c["title"], c["description"], body, f"{SITE_URL}/{key}/", og_type="website",
-                  schema=schema, current=f"/{key}/", page_title=f"{c['page_title']} | {SITE_NAME}")
+                  schema=schema, current="/blog/", page_title=f"{c['page_title']} | {SITE_NAME}")
 
 
 def related_posts(p, posts, n=3):
@@ -1004,15 +1035,18 @@ def render_post(p, posts):
         extra += f'<link rel="next" href="{newer["url"]}">\n'
     page_title = f"{p['title_tag'] or p['title']} | {SITE_NAME}"
     return layout(p["title"], p["meta"], body, canonical, og_image=og_image, schema=schema,
-                  current=f"/{p['category']}/", extra_head=extra, page_title=page_title)
+                  current="/blog/", extra_head=extra, page_title=page_title)
 
 
 def contact_form():
     """Static form posted to FormSubmit (free, no account): the first submission
     triggers a one-time activation email to CONTACT_EMAIL; after that, messages
     land in that inbox with the sender's address as reply-to."""
-    return f"""<form class="contact-form" action="https://formsubmit.co/{CONTACT_EMAIL}" method="POST">
+    import base64
+    target = base64.b64encode(f"https://formsubmit.co/{CONTACT_EMAIL}".encode()).decode()
+    return f"""<form class="contact-form" method="POST" data-t="{target}">
         <h2>Send a message</h2>
+        <noscript><p class="fine">Turn on JavaScript to send this form.</p></noscript>
         <input type="hidden" name="_subject" value="Normaltown USA contact form">
         <input type="hidden" name="_template" value="table">
         <input type="hidden" name="_captcha" value="false">
@@ -1034,7 +1068,8 @@ def contact_form():
         <textarea id="c-message" name="message" required></textarea>
         <button type="submit">Send it</button>
         <p class="fine">Goes straight to my inbox. I never share your email with anyone, and I don't have a list to add you to.</p>
-      </form>"""
+      </form>
+      <script>(function(){{var f=document.querySelector('.contact-form');if(f)f.action=atob(f.getAttribute('data-t'));}})();</script>"""
 
 
 def toc_html(md):
@@ -1175,7 +1210,8 @@ def render_llms(posts):
            f"- [Start Here]({SITE_URL}/start-here/): the reading paths and the three posts to read first.",
            f"- [FAQ]({SITE_URL}/faq/): short answers to the most common money, medical bill, health sharing, and bitcoin questions.",
            f"- [About David Dewese]({SITE_URL}/about/): who writes this, how he researches, how the site makes money.",
-           f"- [Contact]({SITE_URL}/contact/): send a question or ask about one-on-one help ({CONTACT_EMAIL}).", ""]
+           f"- [Blog]({SITE_URL}/blog/): every post, newest first, grouped by topic.",
+           f"- [Contact]({SITE_URL}/contact/): send a question or ask about one-on-one help.", ""]
     for s in START_HERE_SLUGS:
         if s in lookup:
             p = lookup[s]
@@ -1294,6 +1330,7 @@ def main():
         shutil.copy(og_default, DIST / "assets" / "og-default.png")
 
     write(DIST / "index.html", render_home(posts))
+    write(DIST / "blog" / "index.html", render_blog(posts))
     for key in CATEGORIES:
         write(DIST / key / "index.html", render_hub(key, posts))
 
@@ -1386,6 +1423,7 @@ def main():
         page_slugs.append(slug)
         if not cfg.get("noindex"):
             sitemap_pages.append((page_url, git_modified(SITE_DIR / fname) or TODAY))
+    sitemap_pages.append((f"{SITE_URL}/blog/", max([p["modified"] for p in posts] or [TODAY])))
     for key in CATEGORIES:
         sitemap_pages.append((f"{SITE_URL}/{key}/", max([p["modified"] for p in posts if p["category"] == key] or [TODAY])))
 
