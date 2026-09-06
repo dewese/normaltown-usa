@@ -44,4 +44,6 @@ jobs:
             git commit -m "Daily publish: release scheduled posts ($(date -u +%Y-%m-%d))"
             git push
             echo "Published today's changes."
+            sleep 90   # give Cloudflare Pages time to deploy before pinging search engines
+            python3 indexnow.py || true
           fi

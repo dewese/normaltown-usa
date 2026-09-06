@@ -1295,6 +1295,10 @@ def main():
     write(DIST / "llms-full.txt", render_llms_full(posts))
     write(DIST / "_headers", HEADERS)
     write(DIST / "404.html", render_404())
+    indexnow_key = SITE_DIR / "indexnow-key.txt"
+    if indexnow_key.exists():   # IndexNow ownership file, see indexnow.py
+        k = indexnow_key.read_text(encoding="utf-8").strip()
+        write(DIST / f"{k}.txt", k)
     robots = SITE_DIR / "robots.txt"
     robots_txt = robots.read_text(encoding="utf-8") if robots.exists() else "User-agent: *\nAllow: /\n"
     if "Sitemap:" not in robots_txt:
