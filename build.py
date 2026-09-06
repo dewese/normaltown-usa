@@ -765,6 +765,7 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script>if(/\.(workers|pages)\.dev$/.test(location.hostname)||location.hostname==="normaltownusa.com")location.replace("{SITE_URL}"+location.pathname+location.search+location.hash);</script>
 <title>{html.escape(page_title)}</title>
 <meta name="description" content="{desc}">
 <meta name="author" content="{AUTHOR}">
