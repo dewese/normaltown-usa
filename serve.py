@@ -9,7 +9,8 @@ os.chdir(ROOT)
 
 PORT = 8787
 Handler = http.server.SimpleHTTPRequestHandler
-socketserver.TCPServer.allow_reuse_address = True
-with socketserver.TCPServer(("127.0.0.1", PORT), Handler) as httpd:
+socketserver.ThreadingTCPServer.allow_reuse_address = True
+socketserver.ThreadingTCPServer.daemon_threads = True
+with socketserver.ThreadingTCPServer(("127.0.0.1", PORT), Handler) as httpd:
     print(f"Serving {ROOT} at http://127.0.0.1:{PORT}")
     httpd.serve_forever()
