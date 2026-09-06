@@ -160,6 +160,25 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
   margin:0 0 1.4rem}
 .page .lede{font-size:1.2rem; color:var(--muted); max-width:var(--measure); margin:-.6rem 0 1.8rem}
 
+/* contact form */
+.contact-form{max-width:var(--measure); margin:2rem auto 0; padding:1.6rem; border:1px solid var(--faint);
+  border-radius:14px; background:var(--panel)}
+.contact-form h2{margin:0 0 1rem; font-size:1.2rem; font-weight:800; letter-spacing:-.01em}
+.contact-form label{display:block; font-size:.85rem; font-weight:700; color:var(--muted);
+  text-transform:uppercase; letter-spacing:.08em; margin:1rem 0 .35rem}
+.contact-form label:first-of-type{margin-top:0}
+.contact-form input,.contact-form select,.contact-form textarea{width:100%; font:inherit; color:var(--ink);
+  background:var(--canvas); border:1px solid var(--faint); border-radius:10px; padding:.7rem .85rem}
+.contact-form input:focus,.contact-form select:focus,.contact-form textarea:focus{outline:none; border-color:var(--accent)}
+.contact-form textarea{min-height:9rem; resize:vertical}
+.contact-form select{appearance:none; -webkit-appearance:none; background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);
+  background-position:calc(100% - 20px) 50%,calc(100% - 14px) 50%; background-size:6px 6px; background-repeat:no-repeat; padding-right:2.4rem}
+.contact-form .hp{position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden}
+.contact-form button{margin-top:1.3rem; font:inherit; font-weight:800; color:#0F0F0F; background:var(--accent);
+  border:none; border-radius:999px; padding:.8rem 1.6rem; cursor:pointer}
+.contact-form button:hover{filter:brightness(1.08)}
+.contact-form .fine{margin:.9rem 0 0; font-size:.85rem; color:var(--muted)}
+
 /* about page: text + family photo */
 .about .wrap{display:grid; grid-template-columns:minmax(0,1fr) 21rem; gap:3.5rem;
   align-items:start}

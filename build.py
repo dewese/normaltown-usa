@@ -56,6 +56,7 @@ AUTHOR_BIO = ("Regular guy with a full-time job, a wife, and two little girls. T
               "healthcare get explained to normal people, so I do the homework and write "
               "it down the way I'd tell a friend. Not a financial advisor.")
 AFFILIATE_URL = "https://www.joincrowdhealth.com/?referral_code=NORMAL"
+CONTACT_EMAIL = "normaltownusa@gmail.com"
 
 MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
           "August", "September", "October", "November", "December"]
@@ -622,6 +623,25 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
   margin:0 0 1.4rem}
 .page .lede{font-size:1.2rem; color:var(--muted); max-width:var(--measure); margin:-.6rem 0 1.8rem}
 
+/* contact form */
+.contact-form{max-width:var(--measure); margin:2rem auto 0; padding:1.6rem; border:1px solid var(--faint);
+  border-radius:14px; background:var(--panel)}
+.contact-form h2{margin:0 0 1rem; font-size:1.2rem; font-weight:800; letter-spacing:-.01em}
+.contact-form label{display:block; font-size:.85rem; font-weight:700; color:var(--muted);
+  text-transform:uppercase; letter-spacing:.08em; margin:1rem 0 .35rem}
+.contact-form label:first-of-type{margin-top:0}
+.contact-form input,.contact-form select,.contact-form textarea{width:100%; font:inherit; color:var(--ink);
+  background:var(--canvas); border:1px solid var(--faint); border-radius:10px; padding:.7rem .85rem}
+.contact-form input:focus,.contact-form select:focus,.contact-form textarea:focus{outline:none; border-color:var(--accent)}
+.contact-form textarea{min-height:9rem; resize:vertical}
+.contact-form select{appearance:none; -webkit-appearance:none; background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);
+  background-position:calc(100% - 20px) 50%,calc(100% - 14px) 50%; background-size:6px 6px; background-repeat:no-repeat; padding-right:2.4rem}
+.contact-form .hp{position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden}
+.contact-form button{margin-top:1.3rem; font:inherit; font-weight:800; color:#0F0F0F; background:var(--accent);
+  border:none; border-radius:999px; padding:.8rem 1.6rem; cursor:pointer}
+.contact-form button:hover{filter:brightness(1.08)}
+.contact-form .fine{margin:.9rem 0 0; font-size:.85rem; color:var(--muted)}
+
 /* about page: text + family photo */
 .about .wrap{display:grid; grid-template-columns:minmax(0,1fr) 21rem; gap:3.5rem;
   align-items:start}
@@ -665,7 +685,7 @@ b.addEventListener('click',function(){var o=h.classList.toggle('open');b.setAttr
 CSS_VERSION = hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
 
 NAV = [("/", "Home"), ("/money/", "Money"), ("/health/", "Health"), ("/bitcoin/", "Bitcoin"),
-       ("/start-here/", "Start Here"), ("/faq/", "FAQ"), ("/about/", "About")]
+       ("/start-here/", "Start Here"), ("/faq/", "FAQ"), ("/about/", "About"), ("/contact/", "Contact")]
 
 
 def fmt_date(d):
@@ -687,6 +707,10 @@ def org_schema():
                  "width": 1200, "height": 630},
         "founder": {"@id": f"{SITE_URL}/#david"},
         "description": HOME_DESC,
+        "email": CONTACT_EMAIL,
+        "contactPoint": {"@type": "ContactPoint", "contactType": "customer support",
+                         "email": CONTACT_EMAIL, "url": f"{SITE_URL}/contact/",
+                         "availableLanguage": "English"},
     }
 
 
@@ -783,7 +807,7 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 </main>
 <footer class="site-foot"><div class="wrap">
   <span>&copy; {TODAY.year} {SITE_NAME}. {SITE_TAGLINE}.</span>
-  <span><a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/rss.xml">RSS</a></span>
+  <span><a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/rss.xml">RSS</a></span>
   <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. Some links (CrowdHealth, code NORMAL) pay a referral bonus at no extra cost to you. Health sharing is not insurance.</p>
 </div></footer>
 {MENU_SCRIPT}
@@ -983,6 +1007,36 @@ def render_post(p, posts):
                   current=f"/{p['category']}/", extra_head=extra, page_title=page_title)
 
 
+def contact_form():
+    """Static form posted to FormSubmit (free, no account): the first submission
+    triggers a one-time activation email to CONTACT_EMAIL; after that, messages
+    land in that inbox with the sender's address as reply-to."""
+    return f"""<form class="contact-form" action="https://formsubmit.co/{CONTACT_EMAIL}" method="POST">
+        <h2>Send a message</h2>
+        <input type="hidden" name="_subject" value="Normaltown USA contact form">
+        <input type="hidden" name="_template" value="table">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="_next" value="{SITE_URL}/contact/thanks/">
+        <div class="hp" aria-hidden="true"><label for="_honey">Leave this empty</label><input type="text" id="_honey" name="_honey" tabindex="-1" autocomplete="off"></div>
+        <label for="c-name">Your name</label>
+        <input type="text" id="c-name" name="name" required autocomplete="name">
+        <label for="c-email">Your email</label>
+        <input type="email" id="c-email" name="email" required autocomplete="email">
+        <label for="c-topic">What's this about?</label>
+        <select id="c-topic" name="topic">
+          <option>A question</option>
+          <option>A medical bill or health sharing question</option>
+          <option>One-on-one help</option>
+          <option>Something I got wrong</option>
+          <option>Something else</option>
+        </select>
+        <label for="c-message">Your message</label>
+        <textarea id="c-message" name="message" required></textarea>
+        <button type="submit">Send it</button>
+        <p class="fine">Goes straight to my inbox. I never share your email with anyone, and I don't have a list to add you to.</p>
+      </form>"""
+
+
 def toc_html(md):
     """Jump links for a long page: one entry per ## heading."""
     used = set()
@@ -1000,7 +1054,7 @@ def toc_html(md):
 
 
 def render_page(title, md_body, slug, description, figure="", page_class="", og_image=None,
-                schema=None, toc=False, page_title=None, lede=None):
+                schema=None, toc=False, page_title=None, lede=None, after="", extra_head=""):
     body_html = md_to_html(md_body, drop_email_cta=False)
     cls = f"page {page_class}".strip()
     lede_html = f'<p class="lede">{_inline(lede)}</p>' if lede else ""
@@ -1011,13 +1065,15 @@ def render_page(title, md_body, slug, description, figure="", page_class="", og_
         {lede_html}
         {toc_html(md_body) if toc else ""}
         <div class="body">{body_html}</div>
+        {after}
       </div>
       {figure}
     </div></section>"""
     og_size = (1400, 1750) if og_image and og_image.endswith("family.jpg") else None
+    current = "/contact/" if slug.startswith("contact") else f"/{slug}/"
     return layout(title, description, body, f"{SITE_URL}/{slug}/", og_image=og_image,
-                  og_type="website", schema=schema, current=f"/{slug}/", og_size=og_size,
-                  page_title=page_title)
+                  og_type="website", schema=schema, current=current, og_size=og_size,
+                  page_title=page_title, extra_head=extra_head)
 
 
 # About page photo: black-and-white family portrait, 4:5, two sizes for srcset.
@@ -1118,7 +1174,8 @@ def render_llms(posts):
            "## Start here", "",
            f"- [Start Here]({SITE_URL}/start-here/): the reading paths and the three posts to read first.",
            f"- [FAQ]({SITE_URL}/faq/): short answers to the most common money, medical bill, health sharing, and bitcoin questions.",
-           f"- [About David Dewese]({SITE_URL}/about/): who writes this, how he researches, how the site makes money.", ""]
+           f"- [About David Dewese]({SITE_URL}/about/): who writes this, how he researches, how the site makes money.",
+           f"- [Contact]({SITE_URL}/contact/): send a question or ask about one-on-one help ({CONTACT_EMAIL}).", ""]
     for s in START_HERE_SLUGS:
         if s in lookup:
             p = lookup[s]
@@ -1268,6 +1325,18 @@ def main():
                      "How I research, how this site makes money, and what I'm not."),
             "page_title": f"About {AUTHOR} and Normaltown USA",
         },
+        "contact.md": {
+            "slug": "contact",
+            "desc": ("Ask a question, send a medical bill that doesn't make sense, or ask about "
+                     f"one-on-one help. Messages go straight to {AUTHOR}'s inbox."),
+            "page_title": "Contact David Dewese",
+        },
+        "contact-thanks.md": {
+            "slug": "contact/thanks",
+            "desc": "Your message is in my inbox. I'll write back as soon as I can.",
+            "page_title": "Got it, thanks",
+            "noindex": True,
+        },
     }
     page_slugs, sitemap_pages = [], [(SITE_URL + "/", TODAY)]
     for fname, cfg in page_map.items():
@@ -1298,6 +1367,11 @@ def main():
                            "author": {"@id": f"{SITE_URL}/#david"},
                            "mainEntity": [{"@type": "Question", "name": q,
                                            "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faqs]})
+        elif slug == "contact":
+            schema.append({"@type": "ContactPage", "@id": page_url + "#page", "url": page_url,
+                           "name": cfg["page_title"], "description": cfg["desc"],
+                           "isPartOf": {"@id": f"{SITE_URL}/#website"},
+                           "about": {"@id": f"{SITE_URL}/#organization"}})
         else:
             schema.append({"@type": "WebPage", "@id": page_url + "#page", "url": page_url,
                            "name": cfg["page_title"], "description": cfg["desc"],
@@ -1306,9 +1380,12 @@ def main():
         write(DIST / slug / "index.html",
               render_page(title, body, slug, cfg["desc"], figure=figure, page_class=page_class,
                           og_image=og_image, schema=schema, toc=cfg.get("toc", False),
-                          page_title=f"{cfg['page_title']} | {SITE_NAME}"))
+                          page_title=f"{cfg['page_title']} | {SITE_NAME}",
+                          after=contact_form() if slug == "contact" else "",
+                          extra_head='<meta name="robots" content="noindex">\n' if cfg.get("noindex") else ""))
         page_slugs.append(slug)
-        sitemap_pages.append((page_url, git_modified(SITE_DIR / fname) or TODAY))
+        if not cfg.get("noindex"):
+            sitemap_pages.append((page_url, git_modified(SITE_DIR / fname) or TODAY))
     for key in CATEGORIES:
         sitemap_pages.append((f"{SITE_URL}/{key}/", max([p["modified"] for p in posts if p["category"] == key] or [TODAY])))
 
