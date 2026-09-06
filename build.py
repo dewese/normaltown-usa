@@ -112,6 +112,15 @@ def md_to_html(md, drop_email_cta=True):
                 i += 1
             blocks.append("<ul>" + "".join(items) + "</ul>")
             continue
+        elif re.match(r'^\d+\. ', stripped):
+            flush_para()
+            items = []
+            while i < len(lines) and re.match(r'^\d+\. ', lines[i].strip()):
+                item_text = re.sub(r'^\d+\. ', '', lines[i].strip())
+                items.append(f"<li>{_inline(item_text)}</li>")
+                i += 1
+            blocks.append("<ol>" + "".join(items) + "</ol>")
+            continue
         else:
             buf.append(line)
         i += 1
@@ -291,7 +300,7 @@ nav.main a:hover{color:var(--ink); text-decoration:none}
   margin:2.4rem 0 .6rem; line-height:1.25}
 .body h3{font-size:1.15rem; font-weight:700; margin:1.8rem 0 .4rem}
 .body p{margin:0 0 1.15rem}
-.body ul{margin:0 0 1.15rem; padding-left:1.2rem}
+.body ul,.body ol{margin:0 0 1.15rem; padding-left:1.2rem}
 .body li{margin:.3rem 0}
 .body strong{font-weight:700}
 .body code{background:var(--panel); padding:.1rem .35rem; border-radius:5px;
