@@ -36,11 +36,11 @@ Rough full-year total for this healthy family:
 
 Call it somewhere around $5,500 to $6,000 for the whole year, broken arm included.
 
-Now compare that to a traditional family plan, where the premiums alone often run past that number before anyone gets sick, and you'd still owe a big deductible on top when the arm breaks. That's the gap that made me switch. I broke the monthly math down further [here](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing).
+Now compare that to a traditional family plan, where the premiums alone often run past that number before anyone gets sick, and you'd still owe a big deductible on top when the arm breaks. That's the gap that made me switch. I broke down [the monthly math](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing) further.
 
 ## The honest reminder
 
-This is the healthy-family scenario, and that's the whole point: health sharing shines when your year looks roughly like this. A year with a serious ongoing condition, or a bill that falls outside the guidelines, would look different, because it is not insurance and there's no legal guarantee. Know which kind of year you're likely to have. My "who should skip this" post is [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+This is the healthy-family scenario, and that's the whole point: health sharing shines when your year looks roughly like this. A year with a serious ongoing condition, or a bill that falls outside the guidelines, would look different, because it is not insurance and there's no legal guarantee. Know which kind of year you're likely to have. Here is my [who-should-skip-this post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## The takeaway
 

@@ -30,7 +30,7 @@ You can't patch the whole tire by yourself. But you can stop keeping every dolla
 
 Money sitting in a plain checking account is fully exposed. It's not growing, and it's slowly buying less. That doesn't mean go do something risky. It means it's worth learning about places to keep money that at least have a chance to keep up: a savings account that actually pays real interest, and, for money you won't need soon, things that are built to hold their value over time.
 
-That last idea, keeping some savings in something that's hard to water down, is a whole topic on its own. I walked through the plain-English version of it [here](https://www.normaltownusa.com/p/what-scarce-means-for-your-money).
+That last idea, keeping some savings in something that's hard to water down, is a whole topic on its own. I walked through [the plain-English version of it](https://www.normaltownusa.com/p/what-scarce-means-for-your-money).
 
 ## The takeaway
 

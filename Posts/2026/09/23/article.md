@@ -6,7 +6,7 @@ If you're seriously thinking about switching to health sharing, don't do it on a
 
 ## Questions about your health
 
-- **Do we have any pre-existing conditions?** If so, look up the exact waiting-period rule for each one. This is the biggest factor, and I broke it down [here](https://www.normaltownusa.com/p/pre-existing-conditions-and-health-sharing).
+- **Do we have any pre-existing conditions?** If so, look up the exact waiting-period rule for each one. This is the biggest factor, and I broke down [the pre-existing condition rules](https://www.normaltownusa.com/p/pre-existing-conditions-and-health-sharing).
 - **Does anyone take an expensive ongoing medication?** The model funds events, not predictable high monthly drug costs. Know your numbers here.
 - **Are we generally healthy?** Be honest. Health sharing rewards the healthy and is a poor fit for someone needing constant, costly care right now.
 
@@ -14,7 +14,7 @@ If you're seriously thinking about switching to health sharing, don't do it on a
 
 - **Can we keep $500 liquid at all times** for the per-event commitment?
 - **Do we have a small emergency fund** on top of that, so a gap or a slow month never wrecks us?
-- **What are we paying now, all in?** Add up your current premiums, deductible exposure, and typical out-of-pocket. You need this number to compare honestly. I laid out the real monthly math [here](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing).
+- **What are we paying now, all in?** Add up your current premiums, deductible exposure, and typical out-of-pocket. You need this number to compare honestly. I laid out [the real monthly math](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing).
 
 ## Questions about the model itself
 
@@ -28,7 +28,7 @@ This one's underrated. Health sharing asks you to be a little more hands-on and 
 
 ## A simple way to decide
 
-If most of your answers point toward "healthy, some savings, comfortable managing a bit of risk, read the rules," health sharing is very likely a strong fit. If several answers point toward "active condition, expensive ongoing meds, no cushion, need a guarantee," it's probably not, and that's fine. Use the right tool. My honest "who should skip this" post is [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+If most of your answers point toward "healthy, some savings, comfortable managing a bit of risk, read the rules," health sharing is very likely a strong fit. If several answers point toward "active condition, expensive ongoing meds, no cushion, need a guarantee," it's probably not, and that's fine. Use the right tool. Here is my honest [who-should-skip-this post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## The takeaway
 

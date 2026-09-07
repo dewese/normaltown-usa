@@ -6,7 +6,7 @@ Deciding to try health sharing is one thing. Actually switching feels like anoth
 
 ## Before you switch: two quick checks
 
-First, make sure you have your **$500 set aside** for a health event. That is your part when something happens, so it should be sitting in savings, not on a credit card. If you do not have it yet, building that cushion is job one, and I wrote about the first $1,000 emergency fund [here](https://www.normaltownusa.com/p/the-first-1000-emergency-fund).
+First, make sure you have your **$500 set aside** for a health event. That is your part when something happens, so it should be sitting in savings, not on a credit card. If you do not have it yet, building that cushion is job one, and I wrote about [the first $1,000 emergency fund](https://www.normaltownusa.com/p/the-first-1000-emergency-fund).
 
 Second, read the guidelines on what is eligible. Health sharing is not insurance, and it has real exclusions and pre-existing rules. Five minutes of reading now prevents every unpleasant surprise later.
 
@@ -22,13 +22,13 @@ This is where you meet the part that traditional insurance does not really offer
 
 ## Days 31 to 90: living with it
 
-Now it is mostly quiet, which is the point. Each month you pay your fee and approve your share of the community's bills. If you have a routine need, you use cash prices, which are often far lower than "insured" prices, something I explained [here](https://www.normaltownusa.com/p/the-cash-price-secret). If something bigger comes up, you pay your $500, the team negotiates the bill, and the crowd funds the rest.
+Now it is mostly quiet, which is the point. Each month you pay your fee and approve your share of the community's bills. If you have a routine need, you use cash prices, which are often far lower than "insured" prices, something I explained in [the cash price secret](https://www.normaltownusa.com/p/the-cash-price-secret). If something bigger comes up, you pay your $500, the team negotiates the bill, and the crowd funds the rest.
 
 By day 90 most people have stopped thinking about it, which is exactly what you want from a healthcare setup.
 
 ## The honest catch
 
-Switching is not right for everyone. If you have an ongoing, expensive condition that needs guaranteed coverage, or you cannot keep $500 on hand, this is probably not your move. I keep the honest "who should skip it" post [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for) so nobody switches into the wrong thing.
+Switching is not right for everyone. If you have an ongoing, expensive condition that needs guaranteed coverage, or you cannot keep $500 on hand, this is probably not your move. I keep [the honest who-should-skip-it post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for) up so nobody switches into the wrong thing.
 
 ## The takeaway
 

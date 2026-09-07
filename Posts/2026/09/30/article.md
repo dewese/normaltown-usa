@@ -6,7 +6,7 @@ All month we've dug into health sharing from every angle: the costs, the limits,
 
 ## Question 1: Are you and your family generally healthy?
 
-This is the big one. Health sharing rewards the relatively healthy and is a poor fit for someone who needs constant, costly care right now. If you're mostly healthy with the normal bumps of life, that's a strong yes. If someone has a serious active condition, lean no, or keep guaranteed coverage for that person. The honest fit test is [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+This is the big one. Health sharing rewards the relatively healthy and is a poor fit for someone who needs constant, costly care right now. If you're mostly healthy with the normal bumps of life, that's a strong yes. If someone has a serious active condition, lean no, or keep guaranteed coverage for that person. Here is [the honest fit test](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## Question 2: Can you keep $500 on hand at all times?
 
@@ -18,7 +18,7 @@ This is the honest heart of it. Health sharing is not insurance. There's no lega
 
 ## Question 4: Are your prescriptions and needs a fit?
 
-Quick gut check on the recurring stuff. Are your regular medications cheap generics, and is your routine care the normal kind? Then yes. Do you rely on an expensive ongoing brand-name drug or heavy specialized care every month? Then the model, which is built for events, may not fit that piece. More on prescriptions [here](https://www.normaltownusa.com/p/health-sharing-and-prescriptions).
+Quick gut check on the recurring stuff. Are your regular medications cheap generics, and is your routine care the normal kind? Then yes. Do you rely on an expensive ongoing brand-name drug or heavy specialized care every month? Then the model, which is built for events, may not fit that piece. More on [health sharing and prescriptions](https://www.normaltownusa.com/p/health-sharing-and-prescriptions).
 
 ## Question 5: Are you willing to be a little hands-on?
 

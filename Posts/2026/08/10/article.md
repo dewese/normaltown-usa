@@ -28,7 +28,7 @@ Whether or not bitcoin ends up mattering to you, the concept is worth understand
 
 Now the fair warning, because this brand doesn't sell you the shiny half and hide the rest.
 
-Scarce does not automatically mean safe, or valuable, or a good buy. Plenty of scarce things are worthless because nobody wants them. And scarce things can still swing wildly in price in the short run. Scarcity is one ingredient in holding value, not a guarantee of it. So it's a lens for understanding money, not a green light to bet money you can't afford to lose. (I dug into that line between saving and gambling [here](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling).)
+Scarce does not automatically mean safe, or valuable, or a good buy. Plenty of scarce things are worthless because nobody wants them. And scarce things can still swing wildly in price in the short run. Scarcity is one ingredient in holding value, not a guarantee of it. So it's a lens for understanding money, not a green light to bet money you can't afford to lose. (I dug into [that line between saving and gambling](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling).)
 
 ## The takeaway
 

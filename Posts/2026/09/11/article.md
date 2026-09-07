@@ -12,7 +12,7 @@ I say this in every post that touches the money, and I mean it every time.
 
 ## So how often does the crowd actually come through?
 
-Here's the other half, and it matters just as much. The track record is strong and public. The CrowdHealth community, the service I use, has funded more than 45,000 bills, including single bills over $600,000. Complete, eligible submissions get funded in about a week on average. So while there's no legal guarantee, there's a long, real history of the crowd showing up. I dug into that trust question [here](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill).
+Here's the other half, and it matters just as much. The track record is strong and public. The CrowdHealth community, the service I use, has funded more than 45,000 bills, including single bills over $600,000. Complete, eligible submissions get funded in about a week on average. So while there's no legal guarantee, there's a long, real history of the crowd showing up. I dug into [that trust question](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill).
 
 Strong history is not the same as an ironclad promise. Both things are true, and a smart person holds both.
 

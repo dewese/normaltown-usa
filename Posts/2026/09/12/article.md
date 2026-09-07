@@ -12,7 +12,7 @@ If you use health sharing, this is where your $500 event commitment lives, ready
 
 ## Layer two: knowing the cash price
 
-The single most expensive mistake in American healthcare is assuming the printed price is the real price. It usually isn't. The cash or self-pay price is often a fraction of the sticker, and you just have to ask for it. I wrote about why that gap exists [here](https://www.normaltownusa.com/p/the-cash-price-secret), and how to negotiate a bill down yourself [here](https://www.normaltownusa.com/p/how-to-negotiate-a-hospital-bill-yourself).
+The single most expensive mistake in American healthcare is assuming the printed price is the real price. It usually isn't. The cash or self-pay price is often a fraction of the sticker, and you just have to ask for it. I wrote about [why that gap exists](https://www.normaltownusa.com/p/the-cash-price-secret), and [how to negotiate a bill down yourself](https://www.normaltownusa.com/p/how-to-negotiate-a-hospital-bill-yourself).
 
 This layer costs you nothing but the willingness to ask. It's the highest return move in the whole net.
 

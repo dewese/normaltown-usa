@@ -20,11 +20,11 @@ Prices move on news nobody saw coming. That's what "surprise" means. You can't s
 
 ## What I do instead
 
-I don't guess. I buy a small, fixed amount on a regular schedule and let time average it out. Some of those buys land high, some land low, and I never have to be right about any single one. That calm little habit beats clever timing more often than clever people want to admit. I wrote up exactly how it works [here](https://www.normaltownusa.com/p/a-little-each-week-beats-betting-it-all).
+I don't guess. I buy a small, fixed amount on a regular schedule and let time average it out. Some of those buys land high, some land low, and I never have to be right about any single one. That calm little habit beats clever timing more often than clever people want to admit. I wrote up [exactly how buying a little each week works](https://www.normaltownusa.com/p/a-little-each-week-beats-betting-it-all).
 
 ## The honest catch
 
-Not trying to time the price is not the same as "buy anything, any time, without thinking." Plant the right tree. If what you're buying is a bad idea, buying it on a schedule just spreads out a bad idea. This calm approach only makes sense for something you actually believe holds value over the long haul, with money you won't need soon. I keep that saving-versus-gambling line honest [here](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling).
+Not trying to time the price is not the same as "buy anything, any time, without thinking." Plant the right tree. If what you're buying is a bad idea, buying it on a schedule just spreads out a bad idea. This calm approach only makes sense for something you actually believe holds value over the long haul, with money you won't need soon. I keep [that saving-versus-gambling line honest](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling).
 
 ## The takeaway
 

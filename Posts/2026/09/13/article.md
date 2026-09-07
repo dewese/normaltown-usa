@@ -22,7 +22,7 @@ Once you're eligible, the maternity event is designed to wrap the normal stuff t
 
 ## The honest limits
 
-I won't leave anything out. It is not insurance, so there's no legal guarantee. Complications outside the normal maternity guidelines have their own rules, so read them. And the waiting period is firm. None of this is a catch, it's just the shape of the deal, and it's all written down before you join. For the bigger picture of who this model fits, I wrote that [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+I won't leave anything out. It is not insurance, so there's no legal guarantee. Complications outside the normal maternity guidelines have their own rules, so read them. And the waiting period is firm. None of this is a catch, it's just the shape of the deal, and it's all written down before you join. I wrote [the bigger picture of who this model fits](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## The takeaway
 

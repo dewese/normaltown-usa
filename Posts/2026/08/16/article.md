@@ -22,7 +22,7 @@ That difficulty is the whole point. It means no king, no bank, and no government
 
 ## Why easy-to-make money leaks
 
-Now compare that to money that can be created quickly and in large amounts. When more can always be made, more usually is. And every time the pile grows, each piece you're holding is worth a little less. That's the slow leak I wrote about [here](https://www.normaltownusa.com/p/the-dollars-slow-leak).
+Now compare that to money that can be created quickly and in large amounts. When more can always be made, more usually is. And every time the pile grows, each piece you're holding is worth a little less. That's [the slow leak I wrote about](https://www.normaltownusa.com/p/the-dollars-slow-leak).
 
 It's not evil. It's just what happens to anything easy to produce. Easy to make equals easy to water down.
 
@@ -30,7 +30,7 @@ It's not evil. It's just what happens to anything easy to produce. Easy to make 
 
 This is the exact reason some people got interested in bitcoin. It's built to be hard to make more of, with a fixed limit written into its rules that nobody can change. Whether or not it ends up mattering to you, it's trying to copy the one thing that made gold hold value: hard to make, impossible to fake more of.
 
-I keep the saving-versus-gambling line honest about all this [here](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling).
+I keep [the saving-versus-gambling line](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling) honest about all this.
 
 ## The honest catch
 

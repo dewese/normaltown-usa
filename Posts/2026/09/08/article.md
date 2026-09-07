@@ -22,7 +22,7 @@ If you have a health event, say you break your ankle and need pain medication an
 
 Here's the part I won't sugarcoat. If you take an expensive, ongoing, brand-name medication every single month, health sharing is probably not your best fit for that. Sharing models are built for unexpected events, not for funding a predictable high monthly drug cost forever. That's a maintenance expense, and it doesn't match how the crowd funds things.
 
-If that's you, read my honest "who should skip this" breakdown before you switch [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for). I'd rather you know now than get surprised later.
+If that's you, read [my honest who-should-skip-this breakdown](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for) before you switch. I'd rather you know now than get surprised later.
 
 ## A quick gut check
 

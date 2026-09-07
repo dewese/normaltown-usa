@@ -6,7 +6,7 @@ The word "crowdfunding" makes some people picture a chaotic online tip jar where
 
 ## It starts with shrinking the bill
 
-Before a single dollar gets shared, the bill gets attacked. When you have a health event, your care advocate negotiates the cost down, asking for the cash price and pushing lower. Members commonly see 25 to 85 percent knocked off the sticker. This step matters for everyone, because a smaller bill means the crowd funds less, which keeps everybody's monthly contribution low. I wrote about how one event moves through the system [here](https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance).
+Before a single dollar gets shared, the bill gets attacked. When you have a health event, your care advocate negotiates the cost down, asking for the cash price and pushing lower. Members commonly see 25 to 85 percent knocked off the sticker. This step matters for everyone, because a smaller bill means the crowd funds less, which keeps everybody's monthly contribution low. I wrote about [how one event moves through the system](https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance).
 
 So step one isn't asking the crowd for money. It's making sure the crowd is asked for as little as possible.
 
@@ -20,7 +20,7 @@ Complete, eligible submissions get funded in about a week on average. That's fas
 
 Here's the part that makes it a community and not a company. Each month, the money you contribute isn't disappearing into a corporate pool to boost some quarterly profit. It's going directly to fund the actual bills of actual members that month. You can see the requests. You're not paying premiums to a company hoping to pay out less. You're chipping in to catch a neighbor, knowing the same net catches you.
 
-That's the core difference from insurance, and it's why the incentives feel so different. Nobody in this system gets richer by denying your bill. I unpacked that incentive flip [here](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest).
+That's the core difference from insurance, and it's why the incentives feel so different. Nobody in this system gets richer by denying your bill. I unpacked [that incentive flip](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest).
 
 ## The honest limits, as always
 

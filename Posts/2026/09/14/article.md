@@ -17,7 +17,7 @@ A few reasons it lines up well with working for yourself:
 - **A flat, predictable cost.** With CrowdHealth, the service I use, it's $60 per person per month plus a modest crowd contribution. When your income is lumpy, a flat, low base cost is a gift.
 - **It's not tied to a job.** It's yours. It moves with you through good months and slow months, new clients and dropped ones.
 - **You're already the type it's built for.** Self-employed people are usually comfortable managing a bit of risk to keep costs sane. That's the health sharing mindset exactly.
-- **A human handles the bills.** When you don't have an HR department, having a care advocate negotiate your bills down is worth a lot. I wrote about what they do [here](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does).
+- **A human handles the bills.** When you don't have an HR department, having a care advocate negotiate your bills down is worth a lot. I wrote about [what care advocates do](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does).
 
 ## The tax angle, plainly
 
@@ -25,7 +25,7 @@ One quick, honest note. Traditional self-employed health insurance premiums can 
 
 ## Where to be careful
 
-Same honest limits as always. It is not insurance, there's no legal guarantee, and there are real exclusions and pre-existing rules. If you have an ongoing condition or need guaranteed coverage, weigh that seriously. My "who should skip this" list is [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+Same honest limits as always. It is not insurance, there's no legal guarantee, and there are real exclusions and pre-existing rules. If you have an ongoing condition or need guaranteed coverage, weigh that seriously. Here is my [who-should-skip-this list](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## The takeaway
 

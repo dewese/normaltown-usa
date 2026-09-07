@@ -8,10 +8,10 @@ The fastest way to trust something is to hear its honest limits before you hear 
 
 Here's the honest rundown of what generally falls outside eligible sharing:
 
-- **Pre-existing conditions,** at least until you clear the waiting-period rules. This is the big one, and I covered it fully [here](https://www.normaltownusa.com/p/pre-existing-conditions-and-health-sharing).
+- **Pre-existing conditions,** at least until you clear the waiting-period rules. This is the big one, and I covered [pre-existing conditions and health sharing](https://www.normaltownusa.com/p/pre-existing-conditions-and-health-sharing) fully.
 - **Routine dental and vision.** Cleanings, fillings, glasses, contacts. This is everyday maintenance, not an unexpected event.
 - **Cosmetic procedures.** Elective work done for appearance rather than a medical need.
-- **Expensive ongoing medications.** The model funds events, not a predictable high monthly drug cost forever. More on prescriptions [here](https://www.normaltownusa.com/p/health-sharing-and-prescriptions).
+- **Expensive ongoing medications.** The model funds events, not a predictable high monthly drug cost forever. More on [health sharing and prescriptions](https://www.normaltownusa.com/p/health-sharing-and-prescriptions).
 - **Some elective and lifestyle stuff.** Things you choose and can plan for, rather than emergencies that happen to you.
 
 None of these should feel like a trap. They're all the same theme: health sharing is built for the unexpected big stuff, not for routine, predictable, or elective costs.
@@ -26,7 +26,7 @@ The gaps are the reason the monthly number is low. You're trading "covers every 
 
 The good news is that each gap has a simple, cheap workaround:
 
-- **Dental and vision:** pay cash (often reasonable) or grab a low-cost standalone dental or vision plan. I wrote about doing this without insurance [here](https://www.normaltownusa.com/p/dental-and-vision-without-insurance).
+- **Dental and vision:** pay cash (often reasonable) or grab a low-cost standalone dental or vision plan. I wrote about [doing dental and vision without insurance](https://www.normaltownusa.com/p/dental-and-vision-without-insurance).
 - **Routine meds:** shop the cash price with a free discount tool. Generics are often just a few dollars.
 - **Pre-existing conditions:** know your waiting-period rules going in, and keep the right coverage if you have an active one.
 - **The predictable stuff in general:** budget for it with a small sinking fund, the same way you'd budget for car maintenance.

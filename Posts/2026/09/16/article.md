@@ -24,7 +24,7 @@ This is why "I have insurance" is not always the cheapest way to pay. If a bill 
 
 ## How to actually use this
 
-You don't need to be an expert. You just need to ask one question before any non-emergency care: "What's the cash or self-pay price?" Then compare it to what you'd owe through insurance. Sometimes insurance wins, sometimes cash wins. The point is you check instead of assuming. And if you get a big bill, this is the foundation for negotiating it down, which I walked through step by step [here](https://www.normaltownusa.com/p/how-to-negotiate-a-hospital-bill-yourself).
+You don't need to be an expert. You just need to ask one question before any non-emergency care: "What's the cash or self-pay price?" Then compare it to what you'd owe through insurance. Sometimes insurance wins, sometimes cash wins. The point is you check instead of assuming. And if you get a big bill, this is the foundation for [negotiating it down step by step](https://www.normaltownusa.com/p/how-to-negotiate-a-hospital-bill-yourself).
 
 ## The takeaway
 

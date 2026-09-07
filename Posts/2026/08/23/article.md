@@ -20,7 +20,7 @@ For prices to actually fall, you'd need the opposite thing, and that comes with 
 
 So when your gut says "everything still costs too much" while the TV says inflation is down, both are true. The rate of climb slowed. The altitude is still high. You're standing higher up the hill than you were three years ago, and you never came back down.
 
-This is the same slow leak I wrote about [here](https://www.normaltownusa.com/p/the-dollars-slow-leak), just measured by its speed. Slower leak, still leaking.
+This is [the same slow leak I wrote about](https://www.normaltownusa.com/p/the-dollars-slow-leak), just measured by its speed. Slower leak, still leaking.
 
 ## What to do with this
 

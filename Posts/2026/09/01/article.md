@@ -28,7 +28,7 @@ Traditional insurance is the second bill. You pay the premium, and then you stil
 
 ## Who this math works for
 
-This works best if you are relatively healthy, you have $500 set aside for a health event, and you want a lower, more predictable monthly number. It does not work for everyone. It is not insurance, there is no legal guarantee your bill gets funded, and there are real exclusions and rules for pre-existing conditions. I wrote the honest "who should skip this" version [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for), and a plain-English explainer of how the whole thing works [here](https://www.normaltownusa.com/p/what-is-health-sharing).
+This works best if you are relatively healthy, you have $500 set aside for a health event, and you want a lower, more predictable monthly number. It does not work for everyone. It is not insurance, there is no legal guarantee your bill gets funded, and there are real exclusions and rules for pre-existing conditions. I wrote [the honest who-should-skip-this version](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for), and [a plain-English explainer of how the whole thing works](https://www.normaltownusa.com/p/what-is-health-sharing).
 
 ## The takeaway
 

@@ -16,7 +16,7 @@ So if your deductible is $3,000, that means you cover the first $3,000 of care o
 
 Here's the trap. You pay for insurance every single month. So when a bill shows up anyway, it feels like a mistake. It isn't. You were standing under the umbrella the whole time. It just hadn't opened yet, because the first inch hadn't fallen.
 
-I dug into that exact gut-punch, the big bill that shows up even though you're insured, right [here](https://www.normaltownusa.com/p/why-you-got-a-big-bill-with-insurance).
+I dug into [that exact gut-punch, the big bill that shows up even though you are insured](https://www.normaltownusa.com/p/why-you-got-a-big-bill-with-insurance).
 
 ## Three words that ride along with "deductible"
 
@@ -30,7 +30,7 @@ Three other words usually show up on the same page. Here they are in plain Engli
 
 ## The part that saves you money
 
-Here's the useful bit. If you haven't hit your deductible yet, you're paying full price for care anyway. That's exactly when it pays to ask what something costs before you get it, and to ask for the cash price. Sometimes paying cash is cheaper than the "insurance" price while you're still under your deductible. I showed how to ask [here](https://www.normaltownusa.com/p/the-cash-price-secret).
+Here's the useful bit. If you haven't hit your deductible yet, you're paying full price for care anyway. That's exactly when it pays to ask what something costs before you get it, and to ask for the cash price. Sometimes paying cash is cheaper than the "insurance" price while you're still under your deductible. I showed [how to ask for the cash price](https://www.normaltownusa.com/p/the-cash-price-secret).
 
 ## The takeaway
 

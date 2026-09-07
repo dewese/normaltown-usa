@@ -12,7 +12,7 @@ You will find mistakes. Double-charged items, a test you never got, a "supply" t
 
 ## Ask the magic question: "What's the cash price?"
 
-This is the whole game. Say you're paying out of pocket and ask for the self-pay or cash price. The cash price is often a fraction of the sticker price, because the hospital would rather get paid something now than chase you for months. I wrote more about why this gap even exists [here](https://www.normaltownusa.com/p/the-cash-price-secret).
+This is the whole game. Say you're paying out of pocket and ask for the self-pay or cash price. The cash price is often a fraction of the sticker price, because the hospital would rather get paid something now than chase you for months. I wrote more about [why this gap even exists](https://www.normaltownusa.com/p/the-cash-price-secret).
 
 Do not be shy about it. This is a normal, everyday request for their billing department. You're not asking for a favor. You're asking for the price they give people who pay directly.
 

@@ -20,11 +20,11 @@ Bitcoin is still small compared to the giant, established stuff. So the swings a
 
 A wild ride does not automatically mean something is broken, and a smooth ride does not automatically mean something is safe. Plenty of calm, steady things have quietly lost value, and plenty of bumpy things have climbed over time. The bumps are about how new and small the road is, not a verdict on where it's headed.
 
-What the swings do mean for you is practical: don't put in money you'll need soon, because you can't control which day you'll need it, and it might be a down day. This is exactly why I don't try to time these swings, and buy a little at a time instead. I explained that calm approach [here](https://www.normaltownusa.com/p/why-i-dont-try-to-time-the-price).
+What the swings do mean for you is practical: don't put in money you'll need soon, because you can't control which day you'll need it, and it might be a down day. This is exactly why I don't try to time these swings, and buy a little at a time instead. I explained [that calm approach](https://www.normaltownusa.com/p/why-i-dont-try-to-time-the-price).
 
 ## The calm way to handle it
 
-The swings are only scary if you're watching the price every day and using money you can't spare. Take away both of those and the drama mostly disappears. Use money you won't miss, buy slowly, and don't stare at the screen. Let the road get paved without you standing in the middle of it. And keep the saving-versus-gambling line honest, which I do [here](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling).
+The swings are only scary if you're watching the price every day and using money you can't spare. Take away both of those and the drama mostly disappears. Use money you won't miss, buy slowly, and don't stare at the screen. Let the road get paved without you standing in the middle of it. And keep [the saving-versus-gambling line honest](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling).
 
 ## The takeaway
 

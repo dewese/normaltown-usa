@@ -22,7 +22,7 @@ This is the sneaky one. When more money comes in, life tends to fill the space. 
 
 ## Push 3: prices rose too
 
-While you were earning more, the price of everyday stuff crept up as well. So even the money you kept buys a little less than it used to. The staircase moves under everyone, not just you. (That slow shrinking of a dollar is really about how money is made, which I covered [here](https://www.normaltownusa.com/p/what-scarce-means-for-your-money).)
+While you were earning more, the price of everyday stuff crept up as well. So even the money you kept buys a little less than it used to. The staircase moves under everyone, not just you. (That slow shrinking of a dollar is really about how money is made, which I covered in [what scarce means for your money](https://www.normaltownusa.com/p/what-scarce-means-for-your-money).)
 
 ## How to actually keep your next raise
 

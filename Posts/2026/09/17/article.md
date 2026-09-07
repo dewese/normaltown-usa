@@ -22,9 +22,9 @@ A few reasons it's a natural fit for the pre-Medicare years:
 
 I have to be extra straight with this audience, because health matters more as you age.
 
-First, pre-existing conditions. By your late 50s, many people have something, and health sharing has real waiting-period rules for that. Read them carefully for your situation, which I explained [here](https://www.normaltownusa.com/p/pre-existing-conditions-and-health-sharing).
+First, pre-existing conditions. By your late 50s, many people have something, and health sharing has real waiting-period rules for that. Read them carefully for your situation, which I explained in [pre-existing conditions and health sharing](https://www.normaltownusa.com/p/pre-existing-conditions-and-health-sharing).
 
-Second, it is not insurance and has no legal guarantee. If you have an active condition needing ongoing care, weigh that hard. My honest "who should skip this" list applies double here, and it's [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+Second, it is not insurance and has no legal guarantee. If you have an active condition needing ongoing care, weigh that hard. My honest [who-should-skip-this list](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for) applies double in that situation.
 
 ## The takeaway
 

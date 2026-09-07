@@ -18,7 +18,7 @@ So if you or someone in your family has an ongoing condition that needs regular 
 
 ## It's wrong for you if you need a legal guarantee
 
-This is the big one. Health sharing is not insurance. There is no contract legally forcing the group to pay your bill. In practice these communities do pay, and they have every reason to, but if what lets you sleep at night is a signed, enforceable guarantee, health sharing will not give you that peace. I laid out that exact trade-off [here](https://www.normaltownusa.com/p/health-sharing-vs-insurance-honest-trade-offs).
+This is the big one. Health sharing is not insurance. There is no contract legally forcing the group to pay your bill. In practice these communities do pay, and they have every reason to, but if what lets you sleep at night is a signed, enforceable guarantee, health sharing will not give you that peace. I laid out [that exact trade-off](https://www.normaltownusa.com/p/health-sharing-vs-insurance-honest-trade-offs).
 
 Some people are fine trading the guarantee for a much lower cost. Some people are not. Neither is wrong. You just have to know which one you are.
 
@@ -28,9 +28,9 @@ Sharing communities often come with expectations, sometimes lifestyle ones, and 
 
 ## Who it's actually right for
 
-So who is the motorcycle right for? Generally, healthier people and families who don't have big ongoing medical needs, who mostly want protection from the large surprise bill, who want a much lower monthly cost, and who are genuinely comfortable with a strong commitment instead of a legal contract. If that's you, it can be a great fit, and I explained how it works [here](https://www.normaltownusa.com/p/what-is-health-sharing).
+So who is the motorcycle right for? Generally, healthier people and families who don't have big ongoing medical needs, who mostly want protection from the large surprise bill, who want a much lower monthly cost, and who are genuinely comfortable with a strong commitment instead of a legal contract. If that's you, it can be a great fit, and I explained [how health sharing works](https://www.normaltownusa.com/p/what-is-health-sharing).
 
-If you think you might be that person and want to look closer, the community I've examined most is CrowdHealth, [here](https://www.joincrowdhealth.com/?referral_code=NORMAL).
+If you think you might be that person and want to look closer, the community I've examined most is [CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 *Honest disclosure: that's a referral link, and Normaltown USA may earn a small bonus if you join through it, at no cost to you. I'm including it in an article about who sharing is wrong for on purpose, because the honest version has to come first. If it's the wrong tool for you, please don't join.*
 

@@ -6,7 +6,7 @@ A lot of responsible families end up on a high-deductible health plan because it
 
 ## What each one costs you monthly
 
-With a **high-deductible plan**, you pay a premium every month, and for a family that's often several hundred to over a thousand dollars, even before anyone gets sick. With **health sharing** through CrowdHealth, the service I use, you pay a flat $60 per person per month, plus a modest monthly contribution to the crowd. For most healthy families, the health sharing monthly number lands lower. I broke the real monthly math down [here](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing).
+With a **high-deductible plan**, you pay a premium every month, and for a family that's often several hundred to over a thousand dollars, even before anyone gets sick. With **health sharing** through CrowdHealth, the service I use, you pay a flat $60 per person per month, plus a modest monthly contribution to the crowd. For most healthy families, the health sharing monthly number lands lower. I broke down [the real monthly math](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing).
 
 So round one, monthly cost, usually goes to health sharing for a healthy family.
 
@@ -27,7 +27,7 @@ Say a family has one solid health event, a $6,000 bill after discounts.
 
 ## Where the high-deductible plan wins
 
-I promised no spin, so here it is. The high-deductible plan is real insurance, which means a legal guarantee and a hard yearly out-of-pocket maximum. Health sharing has neither, because it is not insurance. If you have a chronic condition, take costly ongoing medication, or simply cannot stomach any uncertainty, the guarantee is worth paying for. I wrote the honest "who should skip health sharing" list [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+I promised no spin, so here it is. The high-deductible plan is real insurance, which means a legal guarantee and a hard yearly out-of-pocket maximum. Health sharing has neither, because it is not insurance. If you have a chronic condition, take costly ongoing medication, or simply cannot stomach any uncertainty, the guarantee is worth paying for. I wrote [the honest who-should-skip-health-sharing list](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## The takeaway
 

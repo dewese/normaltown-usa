@@ -24,7 +24,7 @@ When you buy bitcoin on an app and just leave it there, you usually don't hold t
 
 Not necessarily, and here's the honest part. Holding your own keys means total control, but it also means total responsibility. If you lose your key, there's no help desk, no "forgot password," no way to get the coins back. That freedom cuts both ways.
 
-For a small amount you're just getting started with, leaving it on a reputable app is usually reasonable and simpler. If you've got the very first steps to do, I walked through them [here](https://www.normaltownusa.com/p/your-first-20-in-bitcoin). As the amount grows into money you'd really hate to lose, that's when learning to hold your own keys starts to be worth the responsibility. It helps to understand what a wallet actually is first, which I broke down [here](https://www.normaltownusa.com/p/what-is-a-bitcoin-wallet).
+For a small amount you're just getting started with, leaving it on a reputable app is usually reasonable and simpler. If you've got the very first steps to do, I walked through [the very first steps](https://www.normaltownusa.com/p/your-first-20-in-bitcoin). As the amount grows into money you'd really hate to lose, that's when learning to hold your own keys starts to be worth the responsibility. It helps to understand [what a wallet actually is](https://www.normaltownusa.com/p/what-is-a-bitcoin-wallet) first.
 
 ## The takeaway
 

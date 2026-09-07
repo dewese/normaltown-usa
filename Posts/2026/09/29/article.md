@@ -22,7 +22,7 @@ So we'll do two versions of the year: a healthy year where little happens, and a
 - Routine cash-pay visits: a few hundred
 - **All-in: roughly $5,000 to $5,500**
 
-Even in a boring, healthy year, the gap is thousands of dollars, mostly because you're not paying premiums into a plan you barely touched. I broke the monthly piece down [here](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing).
+Even in a boring, healthy year, the gap is thousands of dollars, mostly because you're not paying premiums into a plan you barely touched. I broke down [the monthly piece](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing).
 
 ## The rough year (one real health event)
 
@@ -42,7 +42,7 @@ The rougher the year, the wider the gap gets, because your exposure per event is
 
 ## The honest asterisk on these numbers
 
-Two things keep this fair. First, your real numbers will differ, so run your own with your actual premium and deductible. Second, and most important: the traditional plan's higher cost buys a legal guarantee, and health sharing has none, because it is not insurance. That guarantee is worth something, especially if you have an active condition. For most healthy families the savings clearly win, but you're the one who weighs it. My "who should skip this" post is [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+Two things keep this fair. First, your real numbers will differ, so run your own with your actual premium and deductible. Second, and most important: the traditional plan's higher cost buys a legal guarantee, and health sharing has none, because it is not insurance. That guarantee is worth something, especially if you have an active condition. For most healthy families the savings clearly win, but you're the one who weighs it. Here is my [who-should-skip-this post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## The takeaway
 

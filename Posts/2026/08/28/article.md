@@ -26,7 +26,7 @@ Second, if you've got more than one card, throw your extra money at the one with
 
 ## The move that keeps you out of the boat
 
-The reason a lot of people end up carrying a balance in the first place is a surprise expense with no cushion to catch it. That's exactly what a small emergency fund is for. Even a starter cushion keeps the next surprise off the card. I wrote about building that first thousand [here](https://www.normaltownusa.com/p/the-first-1000-emergency-fund), and about finding the money to do it [here](https://www.normaltownusa.com/p/a-budget-that-survives-a-busy-week).
+The reason a lot of people end up carrying a balance in the first place is a surprise expense with no cushion to catch it. That's exactly what a small emergency fund is for. Even a starter cushion keeps the next surprise off the card. I wrote about [building that first thousand](https://www.normaltownusa.com/p/the-first-1000-emergency-fund), and about [finding the money to do it](https://www.normaltownusa.com/p/a-budget-that-survives-a-busy-week).
 
 ## The takeaway
 

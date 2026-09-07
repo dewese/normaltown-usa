@@ -26,7 +26,7 @@ That's it. One fixed number, one spending number, one save-first move.
 
 It survives because it asks almost nothing of you during the week. You're not logging every coffee. You're watching one number: the spending money. When it's getting low, you slow down. When it's gone, you're done till next check. No math at the register.
 
-It also survives because it's honest about the leaks. Most people feel broke on a good income because money slips out in small drips they never see. I laid those out [here](https://www.normaltownusa.com/p/5-money-leaks-busy-families-miss), and the plain reason it happens [here](https://www.normaltownusa.com/p/why-you-feel-broke-on-a-good-income).
+It also survives because it's honest about the leaks. Most people feel broke on a good income because money slips out in small drips they never see. I laid out [the five money leaks busy families miss](https://www.normaltownusa.com/p/5-money-leaks-busy-families-miss), and [the plain reason it happens](https://www.normaltownusa.com/p/why-you-feel-broke-on-a-good-income).
 
 ## Make it automatic
 

@@ -26,13 +26,13 @@ But if you're healthy and just need a bridge to your next job or plan, COBRA's p
 
 - **The cost is a fraction of COBRA.** With CrowdHealth, the service I use, it's $60 per person per month plus a modest crowd contribution, not a four-figure premium.
 - **It's not tied to a job you no longer have,** so it doesn't end when your COBRA window runs out.
-- **You get real human help with bills** through a care advocate, which I wrote about [here](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does).
+- **You get real human help with bills** through a care advocate, which I wrote about in [what a care advocate actually does](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does).
 
 For a healthy person between jobs, paying COBRA prices can feel like lighting money on fire.
 
 ## The honest deciding factor
 
-It really comes down to two questions. Are you healthy right now, and can you handle a bit of risk for a big cost savings? If yes, health sharing is often the smarter bridge. Are you mid-treatment or do you need an ironclad guarantee right now? Then COBRA's price buys you something real, and it's worth it. Because health sharing is not insurance, there's no legal guarantee, so this choice really hinges on your current health. My honest fit test is [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+It really comes down to two questions. Are you healthy right now, and can you handle a bit of risk for a big cost savings? If yes, health sharing is often the smarter bridge. Are you mid-treatment or do you need an ironclad guarantee right now? Then COBRA's price buys you something real, and it's worth it. Because health sharing is not insurance, there's no legal guarantee, so this choice really hinges on your current health. Here is my [honest fit test](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## The takeaway
 

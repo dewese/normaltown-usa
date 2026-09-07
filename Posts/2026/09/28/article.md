@@ -21,7 +21,7 @@ So instead of "what if something awful happens," write down the actual plan:
 - If there's a gap, my emergency fund covers it.
 - If it's routine, I pay the cash price.
 
-Suddenly the monster under the bed is just a list. Lists aren't scary. I built my own version of that list as a layered safety net, which I wrote about [here](https://www.normaltownusa.com/p/the-diy-healthcare-safety-net).
+Suddenly the monster under the bed is just a list. Lists aren't scary. I built my own version of that list as [a layered safety net](https://www.normaltownusa.com/p/the-diy-healthcare-safety-net).
 
 ## Control what you can, release what you can't
 

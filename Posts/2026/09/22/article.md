@@ -29,7 +29,7 @@ CrowdHealth checks these boxes, which is why I use it. But apply this checklist 
 
 ## The honest limits, one more time
 
-Being legit doesn't erase the limits. It is not insurance, so there's no legal guarantee. There are exclusions and pre-existing rules. Those are real, and I've written about them plainly, including who should skip health sharing entirely [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for). A legit model with honest limits beats a slick pitch that hides them, every time.
+Being legit doesn't erase the limits. It is not insurance, so there's no legal guarantee. There are exclusions and pre-existing rules. Those are real, and I've written about them plainly, including [who should skip health sharing entirely](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for). A legit model with honest limits beats a slick pitch that hides them, every time.
 
 ## The takeaway
 

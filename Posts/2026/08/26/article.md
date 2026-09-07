@@ -18,7 +18,7 @@ Regular working people are near the back. Your paycheck tends to catch up to hig
 
 ## Why this connects to your raise
 
-This is also why a raise so often doesn't feel like a raise. By the time the extra money reaches your check, prices have already moved. You're eating at the back of the buffet. I dug into that exact letdown [here](https://www.normaltownusa.com/p/where-your-raise-actually-went), and the slow-leak reason prices keep climbing [here](https://www.normaltownusa.com/p/the-dollars-slow-leak).
+This is also why a raise so often doesn't feel like a raise. By the time the extra money reaches your check, prices have already moved. You're eating at the back of the buffet. I dug into [that exact letdown](https://www.normaltownusa.com/p/where-your-raise-actually-went), and [the slow-leak reason prices keep climbing](https://www.normaltownusa.com/p/the-dollars-slow-leak).
 
 ## What a normal person can actually do
 

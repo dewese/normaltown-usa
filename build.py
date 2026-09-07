@@ -157,6 +157,9 @@ def normalise_url(url):
     return url
 
 
+NEW_TAB = '<span class="sr-only"> (opens in a new tab)</span>'
+
+
 def _inline(text):
     """Escape HTML, then apply inline markdown: links, bold, italic, code."""
     text = html.escape(text, quote=False)
@@ -171,6 +174,8 @@ def _inline(text):
         if url.startswith("http"):
             rel = "noopener nofollow sponsored" if "joincrowdhealth.com" in url else "noopener"
             attrs = f' target="_blank" rel="{rel}"'
+        if attrs:
+            label += NEW_TAB
         return f'<a href="{safe_url}"{attrs}>{label}</a>'
     text = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', link, text)
     text = re.sub(r'`([^`]+)`', r'<code>\1</code>', text)
@@ -566,7 +571,9 @@ CSS = """
   --panel:#161616; --measure:40rem;
 }
 *{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%; scroll-behavior:smooth}
+html{-webkit-text-size-adjust:100%}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+@media (prefers-reduced-motion:reduce){*{transition:none !important}}
 body{
   margin:0; background:var(--canvas); color:var(--ink);
   font-family:Manrope,'Helvetica Neue',Arial,sans-serif;
@@ -575,6 +582,11 @@ body{
 }
 a{color:var(--accent); text-decoration:none}
 a:hover{text-decoration:underline}
+/* links inside running text get an underline so color is not the only cue (WCAG 1.4.1) */
+.body a,.short-answer a,.hero p a,.lede a,.post-cta a,.tile p a,.author-box a,.sources a,.toc a,
+.contact-form .fine a,.foot-sub .fine a,.site-foot .disclaimer a{text-decoration:underline; text-underline-offset:.15em}
+:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+.sr-only{position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0}
 img{max-width:100%; height:auto; display:block}
 .wrap{width:100%; max-width:64rem; margin:0 auto; padding:0 1.5rem}
 .skip{position:absolute; left:-999px; top:0; background:var(--accent); color:#000; padding:.5rem 1rem}
@@ -603,6 +615,8 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
   nav.main a{padding:.7rem 0; border-top:1px solid var(--faint); font-size:1.05rem}
   .site-head.open .wrap{flex-wrap:wrap}
   .site-head.open nav.main{display:flex}
+  .menu-btn[hidden]{display:none}
+  .menu-btn[hidden]~nav.main{display:flex}
 }
 
 /* hero */
@@ -631,8 +645,8 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .tile h2,.tile h3{margin:0 0 .3rem; font-size:1.15rem; font-weight:800; letter-spacing:-.01em}
 .tile p{margin:0; color:var(--muted); font-size:.95rem}
 .tile .count{color:var(--accent); font-size:.8rem; font-weight:700; text-transform:uppercase; letter-spacing:.08em}
-.tile h2 a{color:var(--ink)}
-.tile h2 a:hover{color:var(--accent); text-decoration:none}
+.tile h2 a,.tile h3 a{color:var(--ink)}
+.tile h2 a:hover,.tile h3 a:hover{color:var(--accent); text-decoration:none}
 .tile .start{margin:.9rem 0 0; padding-top:.8rem; border-top:1px solid var(--faint); font-size:.92rem}
 .tile .start span{display:block; color:var(--muted); font-size:.72rem; font-weight:700; text-transform:uppercase;
   letter-spacing:.08em; margin-bottom:.15rem}
@@ -663,7 +677,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .article{padding:2.5rem 0 4rem}
 .crumbs{max-width:var(--measure); margin:0 auto 1.4rem; font-size:.82rem; color:var(--muted)}
 .crumbs ol{list-style:none; margin:0; padding:0; display:flex; gap:.5rem; flex-wrap:wrap}
-.crumbs li+li::before{content:"\\203A"; margin-right:.5rem; color:var(--muted)}
+.crumbs li+li::before{content:"\\203A"; content:"\\203A" / ""; margin-right:.5rem; color:var(--muted)}
 .crumbs a{color:var(--muted)}
 .crumbs a:hover{color:var(--ink)}
 .article-head{max-width:var(--measure); margin:0 auto 2rem}
@@ -730,7 +744,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .sources ol{margin:0; padding-left:1.25rem; font-size:.95rem}
 .sources li{padding:.3rem 0; color:var(--muted)}
 .sources a{font-weight:700; color:var(--ink)}
-.sources a:hover{color:var(--accent); text-decoration:none}
+.sources a:hover{color:var(--accent)}
 .pager{max-width:var(--measure); margin:2rem auto 0; display:flex; justify-content:space-between;
   gap:1rem; font-size:.95rem}
 .pager a{color:var(--muted); max-width:48%}
@@ -757,7 +771,8 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .contact-form label:first-of-type{margin-top:0}
 .contact-form input,.contact-form select,.contact-form textarea{width:100%; font:inherit; color:var(--ink);
   background:var(--canvas); border:1px solid var(--faint); border-radius:10px; padding:.7rem .85rem}
-.contact-form input:focus,.contact-form select:focus,.contact-form textarea:focus{outline:none; border-color:var(--accent)}
+.contact-form input:focus,.contact-form select:focus,.contact-form textarea:focus{outline:2px solid var(--accent); outline-offset:2px; border-color:var(--accent)}
+.contact-form .required-note{margin:0 0 .4rem; font-size:.85rem; color:var(--muted)}
 .contact-form textarea{min-height:9rem; resize:vertical}
 .contact-form select{appearance:none; -webkit-appearance:none; background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);
   background-position:calc(100% - 20px) 50%,calc(100% - 14px) 50%; background-size:6px 6px; background-repeat:no-repeat; padding-right:2.4rem}
@@ -799,7 +814,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .foot-sub .embed iframe{display:block; width:100%; border:0}
 .foot-sub input[type=email]{flex:1; min-width:0; font:inherit; color:var(--ink); background:var(--canvas);
   border:1px solid var(--faint); border-radius:999px; padding:.6rem 1rem}
-.foot-sub input[type=email]:focus{outline:none; border-color:var(--accent)}
+.foot-sub input[type=email]:focus{outline:2px solid var(--accent); outline-offset:2px; border-color:var(--accent)}
 .foot-sub button{font:inherit; font-weight:800; color:#0F0F0F; background:var(--accent); border:none;
   border-radius:999px; padding:.6rem 1.1rem; cursor:pointer; white-space:nowrap}
 .foot-sub button:hover{filter:brightness(1.08)}
@@ -817,7 +832,9 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 
 MENU_SCRIPT = """<script>
 (function(){var h=document.querySelector('.site-head'),b=h.querySelector('.menu-btn');if(!b)return;b.hidden=false;
-b.addEventListener('click',function(){var o=h.classList.toggle('open');b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Close menu':'Open menu');});})();
+function set(o){h.classList.toggle('open',o);b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Close menu':'Open menu');}
+b.addEventListener('click',function(){set(!h.classList.contains('open'));});
+h.addEventListener('keydown',function(e){if(e.key==='Escape'&&h.classList.contains('open')){set(false);b.focus();}});})();
 </script>"""
 
 CSS_VERSION = hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
@@ -901,7 +918,8 @@ def footer_signup():
     <span class="label" id="s-label">New posts by email</span>
     <div class="embed" role="group" aria-labelledby="s-label">{NEWSLETTER_EMBED}</div>
     <p class="fine">No spam, no selling your address. Leave anytime.</p>
-  </div>"""
+  </div>
+  <script>(function(){{var e=document.querySelector('.foot-sub .embed');if(!e)return;function t(){{var f=e.querySelector('iframe');if(f&&!f.title)f.title='Email signup form';}}t();new MutationObserver(t).observe(e,{{childList:true,subtree:true}});}})();</script>"""
     import base64
     target = base64.b64encode(f"https://formsubmit.co/{CONTACT_EMAIL}".encode()).decode()
     return f"""<form class="foot-sub" method="POST" data-t="{target}">
@@ -918,7 +936,8 @@ def footer_signup():
 
 
 def layout(title, description, body, canonical, og_image=None, og_type="article",
-           schema=None, current=None, extra_head="", og_size=None, page_title=None):
+           schema=None, current=None, extra_head="", og_size=None, page_title=None,
+           section=None):
     desc = html.escape(description or SITE_TAGLINE, quote=True)
     ga, signup = ga_tag(), footer_signup()
     if page_title is None:
@@ -928,7 +947,7 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
     og_img = html.escape(og_image, quote=True)
     nav_items = []
     for href, label in NAV:
-        cur = ' aria-current="page"' if href == current else ""
+        cur = ' aria-current="page"' if href == current else (' aria-current="true"' if href == section else "")
         nav_items.append(f'    <a href="{href}"{cur}>{label}</a>')
     nav = "\n".join(nav_items)
     graph = {"@context": "https://schema.org", "@graph": schema} if schema else None
@@ -969,20 +988,20 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 <header class="site-head"><div class="wrap">
   <a class="brand" href="/" aria-label="{SITE_NAME} home"><img src="/assets/normaltown-logo-reverse.svg" alt="{SITE_NAME}" width="1132" height="156"></a>
   <button class="menu-btn" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="main-nav" hidden>
-    <svg class="bars" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
-    <svg class="x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    <svg class="bars" aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    <svg class="x" aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
   </button>
   <nav class="main" id="main-nav" aria-label="Main">
 {nav}
   </nav>
 </div></header>
-<main id="main">
+<main id="main" tabindex="-1">
 {body}
 </main>
 <footer class="site-foot"><div class="wrap">
   {signup}
   <span>&copy; {TODAY.year} {SITE_NAME}. {SITE_TAGLINE}.</span>
-  <span><a href="/blog/">All posts</a> &middot; <a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/rss.xml">RSS</a></span>
+  <span><a href="/blog/">All posts</a> &middot; <a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/accessibility/">Accessibility</a> &middot; <a href="/rss.xml">RSS</a></span>
   <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. Some links (CrowdHealth, code NORMAL) pay a referral bonus at no extra cost to you. Health sharing is not insurance.</p>
 </div></footer>
 {MENU_SCRIPT}
@@ -1041,13 +1060,13 @@ def render_home(posts):
         start = (f'<p class="start"><span>Start with</span> <a href="/p/{first["slug"]}/">{html.escape(first["title"])}</a></p>'
                  if first else "")
         tile_html.append(f'<div class="tile"><span class="count">{c["name"]} &middot; {counts[k]} posts</span>'
-                         f'<h2><a href="/{k}/">{html.escape(c["title"])}</a></h2><p>{html.escape(desc)}</p>{start}</div>')
+                         f'<h3><a href="/{k}/">{html.escape(c["title"])}</a></h3><p>{html.escape(desc)}</p>{start}</div>')
     feat_html = ""
-    tiles = ('<section class="featured"><div class="wrap"><p class="section-title">New here? Pick a topic</p>'
+    tiles = ('<section class="featured"><div class="wrap"><h2 class="section-title">New here? Pick a topic</h2>'
              '<div class="tiles">' + "".join(tile_html) + '</div></div></section>')
-    cards = "\n".join(post_card(p) for p in posts[:10])
+    cards = "\n".join(post_card(p, heading="h3") for p in posts[:10])
     more = f'<p class="more"><a href="/blog/">See all {len(posts)} posts</a></p>' if len(posts) > 10 else ""
-    body = hero + feat_html + tiles + f'<section class="list"><div class="wrap"><p class="section-title">Latest posts</p>{cards}{more}</div></section>'
+    body = hero + feat_html + tiles + f'<section class="list"><div class="wrap"><h2 class="section-title">Latest posts</h2>{cards}{more}</div></section>'
     schema = [website_schema(), org_schema(), person_schema(),
               {"@type": "CollectionPage", "@id": f"{SITE_URL}/#home", "url": SITE_URL + "/",
                "name": HOME_TITLE, "description": HOME_DESC,
@@ -1065,16 +1084,16 @@ BLOG_DESC = ("Every Normaltown USA post, newest first: money for normal people, 
 
 def render_blog(posts):
     counts = {k: sum(1 for p in posts if p["category"] == k) for k in CATEGORIES}
-    tiles = '<p class="section-title">Pick a topic</p><div class="tiles">' + "".join(
-        f'<a class="tile" href="/{k}/"><span class="count">{counts[k]} posts</span><h2>{html.escape(c["title"])}</h2><p>{html.escape(c["description"].split(":")[0] if ":" in c["description"] else c["description"])}</p></a>'
+    tiles = '<h2 class="section-title">Pick a topic</h2><div class="tiles">' + "".join(
+        f'<a class="tile" href="/{k}/"><span class="count">{counts[k]} posts</span><h3>{html.escape(c["title"])}</h3><p>{html.escape(c["description"].split(":")[0] if ":" in c["description"] else c["description"])}</p></a>'
         for k, c in CATEGORIES.items()) + '</div>'
-    cards = "\n".join(post_card(p) for p in posts)
+    cards = "\n".join(post_card(p, heading="h3") for p in posts)
     body = f"""<section class="page"><div class="wrap">
-      <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li>Blog</li></ol></nav>
+      <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li aria-current="page">Blog</li></ol></nav>
       <h1>All posts</h1>
       <p class="lede">One idea per post, short enough to read with your coffee. Newest first, or pick a topic.</p>
       {tiles}
-      <p class="section-title" style="margin-top:2rem">{len(posts)} posts, newest first</p>
+      <h2 class="section-title" style="margin-top:2rem">{len(posts)} posts, newest first</h2>
       {cards}
     </div></section>"""
     schema = [website_schema(), org_schema(),
@@ -1090,12 +1109,12 @@ def render_blog(posts):
 def render_hub(key, posts):
     c = CATEGORIES[key]
     mine = [p for p in posts if p["category"] == key]
-    cards = "\n".join(post_card(p) for p in mine)
+    cards = "\n".join(post_card(p, heading="h3") for p in mine)
     body = f"""<section class="page"><div class="wrap">
-      <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li>{c['name']}</li></ol></nav>
+      <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li aria-current="page">{c['name']}</li></ol></nav>
       <h1>{html.escape(c['title'])}</h1>
       <p class="lede">{html.escape(c['intro'])}</p>
-      <p class="section-title">{len(mine)} posts, newest first</p>
+      <h2 class="section-title">{len(mine)} posts, newest first</h2>
       {cards}
     </div></section>"""
     schema = [website_schema(), org_schema(),
@@ -1109,7 +1128,7 @@ def render_hub(key, posts):
                   {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE_URL + "/"},
                   {"@type": "ListItem", "position": 2, "name": c["name"], "item": f"{SITE_URL}/{key}/"}]}]
     return layout(c["title"], c["description"], body, f"{SITE_URL}/{key}/", og_type="website",
-                  schema=schema, current="/blog/", page_title=f"{c['page_title']} | {SITE_NAME}")
+                  schema=schema, section="/blog/", page_title=f"{c['page_title']} | {SITE_NAME}")
 
 
 def related_posts(p, posts, n=3):
@@ -1146,18 +1165,18 @@ def render_post(p, posts):
     sources_html = ""
     if p["sources"]:
         items = "".join(
-            f'<li><a href="{html.escape(u, quote=True)}" target="_blank" rel="noopener">{html.escape(l)}</a>'
+            f'<li><a href="{html.escape(u, quote=True)}" target="_blank" rel="noopener">{html.escape(l)}{NEW_TAB}</a>'
             + (f' <span>{html.escape(n)}.</span>' if n else "") + "</li>"
             for l, u, n in p["sources"])
-        sources_html = (f'<aside class="sources" id="sources"><h2>Sources</h2>'
-                        f'<p>Where I checked the numbers and claims in this post.</p><ol>{items}</ol></aside>')
+        sources_html = (f'<section class="sources" id="sources"><h2>Sources</h2>'
+                        f'<p>Where I checked the numbers and claims in this post.</p><ol>{items}</ol></section>')
 
     rel = related_posts(p, posts)
     related = ""
     if rel:
-        related = '<aside class="related"><h2>Read next</h2><ul>' + "".join(
+        related = '<section class="related"><h2>Read next</h2><ul>' + "".join(
             f'<li><a href="/p/{q["slug"]}/">{html.escape(q["title"])}</a><span>{html.escape(q["meta"] or "")}</span></li>'
-            for q in rel) + '</ul></aside>'
+            for q in rel) + '</ul></section>'
 
     # prev = older, next = newer (posts is newest-first)
     idx = next(i for i, q in enumerate(posts) if q["slug"] == p["slug"])
@@ -1169,14 +1188,14 @@ def render_post(p, posts):
         nw = f'<a href="/p/{newer["slug"]}/" rel="next" style="text-align:right"><small>Newer</small>{html.escape(newer["title"])}</a>' if newer else "<span></span>"
         pager = f'<nav class="pager" aria-label="Older and newer posts">{o}{nw}</nav>'
 
-    author_box = f"""<aside class="author-box">
-        <img src="/about/david-dewese-240.png" alt="{AUTHOR}" width="72" height="72" loading="lazy">
+    author_box = f"""<div class="author-box">
+        <img src="/about/david-dewese-240.png" alt="" width="72" height="72" loading="lazy">
         <div><p class="name">Written by <a href="/about/">{AUTHOR}</a></p>
         <p>{html.escape(AUTHOR_BIO)} <a href="/about/">More about me</a>.</p></div>
-      </aside>"""
+      </div>"""
 
     body = f"""<article class="article"><div class="wrap">
-      <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/{p['category']}/">{cat['name']}</a></li><li>{html.escape(p['title'])}</li></ol></nav>
+      <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/{p['category']}/">{cat['name']}</a></li><li aria-current="page">{html.escape(p['title'])}</li></ol></nav>
       <div class="article-head">
         <div class="meta"><a class="tag" href="/{p['category']}/">{cat['name']}</a><span><time datetime="{p['date'].isoformat()}">{fmt_date(p['date'])}</time></span>{updated}<span>by <a href="/about/" rel="author">{AUTHOR}</a></span><span>{p['minutes']} min read</span></div>
         <h1>{html.escape(p['title'])}</h1>
@@ -1238,7 +1257,7 @@ def render_post(p, posts):
         extra += f'<link rel="next" href="{newer["url"]}">\n'
     page_title = f"{p['title_tag'] or p['title']} | {SITE_NAME}"
     return layout(p["title"], p["meta"], body, canonical, og_image=og_image, schema=schema,
-                  current="/blog/", extra_head=extra, page_title=page_title)
+                  section="/blog/", extra_head=extra, page_title=page_title)
 
 
 def contact_form():
@@ -1249,6 +1268,7 @@ def contact_form():
     target = base64.b64encode(f"https://formsubmit.co/{CONTACT_EMAIL}".encode()).decode()
     return f"""<form class="contact-form" method="POST" data-t="{target}">
         <h2>Send a message</h2>
+        <p class="required-note">Every field is required except the topic.</p>
         <noscript><p class="fine">Turn on JavaScript to send this form.</p></noscript>
         <input type="hidden" name="_subject" value="Normaltown USA contact form">
         <input type="hidden" name="_template" value="table">
@@ -1298,7 +1318,7 @@ def render_page(title, md_body, slug, description, figure="", page_class="", og_
     lede_html = f'<p class="lede">{_inline(lede)}</p>' if lede else ""
     body = f"""<section class="{cls}"><div class="wrap">
       <div>
-        <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li>{html.escape(title)}</li></ol></nav>
+        <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li aria-current="page">{html.escape(title)}</li></ol></nav>
         <h1>{html.escape(title)}</h1>
         {lede_html}
         {toc_html(md_body) if toc else ""}
@@ -1581,6 +1601,12 @@ def main():
             "desc": ("Ask a question, send a medical bill that doesn't make sense, or ask about "
                      f"one-on-one help. Messages go straight to {AUTHOR}'s inbox."),
             "page_title": "Contact David Dewese",
+        },
+        "accessibility.md": {
+            "slug": "accessibility",
+            "desc": ("Normaltown USA aims to meet WCAG 2.1 AA. What that means, what's been done, "
+                     "the one known gap, and how to tell me if something doesn't work for you."),
+            "page_title": "Accessibility Statement",
         },
         "contact-thanks.md": {
             "slug": "contact/thanks",

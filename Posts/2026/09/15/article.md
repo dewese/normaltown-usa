@@ -18,7 +18,7 @@ In plain terms: the longer you're a healthy member without needing care for that
 
 ## Read the actual guidelines, not a summary
 
-I can give you the shape of it, but your specific condition deserves the specific rule. The guidelines spell out exactly how each type of situation is handled and how long the waiting periods run. Read them before you join. This is the single most important homework assignment in the whole decision, and skipping it is how people get an unwelcome surprise later. That's also why I keep pointing people to my honest "who should skip this" post [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+I can give you the shape of it, but your specific condition deserves the specific rule. The guidelines spell out exactly how each type of situation is handled and how long the waiting periods run. Read them before you join. This is the single most important homework assignment in the whole decision, and skipping it is how people get an unwelcome surprise later. That's also why I keep pointing people to [my honest who-should-skip-this post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## When health sharing is the wrong tool
 

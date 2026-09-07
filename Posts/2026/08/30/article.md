@@ -18,13 +18,13 @@ That means it can quietly grow into a real cushion for health costs over the yea
 
 ## The honest catch: who can actually open one
 
-Now the part the cheerful articles skip. You can't just open an HSA because you feel like it. You have to be on a specific kind of insurance plan first: a high-deductible health plan. That's a plan with a lower monthly bill but a bigger deductible, meaning you pay more of the early costs yourself before the plan kicks in. If you're fuzzy on what a deductible is, I explained it plainly [here](https://www.normaltownusa.com/p/what-a-deductible-really-means).
+Now the part the cheerful articles skip. You can't just open an HSA because you feel like it. You have to be on a specific kind of insurance plan first: a high-deductible health plan. That's a plan with a lower monthly bill but a bigger deductible, meaning you pay more of the early costs yourself before the plan kicks in. If you're fuzzy on what a deductible is, I explained [what a deductible really means](https://www.normaltownusa.com/p/what-a-deductible-really-means).
 
 So the HSA and the high-deductible plan come as a pair. That pairing is great for some people and wrong for others. It tends to fit healthier folks who don't rack up a lot of medical bills, because they get the low monthly cost and the tax-free jar, and rarely hit that big deductible. It fits worse for people with steady, heavy medical needs, who would feel that high deductible often.
 
 ## How to actually use it well
 
-If you qualify and it fits, two simple moves. Put money in regularly, even a little, so the jar builds. And since you're on a high-deductible plan, get in the habit of asking the cash price for care, because you're paying those early costs yourself. That one habit stretches the jar further. I covered it [here](https://www.normaltownusa.com/p/the-cash-price-secret).
+If you qualify and it fits, two simple moves. Put money in regularly, even a little, so the jar builds. And since you're on a high-deductible plan, get in the habit of asking the cash price for care, because you're paying those early costs yourself. That one habit stretches the jar further. I covered [asking for the cash price](https://www.normaltownusa.com/p/the-cash-price-secret).
 
 ## The takeaway
 

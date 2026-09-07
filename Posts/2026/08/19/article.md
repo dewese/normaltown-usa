@@ -22,9 +22,9 @@ You've probably felt it already. The claim denied on a technicality. The "this w
 
 ## Is there another way to do it?
 
-This is exactly why some people go looking for a different setup, one where the folks handling the money don't profit by keeping yours. Health sharing is one of those. Instead of a company that wins when it pays less, it's a large group of members who pool their money to cover each other's big bills. The group has no reason to deny you, because it isn't pocketing the leftover as profit. I gave the honest, plain-English breakdown of how that works [here](https://www.normaltownusa.com/p/what-is-health-sharing).
+This is exactly why some people go looking for a different setup, one where the folks handling the money don't profit by keeping yours. Health sharing is one of those. Instead of a company that wins when it pays less, it's a large group of members who pool their money to cover each other's big bills. The group has no reason to deny you, because it isn't pocketing the leftover as profit. I gave [the honest, plain-English breakdown of how that works](https://www.normaltownusa.com/p/what-is-health-sharing).
 
-One health-sharing community I've looked into is CrowdHealth, which charges a flat monthly fee instead of profiting from denied claims. If you want to see how their model works, you can check it out [here](https://www.joincrowdhealth.com/?referral_code=NORMAL).
+One health-sharing community I've looked into is CrowdHealth, which charges a flat monthly fee instead of profiting from denied claims. If you want to see how their model works, you can [check out CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 *Honest disclosure: that's a referral link. If you join through it, Normaltown USA may earn a small referral bonus, at no extra cost to you. I only mention CrowdHealth because it's a genuine answer to the conflict this article is about, not because of the link. It's not insurance, and it isn't right for everyone.*
 

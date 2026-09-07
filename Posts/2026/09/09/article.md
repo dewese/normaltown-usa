@@ -6,7 +6,7 @@ I want to compare two numbers that sound similar but aren't. On one side, the $5
 
 ## What a deductible really is
 
-A deductible is the amount you pay out of your own pocket before your insurance starts helping. If your deductible is $8,000, you pay the first $8,000 of your covered care yourself. Every year. And a lot of family plans run even higher than that. If you want the full plain-English version, I wrote it up [here](https://www.normaltownusa.com/p/what-a-deductible-really-means).
+A deductible is the amount you pay out of your own pocket before your insurance starts helping. If your deductible is $8,000, you pay the first $8,000 of your covered care yourself. Every year. And a lot of family plans run even higher than that. I wrote up [the full plain-English version of what a deductible means](https://www.normaltownusa.com/p/what-a-deductible-really-means).
 
 Here's the part that stings. You pay your monthly insurance bill the whole time, and you still owe that whole deductible before the plan pays a dime. You're basically paying twice until you hit the number.
 
@@ -27,7 +27,7 @@ Same broken arm. Wildly different number on your side of the table.
 
 ## The honest asterisk
 
-I'm not going to pretend it's all upside. The $500 is per event, so if two separate things happen in a year, that's two commitments. And because health sharing is not insurance, there's no legal guarantee your bill gets funded, though the track record is strong, with tens of thousands of bills funded. A deductible, for all its pain, is a contractual promise. That's a real trade-off, and you should weigh it with open eyes. I covered the trust question honestly [here](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill).
+I'm not going to pretend it's all upside. The $500 is per event, so if two separate things happen in a year, that's two commitments. And because health sharing is not insurance, there's no legal guarantee your bill gets funded, though the track record is strong, with tens of thousands of bills funded. A deductible, for all its pain, is a contractual promise. That's a real trade-off, and you should weigh it with open eyes. I covered [the trust question](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill) honestly.
 
 ## The takeaway
 

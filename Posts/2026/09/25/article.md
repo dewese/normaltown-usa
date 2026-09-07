@@ -18,11 +18,11 @@ A few figures that tell the real story:
 
 Put together, they knock down the three biggest fears in one shot.
 
-The "it won't be there when I need it" fear? 45,000 funded bills says otherwise. The "sure, but not for the scary big stuff" fear? Six-figure funded bills say otherwise. The "I'll be stuck waiting forever" fear? A roughly one-week average says otherwise. And the discount numbers explain how the whole thing stays cheap: they shrink the bill before the crowd ever sees it. I walked through that mechanism [here](https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance).
+The "it won't be there when I need it" fear? 45,000 funded bills says otherwise. The "sure, but not for the scary big stuff" fear? Six-figure funded bills say otherwise. The "I'll be stuck waiting forever" fear? A roughly one-week average says otherwise. And the discount numbers explain how the whole thing stays cheap: they shrink the bill before the crowd ever sees it. I walked through [that mechanism](https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance).
 
 ## What the numbers honestly do not prove
 
-Here's where I stay straight with you. A strong track record is not a legal guarantee, because health sharing is not insurance. "45,000 bills funded" describes what has happened, not a contractual promise about your specific future bill. Those are different things, and an honest reading of the numbers holds both. The history is genuinely reassuring. It is not a signed guarantee, and I won't dress it up as one. I dug into that exact trust question [here](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill).
+Here's where I stay straight with you. A strong track record is not a legal guarantee, because health sharing is not insurance. "45,000 bills funded" describes what has happened, not a contractual promise about your specific future bill. Those are different things, and an honest reading of the numbers holds both. The history is genuinely reassuring. It is not a signed guarantee, and I won't dress it up as one. I dug into [that exact trust question](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill).
 
 ## How to use numbers like these
 

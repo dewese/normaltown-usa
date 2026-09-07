@@ -15,7 +15,7 @@ Nobody, on any kind of coverage, should be gambling with a heart attack or a bad
 Once you're safe and stable, a real emergency is treated as a health event, the same as any other. Here's the flow:
 
 - You'll pay your **$500 member commitment** for the event.
-- Your **care advocate goes to work** on the ER and hospital bills, negotiating them down to the cash price and lower. ER bills are notoriously inflated, so this step often saves a lot. I wrote about what advocates do [here](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does).
+- Your **care advocate goes to work** on the ER and hospital bills, negotiating them down to the cash price and lower. ER bills are notoriously inflated, so this step often saves a lot. I wrote about [what advocates do](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does).
 - The **community shares the rest** of the eligible cost, usually funding a complete submission in about a week.
 
 So the scary ER bill gets attacked and shrunk, then shared, just like a broken arm or an appendix. The emergency being an emergency doesn't change the basic machinery.
@@ -31,7 +31,7 @@ That's really it. Get care, keep your cushion ready, save the paperwork, let the
 
 ## The honest limits
 
-Same as always, because I won't skip them for the scary scenarios. It is not insurance, so there's no legal guarantee, and care that falls outside the guidelines has its own rules. But a genuine emergency is exactly the kind of unexpected, big event the whole model is designed to catch. If there's a situation health sharing is built for, this is it. For the full honest picture of fit, see [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+Same as always, because I won't skip them for the scary scenarios. It is not insurance, so there's no legal guarantee, and care that falls outside the guidelines has its own rules. But a genuine emergency is exactly the kind of unexpected, big event the whole model is designed to catch. If there's a situation health sharing is built for, this is it. See [the full honest picture of fit](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## The takeaway
 

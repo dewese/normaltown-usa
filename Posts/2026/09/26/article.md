@@ -16,7 +16,7 @@ Here's the simple version I'd follow:
 
 - **Start with your event number.** If you're on health sharing, that's your $500 per-event commitment. Get that amount parked and keep it there, always ready.
 - **Add a buffer on top.** Aim to build past the single event toward a cushion of a few thousand, so two things in one year, or a gap, never wrecks you.
-- **Automate a small monthly transfer.** Even a modest amount each month into a separate savings account adds up fast and quietly. This ties right into the DIY safety net I laid out [here](https://www.normaltownusa.com/p/the-diy-healthcare-safety-net).
+- **Automate a small monthly transfer.** Even a modest amount each month into a separate savings account adds up fast and quietly. This ties right into [the DIY safety net I laid out](https://www.normaltownusa.com/p/the-diy-healthcare-safety-net).
 - **Keep it separate and boring.** A different account you don't touch. Out of sight, so you're not tempted to raid it for a vacation.
 
 ## Where the money comes from

@@ -14,11 +14,11 @@ On the track record: CrowdHealth's community has funded more than 45,000 bills, 
 
 Now the honest half. Health sharing is **not insurance.** There is no legal contract promising a company will pay your claim. Instead, a community agrees to fund eligible bills, and it has done so reliably, but "reliably" is not the same as "guaranteed." Members are ultimately responsible for their own bills.
 
-There are also real limits. Pre-existing conditions have waiting rules. Some things are simply not eligible, like most dental, vision, and cosmetic care. If you need an ironclad guarantee for an ongoing, expensive condition, this is not your tool. I laid out who should skip it entirely [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+There are also real limits. Pre-existing conditions have waiting rules. Some things are simply not eligible, like most dental, vision, and cosmetic care. If you need an ironclad guarantee for an ongoing, expensive condition, this is not your tool. I laid out [who should skip it entirely](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## Why the model earns trust in the first place
 
-Here is the thing that made me comfortable. Traditional insurance makes more money when it pays out less. That is the built-in conflict I wrote about [here](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest). The people deciding whether to cover you profit when they do not.
+Here is the thing that made me comfortable. Traditional insurance makes more money when it pays out less. That is [the built-in conflict I wrote about](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest). The people deciding whether to cover you profit when they do not.
 
 Health sharing flips that. CrowdHealth makes its money on a flat $60 monthly fee, not a slice of your claims. So when their team negotiates your $40,000 bill down to $12,000, nobody at the company pockets the difference. Their incentive is to keep members happy so the community stays healthy, not to deny you. Think of it like a barn raising instead of a casino. The house is not playing against you.
 

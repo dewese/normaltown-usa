@@ -6,7 +6,7 @@ Health sharing sounds strange the first time you hear it, so it collects myths t
 
 ## Myth: "It's just cheap insurance."
 
-Fact: it is not insurance at all, and that distinction matters. Insurance is a legal contract with a company that profits by paying out less. Health sharing is a community that agrees to fund each other's eligible bills, run by a company that earns a flat fee, not a cut of your claims. Different structure, different incentives. I unpacked the insurance conflict [here](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest).
+Fact: it is not insurance at all, and that distinction matters. Insurance is a legal contract with a company that profits by paying out less. Health sharing is a community that agrees to fund each other's eligible bills, run by a company that earns a flat fee, not a cut of your claims. Different structure, different incentives. I unpacked [the insurance conflict](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest).
 
 ## Myth: "They'll never actually pay a big bill."
 
@@ -18,7 +18,7 @@ Fact: there are limits, and they are not hidden, they are just real. Pre-existin
 
 ## Myth: "It's only for young, healthy singles."
 
-Fact: families use it, and so do self-employed people and early retirees who are not yet on Medicare. What actually matters is not your age, it is whether you are relatively healthy, can keep $500 on hand for an event, and do not need guaranteed coverage for an ongoing condition. I wrote the honest fit test [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+Fact: families use it, and so do self-employed people and early retirees who are not yet on Medicare. What actually matters is not your age, it is whether you are relatively healthy, can keep $500 on hand for an event, and do not need guaranteed coverage for an ongoing condition. I wrote [the honest fit test](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## Myth: "If I get sick, I'm on my own with the hospital."
 

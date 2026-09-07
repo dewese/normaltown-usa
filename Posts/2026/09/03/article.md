@@ -14,7 +14,7 @@ When something big happens, you go get treated like anyone else. You are a cash-
 
 ## Step two: the negotiators go to work
 
-This is the part that surprised me most. Before a single dollar gets crowdfunded, CrowdHealth's team negotiates the bill down. Hospitals have two prices, the inflated "list" price and the much lower cash price, which I explained [here](https://www.normaltownusa.com/p/the-cash-price-secret). Cash-pay discounts commonly run 25 to 85 percent off the sticker. So a $100,000 bill might become a $30,000 bill before the crowd is even asked. Shrinking the bill is the first line of defense.
+This is the part that surprised me most. Before a single dollar gets crowdfunded, CrowdHealth's team negotiates the bill down. Hospitals have two prices, the inflated "list" price and the much lower cash price, which I explained in [the cash price secret](https://www.normaltownusa.com/p/the-cash-price-secret). Cash-pay discounts commonly run 25 to 85 percent off the sticker. So a $100,000 bill might become a $30,000 bill before the crowd is even asked. Shrinking the bill is the first line of defense.
 
 ## Step three: the crowd funds the rest
 
@@ -22,7 +22,7 @@ Once the bill is negotiated, the need goes out to the community. Members chip in
 
 ## The honest catch
 
-Because this is a community and not an insurance contract, there is no legal guarantee. The track record is strong, tens of thousands of bills funded, but "strong track record" is not "ironclad promise." You are also responsible for making sure your event is eligible under the guidelines. Read those before you join so you know what qualifies. I keep pointing people to the honest limits [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for) on purpose.
+Because this is a community and not an insurance contract, there is no legal guarantee. The track record is strong, tens of thousands of bills funded, but "strong track record" is not "ironclad promise." You are also responsible for making sure your event is eligible under the guidelines. Read those before you join so you know what qualifies. I keep pointing people to [the honest limits](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for) on purpose.
 
 ## Why this often beats the insured version
 

@@ -40,11 +40,11 @@ Here's the stuff that happens behind the scenes when you have a health event:
 
 Here's the thing nobody tells you about regular insurance. When you get a scary bill, you're the one who has to fight it. You call the insurer, they point at the hospital, the hospital points back, and you're stuck in the middle holding the invoice. Nobody in that chain is paid to make your bill smaller.
 
-A care advocate flips that. Now somebody whose actual job is shrinking your bill is doing the calling. I wrote about why insurance incentives work against you [here](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest/), and it's the whole reason this human-in-your-corner thing feels so different.
+A care advocate flips that. Now somebody whose actual job is shrinking your bill is doing the calling. I wrote about [why insurance incentives work against you](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest/), and it's the whole reason this human-in-your-corner thing feels so different.
 
 ## The honest limits
 
-I'm not going to oversell it. An advocate is a person helping you, not a magic wand. They can't force a hospital to do anything, and because health sharing is not insurance, there's no legal guarantee on what gets funded. What they can do is get you better prices and take the fight off your plate, which is a lot. For the full picture of who this model fits and who should skip it, I laid it out [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
+I'm not going to oversell it. An advocate is a person helping you, not a magic wand. They can't force a hospital to do anything, and because health sharing is not insurance, there's no legal guarantee on what gets funded. What they can do is get you better prices and take the fight off your plate, which is a lot. I laid out [the full picture of who this model fits and who should skip it](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
 
 ## The takeaway
 
@@ -87,7 +87,7 @@ Health sharing sounds strange the first time you hear it, so it collects myths t
 
 ## Myth: "It's just cheap insurance."
 
-Fact: it is not insurance at all, and that distinction matters. Insurance is a legal contract with a company that profits by paying out less. Health sharing is a community that agrees to fund each other's eligible bills, run by a company that earns a flat fee, not a cut of your claims. Different structure, different incentives. I unpacked the insurance conflict [here](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest/).
+Fact: it is not insurance at all, and that distinction matters. Insurance is a legal contract with a company that profits by paying out less. Health sharing is a community that agrees to fund each other's eligible bills, run by a company that earns a flat fee, not a cut of your claims. Different structure, different incentives. I unpacked [the insurance conflict](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest/).
 
 ## Myth: "They'll never actually pay a big bill."
 
@@ -99,7 +99,7 @@ Fact: there are limits, and they are not hidden, they are just real. Pre-existin
 
 ## Myth: "It's only for young, healthy singles."
 
-Fact: families use it, and so do self-employed people and early retirees who are not yet on Medicare. What actually matters is not your age, it is whether you are relatively healthy, can keep $500 on hand for an event, and do not need guaranteed coverage for an ongoing condition. I wrote the honest fit test [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
+Fact: families use it, and so do self-employed people and early retirees who are not yet on Medicare. What actually matters is not your age, it is whether you are relatively healthy, can keep $500 on hand for an event, and do not need guaranteed coverage for an ongoing condition. I wrote [the honest fit test](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
 
 ## Myth: "If I get sick, I'm on my own with the hospital."
 
@@ -150,7 +150,7 @@ Deciding to try health sharing is one thing. Actually switching feels like anoth
 
 ## Before you switch: two quick checks
 
-First, make sure you have your **$500 set aside** for a health event. That is your part when something happens, so it should be sitting in savings, not on a credit card. If you do not have it yet, building that cushion is job one, and I wrote about the first $1,000 emergency fund [here](https://www.normaltownusa.com/p/the-first-1000-emergency-fund/).
+First, make sure you have your **$500 set aside** for a health event. That is your part when something happens, so it should be sitting in savings, not on a credit card. If you do not have it yet, building that cushion is job one, and I wrote about [the first $1,000 emergency fund](https://www.normaltownusa.com/p/the-first-1000-emergency-fund/).
 
 Second, read the guidelines on what is eligible. Health sharing is not insurance, and it has real exclusions and pre-existing rules. Five minutes of reading now prevents every unpleasant surprise later.
 
@@ -166,13 +166,13 @@ This is where you meet the part that traditional insurance does not really offer
 
 ## Days 31 to 90: living with it
 
-Now it is mostly quiet, which is the point. Each month you pay your fee and approve your share of the community's bills. If you have a routine need, you use cash prices, which are often far lower than "insured" prices, something I explained [here](https://www.normaltownusa.com/p/the-cash-price-secret/). If something bigger comes up, you pay your $500, the team negotiates the bill, and the crowd funds the rest.
+Now it is mostly quiet, which is the point. Each month you pay your fee and approve your share of the community's bills. If you have a routine need, you use cash prices, which are often far lower than "insured" prices, something I explained in [the cash price secret](https://www.normaltownusa.com/p/the-cash-price-secret/). If something bigger comes up, you pay your $500, the team negotiates the bill, and the crowd funds the rest.
 
 By day 90 most people have stopped thinking about it, which is exactly what you want from a healthcare setup.
 
 ## The honest catch
 
-Switching is not right for everyone. If you have an ongoing, expensive condition that needs guaranteed coverage, or you cannot keep $500 on hand, this is probably not your move. I keep the honest "who should skip it" post [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/) so nobody switches into the wrong thing.
+Switching is not right for everyone. If you have an ongoing, expensive condition that needs guaranteed coverage, or you cannot keep $500 on hand, this is probably not your move. I keep [the honest who-should-skip-it post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/) up so nobody switches into the wrong thing.
 
 ## The takeaway
 
@@ -223,7 +223,7 @@ When something big happens, you go get treated like anyone else. You are a cash-
 
 ## Step two: the negotiators go to work
 
-This is the part that surprised me most. Before a single dollar gets crowdfunded, CrowdHealth's team negotiates the bill down. Hospitals have two prices, the inflated "list" price and the much lower cash price, which I explained [here](https://www.normaltownusa.com/p/the-cash-price-secret/). Cash-pay discounts commonly run 25 to 85 percent off the sticker. So a $100,000 bill might become a $30,000 bill before the crowd is even asked. Shrinking the bill is the first line of defense.
+This is the part that surprised me most. Before a single dollar gets crowdfunded, CrowdHealth's team negotiates the bill down. Hospitals have two prices, the inflated "list" price and the much lower cash price, which I explained in [the cash price secret](https://www.normaltownusa.com/p/the-cash-price-secret/). Cash-pay discounts commonly run 25 to 85 percent off the sticker. So a $100,000 bill might become a $30,000 bill before the crowd is even asked. Shrinking the bill is the first line of defense.
 
 ## Step three: the crowd funds the rest
 
@@ -231,7 +231,7 @@ Once the bill is negotiated, the need goes out to the community. Members chip in
 
 ## The honest catch
 
-Because this is a community and not an insurance contract, there is no legal guarantee. The track record is strong, tens of thousands of bills funded, but "strong track record" is not "ironclad promise." You are also responsible for making sure your event is eligible under the guidelines. Read those before you join so you know what qualifies. I keep pointing people to the honest limits [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/) on purpose.
+Because this is a community and not an insurance contract, there is no legal guarantee. The track record is strong, tens of thousands of bills funded, but "strong track record" is not "ironclad promise." You are also responsible for making sure your event is eligible under the guidelines. Read those before you join so you know what qualifies. I keep pointing people to [the honest limits](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/) on purpose.
 
 ## Why this often beats the insured version
 
@@ -286,11 +286,11 @@ On the track record: CrowdHealth's community has funded more than 45,000 bills, 
 
 Now the honest half. Health sharing is **not insurance.** There is no legal contract promising a company will pay your claim. Instead, a community agrees to fund eligible bills, and it has done so reliably, but "reliably" is not the same as "guaranteed." Members are ultimately responsible for their own bills.
 
-There are also real limits. Pre-existing conditions have waiting rules. Some things are simply not eligible, like most dental, vision, and cosmetic care. If you need an ironclad guarantee for an ongoing, expensive condition, this is not your tool. I laid out who should skip it entirely [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
+There are also real limits. Pre-existing conditions have waiting rules. Some things are simply not eligible, like most dental, vision, and cosmetic care. If you need an ironclad guarantee for an ongoing, expensive condition, this is not your tool. I laid out [who should skip it entirely](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
 
 ## Why the model earns trust in the first place
 
-Here is the thing that made me comfortable. Traditional insurance makes more money when it pays out less. That is the built-in conflict I wrote about [here](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest/). The people deciding whether to cover you profit when they do not.
+Here is the thing that made me comfortable. Traditional insurance makes more money when it pays out less. That is [the built-in conflict I wrote about](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest/). The people deciding whether to cover you profit when they do not.
 
 Health sharing flips that. CrowdHealth makes its money on a flat $60 monthly fee, not a slice of your claims. So when their team negotiates your $40,000 bill down to $12,000, nobody at the company pockets the difference. Their incentive is to keep members happy so the community stays healthy, not to deny you. Think of it like a barn raising instead of a casino. The house is not playing against you.
 
@@ -361,7 +361,7 @@ Traditional insurance is the second bill. You pay the premium, and then you stil
 
 ## Who this math works for
 
-This works best if you are relatively healthy, you have $500 set aside for a health event, and you want a lower, more predictable monthly number. It does not work for everyone. It is not insurance, there is no legal guarantee your bill gets funded, and there are real exclusions and rules for pre-existing conditions. I wrote the honest "who should skip this" version [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/), and a plain-English explainer of how the whole thing works [here](https://www.normaltownusa.com/p/what-is-health-sharing/).
+This works best if you are relatively healthy, you have $500 set aside for a health event, and you want a lower, more predictable monthly number. It does not work for everyone. It is not insurance, there is no legal guarantee your bill gets funded, and there are real exclusions and rules for pre-existing conditions. I wrote [the honest who-should-skip-this version](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/), and [a plain-English explainer of how the whole thing works](https://www.normaltownusa.com/p/what-is-health-sharing/).
 
 ## The takeaway
 
@@ -418,11 +418,11 @@ Say that out loud, because it's the whole game. Not money you'll need for rent. 
 
 For most regular people, that "wouldn't hurt me" amount lands somewhere small, often a single-digit slice of your savings, not half of it. There's no official number, and anyone who gives you one with total confidence is guessing. But the spirit is clear: small enough that a bad year is a shrug, not a crisis.
 
-And you don't have to put even that in all at once. Sizing the bet small and buying it slowly are two separate protections that stack nicely. I wrote about the buy-slowly part [here](https://www.normaltownusa.com/p/a-little-each-week-beats-betting-it-all/).
+And you don't have to put even that in all at once. Sizing the bet small and buying it slowly are two separate protections that stack nicely. I wrote about [the buy-slowly part](https://www.normaltownusa.com/p/a-little-each-week-beats-betting-it-all/).
 
 ## Get the meal right first
 
-Here's the order that keeps people safe. Get the meal on the table before you reach for the sauce. That means the boring stuff first: a small emergency fund, your high-interest debt handled, your bills covered. Hot sauce on an empty plate is just an upset stomach. Only once the meal's there does a small dash make sense. And keep the whole thing in the honest saving-versus-gambling frame, which I laid out [here](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/).
+Here's the order that keeps people safe. Get the meal on the table before you reach for the sauce. That means the boring stuff first: a small emergency fund, your high-interest debt handled, your bills covered. Hot sauce on an empty plate is just an upset stomach. Only once the meal's there does a small dash make sense. And keep the whole thing in [the honest saving-versus-gambling frame](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/).
 
 ## The takeaway
 
@@ -473,13 +473,13 @@ That means it can quietly grow into a real cushion for health costs over the yea
 
 ## The honest catch: who can actually open one
 
-Now the part the cheerful articles skip. You can't just open an HSA because you feel like it. You have to be on a specific kind of insurance plan first: a high-deductible health plan. That's a plan with a lower monthly bill but a bigger deductible, meaning you pay more of the early costs yourself before the plan kicks in. If you're fuzzy on what a deductible is, I explained it plainly [here](https://www.normaltownusa.com/p/what-a-deductible-really-means/).
+Now the part the cheerful articles skip. You can't just open an HSA because you feel like it. You have to be on a specific kind of insurance plan first: a high-deductible health plan. That's a plan with a lower monthly bill but a bigger deductible, meaning you pay more of the early costs yourself before the plan kicks in. If you're fuzzy on what a deductible is, I explained [what a deductible really means](https://www.normaltownusa.com/p/what-a-deductible-really-means/).
 
 So the HSA and the high-deductible plan come as a pair. That pairing is great for some people and wrong for others. It tends to fit healthier folks who don't rack up a lot of medical bills, because they get the low monthly cost and the tax-free jar, and rarely hit that big deductible. It fits worse for people with steady, heavy medical needs, who would feel that high deductible often.
 
 ## How to actually use it well
 
-If you qualify and it fits, two simple moves. Put money in regularly, even a little, so the jar builds. And since you're on a high-deductible plan, get in the habit of asking the cash price for care, because you're paying those early costs yourself. That one habit stretches the jar further. I covered it [here](https://www.normaltownusa.com/p/the-cash-price-secret/).
+If you qualify and it fits, two simple moves. Put money in regularly, even a little, so the jar builds. And since you're on a high-deductible plan, get in the habit of asking the cash price for care, because you're paying those early costs yourself. That one habit stretches the jar further. I covered [asking for the cash price](https://www.normaltownusa.com/p/the-cash-price-secret/).
 
 ## The takeaway
 
@@ -536,13 +536,13 @@ So a wallet is really a keychain, not a coin purse. That sounds like a small thi
 
 There are two broad kinds, and the difference is just where your key lives.
 
-A wallet on an app or website, where the company holds the key for you, is the easy one. It's like letting the post office keep your mailbox key. Convenient, but you're trusting them with it. That's the exact situation behind the phrase "not your keys, not your coins," which I unpacked [here](https://www.normaltownusa.com/p/not-your-keys-what-it-means/).
+A wallet on an app or website, where the company holds the key for you, is the easy one. It's like letting the post office keep your mailbox key. Convenient, but you're trusting them with it. That's the exact situation behind the phrase "not your keys, not your coins," which I unpacked in [not your keys, what it means](https://www.normaltownusa.com/p/not-your-keys-what-it-means/).
 
 A wallet where you hold the key yourself, on your own device or a little dedicated gadget, gives you full control. No company can freeze it or lose it for you. The catch is there's no one to call if you lose the key, so it's on you to keep it safe.
 
 ## Which one should you start with?
 
-For a beginner with a small amount, an app where the company holds the key is a perfectly reasonable place to start. Simple is good when you're learning. If you haven't taken the first step at all, I walked through it [here](https://www.normaltownusa.com/p/your-first-20-in-bitcoin/). As your amount grows into money you'd hate to lose, that's the time to graduate to holding your own key.
+For a beginner with a small amount, an app where the company holds the key is a perfectly reasonable place to start. Simple is good when you're learning. If you haven't taken the first step at all, I walked through [the first step](https://www.normaltownusa.com/p/your-first-20-in-bitcoin/). As your amount grows into money you'd hate to lose, that's the time to graduate to holding your own key.
 
 ## The takeaway
 
@@ -601,7 +601,7 @@ Second, if you've got more than one card, throw your extra money at the one with
 
 ## The move that keeps you out of the boat
 
-The reason a lot of people end up carrying a balance in the first place is a surprise expense with no cushion to catch it. That's exactly what a small emergency fund is for. Even a starter cushion keeps the next surprise off the card. I wrote about building that first thousand [here](https://www.normaltownusa.com/p/the-first-1000-emergency-fund/), and about finding the money to do it [here](https://www.normaltownusa.com/p/a-budget-that-survives-a-busy-week/).
+The reason a lot of people end up carrying a balance in the first place is a surprise expense with no cushion to catch it. That's exactly what a small emergency fund is for. Even a starter cushion keeps the next surprise off the card. I wrote about [building that first thousand](https://www.normaltownusa.com/p/the-first-1000-emergency-fund/), and about [finding the money to do it](https://www.normaltownusa.com/p/a-budget-that-survives-a-busy-week/).
 
 ## The takeaway
 
@@ -658,7 +658,7 @@ When you buy bitcoin on an app and just leave it there, you usually don't hold t
 
 Not necessarily, and here's the honest part. Holding your own keys means total control, but it also means total responsibility. If you lose your key, there's no help desk, no "forgot password," no way to get the coins back. That freedom cuts both ways.
 
-For a small amount you're just getting started with, leaving it on a reputable app is usually reasonable and simpler. If you've got the very first steps to do, I walked through them [here](https://www.normaltownusa.com/p/your-first-20-in-bitcoin/). As the amount grows into money you'd really hate to lose, that's when learning to hold your own keys starts to be worth the responsibility. It helps to understand what a wallet actually is first, which I broke down [here](https://www.normaltownusa.com/p/what-is-a-bitcoin-wallet/).
+For a small amount you're just getting started with, leaving it on a reputable app is usually reasonable and simpler. If you've got the very first steps to do, I walked through [the very first steps](https://www.normaltownusa.com/p/your-first-20-in-bitcoin/). As the amount grows into money you'd really hate to lose, that's when learning to hold your own keys starts to be worth the responsibility. It helps to understand [what a wallet actually is](https://www.normaltownusa.com/p/what-is-a-bitcoin-wallet/) first.
 
 ## The takeaway
 
@@ -709,7 +709,7 @@ Regular working people are near the back. Your paycheck tends to catch up to hig
 
 ## Why this connects to your raise
 
-This is also why a raise so often doesn't feel like a raise. By the time the extra money reaches your check, prices have already moved. You're eating at the back of the buffet. I dug into that exact letdown [here](https://www.normaltownusa.com/p/where-your-raise-actually-went/), and the slow-leak reason prices keep climbing [here](https://www.normaltownusa.com/p/the-dollars-slow-leak/).
+This is also why a raise so often doesn't feel like a raise. By the time the extra money reaches your check, prices have already moved. You're eating at the back of the buffet. I dug into [that exact letdown](https://www.normaltownusa.com/p/where-your-raise-actually-went/), and [the slow-leak reason prices keep climbing](https://www.normaltownusa.com/p/the-dollars-slow-leak/).
 
 ## What a normal person can actually do
 
@@ -764,7 +764,7 @@ So if you or someone in your family has an ongoing condition that needs regular 
 
 ## It's wrong for you if you need a legal guarantee
 
-This is the big one. Health sharing is not insurance. There is no contract legally forcing the group to pay your bill. In practice these communities do pay, and they have every reason to, but if what lets you sleep at night is a signed, enforceable guarantee, health sharing will not give you that peace. I laid out that exact trade-off [here](https://www.normaltownusa.com/p/health-sharing-vs-insurance-honest-trade-offs/).
+This is the big one. Health sharing is not insurance. There is no contract legally forcing the group to pay your bill. In practice these communities do pay, and they have every reason to, but if what lets you sleep at night is a signed, enforceable guarantee, health sharing will not give you that peace. I laid out [that exact trade-off](https://www.normaltownusa.com/p/health-sharing-vs-insurance-honest-trade-offs/).
 
 Some people are fine trading the guarantee for a much lower cost. Some people are not. Neither is wrong. You just have to know which one you are.
 
@@ -774,9 +774,9 @@ Sharing communities often come with expectations, sometimes lifestyle ones, and 
 
 ## Who it's actually right for
 
-So who is the motorcycle right for? Generally, healthier people and families who don't have big ongoing medical needs, who mostly want protection from the large surprise bill, who want a much lower monthly cost, and who are genuinely comfortable with a strong commitment instead of a legal contract. If that's you, it can be a great fit, and I explained how it works [here](https://www.normaltownusa.com/p/what-is-health-sharing/).
+So who is the motorcycle right for? Generally, healthier people and families who don't have big ongoing medical needs, who mostly want protection from the large surprise bill, who want a much lower monthly cost, and who are genuinely comfortable with a strong commitment instead of a legal contract. If that's you, it can be a great fit, and I explained [how health sharing works](https://www.normaltownusa.com/p/what-is-health-sharing/).
 
-If you think you might be that person and want to look closer, the community I've examined most is CrowdHealth, [here](https://www.joincrowdhealth.com/?referral_code=NORMAL).
+If you think you might be that person and want to look closer, the community I've examined most is [CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 *Honest disclosure: that's a referral link, and Normaltown USA may earn a small bonus if you join through it, at no cost to you. I'm including it in an article about who sharing is wrong for on purpose, because the honest version has to come first. If it's the wrong tool for you, please don't join.*
 
@@ -831,11 +831,11 @@ Bitcoin is still small compared to the giant, established stuff. So the swings a
 
 A wild ride does not automatically mean something is broken, and a smooth ride does not automatically mean something is safe. Plenty of calm, steady things have quietly lost value, and plenty of bumpy things have climbed over time. The bumps are about how new and small the road is, not a verdict on where it's headed.
 
-What the swings do mean for you is practical: don't put in money you'll need soon, because you can't control which day you'll need it, and it might be a down day. This is exactly why I don't try to time these swings, and buy a little at a time instead. I explained that calm approach [here](https://www.normaltownusa.com/p/why-i-dont-try-to-time-the-price/).
+What the swings do mean for you is practical: don't put in money you'll need soon, because you can't control which day you'll need it, and it might be a down day. This is exactly why I don't try to time these swings, and buy a little at a time instead. I explained [that calm approach](https://www.normaltownusa.com/p/why-i-dont-try-to-time-the-price/).
 
 ## The calm way to handle it
 
-The swings are only scary if you're watching the price every day and using money you can't spare. Take away both of those and the drama mostly disappears. Use money you won't miss, buy slowly, and don't stare at the screen. Let the road get paved without you standing in the middle of it. And keep the saving-versus-gambling line honest, which I do [here](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/).
+The swings are only scary if you're watching the price every day and using money you can't spare. Take away both of those and the drama mostly disappears. Use money you won't miss, buy slowly, and don't stare at the screen. Let the road get paved without you standing in the middle of it. And keep [the saving-versus-gambling line honest](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/).
 
 ## The takeaway
 
@@ -888,7 +888,7 @@ For prices to actually fall, you'd need the opposite thing, and that comes with 
 
 So when your gut says "everything still costs too much" while the TV says inflation is down, both are true. The rate of climb slowed. The altitude is still high. You're standing higher up the hill than you were three years ago, and you never came back down.
 
-This is the same slow leak I wrote about [here](https://www.normaltownusa.com/p/the-dollars-slow-leak/), just measured by its speed. Slower leak, still leaking.
+This is [the same slow leak I wrote about](https://www.normaltownusa.com/p/the-dollars-slow-leak/), just measured by its speed. Slower leak, still leaking.
 
 ## What to do with this
 
@@ -953,15 +953,15 @@ Neither one is a scam. They're just two different deals.
 
 **What's covered:** Insurance covers a broad, regulated list. Health sharing communities usually focus on big, unexpected events, and often have rules about pre-existing conditions and waiting periods. It's built for the broken-leg surprise, not the routine stuff.
 
-**The incentive:** This one favors sharing. Insurance profits when it pays you less, a conflict I dug into [here](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest/). A sharing group has no leftover to keep, so it has no reason to fight your bill.
+**The incentive:** This one favors sharing. Insurance profits when it pays you less, [a conflict I dug into](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest/). A sharing group has no leftover to keep, so it has no reason to fight your bill.
 
 ## Who each one fits
 
-Insurance fits people who need a broad, legally guaranteed safety net, especially with ongoing conditions. Health sharing fits healthy people and families who want lower monthly costs, are mostly worried about the big surprise bill, and are comfortable trading the legal guarantee for a lower price and a fairer incentive. I broke down how one real bill gets paid in a sharing group [here](https://www.normaltownusa.com/p/what-is-health-sharing/).
+Insurance fits people who need a broad, legally guaranteed safety net, especially with ongoing conditions. Health sharing fits healthy people and families who want lower monthly costs, are mostly worried about the big surprise bill, and are comfortable trading the legal guarantee for a lower price and a fairer incentive. I broke down [how one real bill gets paid in a sharing group](https://www.normaltownusa.com/p/what-is-health-sharing/).
 
 ## If you want to look closer
 
-The sharing community I've looked into most is CrowdHealth. It charges a flat monthly fee and lets the crowd cover big bills. You can see how their model works [here](https://www.joincrowdhealth.com/?referral_code=NORMAL).
+The sharing community I've looked into most is CrowdHealth. It charges a flat monthly fee and lets the crowd cover big bills. You can [see how CrowdHealth model works](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 *Honest disclosure: that's a referral link. If you join through it, Normaltown USA may earn a small referral bonus, at no extra cost to you. I only mention it because it fits the honest comparison above. Health sharing is not insurance, has real limits, and isn't right for everyone.*
 
@@ -1016,11 +1016,11 @@ Prices move on news nobody saw coming. That's what "surprise" means. You can't s
 
 ## What I do instead
 
-I don't guess. I buy a small, fixed amount on a regular schedule and let time average it out. Some of those buys land high, some land low, and I never have to be right about any single one. That calm little habit beats clever timing more often than clever people want to admit. I wrote up exactly how it works [here](https://www.normaltownusa.com/p/a-little-each-week-beats-betting-it-all/).
+I don't guess. I buy a small, fixed amount on a regular schedule and let time average it out. Some of those buys land high, some land low, and I never have to be right about any single one. That calm little habit beats clever timing more often than clever people want to admit. I wrote up [exactly how buying a little each week works](https://www.normaltownusa.com/p/a-little-each-week-beats-betting-it-all/).
 
 ## The honest catch
 
-Not trying to time the price is not the same as "buy anything, any time, without thinking." Plant the right tree. If what you're buying is a bad idea, buying it on a schedule just spreads out a bad idea. This calm approach only makes sense for something you actually believe holds value over the long haul, with money you won't need soon. I keep that saving-versus-gambling line honest [here](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/).
+Not trying to time the price is not the same as "buy anything, any time, without thinking." Plant the right tree. If what you're buying is a bad idea, buying it on a schedule just spreads out a bad idea. This calm approach only makes sense for something you actually believe holds value over the long haul, with money you won't need soon. I keep [that saving-versus-gambling line honest](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/).
 
 ## The takeaway
 
@@ -1134,9 +1134,9 @@ You've probably felt it already. The claim denied on a technicality. The "this w
 
 ## Is there another way to do it?
 
-This is exactly why some people go looking for a different setup, one where the folks handling the money don't profit by keeping yours. Health sharing is one of those. Instead of a company that wins when it pays less, it's a large group of members who pool their money to cover each other's big bills. The group has no reason to deny you, because it isn't pocketing the leftover as profit. I gave the honest, plain-English breakdown of how that works [here](https://www.normaltownusa.com/p/what-is-health-sharing/).
+This is exactly why some people go looking for a different setup, one where the folks handling the money don't profit by keeping yours. Health sharing is one of those. Instead of a company that wins when it pays less, it's a large group of members who pool their money to cover each other's big bills. The group has no reason to deny you, because it isn't pocketing the leftover as profit. I gave [the honest, plain-English breakdown of how that works](https://www.normaltownusa.com/p/what-is-health-sharing/).
 
-One health-sharing community I've looked into is CrowdHealth, which charges a flat monthly fee instead of profiting from denied claims. If you want to see how their model works, you can check it out [here](https://www.joincrowdhealth.com/?referral_code=NORMAL).
+One health-sharing community I've looked into is CrowdHealth, which charges a flat monthly fee instead of profiting from denied claims. If you want to see how their model works, you can [check out CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 *Honest disclosure: that's a referral link. If you join through it, Normaltown USA may earn a small referral bonus, at no extra cost to you. I only mention CrowdHealth because it's a genuine answer to the conflict this article is about, not because of the link. It's not insurance, and it isn't right for everyone.*
 
@@ -1187,17 +1187,17 @@ Buying a little each week is the steady trickle. Betting it all at once is the b
 
 When you buy a little on a set schedule, something nice happens automatically. When the price is high, your fixed amount buys a little less. When the price is low, that same amount buys more. You end up buying more when it's cheap and less when it's dear, without ever having to be clever about it.
 
-Nobody, and I mean nobody, reliably calls the perfect moment. Not the pros on TV, not your brother-in-law. Timing the market is a game the calm saver just refuses to play. I wrote about why I don't try to time the price [here](https://www.normaltownusa.com/p/why-i-dont-try-to-time-the-price/).
+Nobody, and I mean nobody, reliably calls the perfect moment. Not the pros on TV, not your brother-in-law. Timing the market is a game the calm saver just refuses to play. I wrote about [why I do not try to time the price](https://www.normaltownusa.com/p/why-i-dont-try-to-time-the-price/).
 
 ## How to actually do it
 
 Pick an amount so small it's boring. Ten dollars a week. Twenty-five a paycheck. An amount that, if it vanished, wouldn't dent your life. Set it to repeat automatically. Then, and this is the hard part, ignore it. Don't check the price every day. The whole point is to stop watching.
 
-If you've never bought any at all, I walked through the very first step, start to finish, [here](https://www.normaltownusa.com/p/your-first-20-in-bitcoin/).
+If you've never bought any at all, I walked through [the very first step, start to finish](https://www.normaltownusa.com/p/your-first-20-in-bitcoin/).
 
 ## The honest catch
 
-A steady trickle protects you from bad timing. It does not protect you from the thing itself going down. If what you're buying loses value over the long run, buying it slowly just means you lost slowly. So this is a method, not a magic wand. Only put in money you won't need soon and can afford to watch swing around. The saving-versus-gambling line still applies, and I keep it honest [here](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/).
+A steady trickle protects you from bad timing. It does not protect you from the thing itself going down. If what you're buying loses value over the long run, buying it slowly just means you lost slowly. So this is a method, not a magic wand. Only put in money you won't need soon and can afford to watch swing around. I keep [the saving-versus-gambling line honest](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/), and it still applies.
 
 ## The takeaway
 
@@ -1256,7 +1256,7 @@ That's it. One fixed number, one spending number, one save-first move.
 
 It survives because it asks almost nothing of you during the week. You're not logging every coffee. You're watching one number: the spending money. When it's getting low, you slow down. When it's gone, you're done till next check. No math at the register.
 
-It also survives because it's honest about the leaks. Most people feel broke on a good income because money slips out in small drips they never see. I laid those out [here](https://www.normaltownusa.com/p/5-money-leaks-busy-families-miss/), and the plain reason it happens [here](https://www.normaltownusa.com/p/why-you-feel-broke-on-a-good-income/).
+It also survives because it's honest about the leaks. Most people feel broke on a good income because money slips out in small drips they never see. I laid out [the five money leaks busy families miss](https://www.normaltownusa.com/p/5-money-leaks-busy-families-miss/), and [the plain reason it happens](https://www.normaltownusa.com/p/why-you-feel-broke-on-a-good-income/).
 
 ## Make it automatic
 
@@ -1315,7 +1315,7 @@ That difficulty is the whole point. It means no king, no bank, and no government
 
 ## Why easy-to-make money leaks
 
-Now compare that to money that can be created quickly and in large amounts. When more can always be made, more usually is. And every time the pile grows, each piece you're holding is worth a little less. That's the slow leak I wrote about [here](https://www.normaltownusa.com/p/the-dollars-slow-leak/).
+Now compare that to money that can be created quickly and in large amounts. When more can always be made, more usually is. And every time the pile grows, each piece you're holding is worth a little less. That's [the slow leak I wrote about](https://www.normaltownusa.com/p/the-dollars-slow-leak/).
 
 It's not evil. It's just what happens to anything easy to produce. Easy to make equals easy to water down.
 
@@ -1323,7 +1323,7 @@ It's not evil. It's just what happens to anything easy to produce. Easy to make 
 
 This is the exact reason some people got interested in bitcoin. It's built to be hard to make more of, with a fixed limit written into its rules that nobody can change. Whether or not it ends up mattering to you, it's trying to copy the one thing that made gold hold value: hard to make, impossible to fake more of.
 
-I keep the saving-versus-gambling line honest about all this [here](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/).
+I keep [the saving-versus-gambling line](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/) honest about all this.
 
 ## The honest catch
 
@@ -1376,7 +1376,7 @@ So if your deductible is $3,000, that means you cover the first $3,000 of care o
 
 Here's the trap. You pay for insurance every single month. So when a bill shows up anyway, it feels like a mistake. It isn't. You were standing under the umbrella the whole time. It just hadn't opened yet, because the first inch hadn't fallen.
 
-I dug into that exact gut-punch, the big bill that shows up even though you're insured, right [here](https://www.normaltownusa.com/p/why-you-got-a-big-bill-with-insurance/).
+I dug into [that exact gut-punch, the big bill that shows up even though you are insured](https://www.normaltownusa.com/p/why-you-got-a-big-bill-with-insurance/).
 
 ## Three words that ride along with "deductible"
 
@@ -1390,7 +1390,7 @@ Three other words usually show up on the same page. Here they are in plain Engli
 
 ## The part that saves you money
 
-Here's the useful bit. If you haven't hit your deductible yet, you're paying full price for care anyway. That's exactly when it pays to ask what something costs before you get it, and to ask for the cash price. Sometimes paying cash is cheaper than the "insurance" price while you're still under your deductible. I showed how to ask [here](https://www.normaltownusa.com/p/the-cash-price-secret/).
+Here's the useful bit. If you haven't hit your deductible yet, you're paying full price for care anyway. That's exactly when it pays to ask what something costs before you get it, and to ask for the cash price. Sometimes paying cash is cheaper than the "insurance" price while you're still under your deductible. I showed [how to ask for the cash price](https://www.normaltownusa.com/p/the-cash-price-secret/).
 
 ## The takeaway
 
@@ -1453,7 +1453,7 @@ You can't patch the whole tire by yourself. But you can stop keeping every dolla
 
 Money sitting in a plain checking account is fully exposed. It's not growing, and it's slowly buying less. That doesn't mean go do something risky. It means it's worth learning about places to keep money that at least have a chance to keep up: a savings account that actually pays real interest, and, for money you won't need soon, things that are built to hold their value over time.
 
-That last idea, keeping some savings in something that's hard to water down, is a whole topic on its own. I walked through the plain-English version of it [here](https://www.normaltownusa.com/p/what-scarce-means-for-your-money/).
+That last idea, keeping some savings in something that's hard to water down, is a whole topic on its own. I walked through [the plain-English version of it](https://www.normaltownusa.com/p/what-scarce-means-for-your-money/).
 
 ## The takeaway
 
@@ -1645,7 +1645,7 @@ This is the sneaky one. When more money comes in, life tends to fill the space. 
 
 ## Push 3: prices rose too
 
-While you were earning more, the price of everyday stuff crept up as well. So even the money you kept buys a little less than it used to. The staircase moves under everyone, not just you. (That slow shrinking of a dollar is really about how money is made, which I covered [here](https://www.normaltownusa.com/p/what-scarce-means-for-your-money/).)
+While you were earning more, the price of everyday stuff crept up as well. So even the money you kept buys a little less than it used to. The staircase moves under everyone, not just you. (That slow shrinking of a dollar is really about how money is made, which I covered in [what scarce means for your money](https://www.normaltownusa.com/p/what-scarce-means-for-your-money/).)
 
 ## How to actually keep your next raise
 
@@ -1714,7 +1714,7 @@ Whether or not bitcoin ends up mattering to you, the concept is worth understand
 
 Now the fair warning, because this brand doesn't sell you the shiny half and hide the rest.
 
-Scarce does not automatically mean safe, or valuable, or a good buy. Plenty of scarce things are worthless because nobody wants them. And scarce things can still swing wildly in price in the short run. Scarcity is one ingredient in holding value, not a guarantee of it. So it's a lens for understanding money, not a green light to bet money you can't afford to lose. (I dug into that line between saving and gambling [here](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/).)
+Scarce does not automatically mean safe, or valuable, or a good buy. Plenty of scarce things are worthless because nobody wants them. And scarce things can still swing wildly in price in the short run. Scarcity is one ingredient in holding value, not a guarantee of it. So it's a lens for understanding money, not a green light to bet money you can't afford to lose. (I dug into [that line between saving and gambling](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling/).)
 
 ## The takeaway
 

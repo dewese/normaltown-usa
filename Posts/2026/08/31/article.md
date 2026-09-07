@@ -20,11 +20,11 @@ Say that out loud, because it's the whole game. Not money you'll need for rent. 
 
 For most regular people, that "wouldn't hurt me" amount lands somewhere small, often a single-digit slice of your savings, not half of it. There's no official number, and anyone who gives you one with total confidence is guessing. But the spirit is clear: small enough that a bad year is a shrug, not a crisis.
 
-And you don't have to put even that in all at once. Sizing the bet small and buying it slowly are two separate protections that stack nicely. I wrote about the buy-slowly part [here](https://www.normaltownusa.com/p/a-little-each-week-beats-betting-it-all).
+And you don't have to put even that in all at once. Sizing the bet small and buying it slowly are two separate protections that stack nicely. I wrote about [the buy-slowly part](https://www.normaltownusa.com/p/a-little-each-week-beats-betting-it-all).
 
 ## Get the meal right first
 
-Here's the order that keeps people safe. Get the meal on the table before you reach for the sauce. That means the boring stuff first: a small emergency fund, your high-interest debt handled, your bills covered. Hot sauce on an empty plate is just an upset stomach. Only once the meal's there does a small dash make sense. And keep the whole thing in the honest saving-versus-gambling frame, which I laid out [here](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling).
+Here's the order that keeps people safe. Get the meal on the table before you reach for the sauce. That means the boring stuff first: a small emergency fund, your high-interest debt handled, your bills covered. Hot sauce on an empty plate is just an upset stomach. Only once the meal's there does a small dash make sense. And keep the whole thing in [the honest saving-versus-gambling frame](https://www.normaltownusa.com/p/is-bitcoin-saving-or-gambling).
 
 ## The takeaway
 

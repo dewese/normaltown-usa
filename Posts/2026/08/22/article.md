@@ -28,15 +28,15 @@ Neither one is a scam. They're just two different deals.
 
 **What's covered:** Insurance covers a broad, regulated list. Health sharing communities usually focus on big, unexpected events, and often have rules about pre-existing conditions and waiting periods. It's built for the broken-leg surprise, not the routine stuff.
 
-**The incentive:** This one favors sharing. Insurance profits when it pays you less, a conflict I dug into [here](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest). A sharing group has no leftover to keep, so it has no reason to fight your bill.
+**The incentive:** This one favors sharing. Insurance profits when it pays you less, [a conflict I dug into](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest). A sharing group has no leftover to keep, so it has no reason to fight your bill.
 
 ## Who each one fits
 
-Insurance fits people who need a broad, legally guaranteed safety net, especially with ongoing conditions. Health sharing fits healthy people and families who want lower monthly costs, are mostly worried about the big surprise bill, and are comfortable trading the legal guarantee for a lower price and a fairer incentive. I broke down how one real bill gets paid in a sharing group [here](https://www.normaltownusa.com/p/what-is-health-sharing).
+Insurance fits people who need a broad, legally guaranteed safety net, especially with ongoing conditions. Health sharing fits healthy people and families who want lower monthly costs, are mostly worried about the big surprise bill, and are comfortable trading the legal guarantee for a lower price and a fairer incentive. I broke down [how one real bill gets paid in a sharing group](https://www.normaltownusa.com/p/what-is-health-sharing).
 
 ## If you want to look closer
 
-The sharing community I've looked into most is CrowdHealth. It charges a flat monthly fee and lets the crowd cover big bills. You can see how their model works [here](https://www.joincrowdhealth.com/?referral_code=NORMAL).
+The sharing community I've looked into most is CrowdHealth. It charges a flat monthly fee and lets the crowd cover big bills. You can [see how CrowdHealth model works](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 *Honest disclosure: that's a referral link. If you join through it, Normaltown USA may earn a small referral bonus, at no extra cost to you. I only mention it because it fits the honest comparison above. Health sharing is not insurance, has real limits, and isn't right for everyone.*
 

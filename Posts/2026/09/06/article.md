@@ -23,11 +23,11 @@ Here's the stuff that happens behind the scenes when you have a health event:
 
 Here's the thing nobody tells you about regular insurance. When you get a scary bill, you're the one who has to fight it. You call the insurer, they point at the hospital, the hospital points back, and you're stuck in the middle holding the invoice. Nobody in that chain is paid to make your bill smaller.
 
-A care advocate flips that. Now somebody whose actual job is shrinking your bill is doing the calling. I wrote about why insurance incentives work against you [here](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest), and it's the whole reason this human-in-your-corner thing feels so different.
+A care advocate flips that. Now somebody whose actual job is shrinking your bill is doing the calling. I wrote about [why insurance incentives work against you](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest), and it's the whole reason this human-in-your-corner thing feels so different.
 
 ## The honest limits
 
-I'm not going to oversell it. An advocate is a person helping you, not a magic wand. They can't force a hospital to do anything, and because health sharing is not insurance, there's no legal guarantee on what gets funded. What they can do is get you better prices and take the fight off your plate, which is a lot. For the full picture of who this model fits and who should skip it, I laid it out [here](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+I'm not going to oversell it. An advocate is a person helping you, not a magic wand. They can't force a hospital to do anything, and because health sharing is not insurance, there's no legal guarantee on what gets funded. What they can do is get you better prices and take the fight off your plate, which is a lot. I laid out [the full picture of who this model fits and who should skip it](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## The takeaway
 

@@ -22,13 +22,13 @@ So a wallet is really a keychain, not a coin purse. That sounds like a small thi
 
 There are two broad kinds, and the difference is just where your key lives.
 
-A wallet on an app or website, where the company holds the key for you, is the easy one. It's like letting the post office keep your mailbox key. Convenient, but you're trusting them with it. That's the exact situation behind the phrase "not your keys, not your coins," which I unpacked [here](https://www.normaltownusa.com/p/not-your-keys-what-it-means).
+A wallet on an app or website, where the company holds the key for you, is the easy one. It's like letting the post office keep your mailbox key. Convenient, but you're trusting them with it. That's the exact situation behind the phrase "not your keys, not your coins," which I unpacked in [not your keys, what it means](https://www.normaltownusa.com/p/not-your-keys-what-it-means).
 
 A wallet where you hold the key yourself, on your own device or a little dedicated gadget, gives you full control. No company can freeze it or lose it for you. The catch is there's no one to call if you lose the key, so it's on you to keep it safe.
 
 ## Which one should you start with?
 
-For a beginner with a small amount, an app where the company holds the key is a perfectly reasonable place to start. Simple is good when you're learning. If you haven't taken the first step at all, I walked through it [here](https://www.normaltownusa.com/p/your-first-20-in-bitcoin). As your amount grows into money you'd hate to lose, that's the time to graduate to holding your own key.
+For a beginner with a small amount, an app where the company holds the key is a perfectly reasonable place to start. Simple is good when you're learning. If you haven't taken the first step at all, I walked through [the first step](https://www.normaltownusa.com/p/your-first-20-in-bitcoin). As your amount grows into money you'd hate to lose, that's the time to graduate to holding your own key.
 
 ## The takeaway
 
