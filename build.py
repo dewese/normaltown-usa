@@ -1043,8 +1043,8 @@ def render_home(posts):
         sizes="(max-width:820px) 11rem, 16rem" alt="{html.escape(HOME_HEADSHOT_ALT, quote=True)}" width="850" height="850" fetchpriority="high"></figure>"""
     hero = f"""<section class="hero{' has-photo' if photo else ''}"><div class="wrap">
       <div class="hero-copy">
-      <h1>Keep more of the money <span class="accent">you already make</span>.</h1>
-      <p>Plain-English money and healthcare help from a regular guy with a full-time job and a family of four, for regular people with full-time jobs. One idea per post, short enough to read with your coffee.</p>
+      <h1>Money &amp; health insurance, <span class="accent">explained in plain English</span>.</h1>
+      <p>Why you feel broke on a good income, how to beat the rising cost of health insurance, and how to save in something that holds its value. Written by a normal family guy with a regular job, for normal people with regular jobs. One idea per post, short enough to read with your coffee.</p>
       <p class="promise">Read for a month and you'll know how to ask for the cash price on a medical bill, name the leaks quietly draining your paycheck, build a first $1,000 cushion, and save a little in something that holds its value. Almost nobody teaches this, because almost nobody gets paid to.</p>
       </div>
       {photo}
@@ -1421,7 +1421,7 @@ def render_sitemap(posts, pages):
     for p in posts:
         entries.append(f"<url><loc>{p['url']}</loc><lastmod>{p['modified'].isoformat()}</lastmod></url>")
     return ('<?xml version="1.0" encoding="UTF-8"?>\n'
-            '<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">' + "".join(entries) + '</urlset>')
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(entries) + '</urlset>')
 
 
 def render_llms(posts):
