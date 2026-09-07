@@ -632,7 +632,7 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .hero .accent{color:var(--accent)}
 .hero.has-photo .wrap{display:grid; grid-template-columns:minmax(0,1fr) 16rem; gap:3rem; align-items:center}
 .hero-photo{margin:0; width:16rem; justify-self:end; isolation:isolate}
-.hero-photo img{display:block; width:100%; height:auto; border-radius:50%; background:var(--panel);
+.hero-photo img{display:block; width:100%; height:auto; border-radius:14px; background:var(--panel);
   border:1px solid var(--faint);
   box-shadow:12px 12px 0 -1px var(--canvas), 12px 12px 0 0 var(--accent)}
 .hero-photo figcaption{margin:1.6rem 0 0; color:var(--muted); font-size:.9rem;
@@ -1047,12 +1047,12 @@ START_HERE_SLUGS = ["nobody-gets-paid-to-make-you-well", "why-you-feel-broke-on-
 def render_home(posts):
     lookup = by_slug(posts)
     photo = ""
-    if HOME_HEADSHOT.exists():
-        srcset = "/about/david-dewese-round.png 850w"
-        if HOME_HEADSHOT_SM.exists():
-            srcset = "/about/david-dewese-round-520.png 520w, " + srcset
-        photo = f"""<figure class="hero-photo"><img src="/about/david-dewese-round-520.png" srcset="{srcset}"
-        sizes="(max-width:820px) 11rem, 16rem" alt="{html.escape(HOME_HEADSHOT_ALT, quote=True)}" width="850" height="850" fetchpriority="high">
+    if HOME_HERO.exists():
+        srcset = "/about/david-dewese-hero.jpg 659w"
+        if HOME_HERO_SM.exists():
+            srcset = "/about/david-dewese-hero-400.jpg 400w, " + srcset
+        photo = f"""<figure class="hero-photo"><img src="/about/david-dewese-hero-400.jpg" srcset="{srcset}"
+        sizes="(max-width:820px) 11rem, 16rem" alt="{html.escape(HOME_HEADSHOT_ALT, quote=True)}" width="659" height="850" fetchpriority="high">
         <figcaption>{html.escape(HOME_HEADSHOT_CAPTION)}</figcaption></figure>"""
     hero = f"""<section class="hero{' has-photo' if photo else ''}"><div class="wrap">
       <div class="hero-copy">
@@ -1352,9 +1352,10 @@ ABOUT_PHOTO = SITE_DIR / "about-family.jpg"          # 1400x1750
 ABOUT_PHOTO_SM = SITE_DIR / "about-family-700.jpg"   # 700x875
 AUTHOR_HEADSHOT = SITE_DIR / "author-headshot.png"        # transparent B&W cutout, 595x793 (Person schema image)
 AUTHOR_HEADSHOT_SM = SITE_DIR / "author-headshot-240.png"  # 180x240 copy for the round author-box avatar
-HOME_HEADSHOT = SITE_DIR / "home-headshot.png"            # 850x850 round B&W headshot, homepage hero + Person schema
-HOME_HEADSHOT_SM = SITE_DIR / "home-headshot-520.png"     # 520x520 copy for the hero at 1x/2x
+HOME_HEADSHOT = SITE_DIR / "home-headshot.png"            # 850x850 round B&W headshot, Person schema image
 HOME_HEADSHOT_XS = SITE_DIR / "home-headshot-96.png"      # 96x96 copy for the tiny avatar beside "In short"
+HOME_HERO = SITE_DIR / "home-hero.jpg"                    # 659x850 B&W portrait, homepage hero
+HOME_HERO_SM = SITE_DIR / "home-hero-400.jpg"             # 400x516 copy for the hero at 1x/2x
 HOME_HEADSHOT_ALT = "David Dewese, smiling, in a black and white headshot."
 HOME_HEADSHOT_CAPTION = "Hi, I'm David!"
 ABOUT_PHOTO_ALT = ("Black and white photo of David Dewese kneeling with his wife and two "
@@ -1657,10 +1658,12 @@ def main():
                 shutil.copy(AUTHOR_HEADSHOT_SM, DIST / slug / "david-dewese-240.png")
             if HOME_HEADSHOT.exists():
                 shutil.copy(HOME_HEADSHOT, DIST / slug / "david-dewese-round.png")
-            if HOME_HEADSHOT_SM.exists():
-                shutil.copy(HOME_HEADSHOT_SM, DIST / slug / "david-dewese-round-520.png")
             if HOME_HEADSHOT_XS.exists():
                 shutil.copy(HOME_HEADSHOT_XS, DIST / slug / "david-dewese-round-96.png")
+            if HOME_HERO.exists():
+                shutil.copy(HOME_HERO, DIST / slug / "david-dewese-hero.jpg")
+            if HOME_HERO_SM.exists():
+                shutil.copy(HOME_HERO_SM, DIST / slug / "david-dewese-hero-400.jpg")
             schema.append(person_schema(full=True))
             schema.append({"@type": "AboutPage", "@id": page_url + "#page", "url": page_url,
                            "name": cfg["page_title"], "description": cfg["desc"],
