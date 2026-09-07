@@ -687,7 +687,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 
 /* article */
 .article{padding:2.5rem 0 4rem}
-.crumbs{max-width:var(--measure); margin:0 auto 1.4rem; font-size:.82rem; color:var(--muted)}
+.crumbs{margin:0 0 1.4rem; font-size:.82rem; color:var(--muted)}
 .crumbs ol{list-style:none; margin:0; padding:0; display:flex; gap:.5rem; flex-wrap:wrap}
 .crumbs li+li::before{content:"\\203A"; content:"\\203A" / ""; margin-right:.5rem; color:var(--muted)}
 .crumbs a{color:var(--muted)}
@@ -726,7 +726,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .body h2:target,.body h3:target{color:var(--accent)}
 
 /* table of contents (FAQ page) */
-.toc{margin:0 0 2rem; padding:1rem 1.3rem; border:1px solid var(--faint); border-radius:14px;
+.toc{max-width:var(--measure); margin:0 0 2rem; padding:1rem 1.3rem; border:1px solid var(--faint); border-radius:14px;
   background:var(--panel); font-size:.95rem}
 .toc strong{display:block; margin-bottom:.4rem; font-size:.78rem; letter-spacing:.1em;
   text-transform:uppercase; color:var(--muted)}
@@ -769,13 +769,13 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 
 /* generic page */
 .page{padding:3rem 0 4rem}
-.page .body{max-width:var(--measure)}
+.page .body{max-width:var(--measure); margin-left:0; margin-right:0}
 .page h1{font-size:clamp(1.9rem,4.5vw,2.6rem); letter-spacing:-.03em; font-weight:800;
   margin:0 0 1.4rem}
 .page .lede{font-size:1.2rem; color:var(--muted); max-width:var(--measure); margin:-.6rem 0 1.8rem}
 
 /* contact form */
-.contact-form{max-width:var(--measure); margin:2rem auto 0; padding:1.6rem; border:1px solid var(--faint);
+.contact-form{max-width:var(--measure); margin:2rem 0 0; padding:1.6rem; border:1px solid var(--faint);
   border-radius:14px; background:var(--panel)}
 .contact-form h2{margin:0 0 1rem; font-size:1.2rem; font-weight:800; letter-spacing:-.01em}
 .contact-form label{display:block; font-size:.85rem; font-weight:700; color:var(--muted);
