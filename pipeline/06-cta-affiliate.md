@@ -73,6 +73,20 @@ rules) somewhere in the body of every referral post.
   or paraphrase real review *themes* with attribution ("members on Trustpilot
   describe…"). For named/photo testimonials, get them from CrowdHealth with permission.
 
+## River (bitcoin) — second affiliate, added 2026-09-07
+- David's **preferred place to buy bitcoin**: US company, bitcoin only, recurring buys.
+- Link: `https://river.com/signup?r=EYL3QNCO`.
+- **Referral terms (verified 2026-09-07, river.com/referrals):** paid in bitcoin and
+  **identical on both sides**. **$5 each** when the new user buys $100, **$15 more each**
+  at $1,000, **$80 more each** at $10,000. **Caps at $100 per person, per referral.**
+  **Not available in every state** — say so, and point to River's terms.
+- **Honest other half, always:** bitcoin's price swings hard and can stay down for years.
+  Only money you can leave alone. Never imply a return. Savings, not trading.
+- Same rules as CrowdHealth: one honest mention where it genuinely fits, disclose in the
+  same breath as the link, never bolted onto an unrelated article.
+- The builder handles the rest: any link to a host in `AFFILIATE_PARTNERS` in `build.py`
+  gets `rel="noopener nofollow sponsored"` and a `mentions` schema entry automatically.
+
 ## Standard disclaimers (every money/health article)
 > Nothing here is financial, medical, tax, or legal advice. I'm a guy who did the
 > homework, sharing what I learned — you make your own calls.
