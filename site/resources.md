@@ -4,13 +4,23 @@ This is the shelf where I keep the useful stuff. Not more articles to read, but 
 
 ## What my family actually uses
 
-**[CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL)** (health sharing, code **NORMAL**). We're a family of four, and we left regular health insurance for this. It's a flat monthly fee plus a share of other members' bills, and they make their money on the fee instead of on slow-walking your claim. Join through my link and your first 3 months are $99 a month. CrowdHealth pays me $250 once you've been a member in good standing for 3 months. It costs you nothing extra, and now you know exactly what I make on it.
+:::partner CrowdHealth | Health sharing | crowdhealth.png | https://www.joincrowdhealth.com/?referral_code=NORMAL
+My family of four has been uninsured since 2022. That's right, we canceled our expensive health insurance plan and haven't regretted it. We use CrowdHealth instead. It's a flat monthly fee plus a share of other members' bills, and they make their money on that fee instead of on slow-walking your claim.
+
+Join through my link with code **NORMAL** and your first 3 months are $99 a month. CrowdHealth pays me $250 once you've been a member in good standing for 3 months. It costs you nothing extra, and now you know exactly what I make on it.
 
 Now the honest other half, because it matters more than the discount. CrowdHealth is not insurance. Nobody is legally on the hook to pay your bill. It has waiting periods, exclusions, and rules about conditions you already have. For some families it's the wrong answer, full stop. Read [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/) before you read anything else about it, and read [the plain-English guide](/p/what-is-health-sharing/) if the whole idea is new to you.
+:::
 
-**[River](https://river.com/signup?r=EYL3QNCO)** (buying bitcoin). This is where I buy. It's a US company, bitcoin only, no dozens of coins to get distracted by, and you can set up a small automatic buy every week and then leave it alone. That's the whole point for me. Saving, not trading. River splits a referral bonus between us, in bitcoin, and it's the same amount on both sides. We each get $5 when you buy your first $100, another $15 each at $1,000, and another $80 each at $10,000. That caps out at $100 apiece. It isn't offered in every state, so check their terms before you count on it.
+:::partner River | Buying bitcoin | river.png | https://river.com/signup?r=EYL3QNCO
+River is my preferred place to buy bitcoin. It's a US company and it's bitcoin only, so there aren't a hundred other coins sitting there tempting you. I have an automatic buy set up every week. It lands in their secure vault, and I get to relax knowing it's safe.
 
-Same honesty rule here. Bitcoin's price jumps around a lot, and it can go down and stay down for a long while. Only put in money you can leave alone for years. If you're brand new, read [Saving vs. Gambling: Where Bitcoin Actually Fits](/p/is-bitcoin-saving-or-gambling/) first, then [Your First $20 in Bitcoin, Step by Step](/p/your-first-20-in-bitcoin/).
+And if you want to geek out with me for a second, River has an optional setting that automatically sends my balance to my own cold storage hardware wallet once it hits an amount I picked. If that sentence meant nothing to you, start with [what a bitcoin wallet is](/p/what-is-a-bitcoin-wallet/) and [not your keys, what it means](/p/not-your-keys-what-it-means/).
+
+River splits a referral bonus between us, in bitcoin, and it's the same amount on both sides. We each get $5 when you buy your first $100, another $15 each at $1,000, and another $80 each at $10,000. That caps out at $100 apiece. It isn't offered in every state, so check their terms before you count on it.
+
+Same honesty rule here as everywhere else. Bitcoin's price jumps around a lot, and it can go down and stay down for a long while. Only put in money you can leave alone for years. If you're brand new, read [Saving vs. Gambling: Where Bitcoin Actually Fits](/p/is-bitcoin-saving-or-gambling/) first, then [Your First $20 in Bitcoin, Step by Step](/p/your-first-20-in-bitcoin/).
+:::
 
 ## Book a call with me
 
@@ -27,7 +37,3 @@ These cost nothing and always will.
 - [The First $1,000: Your Family's Shock Absorber](/p/the-first-1000-emergency-fund/). The one savings step that stops small problems from turning into debt.
 - [The Cash Price Secret Hospitals Don't Advertise](/p/the-cash-price-secret/). What to ask before a procedure, and why the cash price is often lower than the insured one.
 - [Saving vs. Gambling: Where Bitcoin Actually Fits](/p/is-bitcoin-saving-or-gambling/). A calm take on the loudest topic in money.
-
-## What's coming
-
-I'm building a few small paid things: simple worksheets and step-by-step guides for the stuff people email me about, like reading a hospital bill line by line and setting up a family budget that survives a real month. They'll show up here when they're good, not before. If there's something you'd pay ten bucks to never have to figure out again, [tell me](/contact/) and I'll probably build that first.

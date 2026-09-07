@@ -39,6 +39,7 @@ ROOT = Path(__file__).resolve().parent
 POSTS_DIR = ROOT / "Posts"
 SITE_DIR = ROOT / "site"
 LOGO_DIR = ROOT / "brand" / "logo"   # SVG logo lockup + icon; copied to dist/assets/
+PARTNER_LOGO_DIR = ROOT / "brand" / "partners"   # square partner logos; copied to dist/assets/partners/
 DIST = ROOT / "dist"
 
 SITE_NAME = "Normaltown USA"
@@ -254,6 +255,16 @@ def md_to_html(md, drop_email_cta=True, ids=None):
         elif stripped == "---":
             flush_para()
             blocks.append('<hr class="rule">')
+        elif PARTNER_OPEN.match(stripped):
+            flush_para()
+            header = PARTNER_OPEN.match(stripped).group(1)
+            inner, i = [], i + 1
+            while i < len(lines) and lines[i].strip() != ":::":
+                inner.append(lines[i])
+                i += 1
+            blocks.append(partner_block(header, "\n".join(inner), used))
+            i += 1
+            continue
         elif stripped.startswith("### "):
             flush_para()
             t = stripped[4:].strip()
@@ -292,6 +303,43 @@ def md_to_html(md, drop_email_cta=True, ids=None):
         i += 1
     flush_para()
     return "\n".join(blocks)
+
+
+PARTNER_OPEN = re.compile(r'^:::partner\s+(.+)$')
+
+
+def partner_block(header, inner_md, ids):
+    """Render one `:::partner Name | Kind | logo.png | url` block as a card.
+
+    The logo is optional: a name with no matching file in brand/partners/ just
+    renders the card without a picture, so the page never breaks on a missing image.
+    """
+    parts = [x.strip() for x in header.split("|")]
+    name = parts[0] if parts else ""
+    kind = parts[1] if len(parts) > 1 else ""
+    logo = parts[2] if len(parts) > 2 else ""
+    url = parts[3] if len(parts) > 3 else ""
+
+    rel = ("noopener nofollow sponsored" if any(h in url for h in AFFILIATE_HOSTS)
+           else "noopener")
+    link_open = (f'<a href="{html.escape(url, quote=True)}" target="_blank" rel="{rel}">'
+                 if url else "")
+    link_close = "</a>" if url else ""
+
+    figure = ""
+    if logo and (PARTNER_LOGO_DIR / logo).exists():
+        figure = (f'<div class="partner-logo">{link_open}'
+                  f'<img src="/assets/partners/{logo}" alt="{html.escape(name, quote=True)} logo" '
+                  f'width="72" height="72" loading="lazy" decoding="async">{link_close}</div>')
+
+    heading_text = f"{link_open}{html.escape(name)}{link_close}"
+    if url:
+        heading_text += NEW_TAB
+    kind_html = f'<span class="partner-kind">{html.escape(kind)}</span>' if kind else ""
+    body = md_to_html(inner_md, drop_email_cta=False, ids=ids)
+    return (f'<div class="partner">{figure}<div class="partner-text">'
+            f'<h3 id="{heading_id(name, ids)}">{heading_text}</h3>{kind_html}'
+            f'{body}</div></div>')
 
 
 def extract_short_answer(body_md):
@@ -731,6 +779,26 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .body blockquote p{margin:0}
 .body hr.rule{border:none; height:1px; background:var(--faint); margin:2.2rem 0}
 .body h2:target,.body h3:target{color:var(--accent)}
+
+/* partner cards on the Resources page */
+.partner{max-width:var(--measure); margin:0 0 2rem; padding:1.4rem 1.6rem;
+  border:1px solid var(--faint); border-radius:14px; background:var(--panel);
+  display:flex; gap:1.3rem; align-items:flex-start}
+.partner-logo{flex:none; width:72px; height:72px; border-radius:14px; overflow:hidden;
+  border:1px solid var(--faint); background:var(--canvas);
+  display:flex; align-items:center; justify-content:center}
+.partner-logo a{display:flex; width:100%; height:100%; align-items:center; justify-content:center}
+.partner-logo img{width:100%; height:100%; object-fit:cover; display:block}
+.partner-text{min-width:0}
+.body .partner h3{margin:0; font-size:1.2rem; font-weight:800}
+.partner-kind{display:block; margin:.15rem 0 .7rem; font-size:.76rem; letter-spacing:.1em;
+  text-transform:uppercase; color:var(--muted); font-weight:700}
+.body .partner p:last-child{margin-bottom:0}
+@media (max-width:560px){
+  /* stack the mark above the copy so the text keeps the full width of the card */
+  .partner{padding:1.2rem; gap:.9rem; flex-direction:column; align-items:stretch}
+  .partner-logo{width:56px; height:56px; border-radius:12px}
+}
 
 /* table of contents (FAQ page) */
 .toc{max-width:var(--measure); margin:0 0 2rem; padding:1rem 1.3rem; border:1px solid var(--faint); border-radius:14px;
@@ -1584,6 +1652,10 @@ def main():
 
     write(DIST / "styles.css", CSS)
     shutil.copytree(LOGO_DIR, DIST / "assets")
+    if PARTNER_LOGO_DIR.exists():
+        # only the finished marks ship; the color originals and the recolor script stay put
+        shutil.copytree(PARTNER_LOGO_DIR, DIST / "assets" / "partners",
+                        ignore=shutil.ignore_patterns("*-orig.png", "*.py"))
     og_default = SITE_DIR / "og-default.png"
     if og_default.exists():
         shutil.copy(og_default, DIST / "assets" / "og-default.png")

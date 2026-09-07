@@ -155,6 +155,26 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .body hr.rule{border:none; height:1px; background:var(--faint); margin:2.2rem 0}
 .body h2:target,.body h3:target{color:var(--accent)}
 
+/* partner cards on the Resources page */
+.partner{max-width:var(--measure); margin:0 0 2rem; padding:1.4rem 1.6rem;
+  border:1px solid var(--faint); border-radius:14px; background:var(--panel);
+  display:flex; gap:1.3rem; align-items:flex-start}
+.partner-logo{flex:none; width:72px; height:72px; border-radius:14px; overflow:hidden;
+  border:1px solid var(--faint); background:var(--canvas);
+  display:flex; align-items:center; justify-content:center}
+.partner-logo a{display:flex; width:100%; height:100%; align-items:center; justify-content:center}
+.partner-logo img{width:100%; height:100%; object-fit:cover; display:block}
+.partner-text{min-width:0}
+.body .partner h3{margin:0; font-size:1.2rem; font-weight:800}
+.partner-kind{display:block; margin:.15rem 0 .7rem; font-size:.76rem; letter-spacing:.1em;
+  text-transform:uppercase; color:var(--muted); font-weight:700}
+.body .partner p:last-child{margin-bottom:0}
+@media (max-width:560px){
+  /* stack the mark above the copy so the text keeps the full width of the card */
+  .partner{padding:1.2rem; gap:.9rem; flex-direction:column; align-items:stretch}
+  .partner-logo{width:56px; height:56px; border-radius:12px}
+}
+
 /* table of contents (FAQ page) */
 .toc{max-width:var(--measure); margin:0 0 2rem; padding:1rem 1.3rem; border:1px solid var(--faint); border-radius:14px;
   background:var(--panel); font-size:.95rem}
