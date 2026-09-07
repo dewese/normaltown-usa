@@ -7,6 +7,7 @@ Site: https://www.normaltownusa.com/. Every page is free and has no paywall. Pos
 ## Start here
 
 - [Start Here](https://www.normaltownusa.com/start-here/): the reading paths and the three posts to read first.
+- [Resources](https://www.normaltownusa.com/resources/): the tools David's family pays for and uses, the free guides, and the disclosed referral links.
 - [FAQ](https://www.normaltownusa.com/faq/): short answers to the most common money, medical bill, health sharing, and bitcoin questions.
 - [About David Dewese](https://www.normaltownusa.com/about/): who writes this, how he researches, how the site makes money.
 - [Blog](https://www.normaltownusa.com/blog/): every post, newest first, grouped by topic.

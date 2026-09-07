@@ -54,7 +54,14 @@ AUTHOR_URL = f"{SITE_URL}/about/"
 AUTHOR_BIO = ("Normal guy with a full-time job, wife, and kids. Spent twenty years pursuing "
               "music and creative ventures before starting a family. Sharing tips and tricks "
               "on how to thrive while living on an artist's income. Not a financial advisor.")
+# The referral links, recorded here for reference; the pages that use them link directly.
 AFFILIATE_URL = "https://www.joincrowdhealth.com/?referral_code=NORMAL"
+RIVER_URL = "https://river.com/signup?r=EYL3QNCO"
+# Any outbound link to one of these hosts is marked rel="nofollow sponsored"
+# and names the company in the page's "mentions" schema.
+AFFILIATE_PARTNERS = (("joincrowdhealth.com", "CrowdHealth", "https://www.joincrowdhealth.com/"),
+                      ("river.com", "River", "https://river.com/"))
+AFFILIATE_HOSTS = tuple(h for h, _, _ in AFFILIATE_PARTNERS)
 CONTACT_EMAIL = "normaltownusa@gmail.com"
 GA_ID = "G-8MJ82YYL8M"   # Google Analytics 4 measurement ID; set to "" to drop the tag
 
@@ -172,7 +179,8 @@ def _inline(text):
         safe_url = html.escape(url, quote=True)
         attrs = ""
         if url.startswith("http"):
-            rel = "noopener nofollow sponsored" if "joincrowdhealth.com" in url else "noopener"
+            rel = ("noopener nofollow sponsored" if any(h in url for h in AFFILIATE_HOSTS)
+                   else "noopener")
             attrs = f' target="_blank" rel="{rel}"'
         if attrs:
             label += NEW_TAB
@@ -558,7 +566,6 @@ def load_posts(include_future=False):
             "minutes": max(1, round(words / 220)),
             "links": links,
             "category": classify(_row_value(pub, "Category"), title, slug),
-            "affiliate": "joincrowdhealth.com" in body_md,
         })
     posts.sort(key=lambda p: p["date"], reverse=True)
     return posts
@@ -851,8 +858,8 @@ h.addEventListener('keydown',function(e){if(e.key==='Escape'&&h.classList.contai
 
 CSS_VERSION = hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
 
-NAV = [("/start-here/", "Start Here"), ("/blog/", "Blog"), ("/faq/", "FAQ"),
-       ("/about/", "About"), ("/contact/", "Contact")]
+NAV = [("/start-here/", "Start Here"), ("/blog/", "Blog"), ("/resources/", "Resources"),
+       ("/faq/", "FAQ"), ("/about/", "About"), ("/contact/", "Contact")]
 
 
 def fmt_date(d):
@@ -1013,8 +1020,8 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 <footer class="site-foot"><div class="wrap">
   {signup}
   <span>&copy; {TODAY.year} {SITE_NAME}. {SITE_TAGLINE}.</span>
-  <span><a href="/blog/">All posts</a> &middot; <a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/accessibility/">Accessibility</a> &middot; <a href="/rss.xml">RSS</a></span>
-  <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. Some links (CrowdHealth, code NORMAL) pay a referral bonus at no extra cost to you. Health sharing is not insurance.</p>
+  <span><a href="/blog/">All posts</a> &middot; <a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/resources/">Resources</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/accessibility/">Accessibility</a> &middot; <a href="/rss.xml">RSS</a></span>
+  <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. Some links (CrowdHealth, code NORMAL, and River) pay a referral bonus at no extra cost to you. Health sharing is not insurance.</p>
 </div></footer>
 {MENU_SCRIPT}
 </body>
@@ -1247,8 +1254,10 @@ def render_post(p, posts):
         article["image"] = {"@type": "ImageObject", "url": og_image, "width": 1200, "height": 1200}
     if p["subtitle"]:
         article["alternativeHeadline"] = p["subtitle"]
-    if p["affiliate"]:
-        article["mentions"] = {"@type": "Organization", "name": "CrowdHealth", "url": "https://www.joincrowdhealth.com/"}
+    mentions = [{"@type": "Organization", "name": name, "url": url}
+                for host, name, url in AFFILIATE_PARTNERS if host in p["body_md"]]
+    if mentions:
+        article["mentions"] = mentions[0] if len(mentions) == 1 else mentions
     if p["sources"]:
         article["citation"] = [{"@type": "CreativeWork", "name": l, "url": u} for l, u, _ in p["sources"]]
     schema = [article, person_schema(), org_schema(), website_schema(),
@@ -1452,6 +1461,7 @@ def render_llms(posts):
            "insurance, health sharing), Bitcoin (saving, not gambling).", "",
            "## Start here", "",
            f"- [Start Here]({SITE_URL}/start-here/): the reading paths and the three posts to read first.",
+           f"- [Resources]({SITE_URL}/resources/): the tools David's family pays for and uses, the free guides, and the disclosed referral links.",
            f"- [FAQ]({SITE_URL}/faq/): short answers to the most common money, medical bill, health sharing, and bitcoin questions.",
            f"- [About David Dewese]({SITE_URL}/about/): who writes this, how he researches, how the site makes money.",
            f"- [Blog]({SITE_URL}/blog/): every post, newest first, grouped by topic.",
@@ -1556,7 +1566,7 @@ def check_links(posts, page_slugs):
             url = normalise_url(m.group(1)).split("#")[0]
             if url.startswith("/") and url not in valid:
                 problems.append((p["slug"], url))
-    for m in re.finditer(r'\]\(([^)]+)\)', "\n".join((SITE_DIR / f).read_text(encoding="utf-8") for f in ("start-here.md", "faqs.md", "author-bio.md") if (SITE_DIR / f).exists())):
+    for m in re.finditer(r'\]\(([^)]+)\)', "\n".join((SITE_DIR / f).read_text(encoding="utf-8") for f in ("start-here.md", "faqs.md", "author-bio.md", "resources.md") if (SITE_DIR / f).exists())):
         url = normalise_url(m.group(1)).split("#")[0]
         if url.startswith("/") and url not in valid:
             problems.append(("site page", url))
@@ -1595,6 +1605,13 @@ def main():
             "desc": ("New to Normaltown USA? Here's who it's for, what I write about, the three posts "
                      "to read first, and where my family actually landed on health insurance."),
             "page_title": "Start Here: Plain-English Money and Health Help, and Where to Begin",
+        },
+        "resources.md": {
+            "slug": "resources",
+            "desc": ("The tools my family actually pays for and uses, one-on-one help, the free "
+                     "guides on this site, and what's coming. Health sharing with CrowdHealth, "
+                     "buying bitcoin with River, and every referral link disclosed."),
+            "page_title": "Resources: The Money and Health Tools My Family Actually Uses",
         },
         "faqs.md": {
             "slug": "faq",
