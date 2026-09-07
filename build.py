@@ -916,8 +916,8 @@ def footer_signup():
     if NEWSLETTER_EMBED.strip():
         return f"""<div class="foot-sub">
     <span class="label" id="s-label">New posts by email</span>
-    <div class="embed" role="group" aria-labelledby="s-label">{NEWSLETTER_EMBED}</div>
-    <p class="fine">No spam, no selling your address. Leave anytime.</p>
+    <div class="embed" role="group" aria-labelledby="s-label" aria-describedby="s-hint">{NEWSLETTER_EMBED}</div>
+    <p class="fine" id="s-hint">Enter your email address above. No spam, no selling your address. Leave anytime.</p>
   </div>
   <script>(function(){{var e=document.querySelector('.foot-sub .embed');if(!e)return;function t(){{var f=e.querySelector('iframe');if(f&&!f.title)f.title='Email signup form';}}t();new MutationObserver(t).observe(e,{{childList:true,subtree:true}});}})();</script>"""
     import base64

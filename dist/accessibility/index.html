@@ -61,7 +61,8 @@
 <h2 id="what-s-in-place">What's in place</h2>
 <ul><li>Every page has a "Skip to content" link so keyboard users can jump past the menu.</li><li>Headings run in order, so screen reader users can navigate by structure instead of reading everything.</li><li>Every image has a text description, and decorative images are hidden from screen readers.</li><li>Links inside articles are underlined, so color is never the only thing marking a link.</li><li>Text and background colors meet or beat the 4.5 to 1 contrast the standard asks for.</li><li>The whole site works with a keyboard alone, and the focus outline is always visible.</li><li>Pages reflow down to a 320 pixel wide screen and survive heavy zoom without losing content.</li><li>Links that open a new tab say so for screen reader users.</li><li>Contact form fields have real labels, and required fields are called out.</li><li>If you've asked your device to reduce motion, the site honors that.</li></ul>
 <h2 id="the-known-gap">The known gap</h2>
-<p>The email signup box in the footer is an embedded form from beehiiv, a third-party service. I don't control its markup. I've configured it for contrast and labeling as far as its settings allow, and I add a name to the frame so screen readers announce it properly. If that form gives you trouble, <a href="/contact/">send me a message</a> with your email address and I'll add you myself.</p>
+<p>The email signup box in the footer is an embedded form from beehiiv, a third-party service, so I don't control its markup. Its text and background contrast is set correctly, and I add a name to the frame so screen readers announce it properly. What I can't add is a permanent visible label on the email field itself: beehiiv doesn't offer labels on a one-field form, so that field carries placeholder text instead, which disappears once you start typing. The instruction next to the form stays put and is read out with it.</p>
+<p>If that form gives you trouble for any reason, <a href="/contact/">send me a message</a> with your email address and I'll add you myself.</p>
 <h2 id="tell-me-if-something-s-broken">Tell me if something's broken</h2>
 <p>If any part of this site doesn't work for you, I want to know, and I'll fix it. Use the <a href="/contact/">contact form</a> and say what page you were on and what went wrong. I read every message myself and I'll write back.</p>
 <p>This statement was last reviewed in September 2026.</p></div>
@@ -73,8 +74,8 @@
 <footer class="site-foot"><div class="wrap">
   <div class="foot-sub">
     <span class="label" id="s-label">New posts by email</span>
-    <div class="embed" role="group" aria-labelledby="s-label"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="27669cbb-d776-41db-adde-6dad6f4d127a"></script></div>
-    <p class="fine">No spam, no selling your address. Leave anytime.</p>
+    <div class="embed" role="group" aria-labelledby="s-label" aria-describedby="s-hint"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="27669cbb-d776-41db-adde-6dad6f4d127a"></script></div>
+    <p class="fine" id="s-hint">Enter your email address above. No spam, no selling your address. Leave anytime.</p>
   </div>
   <script>(function(){var e=document.querySelector('.foot-sub .embed');if(!e)return;function t(){var f=e.querySelector('iframe');if(f&&!f.title)f.title='Email signup form';}t();new MutationObserver(t).observe(e,{childList:true,subtree:true});})();</script>
   <span>&copy; 2026 Normaltown USA. Money & Healthcare Made Simple.</span>
