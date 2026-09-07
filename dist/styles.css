@@ -51,6 +51,13 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .hero p{font-size:1.2rem; color:var(--muted); margin:0 0 .8rem; max-width:52ch}
 .hero p.promise{color:var(--ink); font-size:1.05rem; max-width:60ch}
 .hero .accent{color:var(--accent)}
+.hero.has-photo .wrap{display:grid; grid-template-columns:minmax(0,1fr) 16rem; gap:3rem; align-items:center}
+.hero-photo{margin:0; width:16rem; justify-self:end}
+.hero-photo img{display:block; width:100%; height:auto; border-radius:50%; box-shadow:0 0 0 1px var(--faint)}
+@media (max-width:820px){
+  .hero.has-photo .wrap{grid-template-columns:1fr; gap:1.6rem}
+  .hero-photo{width:11rem; justify-self:start; order:-1}
+}
 
 /* section headings + topic tiles */
 .section-title{font-size:.82rem; color:var(--muted); font-weight:700; text-transform:uppercase;
@@ -63,6 +70,13 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .tile h2,.tile h3{margin:0 0 .3rem; font-size:1.15rem; font-weight:800; letter-spacing:-.01em}
 .tile p{margin:0; color:var(--muted); font-size:.95rem}
 .tile .count{color:var(--accent); font-size:.8rem; font-weight:700; text-transform:uppercase; letter-spacing:.08em}
+.tile h2 a{color:var(--ink)}
+.tile h2 a:hover{color:var(--accent); text-decoration:none}
+.tile .start{margin:.9rem 0 0; padding-top:.8rem; border-top:1px solid var(--faint); font-size:.92rem}
+.tile .start span{display:block; color:var(--muted); font-size:.72rem; font-weight:700; text-transform:uppercase;
+  letter-spacing:.08em; margin-bottom:.15rem}
+.tile .start a{color:var(--ink); font-weight:700}
+.tile .start a:hover{color:var(--accent); text-decoration:none}
 @media (max-width:720px){.tiles{grid-template-columns:1fr}}
 
 /* post list */
@@ -102,8 +116,9 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .article-head .subtitle{font-size:1.25rem; color:var(--muted); margin:0}
 .short-answer{max-width:var(--measure); margin:0 auto 2rem; padding:1.2rem 1.4rem;
   border-left:3px solid var(--accent); background:var(--panel); border-radius:0 14px 14px 0}
-.short-answer .label{display:block; font-size:.78rem; font-weight:800; letter-spacing:.1em;
-  text-transform:uppercase; color:var(--accent); margin-bottom:.35rem}
+.short-answer .label{display:flex; align-items:center; gap:.6rem; font-size:.78rem; font-weight:800;
+  letter-spacing:.1em; text-transform:uppercase; color:var(--accent); margin-bottom:.5rem}
+.short-answer .avatar{width:36px; height:36px; border-radius:50%; border:2px solid var(--accent); flex:none}
 .short-answer p{margin:0; font-size:1.05rem}
 .hero-img{max-width:var(--measure); margin:0 auto 2.5rem; border-radius:14px;
   overflow:hidden; background:var(--panel); border:1px solid var(--faint)}
@@ -134,7 +149,8 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 /* author box, related, pager, CTA */
 .author-box{max-width:var(--measure); margin:2.5rem auto 0; padding:1.4rem 1.6rem;
   border:1px solid var(--faint); border-radius:14px; display:flex; gap:1.2rem; align-items:flex-start}
-.author-box img{width:64px; height:64px; border-radius:50%; object-fit:cover; flex:none; filter:grayscale(1)}
+.author-box img{width:72px; height:72px; border-radius:50%; object-fit:cover; object-position:center 35%;
+  flex:none; background:var(--faint); border:1px solid var(--faint)}
 .author-box .name{font-weight:800; margin:0 0 .2rem; font-size:1rem}
 .author-box p{margin:0; color:var(--muted); font-size:.95rem}
 .related{max-width:var(--measure); margin:2.5rem auto 0}
@@ -146,6 +162,14 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .related a{font-weight:700; color:var(--ink)}
 .related a:hover{color:var(--accent); text-decoration:none}
 .related span{display:block; color:var(--muted); font-size:.92rem}
+.sources{max-width:var(--measure); margin:2.5rem auto 0}
+.sources h2{font-size:.82rem; color:var(--muted); font-weight:700; text-transform:uppercase;
+  letter-spacing:.1em; margin:0 0 .4rem}
+.sources > p{margin:0 0 .6rem; color:var(--muted); font-size:.92rem}
+.sources ol{margin:0; padding-left:1.25rem; font-size:.95rem}
+.sources li{padding:.3rem 0; color:var(--muted)}
+.sources a{font-weight:700; color:var(--ink)}
+.sources a:hover{color:var(--accent); text-decoration:none}
 .pager{max-width:var(--measure); margin:2rem auto 0; display:flex; justify-content:space-between;
   gap:1rem; font-size:.95rem}
 .pager a{color:var(--muted); max-width:48%}
@@ -206,7 +230,20 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .site-foot .wrap{display:flex; justify-content:space-between; gap:1rem; flex-wrap:wrap}
 .site-foot a{color:var(--muted)}
 .site-foot a:hover{color:var(--ink)}
-.site-foot .disclaimer{width:100%; font-size:.82rem; max-width:70ch}
+.site-foot .disclaimer{width:100%; font-size:.82rem}
+.foot-sub{width:100%; margin:0 0 1.4rem; padding:0 0 1.6rem; border-bottom:1px solid var(--faint)}
+.foot-sub .label{display:block; font-weight:800; color:var(--ink); font-size:1rem; margin:0 0 .6rem}
+.foot-sub .row{display:flex; gap:.5rem; max-width:26rem}
+.foot-sub .embed{max-width:26rem; min-height:3rem}
+.foot-sub .embed iframe{display:block; width:100%; border:0}
+.foot-sub input[type=email]{flex:1; min-width:0; font:inherit; color:var(--ink); background:var(--canvas);
+  border:1px solid var(--faint); border-radius:999px; padding:.6rem 1rem}
+.foot-sub input[type=email]:focus{outline:none; border-color:var(--accent)}
+.foot-sub button{font:inherit; font-weight:800; color:#0F0F0F; background:var(--accent); border:none;
+  border-radius:999px; padding:.6rem 1.1rem; cursor:pointer; white-space:nowrap}
+.foot-sub button:hover{filter:brightness(1.08)}
+.foot-sub .fine{margin:.5rem 0 0; font-size:.8rem}
+.foot-sub .hp{position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden}
 
 @media (max-width:640px){
   body{font-size:17px}

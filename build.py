@@ -51,12 +51,25 @@ HOME_DESC = ("Plain-English help with money, medical bills, health insurance, he
 AUTHOR = "David Dewese"
 AUTHOR_FIRST = "David"
 AUTHOR_URL = f"{SITE_URL}/about/"
-AUTHOR_BIO = ("Regular guy with a full-time job, a wife, and two little girls. Twenty-five "
-              "years in marketing, twenty-five making music. I got tired of how money and "
-              "healthcare get explained to normal people, so I do the homework and write "
-              "it down the way I'd tell a friend. Not a financial advisor.")
+AUTHOR_BIO = ("Normal guy with a full-time job, wife, and kids. Spent twenty years pursuing "
+              "music and creative ventures before starting a family. Sharing tips and tricks "
+              "on how to thrive while living on an artist's income. Not a financial advisor.")
 AFFILIATE_URL = "https://www.joincrowdhealth.com/?referral_code=NORMAL"
 CONTACT_EMAIL = "normaltownusa@gmail.com"
+GA_ID = "G-8MJ82YYL8M"   # Google Analytics 4 measurement ID; set to "" to drop the tag
+
+# Footer newsletter signup, on every page: beehiiv's inline embed (Subscribers > Subscribe
+# forms > the form > Get embed code). The loader script renders the form in an iframe and
+# already handles UTM/referrer attribution, so beehiiv's separate attribution.js is not
+# needed. The label and fine print around it are ours, so only the field and button need
+# styling inside beehiiv's builder. Set this to "" to fall back to a plain FormSubmit form
+# that emails each signup to CONTACT_EMAIL.
+NEWSLETTER_EMBED = ('<script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" '
+                    'data-beehiiv-form="27669cbb-d776-41db-adde-6dad6f4d127a"></script>')
+
+# "Updated" dates: a commit that touches more than this many articles at once is a
+# site-wide edit (a template or wording pass), not a content update, and is ignored.
+MASS_EDIT_FILES = 3
 
 MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
           "August", "September", "October", "November", "December"]
@@ -75,6 +88,7 @@ CATEGORIES = {
     "money": {
         "name": "Money",
         "title": "Money for Normal People",
+        "blurb": "Why you feel broke on a decent income, where it leaks out, and small moves that actually help.",
         "page_title": "Money for Normal People: Budgets, Raises, Debt, and Leaks Explained Plainly",
         "description": ("Plain-English money help for working families: why you feel broke on a "
                         "good income, where money leaks out, credit card interest, budgets that "
@@ -86,6 +100,7 @@ CATEGORIES = {
     "health": {
         "name": "Health",
         "title": "Health Insurance, Medical Bills, and Health Sharing",
+        "blurb": "Why medical bills surprise you, how to pay less for care, and an honest look at health sharing.",
         "page_title": "Medical Bills, Health Insurance, and Health Sharing Explained in Plain English",
         "description": ("Why you get big bills with insurance, how deductibles and HSAs really work, "
                         "how to ask for the cash price, how to negotiate a hospital bill, and an "
@@ -98,6 +113,7 @@ CATEGORIES = {
     "bitcoin": {
         "name": "Bitcoin",
         "title": "Bitcoin and the Dollar, Explained Calmly",
+        "blurb": "Why the dollar loses value and where bitcoin fits as savings, not gambling.",
         "page_title": "Bitcoin for Normal People: Saving, Not Gambling, Explained Calmly",
         "description": ("A calm, plain-English look at why the dollar loses value over time and where "
                         "bitcoin fits as savings, not gambling: how to buy a first $20, how much is too "
@@ -283,6 +299,36 @@ def extract_short_answer(body_md):
     return None, body_md
 
 
+SOURCES_HEADING = re.compile(r'^##\s+(sources|where i checked|references|further reading)\b', re.IGNORECASE)
+SOURCE_ITEM = re.compile(r'^[-*]\s+(?:\[([^\]]+)\]\((https?://[^)\s]+)\)|<?(https?://\S+?)>?)\s*[:.,\u2014-]*\s*(.*)$')
+
+
+def extract_sources(md):
+    """A `## Sources` section whose items are `- [Label](url): note` is pulled out of
+    the body and rendered as its own Sources box (and as `citation` in the schema).
+    Returns ([(label, url, note)], body_without_the_section)."""
+    sources, out, in_section = [], [], False
+    for line in md.split("\n"):
+        s = line.strip()
+        if s.startswith("## ") or s.startswith("# "):
+            in_section = bool(SOURCES_HEADING.match(s))
+            if in_section:
+                continue
+        if in_section:
+            if s == "---":          # the trailing disclaimer rule ends the section
+                in_section = False
+                out.append(line)
+                continue
+            m = SOURCE_ITEM.match(s)
+            if m:
+                url = m.group(2) or m.group(3)
+                label = (m.group(1) or re.sub(r'^https?://(www\.)?', '', url).rstrip('/')).strip()
+                sources.append((label, url.strip(), m.group(4).strip().rstrip('.')))
+            continue                # intro sentences inside the section are not rendered
+        out.append(line)
+    return sources, "\n".join(out)
+
+
 FAQ_HEADING = re.compile(r'^##\s+.*(question|faq|people ask)', re.IGNORECASE)
 
 
@@ -364,6 +410,58 @@ def git_modified(path):
         return None
 
 
+_ARTICLE_HISTORY = None
+
+
+def article_history():
+    """{repo-relative article path: [(commit date, was_created_here, n_articles_in_commit), ...]}
+    newest first, from a single git call. Empty when git/history is unavailable."""
+    global _ARTICLE_HISTORY
+    if _ARTICLE_HISTORY is not None:
+        return _ARTICLE_HISTORY
+    _ARTICLE_HISTORY = {}
+    try:
+        out = subprocess.run(["git", "log", "--format=%x00%cs", "--name-status", "--", "Posts/*/article.md"],
+                             capture_output=True, text=True, cwd=ROOT, timeout=20).stdout
+    except Exception:
+        return _ARTICLE_HISTORY
+    for chunk in out.split("\x00")[1:]:
+        lines = [l for l in chunk.split("\n") if l.strip()]
+        if not lines:
+            continue
+        try:
+            d = date.fromisoformat(lines[0].strip())
+        except ValueError:
+            continue
+        files = []
+        for l in lines[1:]:
+            cells = l.split("\t")
+            if len(cells) >= 2:
+                files.append((cells[-1], cells[0].startswith("A")))
+        for path, added in files:
+            _ARTICLE_HISTORY.setdefault(path, []).append((d, added, len(files)))
+    return _ARTICLE_HISTORY
+
+
+def article_modified(article, pub, pub_date):
+    """When a post was last substantively updated. An explicit `| Updated | YYYY-MM-DD |`
+    row in publish.md wins. Otherwise: the newest commit that edited this article on its
+    own, skipping the commit that created it and any commit touching many articles at
+    once (a site-wide wording or template pass). Falls back to the publish date."""
+    explicit = _row_value(pub, "Updated")
+    if explicit:
+        try:
+            return max(date.fromisoformat(explicit.strip()[:10]), pub_date)
+        except ValueError:
+            pass
+    rel = article.relative_to(ROOT).as_posix()
+    for d, added, n in article_history().get(rel, []):
+        if added or n > MASS_EDIT_FILES:
+            continue
+        return max(d, pub_date)
+    return pub_date
+
+
 def load_posts(include_future=False):
     posts = []
     # First pass: which slugs are written ahead but not yet live?
@@ -403,6 +501,7 @@ def load_posts(include_future=False):
             title_tag = None
 
         short, body_md = extract_short_answer(body_md)
+        sources, body_md = extract_sources(body_md)
 
         first_para = ""
         for para in body_md.split("\n\n"):
@@ -425,9 +524,7 @@ def load_posts(include_future=False):
         ids = set()
         body_html = md_to_html(body_md, drop_email_cta=False, ids=ids)
         words = len(plain_text(body_md).split())
-        modified = git_modified(article)
-        if not modified or modified < pub_date:
-            modified = pub_date
+        modified = article_modified(article, pub, pub_date)
         links = set(re.findall(r'\]\((?:https?://(?:www\.)?normaltownusa\.com)?/p/([^/)#]+)', body_md))
 
         posts.append({
@@ -440,6 +537,7 @@ def load_posts(include_future=False):
             "subtitle": subtitle,
             "meta": meta,
             "short": short,
+            "sources": sources,
             "preview": first_para,
             "alt": alt,
             "png": png,
@@ -514,6 +612,13 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .hero p{font-size:1.2rem; color:var(--muted); margin:0 0 .8rem; max-width:52ch}
 .hero p.promise{color:var(--ink); font-size:1.05rem; max-width:60ch}
 .hero .accent{color:var(--accent)}
+.hero.has-photo .wrap{display:grid; grid-template-columns:minmax(0,1fr) 16rem; gap:3rem; align-items:center}
+.hero-photo{margin:0; width:16rem; justify-self:end}
+.hero-photo img{display:block; width:100%; height:auto; border-radius:50%; box-shadow:0 0 0 1px var(--faint)}
+@media (max-width:820px){
+  .hero.has-photo .wrap{grid-template-columns:1fr; gap:1.6rem}
+  .hero-photo{width:11rem; justify-self:start; order:-1}
+}
 
 /* section headings + topic tiles */
 .section-title{font-size:.82rem; color:var(--muted); font-weight:700; text-transform:uppercase;
@@ -526,6 +631,13 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .tile h2,.tile h3{margin:0 0 .3rem; font-size:1.15rem; font-weight:800; letter-spacing:-.01em}
 .tile p{margin:0; color:var(--muted); font-size:.95rem}
 .tile .count{color:var(--accent); font-size:.8rem; font-weight:700; text-transform:uppercase; letter-spacing:.08em}
+.tile h2 a{color:var(--ink)}
+.tile h2 a:hover{color:var(--accent); text-decoration:none}
+.tile .start{margin:.9rem 0 0; padding-top:.8rem; border-top:1px solid var(--faint); font-size:.92rem}
+.tile .start span{display:block; color:var(--muted); font-size:.72rem; font-weight:700; text-transform:uppercase;
+  letter-spacing:.08em; margin-bottom:.15rem}
+.tile .start a{color:var(--ink); font-weight:700}
+.tile .start a:hover{color:var(--accent); text-decoration:none}
 @media (max-width:720px){.tiles{grid-template-columns:1fr}}
 
 /* post list */
@@ -565,8 +677,9 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .article-head .subtitle{font-size:1.25rem; color:var(--muted); margin:0}
 .short-answer{max-width:var(--measure); margin:0 auto 2rem; padding:1.2rem 1.4rem;
   border-left:3px solid var(--accent); background:var(--panel); border-radius:0 14px 14px 0}
-.short-answer .label{display:block; font-size:.78rem; font-weight:800; letter-spacing:.1em;
-  text-transform:uppercase; color:var(--accent); margin-bottom:.35rem}
+.short-answer .label{display:flex; align-items:center; gap:.6rem; font-size:.78rem; font-weight:800;
+  letter-spacing:.1em; text-transform:uppercase; color:var(--accent); margin-bottom:.5rem}
+.short-answer .avatar{width:36px; height:36px; border-radius:50%; border:2px solid var(--accent); flex:none}
 .short-answer p{margin:0; font-size:1.05rem}
 .hero-img{max-width:var(--measure); margin:0 auto 2.5rem; border-radius:14px;
   overflow:hidden; background:var(--panel); border:1px solid var(--faint)}
@@ -597,7 +710,8 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 /* author box, related, pager, CTA */
 .author-box{max-width:var(--measure); margin:2.5rem auto 0; padding:1.4rem 1.6rem;
   border:1px solid var(--faint); border-radius:14px; display:flex; gap:1.2rem; align-items:flex-start}
-.author-box img{width:64px; height:64px; border-radius:50%; object-fit:cover; flex:none; filter:grayscale(1)}
+.author-box img{width:72px; height:72px; border-radius:50%; object-fit:cover; object-position:center 35%;
+  flex:none; background:var(--faint); border:1px solid var(--faint)}
 .author-box .name{font-weight:800; margin:0 0 .2rem; font-size:1rem}
 .author-box p{margin:0; color:var(--muted); font-size:.95rem}
 .related{max-width:var(--measure); margin:2.5rem auto 0}
@@ -609,6 +723,14 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .related a{font-weight:700; color:var(--ink)}
 .related a:hover{color:var(--accent); text-decoration:none}
 .related span{display:block; color:var(--muted); font-size:.92rem}
+.sources{max-width:var(--measure); margin:2.5rem auto 0}
+.sources h2{font-size:.82rem; color:var(--muted); font-weight:700; text-transform:uppercase;
+  letter-spacing:.1em; margin:0 0 .4rem}
+.sources > p{margin:0 0 .6rem; color:var(--muted); font-size:.92rem}
+.sources ol{margin:0; padding-left:1.25rem; font-size:.95rem}
+.sources li{padding:.3rem 0; color:var(--muted)}
+.sources a{font-weight:700; color:var(--ink)}
+.sources a:hover{color:var(--accent); text-decoration:none}
 .pager{max-width:var(--measure); margin:2rem auto 0; display:flex; justify-content:space-between;
   gap:1rem; font-size:.95rem}
 .pager a{color:var(--muted); max-width:48%}
@@ -669,7 +791,20 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .site-foot .wrap{display:flex; justify-content:space-between; gap:1rem; flex-wrap:wrap}
 .site-foot a{color:var(--muted)}
 .site-foot a:hover{color:var(--ink)}
-.site-foot .disclaimer{width:100%; font-size:.82rem; max-width:70ch}
+.site-foot .disclaimer{width:100%; font-size:.82rem}
+.foot-sub{width:100%; margin:0 0 1.4rem; padding:0 0 1.6rem; border-bottom:1px solid var(--faint)}
+.foot-sub .label{display:block; font-weight:800; color:var(--ink); font-size:1rem; margin:0 0 .6rem}
+.foot-sub .row{display:flex; gap:.5rem; max-width:26rem}
+.foot-sub .embed{max-width:26rem; min-height:3rem}
+.foot-sub .embed iframe{display:block; width:100%; border:0}
+.foot-sub input[type=email]{flex:1; min-width:0; font:inherit; color:var(--ink); background:var(--canvas);
+  border:1px solid var(--faint); border-radius:999px; padding:.6rem 1rem}
+.foot-sub input[type=email]:focus{outline:none; border-color:var(--accent)}
+.foot-sub button{font:inherit; font-weight:800; color:#0F0F0F; background:var(--accent); border:none;
+  border-radius:999px; padding:.6rem 1.1rem; cursor:pointer; white-space:nowrap}
+.foot-sub button:hover{filter:brightness(1.08)}
+.foot-sub .fine{margin:.5rem 0 0; font-size:.8rem}
+.foot-sub .hp{position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden}
 
 @media (max-width:640px){
   body{font-size:17px}
@@ -723,7 +858,7 @@ def person_schema(full=False):
         "url": AUTHOR_URL,
         "jobTitle": "Writer and founder, Normaltown USA",
         "description": AUTHOR_BIO,
-        "image": f"{SITE_URL}/about/family.jpg",
+        "image": f"{SITE_URL}/about/david-dewese-round.png",
         "worksFor": {"@id": f"{SITE_URL}/#organization"},
         "knowsAbout": ["personal finance for families", "medical bills", "health insurance",
                        "health sharing", "CrowdHealth", "cash prices for medical care",
@@ -746,9 +881,46 @@ def website_schema():
     }
 
 
+def ga_tag():
+    """Google Analytics 4. Loads on every page; only reports from the real hostname so
+    local previews don't show up as visits."""
+    if not GA_ID:
+        return ""
+    return ('<script async src="https://www.googletagmanager.com/gtag/js?id=' + GA_ID + '"></script>\n'
+            "<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}"
+            "gtag('js',new Date());if(!/^(localhost|127\\.0\\.0\\.1)$/.test(location.hostname))"
+            "gtag('config','" + GA_ID + "');</script>\n")
+
+
+def footer_signup():
+    """Minimal email signup for the site footer. Uses the beehiiv embed when
+    NEWSLETTER_EMBED is set; otherwise a FormSubmit form that emails each signup to
+    CONTACT_EMAIL (same free endpoint as the contact form) and lands on /subscribed/."""
+    if NEWSLETTER_EMBED.strip():
+        return f"""<div class="foot-sub">
+    <span class="label" id="s-label">New posts by email</span>
+    <div class="embed" role="group" aria-labelledby="s-label">{NEWSLETTER_EMBED}</div>
+    <p class="fine">No spam, no selling your address. Leave anytime.</p>
+  </div>"""
+    import base64
+    target = base64.b64encode(f"https://formsubmit.co/{CONTACT_EMAIL}".encode()).decode()
+    return f"""<form class="foot-sub" method="POST" data-t="{target}">
+    <input type="hidden" name="_subject" value="Normaltown USA: new email signup">
+    <input type="hidden" name="_template" value="table">
+    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_next" value="{SITE_URL}/subscribed/">
+    <div class="hp" aria-hidden="true"><label for="s-honey">Leave this empty</label><input type="text" id="s-honey" name="_honey" tabindex="-1" autocomplete="off"></div>
+    <label class="label" for="s-email">New posts by email</label>
+    <div class="row"><input type="email" id="s-email" name="email" required autocomplete="email" placeholder="you@example.com"><button type="submit">Sign up</button></div>
+    <p class="fine">No spam, no selling your address. Leave anytime.</p>
+  </form>
+  <script>(function(){{var f=document.querySelector('form.foot-sub');if(f)f.action=atob(f.getAttribute('data-t'));}})();</script>"""
+
+
 def layout(title, description, body, canonical, og_image=None, og_type="article",
            schema=None, current=None, extra_head="", og_size=None, page_title=None):
     desc = html.escape(description or SITE_TAGLINE, quote=True)
+    ga, signup = ga_tag(), footer_signup()
     if page_title is None:
         page_title = title if title == SITE_NAME else f"{title} | {SITE_NAME}"
     og_image = og_image or f"{SITE_URL}/assets/og-default.png"
@@ -766,7 +938,7 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script>if(/\.(workers|pages)\.dev$/.test(location.hostname)||location.hostname==="normaltownusa.com")location.replace("{SITE_URL}"+location.pathname+location.search+location.hash);</script>
-<title>{html.escape(page_title)}</title>
+{ga}<title>{html.escape(page_title)}</title>
 <meta name="description" content="{desc}">
 <meta name="author" content="{AUTHOR}">
 <meta name="theme-color" content="#0F0F0F">
@@ -808,6 +980,7 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 {body}
 </main>
 <footer class="site-foot"><div class="wrap">
+  {signup}
   <span>&copy; {TODAY.year} {SITE_NAME}. {SITE_TAGLINE}.</span>
   <span><a href="/blog/">All posts</a> &middot; <a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/rss.xml">RSS</a></span>
   <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. Some links (CrowdHealth, code NORMAL) pay a referral bonus at no extra cost to you. Health sharing is not insurance.</p>
@@ -842,21 +1015,36 @@ START_HERE_SLUGS = ["nobody-gets-paid-to-make-you-well", "why-you-feel-broke-on-
 
 def render_home(posts):
     lookup = by_slug(posts)
-    hero = f"""<section class="hero"><div class="wrap">
+    photo = ""
+    if HOME_HEADSHOT.exists():
+        srcset = "/about/david-dewese-round.png 850w"
+        if HOME_HEADSHOT_SM.exists():
+            srcset = "/about/david-dewese-round-520.png 520w, " + srcset
+        photo = f"""<figure class="hero-photo"><img src="/about/david-dewese-round-520.png" srcset="{srcset}"
+        sizes="(max-width:820px) 11rem, 16rem" alt="{html.escape(HOME_HEADSHOT_ALT, quote=True)}" width="850" height="850" fetchpriority="high"></figure>"""
+    hero = f"""<section class="hero{' has-photo' if photo else ''}"><div class="wrap">
+      <div class="hero-copy">
       <h1>Keep more of the money <span class="accent">you already make</span>.</h1>
       <p>Plain-English money and healthcare help from a regular guy with a full-time job and a family of four, for regular people with full-time jobs. One idea per post, short enough to read with your coffee.</p>
       <p class="promise">Read for a month and you'll know how to ask for the cash price on a medical bill, name the leaks quietly draining your paycheck, build a first $1,000 cushion, and save a little in something that holds its value. Almost nobody teaches this, because almost nobody gets paid to.</p>
+      </div>
+      {photo}
     </div></section>"""
-    featured = [lookup[s] for s in START_HERE_SLUGS if s in lookup]
-    feat_html = ""
-    if featured:
-        feat_html = '<section class="featured"><div class="wrap"><p class="section-title">New here? Read these three first</p><div class="tiles">' + "".join(
-            f'<a class="tile" href="/p/{p["slug"]}/"><span class="count">{CATEGORIES[p["category"]]["name"]}</span><h2>{html.escape(p["title"])}</h2><p>{html.escape(p["meta"] or "")}</p></a>'
-            for p in featured) + '</div></div></section>'
+    # One topic tile per category, each with a "Start with" link to that topic's
+    # cornerstone post (the START_HERE_SLUGS, one per category).
+    start_with = {lookup[s]["category"]: lookup[s] for s in START_HERE_SLUGS if s in lookup}
     counts = {k: sum(1 for p in posts if p["category"] == k) for k in CATEGORIES}
-    tiles = '<section class="featured"><div class="wrap"><p class="section-title">Pick a topic</p><div class="tiles">' + "".join(
-        f'<a class="tile" href="/{k}/"><span class="count">{counts[k]} posts</span><h2>{html.escape(c["title"])}</h2><p>{html.escape(c["description"].split(":")[0] if ":" in c["description"] else c["description"])}</p></a>'
-        for k, c in CATEGORIES.items()) + '</div></div></section>'
+    tile_html = []
+    for k, c in CATEGORIES.items():
+        desc = c.get("blurb") or c["description"]
+        first = start_with.get(k)
+        start = (f'<p class="start"><span>Start with</span> <a href="/p/{first["slug"]}/">{html.escape(first["title"])}</a></p>'
+                 if first else "")
+        tile_html.append(f'<div class="tile"><span class="count">{c["name"]} &middot; {counts[k]} posts</span>'
+                         f'<h2><a href="/{k}/">{html.escape(c["title"])}</a></h2><p>{html.escape(desc)}</p>{start}</div>')
+    feat_html = ""
+    tiles = ('<section class="featured"><div class="wrap"><p class="section-title">New here? Pick a topic</p>'
+             '<div class="tiles">' + "".join(tile_html) + '</div></div></section>')
     cards = "\n".join(post_card(p) for p in posts[:10])
     more = f'<p class="more"><a href="/blog/">See all {len(posts)} posts</a></p>' if len(posts) > 10 else ""
     body = hero + feat_html + tiles + f'<section class="list"><div class="wrap"><p class="section-title">Latest posts</p>{cards}{more}</div></section>'
@@ -948,10 +1136,21 @@ def render_post(p, posts):
         og_image = f"{canonical}{p['png_name']}"
     short = ""
     if p["short"]:
-        short = f'<div class="short-answer"><span class="label">In short</span><p>{_inline(p["short"])}</p></div>'
+        avatar = ('<img class="avatar" src="/about/david-dewese-round-96.png" alt="" width="36" height="36">'
+                  if HOME_HEADSHOT_XS.exists() else "")
+        short = f'<div class="short-answer"><span class="label">{avatar}In short</span><p>{_inline(p["short"])}</p></div>'
     updated = ""
     if p["modified"] > p["date"]:
         updated = f'<span>Updated <time datetime="{p["modified"].isoformat()}">{fmt_date(p["modified"])}</time></span>'
+
+    sources_html = ""
+    if p["sources"]:
+        items = "".join(
+            f'<li><a href="{html.escape(u, quote=True)}" target="_blank" rel="noopener">{html.escape(l)}</a>'
+            + (f' <span>{html.escape(n)}.</span>' if n else "") + "</li>"
+            for l, u, n in p["sources"])
+        sources_html = (f'<aside class="sources" id="sources"><h2>Sources</h2>'
+                        f'<p>Where I checked the numbers and claims in this post.</p><ol>{items}</ol></aside>')
 
     rel = related_posts(p, posts)
     related = ""
@@ -971,7 +1170,7 @@ def render_post(p, posts):
         pager = f'<nav class="pager" aria-label="Older and newer posts">{o}{nw}</nav>'
 
     author_box = f"""<aside class="author-box">
-        <img src="/about/family-700.jpg" alt="{AUTHOR} with his family" width="64" height="64" loading="lazy">
+        <img src="/about/david-dewese-240.png" alt="{AUTHOR}" width="72" height="72" loading="lazy">
         <div><p class="name">Written by <a href="/about/">{AUTHOR}</a></p>
         <p>{html.escape(AUTHOR_BIO)} <a href="/about/">More about me</a>.</p></div>
       </aside>"""
@@ -986,6 +1185,7 @@ def render_post(p, posts):
       {short}
       {hero_img}
       <div class="body">{p['body_html']}</div>
+      {sources_html}
       {author_box}
       {related}
       {pager}
@@ -1017,6 +1217,8 @@ def render_post(p, posts):
         article["alternativeHeadline"] = p["subtitle"]
     if p["affiliate"]:
         article["mentions"] = {"@type": "Organization", "name": "CrowdHealth", "url": "https://www.joincrowdhealth.com/"}
+    if p["sources"]:
+        article["citation"] = [{"@type": "CreativeWork", "name": l, "url": u} for l, u, _ in p["sources"]]
     schema = [article, person_schema(), org_schema(), website_schema(),
               {"@type": "BreadcrumbList", "@id": f"{canonical}#crumbs", "itemListElement": [
                   {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE_URL + "/"},
@@ -1115,6 +1317,12 @@ def render_page(title, md_body, slug, description, figure="", page_class="", og_
 # About page photo: black-and-white family portrait, 4:5, two sizes for srcset.
 ABOUT_PHOTO = SITE_DIR / "about-family.jpg"          # 1400x1750
 ABOUT_PHOTO_SM = SITE_DIR / "about-family-700.jpg"   # 700x875
+AUTHOR_HEADSHOT = SITE_DIR / "author-headshot.png"        # transparent B&W cutout, 595x793 (Person schema image)
+AUTHOR_HEADSHOT_SM = SITE_DIR / "author-headshot-240.png"  # 180x240 copy for the round author-box avatar
+HOME_HEADSHOT = SITE_DIR / "home-headshot.png"            # 850x850 round B&W headshot, homepage hero + Person schema
+HOME_HEADSHOT_SM = SITE_DIR / "home-headshot-520.png"     # 520x520 copy for the hero at 1x/2x
+HOME_HEADSHOT_XS = SITE_DIR / "home-headshot-96.png"      # 96x96 copy for the tiny avatar beside "In short"
+HOME_HEADSHOT_ALT = "David Dewese, smiling, in a black and white headshot."
 ABOUT_PHOTO_ALT = ("Black and white photo of David Dewese kneeling with his wife and two "
                    "daughters, everyone laughing, in front of giant paper letters.")
 ABOUT_PHOTO_CAPTION = "The whole reason I do the homework."
@@ -1247,6 +1455,8 @@ def render_llms_full(posts):
                       re.sub(r'\]\(https?://(?:www\.)?normaltownusa\.com(/p/[^)]+?)/?\)',
                              lambda m: f"]({SITE_URL}{m.group(1)}/)", p["body_md"]))
         out += [body.strip(), ""]
+        if p["sources"]:
+            out += ["Sources:"] + [f"- {l}: {u}" for l, u, _ in p["sources"]] + [""]
     return "\n".join(out)
 
 
@@ -1267,6 +1477,9 @@ HEADERS = """# Cloudflare Pages headers (https://developers.cloudflare.com/pages
   Cache-Control: public, max-age=2592000
 
 /about/*.jpg
+  Cache-Control: public, max-age=2592000
+
+/about/*.png
   Cache-Control: public, max-age=2592000
 
 /llms.txt
@@ -1375,6 +1588,12 @@ def main():
             "page_title": "Got it, thanks",
             "noindex": True,
         },
+        "subscribed.md": {
+            "slug": "subscribed",
+            "desc": "You're on the list. New posts will show up in your inbox.",
+            "page_title": "You're in",
+            "noindex": True,
+        },
     }
     page_slugs, sitemap_pages = [], [(SITE_URL + "/", TODAY)]
     for fname, cfg in page_map.items():
@@ -1392,6 +1611,16 @@ def main():
             shutil.copy(ABOUT_PHOTO, DIST / slug / "family.jpg")
             if ABOUT_PHOTO_SM.exists():
                 shutil.copy(ABOUT_PHOTO_SM, DIST / slug / "family-700.jpg")
+            if AUTHOR_HEADSHOT.exists():
+                shutil.copy(AUTHOR_HEADSHOT, DIST / slug / "david-dewese.png")
+            if AUTHOR_HEADSHOT_SM.exists():
+                shutil.copy(AUTHOR_HEADSHOT_SM, DIST / slug / "david-dewese-240.png")
+            if HOME_HEADSHOT.exists():
+                shutil.copy(HOME_HEADSHOT, DIST / slug / "david-dewese-round.png")
+            if HOME_HEADSHOT_SM.exists():
+                shutil.copy(HOME_HEADSHOT_SM, DIST / slug / "david-dewese-round-520.png")
+            if HOME_HEADSHOT_XS.exists():
+                shutil.copy(HOME_HEADSHOT_XS, DIST / slug / "david-dewese-round-96.png")
             schema.append(person_schema(full=True))
             schema.append({"@type": "AboutPage", "@id": page_url + "#page", "url": page_url,
                            "name": cfg["page_title"], "description": cfg["desc"],

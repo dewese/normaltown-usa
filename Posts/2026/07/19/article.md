@@ -110,6 +110,14 @@ No. Your doctor almost certainly wants you healthy. The problem is the plumbing,
 
 Health sharing is one. My family of four uses CrowdHealth, which charges a flat $60 a month per person and makes its money from that fee, not a cut of your claims. It's not insurance, there's no legal guarantee a bill gets paid, and it's wrong for some people. Start with [What Is Health Sharing?](/p/what-is-health-sharing/).
 
+## Sources
+
+- [HealthCare.gov: Rate Review and the 80/20 Rule](https://www.healthcare.gov/health-care-law-protections/rate-review/): the rule that insurers spend at least 80% of premiums on care (85% for large group plans).
+- [healthinsurance.org: ACA medical loss ratio rebates](https://www.healthinsurance.org/obamacare/billions-in-aca-rebates-show-80-20-rules-impact/): insurers paid back close to $1 billion in rebates in 2024.
+- [Health Affairs: The Unintended Consequences of the ACA's Medical Loss Ratio Requirement](https://www.healthaffairs.org/content/forefront/unintended-consequences-aca-s-medical-loss-ratio-requirement): RAND researchers on why a capped slice can push total spending up.
+- [CrowdHealth pricing](https://www.joincrowdhealth.com/pricing): the flat monthly fee and how the service makes its money.
+- [CrowdHealth member guide](https://www.joincrowdhealth.com/resources/member-guide): what health sharing is not (insurance), eligibility rules, and limits.
+
 ---
 
 *Nothing here is financial, medical, tax, or legal advice. I'm just a guy who did the homework, sharing what I learned. You make your own calls. This post contains an affiliate link to CrowdHealth. If you join through it, I may earn a referral at no extra cost to you.*
