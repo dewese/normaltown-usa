@@ -61,11 +61,19 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .hero p.promise{color:var(--ink); font-size:1.05rem; max-width:60ch}
 .hero .accent{color:var(--accent)}
 .hero.has-photo .wrap{display:grid; grid-template-columns:minmax(0,1fr) 16rem; gap:3rem; align-items:center}
-.hero-photo{margin:0; width:16rem; justify-self:end}
-.hero-photo img{display:block; width:100%; height:auto; border-radius:50%; box-shadow:0 0 0 1px var(--faint)}
+.hero-photo{margin:0; width:16rem; justify-self:end; isolation:isolate}
+.hero-photo img{display:block; width:100%; height:auto; border-radius:50%; background:var(--panel);
+  border:1px solid var(--faint);
+  box-shadow:12px 12px 0 -1px var(--canvas), 12px 12px 0 0 var(--accent)}
+.hero-photo figcaption{margin:1.6rem 0 0; color:var(--muted); font-size:.9rem;
+  line-height:1.5; display:flex; gap:.6rem; align-items:baseline}
+.hero-photo figcaption::before{content:""; flex:none; width:.5rem; height:.5rem;
+  border-radius:50%; background:var(--accent); transform:translateY(-.05rem)}
 @media (max-width:820px){
   .hero.has-photo .wrap{grid-template-columns:1fr; gap:1.6rem}
   .hero-photo{width:11rem; justify-self:start; order:-1}
+  .hero-photo img{box-shadow:9px 9px 0 -1px var(--canvas), 9px 9px 0 0 var(--accent)}
+  .hero-photo figcaption{margin-top:1.2rem}
 }
 
 /* section headings + topic tiles */

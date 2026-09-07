@@ -631,11 +631,19 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .hero p.promise{color:var(--ink); font-size:1.05rem; max-width:60ch}
 .hero .accent{color:var(--accent)}
 .hero.has-photo .wrap{display:grid; grid-template-columns:minmax(0,1fr) 16rem; gap:3rem; align-items:center}
-.hero-photo{margin:0; width:16rem; justify-self:end}
-.hero-photo img{display:block; width:100%; height:auto; border-radius:50%; box-shadow:0 0 0 1px var(--faint)}
+.hero-photo{margin:0; width:16rem; justify-self:end; isolation:isolate}
+.hero-photo img{display:block; width:100%; height:auto; border-radius:50%; background:var(--panel);
+  border:1px solid var(--faint);
+  box-shadow:12px 12px 0 -1px var(--canvas), 12px 12px 0 0 var(--accent)}
+.hero-photo figcaption{margin:1.6rem 0 0; color:var(--muted); font-size:.9rem;
+  line-height:1.5; display:flex; gap:.6rem; align-items:baseline}
+.hero-photo figcaption::before{content:""; flex:none; width:.5rem; height:.5rem;
+  border-radius:50%; background:var(--accent); transform:translateY(-.05rem)}
 @media (max-width:820px){
   .hero.has-photo .wrap{grid-template-columns:1fr; gap:1.6rem}
   .hero-photo{width:11rem; justify-self:start; order:-1}
+  .hero-photo img{box-shadow:9px 9px 0 -1px var(--canvas), 9px 9px 0 0 var(--accent)}
+  .hero-photo figcaption{margin-top:1.2rem}
 }
 
 /* section headings + topic tiles */
@@ -1044,7 +1052,8 @@ def render_home(posts):
         if HOME_HEADSHOT_SM.exists():
             srcset = "/about/david-dewese-round-520.png 520w, " + srcset
         photo = f"""<figure class="hero-photo"><img src="/about/david-dewese-round-520.png" srcset="{srcset}"
-        sizes="(max-width:820px) 11rem, 16rem" alt="{html.escape(HOME_HEADSHOT_ALT, quote=True)}" width="850" height="850" fetchpriority="high"></figure>"""
+        sizes="(max-width:820px) 11rem, 16rem" alt="{html.escape(HOME_HEADSHOT_ALT, quote=True)}" width="850" height="850" fetchpriority="high">
+        <figcaption>{html.escape(HOME_HEADSHOT_CAPTION)}</figcaption></figure>"""
     hero = f"""<section class="hero{' has-photo' if photo else ''}"><div class="wrap">
       <div class="hero-copy">
       <h1>Money &amp; health insurance, <span class="accent">explained in plain English</span>.</h1>
@@ -1347,6 +1356,7 @@ HOME_HEADSHOT = SITE_DIR / "home-headshot.png"            # 850x850 round B&W he
 HOME_HEADSHOT_SM = SITE_DIR / "home-headshot-520.png"     # 520x520 copy for the hero at 1x/2x
 HOME_HEADSHOT_XS = SITE_DIR / "home-headshot-96.png"      # 96x96 copy for the tiny avatar beside "In short"
 HOME_HEADSHOT_ALT = "David Dewese, smiling, in a black and white headshot."
+HOME_HEADSHOT_CAPTION = "Hi, I'm David!"
 ABOUT_PHOTO_ALT = ("Black and white photo of David Dewese kneeling with his wife and two "
                    "daughters, everyone laughing, in front of giant paper letters.")
 ABOUT_PHOTO_CAPTION = "The whole reason I do the homework."
@@ -1698,6 +1708,9 @@ def main():
     if indexnow_key.exists():   # IndexNow ownership file, see indexnow.py
         k = indexnow_key.read_text(encoding="utf-8").strip()
         write(DIST / f"{k}.txt", k)
+    bing_auth = SITE_DIR / "BingSiteAuth.xml"
+    if bing_auth.exists():      # Bing Webmaster Tools ownership file, served at the site root
+        write(DIST / "BingSiteAuth.xml", bing_auth.read_text(encoding="utf-8"))
     robots = SITE_DIR / "robots.txt"
     robots_txt = robots.read_text(encoding="utf-8") if robots.exists() else "User-agent: *\nAllow: /\n"
     if "Sitemap:" not in robots_txt:
