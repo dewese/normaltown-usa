@@ -58,6 +58,7 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .hero h1{font-size:clamp(2rem,5vw,3.1rem); line-height:1.08; letter-spacing:-.03em;
   font-weight:800; margin:0 0 1rem; max-width:22ch}
 .hero p{font-size:1.2rem; color:var(--muted); margin:0 0 .8rem; max-width:52ch}
+.hero p.promise{color:var(--ink); font-size:1.05rem; max-width:60ch}
 .hero .accent{color:var(--accent)}
 .hero.has-photo .wrap{display:grid; grid-template-columns:minmax(0,1fr) 16rem; gap:3rem; align-items:center}
 .hero-photo{margin:0; width:16rem; justify-self:end}

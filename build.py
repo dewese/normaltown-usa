@@ -628,6 +628,7 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .hero h1{font-size:clamp(2rem,5vw,3.1rem); line-height:1.08; letter-spacing:-.03em;
   font-weight:800; margin:0 0 1rem; max-width:22ch}
 .hero p{font-size:1.2rem; color:var(--muted); margin:0 0 .8rem; max-width:52ch}
+.hero p.promise{color:var(--ink); font-size:1.05rem; max-width:60ch}
 .hero .accent{color:var(--accent)}
 .hero.has-photo .wrap{display:grid; grid-template-columns:minmax(0,1fr) 16rem; gap:3rem; align-items:center}
 .hero-photo{margin:0; width:16rem; justify-self:end}
@@ -1048,6 +1049,7 @@ def render_home(posts):
       <div class="hero-copy">
       <h1>Money &amp; health insurance, <span class="accent">explained in plain English</span>.</h1>
       <p>Why you feel broke on a good income, how to beat the rising cost of health insurance, and how to save in something that holds its value. Written by a normal family guy with a regular job, for normal people with regular jobs. One idea per post, short enough to read with your coffee.</p>
+      <p class="promise">Read for a month and you'll know how to ask for the cash price on a medical bill, plug the leaks in your paycheck, and build your first $1,000 cushion. Almost nobody teaches this, because almost nobody gets paid to.</p>
       </div>
       {photo}
     </div></section>"""
