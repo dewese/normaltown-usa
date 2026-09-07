@@ -255,6 +255,9 @@ def md_to_html(md, drop_email_cta=True, ids=None):
         elif stripped == "---":
             flush_para()
             blocks.append('<hr class="rule">')
+        elif CTA_BLOCK.match(stripped):
+            flush_para()
+            blocks.append(cta_block(CTA_BLOCK.match(stripped).group(1)))
         elif PARTNER_OPEN.match(stripped):
             flush_para()
             header = PARTNER_OPEN.match(stripped).group(1)
@@ -309,37 +312,91 @@ PARTNER_OPEN = re.compile(r'^:::partner\s+(.+)$')
 
 
 def partner_block(header, inner_md, ids):
-    """Render one `:::partner Name | Kind | logo.png | url` block as a card.
+    """Render one `:::partner` block on the Resources page as a card.
 
-    The logo is optional: a name with no matching file in brand/partners/ just
-    renders the card without a picture, so the page never breaks on a missing image.
+    Fields: `Name | Kind | logo file | url | button label | disclosure line`.
+
+    Layout notes worth keeping: the kind sits *above* the logo, so the card reads as our
+    note about them rather than as their ad. The logo is deliberately NOT a link -- one
+    affiliate link per card, at the bottom, so nobody reaches the offer without passing
+    the honest limits first. Logos are sized per file (see `.mark-*` in the CSS) because
+    matching two wordmarks on box height leaves their letters different sizes.
     """
     parts = [x.strip() for x in header.split("|")]
-    name = parts[0] if parts else ""
-    kind = parts[1] if len(parts) > 1 else ""
-    logo = parts[2] if len(parts) > 2 else ""
-    url = parts[3] if len(parts) > 3 else ""
+    while len(parts) < 6:
+        parts.append("")
+    name, kind, logo, url, cta, note = parts[:6]
 
     rel = ("noopener nofollow sponsored" if any(h in url for h in AFFILIATE_HOSTS)
            else "noopener")
-    link_open = (f'<a href="{html.escape(url, quote=True)}" target="_blank" rel="{rel}">'
-                 if url else "")
-    link_close = "</a>" if url else ""
+    safe_url = html.escape(url, quote=True)
 
-    figure = ""
-    if logo and (PARTNER_LOGO_DIR / logo).exists():
-        figure = (f'<div class="partner-logo">{link_open}'
-                  f'<img src="/assets/partners/{logo}" alt="{html.escape(name, quote=True)} logo" '
-                  f'width="72" height="72" loading="lazy" decoding="async">{link_close}</div>')
+    logo_path = PARTNER_LOGO_DIR / logo if logo else None
+    if logo_path and logo_path.exists():
+        mark = (f'<img class="partner-mark mark-{html.escape(logo_path.stem, quote=True)}" '
+                f'src="/assets/partners/{logo}" alt="{html.escape(name, quote=True)}" '
+                f'{svg_size(logo_path)} decoding="async">')
+    else:
+        mark = html.escape(name)
 
-    heading_text = f"{link_open}{html.escape(name)}{link_close}"
-    if url:
-        heading_text += NEW_TAB
-    kind_html = f'<span class="partner-kind">{html.escape(kind)}</span>' if kind else ""
-    body = md_to_html(inner_md, drop_email_cta=False, ids=ids)
-    return (f'<div class="partner">{figure}<div class="partner-text">'
-            f'<h3 id="{heading_id(name, ids)}">{heading_text}</h3>{kind_html}'
-            f'{body}</div></div>')
+    kind_html = f'<p class="partner-kind">{html.escape(kind)}</p>' if kind else ""
+    head = (f'<div class="partner-head">{kind_html}'
+            f'<h3 id="{heading_id(name, ids)}">{mark}</h3></div>')
+
+    foot = ""
+    if url and cta:
+        foot = (f'<div class="partner-cta">'
+                f'<a class="btn" href="{safe_url}" target="_blank" rel="{rel}">'
+                f'{html.escape(cta)}{NEW_TAB}</a>'
+                + (f'<p class="partner-note">{_inline(note)}</p>' if note else "")
+                + "</div>")
+    return f'<div class="partner">{head}{honest_sections(inner_md, ids)}{foot}</div>'
+
+
+def svg_size(path):
+    """`width`/`height` attributes off an SVG, so the browser reserves the space.
+
+    Without them the mark renders 0px wide until it loads and pops in sideways, and these
+    two are the page's conversion imagery.
+    """
+    head = path.read_text(encoding="utf-8")[:400]
+    w = re.search(r'\bwidth="(\d+(?:\.\d+)?)"', head)
+    h = re.search(r'\bheight="(\d+(?:\.\d+)?)"', head)
+    return f'width="{w.group(1)}" height="{h.group(1)}"' if w and h else ""
+
+
+def honest_sections(inner_md, ids):
+    """Body of a partner card, with a `### Label` section pulled out as the honest block.
+
+    The honest limits are the reason the page is trustworthy, so they get a label and a
+    rule instead of reading as one more paragraph in a wall of them.
+    """
+    head, _, tail = inner_md.partition("\n### ")
+    body = md_to_html(head, drop_email_cta=False, ids=ids)
+    if not tail:
+        return body
+    label, _, rest = tail.partition("\n")
+    return (body + f'<div class="partner-honest">'
+            f'<p class="partner-honest-label">{html.escape(label.strip())}</p>'
+            f'{md_to_html(rest, drop_email_cta=False, ids=ids)}</div>')
+
+
+CTA_BLOCK = re.compile(r'^:::cta\s+(.+)$')
+
+
+def cta_block(spec):
+    """`:::cta /contact/ | Label` -- the outline button for our own offers.
+
+    Filled cyan is reserved for the partner links, so our own asks read as a second tier
+    instead of competing with them.
+    """
+    parts = [x.strip() for x in spec.split("|")]
+    url = parts[0] if parts else ""
+    label = parts[1] if len(parts) > 1 else ""
+    if not url or not label:
+        return ""
+    return (f'<p class="own-cta"><a class="btn-ghost" href="{html.escape(url, quote=True)}">'
+            f'{html.escape(label)}</a></p>')
 
 
 def extract_short_answer(body_md):
@@ -780,24 +837,50 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .body hr.rule{border:none; height:1px; background:var(--faint); margin:2.2rem 0}
 .body h2:target,.body h3:target{color:var(--accent)}
 
-/* partner cards on the Resources page */
-.partner{max-width:var(--measure); margin:0 0 2rem; padding:1.4rem 1.6rem;
-  border:1px solid var(--faint); border-radius:14px; background:var(--panel);
-  display:flex; gap:1.3rem; align-items:flex-start}
-.partner-logo{flex:none; width:72px; height:72px; border-radius:14px; overflow:hidden;
-  border:1px solid var(--faint); background:var(--canvas);
-  display:flex; align-items:center; justify-content:center}
-.partner-logo a{display:flex; width:100%; height:100%; align-items:center; justify-content:center}
-.partner-logo img{width:100%; height:100%; object-fit:cover; display:block}
-.partner-text{min-width:0}
-.body .partner h3{margin:0; font-size:1.2rem; font-weight:800}
-.partner-kind{display:block; margin:.15rem 0 .7rem; font-size:.76rem; letter-spacing:.1em;
+/* partner cards + CTAs on the Resources page */
+.partner{max-width:var(--measure); margin:0 0 1.25rem; padding:1.75rem;
+  border:1px solid var(--faint); border-radius:16px; background:var(--panel)}
+.partner-head{margin:0 0 1.5rem}
+.body .partner-kind{margin:0 0 .6rem; font-size:.8rem; letter-spacing:.11em;
   text-transform:uppercase; color:var(--muted); font-weight:700}
-.body .partner p:last-child{margin-bottom:0}
+/* the logo row is a fixed height and each mark is sized to match the other's cap
+   height, so both cards' text starts at the same place and neither brand shouts */
+.body .partner h3{margin:0; height:28px; display:flex; align-items:center;
+  font-size:1.15rem; font-weight:800; line-height:1}
+.partner-mark{display:block; height:auto; width:auto; max-width:100%}
+.mark-crowdhealth-wordmark{height:18px}
+.mark-river-wordmark{height:26px}
+.body .partner-head + p{font-size:1.2rem; font-weight:600; line-height:1.5}
+.body .partner p:last-of-type{margin-bottom:0}
+.partner-honest{border-left:2px solid var(--faint); padding-left:1.1rem; margin:1.6rem 0 0}
+.body .partner-honest-label{margin:0 0 .4rem; font-size:.8rem; letter-spacing:.11em;
+  text-transform:uppercase; color:var(--muted); font-weight:700}
+.partner-cta{border-top:1px solid var(--faint); margin:1.6rem 0 0; padding-top:1.4rem}
+.body .partner-cta a.btn{display:inline-block; font-weight:800; font-size:1rem;
+  color:#0F0F0F; background:var(--accent); border:1px solid var(--accent);
+  border-radius:999px; padding:.85rem 1.6rem; text-decoration:none; line-height:1.2}
+.body .partner-cta a.btn:hover{background:#5CDFFF; text-decoration:none}
+.body .partner-note{margin:.55rem 0 0; font-size:.8rem; line-height:1.45; color:var(--muted)}
+.body .own-cta{margin:1.4rem 0 0}
+.body .own-cta a.btn-ghost{display:inline-block; font-weight:800; font-size:1rem;
+  color:var(--accent); border:1px solid var(--accent); border-radius:999px;
+  padding:.85rem 1.6rem; text-decoration:none; line-height:1.2}
+.body .own-cta a.btn-ghost:hover{background:var(--accent); color:#0F0F0F; text-decoration:none}
+/* on the Resources page a section break has to beat a card break, so rule the headings */
+.page-resources .body h2{margin-top:3.5rem}
+.page-resources .body h2::before{content:""; display:block; height:1px;
+  background:var(--faint); margin:0 0 1.6rem}
+.page-resources .body h2:first-of-type{margin-top:2.4rem}
+.page-resources .body h2:first-of-type::before{display:none}
 @media (max-width:560px){
-  /* stack the mark above the copy so the text keeps the full width of the card */
-  .partner{padding:1.2rem; gap:.9rem; flex-direction:column; align-items:stretch}
-  .partner-logo{width:56px; height:56px; border-radius:12px}
+  .partner{padding:1.4rem 1.3rem}
+  .body .partner h3{height:25px}
+  .mark-crowdhealth-wordmark{height:16px}
+  .mark-river-wordmark{height:23px}
+}
+@media (max-width:440px){
+  .body .partner-cta a.btn,.body .own-cta a.btn-ghost{display:block; text-align:center;
+    max-width:22rem}
 }
 
 /* table of contents (FAQ page) */
@@ -1655,7 +1738,7 @@ def main():
     if PARTNER_LOGO_DIR.exists():
         # only the finished marks ship; the color originals and the recolor script stay put
         shutil.copytree(PARTNER_LOGO_DIR, DIST / "assets" / "partners",
-                        ignore=shutil.ignore_patterns("*-orig.png", "*.py"))
+                        ignore=shutil.ignore_patterns("*-orig.*", "*.py"))
     og_default = SITE_DIR / "og-default.png"
     if og_default.exists():
         shutil.copy(og_default, DIST / "assets" / "og-default.png")
@@ -1731,7 +1814,8 @@ def main():
         title, body = load_page_md(fname)
         if title is None:
             continue
-        figure, page_class, og_image = "", "", None
+        figure, og_image = "", None
+        page_class = f"page-{slug}" if slug == "resources" else ""
         schema = [website_schema(), org_schema()]
         page_url = f"{SITE_URL}/{slug}/"
         if slug == "about" and ABOUT_PHOTO.exists():
