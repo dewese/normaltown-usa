@@ -10,6 +10,8 @@ Site: https://www.normaltownusa.com/. Every page is free and has no paywall. Pos
 - [Resources](https://www.normaltownusa.com/resources/): the tools David's family pays for and uses, the free guides, and the disclosed referral links.
 - [FAQ](https://www.normaltownusa.com/faq/): short answers to the most common money, medical bill, health sharing, and bitcoin questions.
 - [About David Dewese](https://www.normaltownusa.com/about/): who writes this, how he researches, how the site makes money.
+- [What I Earn](https://www.normaltownusa.com/what-i-earn/): every referral on the site in dollars, what gets turned down, and the conflict of interest stated plainly.
+- [How I Keep This Accurate](https://www.normaltownusa.com/how-i-keep-this-accurate/): the sourcing standard, the monthly CrowdHealth fact re-check, and the corrections policy.
 - [Blog](https://www.normaltownusa.com/blog/): every post, newest first, grouped by topic.
 - [Contact](https://www.normaltownusa.com/contact/): send a question or ask about one-on-one help.
 

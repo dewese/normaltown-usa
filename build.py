@@ -345,10 +345,13 @@ def partner_block(header, inner_md, ids):
 
     foot = ""
     if url and cta:
+        # The disclosure sits ABOVE the button on purpose. The FTC asks for it to be
+        # unavoidable *before* the click, and a reader who has already clicked has not
+        # really been told. It reads more honest to a human for the same reason.
         foot = (f'<div class="partner-cta">'
-                f'<a class="btn" href="{safe_url}" target="_blank" rel="{rel}">'
-                f'{html.escape(cta)}{NEW_TAB}</a>'
                 + (f'<p class="partner-note">{_inline(note)}</p>' if note else "")
+                + f'<a class="btn" href="{safe_url}" target="_blank" rel="{rel}">'
+                f'{html.escape(cta)}{NEW_TAB}</a>'
                 + "</div>")
     return f'<div class="partner">{head}{honest_sections(inner_md, ids)}{foot}</div>'
 
@@ -860,7 +863,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
   color:#0F0F0F; background:var(--accent); border:1px solid var(--accent);
   border-radius:999px; padding:.85rem 1.6rem; text-decoration:none; line-height:1.2}
 .body .partner-cta a.btn:hover{background:#5CDFFF; text-decoration:none}
-.body .partner-note{margin:.55rem 0 0; font-size:.8rem; line-height:1.45; color:var(--muted)}
+.body .partner-note{margin:0 0 .9rem; font-size:.8rem; line-height:1.45; color:var(--muted)}
 .body .own-cta{margin:1.4rem 0 0}
 .body .own-cta a.btn-ghost{display:inline-block; font-weight:800; font-size:1rem;
   color:var(--accent); border:1px solid var(--accent); border-radius:999px;
@@ -1171,8 +1174,8 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 <footer class="site-foot"><div class="wrap">
   {signup}
   <span>&copy; {TODAY.year} {SITE_NAME}. {SITE_TAGLINE}.</span>
-  <span><a href="/blog/">All posts</a> &middot; <a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/resources/">Resources</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/accessibility/">Accessibility</a> &middot; <a href="/rss.xml">RSS</a></span>
-  <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. Some links (CrowdHealth, code NORMAL, and River) pay a referral bonus at no extra cost to you. Health sharing is not insurance.</p>
+  <span><a href="/blog/">All posts</a> &middot; <a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/resources/">Resources</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/what-i-earn/">What I Earn</a> &middot; <a href="/how-i-keep-this-accurate/">Accuracy</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/accessibility/">Accessibility</a> &middot; <a href="/rss.xml">RSS</a></span>
+  <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. <strong>Normaltown USA is independent. It is not affiliated with, endorsed by, sponsored by, or employed by CrowdHealth, River, or anyone else named on this site.</strong> Some links (CrowdHealth, code NORMAL, and River) pay me a referral bonus at no extra cost to you, and I publish <a href="/what-i-earn/">exactly what I earn</a>. CrowdHealth is not insurance, and nobody is legally required to pay your medical bill.</p>
 </div></footer>
 {MENU_SCRIPT}
 </body>
@@ -1615,6 +1618,8 @@ def render_llms(posts):
            f"- [Resources]({SITE_URL}/resources/): the tools David's family pays for and uses, the free guides, and the disclosed referral links.",
            f"- [FAQ]({SITE_URL}/faq/): short answers to the most common money, medical bill, health sharing, and bitcoin questions.",
            f"- [About David Dewese]({SITE_URL}/about/): who writes this, how he researches, how the site makes money.",
+           f"- [What I Earn]({SITE_URL}/what-i-earn/): every referral on the site in dollars, what gets turned down, and the conflict of interest stated plainly.",
+           f"- [How I Keep This Accurate]({SITE_URL}/how-i-keep-this-accurate/): the sourcing standard, the monthly CrowdHealth fact re-check, and the corrections policy.",
            f"- [Blog]({SITE_URL}/blog/): every post, newest first, grouped by topic.",
            f"- [Contact]({SITE_URL}/contact/): send a question or ask about one-on-one help.", ""]
     for s in START_HERE_SLUGS:
@@ -1788,6 +1793,20 @@ def main():
             "desc": ("Ask a question, send a medical bill that doesn't make sense, or ask about "
                      f"one-on-one help. Messages go straight to {AUTHOR}'s inbox."),
             "page_title": "Contact David Dewese",
+        },
+        "what-i-earn.md": {
+            "slug": "what-i-earn",
+            "desc": ("Exactly what Normaltown USA gets paid, in dollars. The CrowdHealth referral "
+                     "(code NORMAL) pays $250 after three months; River splits its bonus evenly. "
+                     "What I turn down, and what I do about the conflict of interest."),
+            "page_title": "What I Earn: Every Referral on This Site, in Dollars",
+        },
+        "how-i-keep-this-accurate.md": {
+            "slug": "how-i-keep-this-accurate",
+            "desc": ("How the facts on Normaltown USA get checked: primary sources only, a monthly "
+                     "re-check of the CrowdHealth numbers, honest Updated dates, no silent edits, "
+                     "and what I tell you I can't verify."),
+            "page_title": "How I Keep This Accurate: Sources, Checks, and Corrections",
         },
         "accessibility.md": {
             "slug": "accessibility",

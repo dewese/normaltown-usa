@@ -178,7 +178,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
   color:#0F0F0F; background:var(--accent); border:1px solid var(--accent);
   border-radius:999px; padding:.85rem 1.6rem; text-decoration:none; line-height:1.2}
 .body .partner-cta a.btn:hover{background:#5CDFFF; text-decoration:none}
-.body .partner-note{margin:.55rem 0 0; font-size:.8rem; line-height:1.45; color:var(--muted)}
+.body .partner-note{margin:0 0 .9rem; font-size:.8rem; line-height:1.45; color:var(--muted)}
 .body .own-cta{margin:1.4rem 0 0}
 .body .own-cta a.btn-ghost{display:inline-block; font-weight:800; font-size:1rem;
   color:var(--accent); border:1px solid var(--accent); border-radius:999px;
