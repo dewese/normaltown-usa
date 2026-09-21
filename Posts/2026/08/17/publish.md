@@ -8,4 +8,4 @@
 | **Meta description** | `A simple budget for people with no time. Three lines, one spending number to watch, and a save-first move on payday. Built for a real, busy week.` |
 | **Category** | Money |
 
-- **Image:** `list-not-spreadsheet.png` — Alt text: `On the left, a dense white grid labeled spreadsheet. On the right, three short white lines each marked with a cyan check, labeled a short list.`
+- **Image:** `list-not-spreadsheet.png` — Alt text: `On the left, a dense plain grid labeled spreadsheet. On the right, three short plain lines each marked with a highlighted check, labeled a short list.`

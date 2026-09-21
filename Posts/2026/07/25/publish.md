@@ -8,4 +8,4 @@
 | **Meta description** | `Is bitcoin saving or gambling? It depends how you treat it. A plain-English way to decide where a volatile asset fits, and the one question that keeps you safe.` |
 | **Category** | Money |
 
-- **Image:** `two-piles.png` — Alt text: `Two jars labeled saving and gambling, with a single small cyan coin placed in the saving jar, showing bitcoin treated as a small long-term savings item.`
+- **Image:** `two-piles.png` — Alt text: `Two jars labeled saving and gambling, with a single small highlighted coin placed in the saving jar, showing bitcoin treated as a small long-term savings item.`

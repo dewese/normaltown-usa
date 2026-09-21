@@ -8,6 +8,6 @@
 | **Meta description** | `Is health sharing legit? Yes: real, legal, decades old, and CrowdHealth has funded 45,000+ bills. But legit isn't insurance. A checklist to vet any one.` |
 | **Category** | Health |
 
-- **Image:** `legit-check.png` — Alt text: `A cyan check mark inside a seal or badge outline, with a small label reading real, but not insurance.`
+- **Image:** `legit-check.png` — Alt text: `A highlighted check mark inside a seal or badge outline, with a small label reading real, but not insurance.`
 - **Internal links:** /p/who-health-sharing-is-wrong-for/
 - **Affiliate:** yes — CrowdHealth referral (code NORMAL), disclosure + limits in body.

@@ -9,6 +9,6 @@
 | **Category** | Health |
 | **Updated** | 2026-09-21 |
 
-- **Image:** `bridge-to-medicare.png` — Alt text: `A cyan bridge spanning a gap from a post labeled retire at 60 to a post labeled Medicare at 65.`
+- **Image:** `bridge-to-medicare.png` — Alt text: `A highlighted bridge spanning a gap from a post labeled retire at 60 to a post labeled Medicare at 65.`
 - **Internal links:** /p/pre-existing-conditions-and-health-sharing/, /p/who-health-sharing-is-wrong-for/
 - **Affiliate:** yes — CrowdHealth referral (code NORMAL), disclosure + limits in body.

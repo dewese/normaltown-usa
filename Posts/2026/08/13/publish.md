@@ -8,4 +8,4 @@
 | **Meta description** | `Want to try bitcoin without risking much? Here's how to buy your first $20, step by step, using money you can afford to lose. Plain English, no hype.` |
 | **Category** | Money |
 
-- **Image:** `start-small.png` — Alt text: `Four ascending bars with the small first bar in cyan labeled $20 and the words start small, showing beginning with a tiny amount and growing.`
+- **Image:** `start-small.png` — Alt text: `Four ascending bars with the small first bar highlighted and labeled $20 and the words start small, showing beginning with a tiny amount and growing.`

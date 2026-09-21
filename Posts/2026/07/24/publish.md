@@ -8,4 +8,4 @@
 | **Meta description** | `A small emergency fund keeps a normal surprise from becoming debt. Here's why your first $1,000 matters more than any investment, and how to build it fast.` |
 | **Category** | Money |
 
-- **Image:** `shock-absorber.png` — Alt text: `A falling shock hitting a cyan cushion on springs that protects the ground below, standing for a cash cushion that absorbs a financial emergency.`
+- **Image:** `shock-absorber.png` — Alt text: `A falling shock hitting a highlighted cushion on springs that protects the ground below, standing for a cash cushion that absorbs a financial emergency.`

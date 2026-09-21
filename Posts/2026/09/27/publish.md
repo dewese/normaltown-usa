@@ -8,6 +8,6 @@
 | **Meta description** | `Real emergency on health sharing? Go to the ER first. Afterward you pay $500, a care advocate negotiates the ER bill down, and the crowd shares the rest.` |
 | **Category** | Health |
 
-- **Image:** `er-steps.png` — Alt text: `Three numbered steps flowing left to right: get care, advocate negotiates the bill, crowd shares the rest, with the first step in cyan.`
+- **Image:** `er-steps.png` — Alt text: `Three numbered steps flowing left to right: get care, advocate negotiates the bill, crowd shares the rest, with the first step highlighted.`
 - **Internal links:** /p/what-a-care-advocate-actually-does/, /p/who-health-sharing-is-wrong-for/
 - **Affiliate:** yes — CrowdHealth referral (code NORMAL), disclosure + limits in body.

@@ -8,4 +8,4 @@
 | **Meta description** | `Should you wait for bitcoin to drop before you buy? Almost nobody times the market. Here's why I don't try, and the calm habit I use instead.` |
 | **Category** | Money |
 
-- **Image:** `plant-today.png` — Alt text: `A timeline with a faded white sprout labeled years ago on the left and a taller cyan sprout labeled today on the right.`
+- **Image:** `plant-today.png` — Alt text: `A timeline with a faded plain sprout labeled years ago on the left and a taller highlighted sprout labeled today on the right.`

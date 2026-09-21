@@ -8,4 +8,4 @@
 | **Meta description** | `Why does bitcoin's price swing so much? Because it's young and small, so a big buyer or scary headline moves it hard. What the swings do and don't mean, calmly.` |
 | **Category** | Money |
 
-- **Image:** `bumpy-road.png` — Alt text: `A jagged cyan line with big swings on the left that get smaller toward the right, trending upward over a white ground line.`
+- **Image:** `bumpy-road.png` — Alt text: `A jagged highlighted line with big swings on the left that get smaller toward the right, trending upward over a plain ground line.`

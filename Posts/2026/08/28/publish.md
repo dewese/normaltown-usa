@@ -8,4 +8,4 @@
 | **Meta description** | `Why does my credit card balance never go down? The interest is a hole in the boat and the minimum payment barely bails it. Here's how to actually drain it.` |
 | **Category** | Money |
 
-- **Image:** `treading-water.png` — Alt text: `A flat cyan line labeled your balance, with white down-arrows labeled you pay pushing from above and white up-arrows labeled interest pushing from below, so the line barely moves.`
+- **Image:** `treading-water.png` — Alt text: `A flat highlighted line labeled your balance, with plain down-arrows labeled you pay pushing from above and plain up-arrows labeled interest pushing from below, so the line barely moves.`

@@ -8,6 +8,6 @@
 | **Meta description** | `Why the cash price often beats the insured price for the same procedure: it's the real price with the insurance hassle stripped out. How to use it every time.` |
 | **Category** | Health |
 
-- **Image:** `cash-wins.png` — Alt text: `Two price tags for the same MRI, a tall faint one labeled insured price and a short cyan one labeled cash price.`
+- **Image:** `cash-wins.png` — Alt text: `Two price tags for the same MRI, a tall faint one labeled insured price and a short highlighted one labeled cash price.`
 - **Internal links:** /p/how-to-negotiate-a-hospital-bill-yourself/
 - **Affiliate:** no — pure trust-builder.

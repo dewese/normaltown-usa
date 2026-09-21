@@ -8,4 +8,4 @@
 | **Meta description** | `Why are prices still high if inflation went down? Because inflation is the speed prices rise, not the prices. The hill got less steep; you're still climbing.` |
 | **Category** | Money |
 
-- **Image:** `still-climbing.png` — Alt text: `A cyan line rising steeply then rising less steeply but still going up, over a white ground line, with an up-arrow at the end.`
+- **Image:** `still-climbing.png` — Alt text: `A highlighted line rising steeply then rising less steeply but still going up, over a plain ground line, with an up-arrow at the end.`
