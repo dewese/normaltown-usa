@@ -1633,19 +1633,19 @@ def render_page(title, md_body, slug, description, figure="", page_class="", og_
                   page_title=page_title, extra_head=extra_head)
 
 
-# About page photo: black-and-white family portrait, 4:5, two sizes for srcset.
+# About page photo: colour family portrait, 4:5, two sizes for srcset.
 ABOUT_PHOTO = SITE_DIR / "about-family.jpg"          # 1400x1750
 ABOUT_PHOTO_SM = SITE_DIR / "about-family-700.jpg"   # 700x875
-AUTHOR_HEADSHOT = SITE_DIR / "author-headshot.png"        # transparent B&W cutout, 595x793 (Person schema image)
+AUTHOR_HEADSHOT = SITE_DIR / "author-headshot.png"        # transparent colour cutout, 595x793 (Person schema image)
 AUTHOR_HEADSHOT_SM = SITE_DIR / "author-headshot-240.png"  # 180x240 copy for the round author-box avatar
-HOME_HEADSHOT = SITE_DIR / "home-headshot.png"            # 850x850 round B&W headshot, Person schema image
+HOME_HEADSHOT = SITE_DIR / "home-headshot.png"            # 850x850 round colour headshot, Person schema image
 HOME_HEADSHOT_XS = SITE_DIR / "home-headshot-96.png"      # 96x96 copy for the tiny avatar beside "In short"
-HOME_HERO = SITE_DIR / "home-hero.jpg"                    # 659x850 B&W portrait, homepage hero
+HOME_HERO = SITE_DIR / "home-hero.jpg"                    # 659x850 colour portrait, homepage hero
 HOME_HERO_SM = SITE_DIR / "home-hero-400.jpg"             # 400x516 copy for the hero at 1x/2x
-HOME_HEADSHOT_ALT = "David Dewese, smiling, in a black and white headshot."
+HOME_HEADSHOT_ALT = "David Dewese smiling at the camera, in a black t-shirt against a warm cream wall."
 HOME_HEADSHOT_CAPTION = "Hi, I'm David!"
-ABOUT_PHOTO_ALT = ("Black and white photo of David Dewese kneeling with his wife and two "
-                   "daughters, everyone laughing, in front of giant paper letters.")
+ABOUT_PHOTO_ALT = ("David Dewese kneeling with his wife and their two daughters, all four "
+                   "laughing, in front of giant fringed paper letters in bright colours.")
 ABOUT_PHOTO_CAPTION = "The whole reason I do the homework."
 
 
