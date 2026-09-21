@@ -60,6 +60,21 @@ be worth reading. If it isn't, the pitch was the point — start over.
   to $300 with the commitment waived.
 - **Self-pay discounts 25%–85%** off billed charges (they negotiate cash prices).
 - **Not insurance.** No guarantee bills are funded; members are ultimately responsible.
+- **Terminology (confirmed by David, 2026-09-21): CrowdHealth's preferred term for itself
+  is "healthcare crowdfunding," not "health sharing."** They are not a healthcare sharing
+  ministry, there is no shared-beliefs requirement, and the Maryland advisory turns on
+  exactly that distinction. So:
+  - Describing **CrowdHealth itself** -> "healthcare crowdfunding." Always.
+  - Describing **the category a reader is shopping in** -> "health sharing" stays, because
+    that is the phrase they typed into Google. "Healthcare crowdfunding" has almost no
+    consumer search volume; people who search "crowdfunding" are thinking GoFundMe.
+  - **Do not mass-rename existing slugs or titles.** 18 slugs and 37 posts carry "health
+    sharing" and it is the term that brings the traffic. Renaming them to a phrase nobody
+    searches would delete the category traffic to win a vocabulary argument.
+  - Where both appear, **bridge them once**: "CrowdHealth calls it healthcare crowdfunding
+    rather than health sharing, and the difference is not marketing." That sentence is a
+    differentiator. The big comparison sites file CrowdHealth under health sharing
+    ministries, which is the one thing CrowdHealth says it is not.
 - **Pre-existing** (documented/diagnosed/symptomatic within 5 yrs): not eligible years
   1–2, then capped at **$25,000/yr** from year 3.
 - **Excluded:** dental, vision, cosmetic, mental-health counseling, alternative

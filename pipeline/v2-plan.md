@@ -24,10 +24,20 @@ with their wallet out are typing **CrowdHealth**, which is the brand. Those are 
 different query spaces and you are only in one of them. This is the single biggest gap
 between where the site is and what you asked for.
 
-Worse, CrowdHealth itself does not use the phrase "health sharing" for its own product.
-Their own copy calls it "healthcare crowdfunding" and explicitly distinguishes itself
-from health sharing ministries. Thirty posts in September are built on a phrase the
-company avoids.
+CrowdHealth itself does not use the phrase "health sharing" for its own product. Their own
+copy calls it **"healthcare crowdfunding"** and explicitly distinguishes itself from health
+sharing ministries (confirmed by David, 2026-09-21).
+
+The fix is not a mass rename, and it is worth being clear about why. "Health sharing" is
+the phrase readers actually type; "healthcare crowdfunding" has almost no consumer search
+volume, because people searching "crowdfunding" are thinking GoFundMe. Renaming 18 slugs
+to a phrase nobody searches would trade the site's category traffic for a vocabulary
+argument. The rule instead: **CrowdHealth itself is healthcare crowdfunding; the category
+the reader is shopping in is health sharing; bridge the two once where both appear.**
+
+That bridge is a genuine differentiator. The big comparison sites file CrowdHealth under
+health sharing ministries, which is the one thing it says it is not, and the Maryland
+advisory turns on exactly that distinction.
 
 ### 0.2 The space is already taken, by sites built exactly the way you are describing
 
@@ -63,7 +73,7 @@ public sources disagree with it on several points:
 | $60/mo flat fee, variable contributions | $60 base, but contributions appear **capped around $140/mo per adult under 55**; typical all-in ~$140 to $200 | You are describing an uncapped cost when there may be a cap. The cap is a *selling point* you are not using |
 | Pre-existing: ineligible yrs 1 to 2, then $25k/yr cap | At least one source describes a 6-month waiting period | Either the rules changed or the sources conflict |
 | 4.9 Trustpilot, 1,000+ reviews | 4.6 in a 2026 review roundup | Small, but wrong numbers are wrong |
-| Referral = 3 months at $99 | Coupon sites advertise **$99/mo for the first 6 months** on some codes | **Your offer may be worse than your competitors' offers** |
+| Referral = 3 months at $99 | ~~Coupon sites advertise $99/mo for 6 months~~ | **RESOLVED 2026-09-21: three months is correct, the aggregators are wrong. No change needed** |
 
 I could not verify these directly. `joincrowdhealth.com` and `whichhealthshare.com` are
 both blocked by this environment's network proxy, so every figure above comes from search
@@ -383,20 +393,21 @@ colder than the writing. Two copy changes worth making:
 
 ## 6. Workstream E — Conversion and referral mechanics
 
-### 6.1 Your offer may be uncompetitive. Go find out.
+### 6.1 The offer is fine. The alarm was false.
 
-Coupon aggregators are advertising CrowdHealth codes at **$99/month for six months**.
-Your code NORMAL is three months. Other influencer codes are live and indexed: BLUE,
-WOODS, KETOSNACKZ.
+**Resolved 2026-09-21.** Member referral discounts are three months, full stop. The
+"$99/month for six months" on the coupon aggregators is wrong or stale, so the site's copy
+was right and nothing needs changing. Those aggregators are not a source and should never
+be cited as one.
 
-Two actions:
+Other influencer codes are still live and indexed (BLUE, WOODS, KETOSNACKZ), so those
+pages keep leaking commission on branded searches. That is what section 6.2 is for.
 
-1. **Verify what NORMAL currently gets.** If it is three months and others get six, you
-   are losing every price-comparison reader.
-2. **Ask CrowdHealth for a better deal.** They have a "Manager, Crowd and Influencer
-   Marketing" role posted, which means there is a person whose job is exactly this. A site
-   with 50+ posts, a real member history and a ranking hub page is a partner, not a random
-   affiliate. Ask for the six-month rate, a custom landing page, or a higher payout.
+Still worth a conversation, just not as a fix: ask CrowdHealth what a **partner**
+arrangement looks like, as distinct from the standard member referral every member gets.
+They have a "Manager, Crowd and Influencer Marketing" role posted, so there is a person
+whose job is exactly this, and a site with 50+ posts, four years of member history and a
+ranking hub page is a different proposition from a member texting a code to a friend.
 
 ### 6.2 Own "crowdhealth promo code"
 

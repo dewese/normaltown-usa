@@ -33,7 +33,7 @@ Fill in the right-hand column from the source, then correct `06-cta-affiliate.md
 | 3 | ~~$60/mo flat + variable contributions, no cap mentioned~~ | $60 base, contributions capped ~$140/mo per adult under 55 | **VERIFIED 2026-09-21 by David from his member account.** $60/mo per person incl. children. Crowd ask hard-capped: $140 (0-54), $280 (55-64), $420 (family of 4+, household). Worst case all in: $200 / $340 / $660. Crowd historically rarely asks the full share. | member account |
 | 4 | Pre-existing: ineligible yrs 1 to 2, then $25k/yr cap from yr 3 | One source describes a 6-month waiting period | | |
 | 5 | 4.9 Trustpilot, 1,000+ reviews | 4.6 in a 2026 roundup | | |
-| 6 | Referral NORMAL = 3 months at $99 | Coupon sites advertise $99/mo for **6** months on some codes | | |
+| 6 | Referral NORMAL = 3 months at $99 | ~~Coupon sites advertise $99/mo for 6 months~~ | **VERIFIED 2026-09-21 by David: member referral discounts are 3 months only.** Site copy was already correct. The coupon-aggregator "6 months" claims are wrong or stale; do not repeat them. | member account |
 | 7 | $86.7M estimated saved vs insurance | not re-confirmed | | |
 | 8 | Largest bills: $643K / $437K / $333K | not re-confirmed | | |
 | 9 | ~7 days bill to funded, ~2 days to reimburse | not re-confirmed | | |
@@ -47,12 +47,16 @@ Fill in the right-hand column from the source, then correct `06-cta-affiliate.md
 selling point the site is not using, and right now our posts describe an open-ended
 monthly cost. Readers comparing to a deductible need the cap to make the comparison.
 
-**Row 6, the offer.** If competitors' codes get six months at $99 and NORMAL gets three,
-every price-comparison reader will use somebody else's code. Confirm what NORMAL actually
-does today from inside the app, then ask CrowdHealth for the six-month rate. They have a
-"Manager, Crowd and Influencer Marketing" role posted, so there is a person whose job this
-is. A site with 50+ posts and four years of member history is a partner, not a random
-affiliate.
+**Row 6 is settled and the alarm was false.** Member referral discounts are three months,
+full stop. The "$99 for six months" on the coupon aggregators is wrong or stale, so the
+site's copy was right all along and no post needs changing. Never cite those aggregators
+as a source.
+
+Still worth doing, just not as a fix: ask CrowdHealth what a *partner* arrangement looks
+like, as distinct from the standard member referral. They have a "Manager, Crowd and
+Influencer Marketing" role posted, so there is a person whose job this is, and a site with
+50+ posts and four years of member history is a different proposition from a member
+passing a code to a friend.
 
 ## Where each number appears, so nothing gets missed
 
