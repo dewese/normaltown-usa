@@ -31,6 +31,10 @@ cursing, **no em dashes, no ellipses**. Frame the system, not the people.
 ## Visual identity (summary)
 Visualize-Value style: **one idea per graphic, reduced to geometry, with the point
 marked in one color.**
+> **V2 note (2026-09-21):** these three colours are now the **dark theme** and the
+> drawing spec for hero art. The site's light default is warm paper `#FBF8F3` with a
+> deep-teal accent `#0E6F63`; see `README.md`.
+
 - **Colors (exactly three):** soft-black `#0F0F0F` (never true black), white
   `#FFFFFF`, cyan `#2DD4FF` (the accent that marks "the point"). No gray, no orange.
 - **Logo:** icon + wordmark lockup in `brand/logo/` (wordmark set in **Montserrat

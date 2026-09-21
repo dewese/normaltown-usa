@@ -1,22 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
-  <rect width="1200" height="1200" fill="#0F0F0F"/>
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+  <rect class="f-bg" width="1200" height="1200"/>
 
-  <text x="600" y="200" text-anchor="middle" font-size="44" font-weight="800" fill="#FFFFFF">A little each month.</text>
+  <text class="f-ink" x="600" y="200" text-anchor="middle" font-size="44" font-weight="800">A little each month.</text>
 
   <!-- coins falling in -->
-  <g fill="#2DD4FF">
+  <g> class="f-ac"
     <circle cx="470" cy="300" r="26"/>
     <circle cx="600" cy="250" r="26" fill-opacity="0.8"/>
     <circle cx="730" cy="300" r="26" fill-opacity="0.6"/>
   </g>
 
   <!-- jar -->
-  <path d="M400 430 L400 820 Q400 880 460 880 L740 880 Q800 880 800 820 L800 430"
-        fill="none" stroke="#FFFFFF" stroke-width="8"/>
-  <rect x="380" y="400" width="440" height="40" rx="10" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+  <path class="s-ink" d="M400 430 L400 820 Q400 880 460 880 L740 880 Q800 880 800 820 L800 430"
+        fill="none" stroke-width="8"/>
+  <rect class="s-ink" x="380" y="400" width="440" height="40" rx="10" fill="none" stroke-width="8"/>
   <!-- fill level -->
-  <path d="M410 640 L410 820 Q410 870 460 870 L740 870 Q790 870 790 820 L790 640 Z" fill="#2DD4FF" fill-opacity="0.85"/>
-  <text x="600" y="770" text-anchor="middle" font-size="40" font-weight="800" fill="#0F0F0F">$500 +</text>
+  <path class="f-ac" d="M410 640 L410 820 Q410 870 460 870 L740 870 Q790 870 790 820 L790 640 Z" fill-opacity="0.85"/>
+  <text class="f-bg" x="600" y="770" text-anchor="middle" font-size="40" font-weight="800">$500 +</text>
 
-  <text x="600" y="990" text-anchor="middle" font-size="34" font-weight="700" fill="#FFFFFF" fill-opacity="0.7">Surprise bills become planned ones.</text>
+  <text class="f-ink" x="600" y="990" text-anchor="middle" font-size="34" font-weight="700" fill-opacity="0.7">Surprise bills become planned ones.</text>
 </svg>

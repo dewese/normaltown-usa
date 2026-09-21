@@ -1,20 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
-  <rect width="1200" height="1200" fill="#0F0F0F"/>
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+  <rect class="f-bg" width="1200" height="1200"/>
 
   <!-- ground -->
-  <line x1="200" y1="820" x2="1000" y2="820" stroke="#FFFFFF" stroke-width="3" stroke-opacity="0.25"/>
+  <line class="s-ink" x1="200" y1="820" x2="1000" y2="820" stroke-width="3" stroke-opacity="0.25"/>
 
   <!-- person, standing lighter (cyan) -->
-  <circle cx="470" cy="420" r="60" fill="none" stroke="#2DD4FF" stroke-width="12"/>
-  <line x1="470" y1="480" x2="470" y2="700" stroke="#2DD4FF" stroke-width="12" stroke-linecap="round"/>
-  <line x1="470" y1="700" x2="420" y2="815" stroke="#2DD4FF" stroke-width="12" stroke-linecap="round"/>
-  <line x1="470" y1="700" x2="520" y2="815" stroke="#2DD4FF" stroke-width="12" stroke-linecap="round"/>
-  <line x1="470" y1="540" x2="410" y2="620" stroke="#2DD4FF" stroke-width="12" stroke-linecap="round"/>
-  <line x1="470" y1="540" x2="560" y2="600" stroke="#2DD4FF" stroke-width="12" stroke-linecap="round"/>
+  <circle class="s-ac" cx="470" cy="420" r="60" fill="none" stroke-width="12"/>
+  <line class="s-ac" x1="470" y1="480" x2="470" y2="700" stroke-width="12" stroke-linecap="round"/>
+  <line class="s-ac" x1="470" y1="700" x2="420" y2="815" stroke-width="12" stroke-linecap="round"/>
+  <line class="s-ac" x1="470" y1="700" x2="520" y2="815" stroke-width="12" stroke-linecap="round"/>
+  <line class="s-ac" x1="470" y1="540" x2="410" y2="620" stroke-width="12" stroke-linecap="round"/>
+  <line class="s-ac" x1="470" y1="540" x2="560" y2="600" stroke-width="12" stroke-linecap="round"/>
 
   <!-- heavy weight set down on the ground -->
-  <rect x="640" y="690" width="200" height="130" rx="14" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-opacity="0.6"/>
-  <text x="740" y="772" text-anchor="middle" font-size="40" font-weight="800" fill="#FFFFFF" fill-opacity="0.6">what if</text>
+  <rect class="s-ink" x="640" y="690" width="200" height="130" rx="14" fill="none" stroke-width="8" stroke-opacity="0.6"/>
+  <text class="f-ink" x="740" y="772" text-anchor="middle" font-size="40" font-weight="800" fill-opacity="0.6">what if</text>
 
-  <text x="600" y="960" text-anchor="middle" font-size="46" font-weight="800" fill="#FFFFFF">Do your part. Set it down.</text>
+  <text class="f-ink" x="600" y="960" text-anchor="middle" font-size="46" font-weight="800">Do your part. Set it down.</text>
 </svg>

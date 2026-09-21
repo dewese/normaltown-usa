@@ -1,8 +1,31 @@
 
 :root{
-  --canvas:#0F0F0F; --ink:#FFFFFF; --accent:#2DD4FF;
-  --muted:rgba(255,255,255,.60); --faint:rgba(255,255,255,.12);
-  --panel:#161616; --measure:40rem;
+  /* Warm paper by default. Every pair below is checked against WCAG 2.1 AA on its own
+     background; the accessibility statement promises AA, so nothing here is by eye.
+     --accent teal on canvas 5.71:1, ink 16.55:1, muted 6.75:1, white on accent 6.05:1. */
+  --canvas:#FBF8F3; --ink:#1B1917; --accent:#0E6F63; --accent-hover:#0B5F55;
+  --accent-ink:#FFFFFF; --warm:#A54B24; --bitcoin:#0E7490; --brand-mark:#0E6F63;
+  --muted:#5C5751; --faint:rgba(27,25,23,.14);
+  --panel:#F3EDE4; --measure:40rem;
+  --serif:Fraunces,Georgia,'Times New Roman',serif;
+  color-scheme:light dark;
+}
+/* The old identity, kept whole as the dark theme. Electric cyan #2DD4FF scores 1.66:1 on
+   warm paper, which is why it cannot be the light-theme accent; here it has 10.65:1, so
+   it lives on as the bitcoin colour where it always read best. */
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --canvas:#141210; --ink:#F7F3EC; --accent:#4FC7B4; --accent-hover:#6FD8C7;
+    --accent-ink:#141210; --warm:#E8996A; --bitcoin:#2DD4FF; --brand-mark:#4FC7B4;
+    --muted:#A8A199; --faint:rgba(247,243,236,.16);
+    --panel:#1C1917;
+  }
+}
+:root[data-theme="dark"]{
+  --canvas:#141210; --ink:#F7F3EC; --accent:#4FC7B4; --accent-hover:#6FD8C7;
+  --accent-ink:#141210; --warm:#E8996A; --bitcoin:#2DD4FF; --brand-mark:#4FC7B4;
+  --muted:#A8A199; --faint:rgba(247,243,236,.16);
+  --panel:#1C1917;
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -23,7 +46,7 @@ a:hover{text-decoration:underline}
 .sr-only{position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0}
 img{max-width:100%; height:auto; display:block}
 .wrap{width:100%; max-width:64rem; margin:0 auto; padding:0 1.5rem}
-.skip{position:absolute; left:-999px; top:0; background:var(--accent); color:#000; padding:.5rem 1rem}
+.skip{position:absolute; left:-999px; top:0; background:var(--accent); color:var(--accent-ink); padding:.5rem 1rem}
 .skip:focus{left:1rem; z-index:10}
 
 /* header */
@@ -32,7 +55,13 @@ img{max-width:100%; height:auto; display:block}
   gap:1rem; padding-top:1.1rem; padding-bottom:1.1rem; flex-wrap:wrap}
 .brand{display:flex; align-items:center; flex:none}
 .brand:hover{text-decoration:none}
-.brand img{height:34px; width:auto; display:block}
+.brand .brand-logo{height:34px; width:auto; display:block; color:var(--ink)}
+/* Headline serif. A geometric sans in every slot reads like a product; a warm serif on
+   the headlines reads like a person wrote it, which is the whole positioning. */
+.hero h1,.page h1,.article-head h1,.body h2,.body h3,.post-card h2,.post-card h3,
+.tile h2,.tile h3,.post-cta h2,.contact-form h2{
+  font-family:var(--serif); font-weight:600; font-variation-settings:"SOFT" 8,"WONK" 1}
+.hero h1,.page h1,.article-head h1{font-weight:700}
 nav.main{display:flex; gap:1.3rem; font-size:.95rem; font-weight:600; flex-wrap:wrap}
 nav.main a{color:var(--muted)}
 nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none}
@@ -105,6 +134,17 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .post-card .meta{font-size:.82rem; color:var(--muted); font-weight:600;
   text-transform:uppercase; letter-spacing:.08em; margin-bottom:.5rem;
   display:flex; gap:.7rem; align-items:center; flex-wrap:wrap}
+/* Cyan is not retired, it is demoted: the bitcoin hub and its cards still wear it. */
+body.cat-bitcoin{--accent:var(--bitcoin); --accent-hover:#0A6A85; --brand-mark:var(--bitcoin)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) body.cat-bitcoin{--accent-hover:#5CDFFF}}
+.table-wrap{overflow-x:auto; margin:1.6rem 0; -webkit-overflow-scrolling:touch}
+.body table{border-collapse:collapse; width:100%; font-size:.95rem; line-height:1.5}
+.body table th,.body table td{padding:.6rem .8rem; text-align:left; vertical-align:top;
+  border-bottom:1px solid var(--faint)}
+.body table thead th{font-size:.72rem; letter-spacing:.09em; text-transform:uppercase;
+  color:var(--muted); font-weight:700; border-bottom:2px solid var(--faint)}
+.body table tbody tr:last-child td{border-bottom:none}
+.body table tbody tr:nth-child(even){background:var(--panel)}
 .tag{color:var(--accent); border:1px solid var(--faint); border-radius:999px;
   padding:.05rem .55rem; font-size:.72rem}
 a.tag:hover{border-color:var(--accent); text-decoration:none}
@@ -175,15 +215,15 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
   text-transform:uppercase; color:var(--muted); font-weight:700}
 .partner-cta{border-top:1px solid var(--faint); margin:1.6rem 0 0; padding-top:1.4rem}
 .body .partner-cta a.btn{display:inline-block; font-weight:800; font-size:1rem;
-  color:#0F0F0F; background:var(--accent); border:1px solid var(--accent);
+  color:var(--accent-ink); background:var(--accent); border:1px solid var(--accent);
   border-radius:999px; padding:.85rem 1.6rem; text-decoration:none; line-height:1.2}
-.body .partner-cta a.btn:hover{background:#5CDFFF; text-decoration:none}
+.body .partner-cta a.btn:hover{background:var(--accent-hover); border-color:var(--accent-hover); text-decoration:none}
 .body .partner-note{margin:0 0 .9rem; font-size:.8rem; line-height:1.45; color:var(--muted)}
 .body .own-cta{margin:1.4rem 0 0}
 .body .own-cta a.btn-ghost{display:inline-block; font-weight:800; font-size:1rem;
   color:var(--accent); border:1px solid var(--accent); border-radius:999px;
   padding:.85rem 1.6rem; text-decoration:none; line-height:1.2}
-.body .own-cta a.btn-ghost:hover{background:var(--accent); color:#0F0F0F; text-decoration:none}
+.body .own-cta a.btn-ghost:hover{background:var(--accent); color:var(--accent-ink); text-decoration:none}
 /* on the Resources page a section break has to beat a card break, so rule the headings */
 .page-resources .body h2{margin-top:3.5rem}
 .page-resources .body h2::before{content:""; display:block; height:1px;
@@ -265,7 +305,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .contact-form select{appearance:none; -webkit-appearance:none; background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);
   background-position:calc(100% - 20px) 50%,calc(100% - 14px) 50%; background-size:6px 6px; background-repeat:no-repeat; padding-right:2.4rem}
 .contact-form .hp{position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden}
-.contact-form button{margin-top:1.3rem; font:inherit; font-weight:800; color:#0F0F0F; background:var(--accent);
+.contact-form button{margin-top:1.3rem; font:inherit; font-weight:800; color:var(--accent-ink); background:var(--accent);
   border:none; border-radius:999px; padding:.8rem 1.6rem; cursor:pointer}
 .contact-form button:hover{filter:brightness(1.08)}
 .contact-form .fine{margin:.9rem 0 0; font-size:.85rem; color:var(--muted)}
@@ -303,7 +343,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .foot-sub input[type=email]{flex:1; min-width:0; font:inherit; color:var(--ink); background:var(--canvas);
   border:1px solid var(--faint); border-radius:999px; padding:.6rem 1rem}
 .foot-sub input[type=email]:focus{outline:2px solid var(--accent); outline-offset:2px; border-color:var(--accent)}
-.foot-sub button{font:inherit; font-weight:800; color:#0F0F0F; background:var(--accent); border:none;
+.foot-sub button{font:inherit; font-weight:800; color:var(--accent-ink); background:var(--accent); border:none;
   border-radius:999px; padding:.6rem 1.1rem; cursor:pointer; white-space:nowrap}
 .foot-sub button:hover{filter:brightness(1.08)}
 .foot-sub .fine{margin:.5rem 0 0; font-size:.8rem}
@@ -313,6 +353,6 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
   body{font-size:17px}
   .hero{padding:3rem 0 1.6rem}
   nav.main{gap:.9rem; font-size:.9rem}
-  .brand img{height:28px}
+  .brand .brand-logo{height:28px}
   .author-box{flex-direction:column}
 }

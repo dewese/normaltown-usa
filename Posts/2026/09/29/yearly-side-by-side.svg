@@ -1,19 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
-  <rect width="1200" height="1200" fill="#0F0F0F"/>
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+  <rect class="f-bg" width="1200" height="1200"/>
 
-  <text x="600" y="170" text-anchor="middle" font-size="44" font-weight="800" fill="#FFFFFF">One year, all in.</text>
+  <text class="f-ink" x="600" y="170" text-anchor="middle" font-size="44" font-weight="800">One year, all in.</text>
 
-  <line x1="180" y1="900" x2="1020" y2="900" stroke="#FFFFFF" stroke-width="3" stroke-opacity="0.25"/>
+  <line class="s-ink" x1="180" y1="900" x2="1020" y2="900" stroke-width="3" stroke-opacity="0.25"/>
 
   <!-- traditional plan bar (tall/faint) -->
-  <rect x="270" y="300" width="240" height="600" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-opacity="0.6"/>
-  <text x="390" y="265" text-anchor="middle" font-size="42" font-weight="800" fill="#FFFFFF" fill-opacity="0.7">~$20,000</text>
-  <text x="390" y="960" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF" fill-opacity="0.7">traditional plan</text>
+  <rect class="s-ink" x="270" y="300" width="240" height="600" fill="none" stroke-width="6" stroke-opacity="0.6"/>
+  <text class="f-ink" x="390" y="265" text-anchor="middle" font-size="42" font-weight="800" fill-opacity="0.7">~$20,000</text>
+  <text class="f-ink" x="390" y="960" text-anchor="middle" font-size="30" font-weight="700" fill-opacity="0.7">traditional plan</text>
 
   <!-- health sharing bar (short/cyan) -->
-  <rect x="690" y="740" width="240" height="160" fill="#2DD4FF"/>
-  <text x="810" y="705" text-anchor="middle" font-size="42" font-weight="800" fill="#2DD4FF">~$5,500</text>
-  <text x="810" y="960" text-anchor="middle" font-size="30" font-weight="800" fill="#FFFFFF">health sharing</text>
+  <rect class="f-ac" x="690" y="740" width="240" height="160"/>
+  <text class="f-ac" x="810" y="705" text-anchor="middle" font-size="42" font-weight="800">~$5,500</text>
+  <text class="f-ink" x="810" y="960" text-anchor="middle" font-size="30" font-weight="800">health sharing</text>
 
-  <text x="600" y="1070" text-anchor="middle" font-size="32" font-weight="700" fill="#FFFFFF" fill-opacity="0.6">Healthy family, event included.</text>
+  <text class="f-ink" x="600" y="1070" text-anchor="middle" font-size="32" font-weight="700" fill-opacity="0.6">Healthy family, event included.</text>
 </svg>
