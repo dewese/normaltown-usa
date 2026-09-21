@@ -1,6 +1,6 @@
 # What the Health Sharing Numbers Actually Say
 
-> The numbers behind CrowdHealth: more than 45,000 bills funded, single bills over $600,000, about a week on average to fund a complete eligible submission, cash-pay discounts commonly 25 to 85 percent, and a flat $60 per person monthly fee that doesn't rise with age. Strong track record. Not a legal guarantee, because it isn't insurance.
+> The numbers behind CrowdHealth: more than 45,000 bills funded, single bills over $600,000, about a week on average to fund a complete eligible submission, cash-pay discounts commonly 25 to 85 percent, a flat $60 per person monthly fee that is the same at any age, and a hard cap on what the crowd can ask you for in a month. Strong track record. Not a legal guarantee, because it isn't insurance.
 
 I'm a stories guy, but stories can fool you. Anybody can find one happy customer or one horror story to prove whatever they already believe. So let's set the anecdotes aside for a minute and look at the actual numbers behind health sharing, specifically CrowdHealth, the service I use. Numbers don't have a sales pitch. Here's what they say, and what they don't.
 

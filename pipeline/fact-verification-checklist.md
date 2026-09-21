@@ -30,7 +30,7 @@ Fill in the right-hand column from the source, then correct `06-cta-affiliate.md
 |---|---|---|---|---|
 | 1 | 37,000+ members | ~15,000 to 17,000 | | |
 | 2 | 45,000+ bills funded | 53,877 lifetime, 32 unfunded or partial | | |
-| 3 | $60/mo flat + variable contributions, no cap mentioned | $60 base, contributions capped ~$140/mo per adult under 55; typical all-in $140 to $200 | | |
+| 3 | ~~$60/mo flat + variable contributions, no cap mentioned~~ | $60 base, contributions capped ~$140/mo per adult under 55 | **VERIFIED 2026-09-21 by David from his member account.** $60/mo per person incl. children. Crowd ask hard-capped: $140 (0-54), $280 (55-64), $420 (family of 4+, household). Worst case all in: $200 / $340 / $660. Crowd historically rarely asks the full share. | member account |
 | 4 | Pre-existing: ineligible yrs 1 to 2, then $25k/yr cap from yr 3 | One source describes a 6-month waiting period | | |
 | 5 | 4.9 Trustpilot, 1,000+ reviews | 4.6 in a 2026 roundup | | |
 | 6 | Referral NORMAL = 3 months at $99 | Coupon sites advertise $99/mo for **6** months on some codes | | |

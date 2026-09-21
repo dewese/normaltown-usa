@@ -7,6 +7,7 @@
 | **Subtitle** | `The real numbers: a flat fee, a set amount per health event, and no surprise premium.` |
 | **Meta description** | `What does health sharing cost? A flat $60/month per person plus $500 per health event, not a premium and a deductible. Here's the honest math.` |
 | **Category** | Health |
+| **Updated** | 2026-09-21 |
 
 - **Image:** `flat-vs-mystery.png` — Alt text: `Two stacked bars: a short, clean cyan bar labeled flat monthly fee next to a tall white bar labeled premium plus deductible broken into many uneven segments.`
 - **Internal links:** /p/who-health-sharing-is-wrong-for/, /p/what-is-health-sharing/

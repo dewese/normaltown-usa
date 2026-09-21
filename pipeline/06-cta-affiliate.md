@@ -29,8 +29,31 @@ be worth reading. If it isn't, the pitch was the point — start over.
 - Never bolt a pitch onto an unrelated article. No fake urgency. No "act now."
 
 ## CrowdHealth quick-facts (verified from joincrowdhealth.com — last checked 2026-09-03)
-- Flat **$60/mo** advocacy fee per member (plus variable monthly crowdfunding
-  contributions toward others' bills; members get 2 days to approve/deny each request).
+- Flat **$60/mo** subscription **per person, children included** (a family of four pays
+  $240/mo in subscription). Covers admin, the app, the bill negotiators, and a Care
+  Advocate. Members get 2 days to approve/deny each funding request.
+- **The monthly crowd ask is hard-capped.** This is the single most under-used fact on
+  the site. Verified by David from his own member account, 2026-09-21:
+
+  | Who | Most the crowd can ask per month | Worst case all in, with the $60 |
+  |---|---|---|
+  | Ages 0 to 54 | $140 | **$200** per person |
+  | Ages 55 to 64 | $280 | **$340** per person |
+  | Family of 4+ | $420 for the household | **$660** for a family of four |
+
+  **Historically CrowdHealth rarely asks for the full share**, so the cap is the ceiling,
+  not the typical month. Never present the cap as the normal cost, and never quote a
+  "typical" figure until we have David's real monthly history to cite.
+
+  **Why it matters:** the strongest objection to health sharing is "insurance has an
+  out-of-pocket maximum and sharing has nothing." On the monthly side that is simply not
+  true, and a reader can see the ceiling before joining. Use this wherever cost comes up.
+
+  **Writing rule:** the $60 base fee is flat at every age, but the *total* is not. Never
+  write "the cost doesn't rise with age" or "flat pricing that doesn't punish you for your
+  age" on its own. The cap doubles at 55, so a 60-year-old's worst case is $340 against a
+  30-year-old's $200. Any age-flat claim must name the step-up in the same breath. This
+  matters most for the early-retiree audience, who sit exactly on that line.
 - Makes money from the flat fee, **not** a percentage of claims → aligned incentive.
 - **$500 member commitment** per health event (instead of a deductible). Maternity
   is a **$3,000** commitment. One preventive/wellness visit a year is crowdfunded up
