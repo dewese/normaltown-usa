@@ -1127,6 +1127,27 @@ h.addEventListener('keydown',function(e){if(e.key==='Escape'&&h.classList.contai
 
 CSS_VERSION = hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
 
+
+def photo_v(filename):
+    """`?v=<content hash>` for a photo in site/, or '' if it is not there.
+
+    The photos keep stable filenames on purpose (/about/family.jpg and friends), and
+    `_headers` tells browsers to hold anything under /about/ for 30 days. That combination
+    means replacing a photo keeps serving the old one to every returning reader until the
+    month is up. It is exactly what happened when the black-and-white portraits were
+    swapped for colour: the stylesheet is versioned so the new palette appeared at once,
+    the photos were not, so they stayed grey. Versioning by content makes a swap take
+    effect immediately and costs nothing when nothing changed.
+    """
+    return file_v(SITE_DIR / filename)
+
+
+def file_v(path):
+    """`?v=<content hash>` for any file on disk, or '' if it is not there."""
+    if not path or not path.exists():
+        return ""
+    return "?v=" + hashlib.md5(path.read_bytes()).hexdigest()[:8]
+
 NAV = [("/start-here/", "Start Here"), ("/crowdhealth/", "CrowdHealth"), ("/blog/", "Blog"), ("/resources/", "Resources"),
        ("/faq/", "FAQ"), ("/about/", "About"), ("/contact/", "Contact")]
 
@@ -1234,7 +1255,7 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
     ga, signup = ga_tag(), footer_signup()
     if page_title is None:
         page_title = title if title == SITE_NAME else f"{title} | {SITE_NAME}"
-    og_image = og_image or f"{SITE_URL}/assets/og-default.png"
+    og_image = og_image or f"{SITE_URL}/assets/og-default.png{file_v(SITE_DIR / 'og-default.png')}"
     w, h = og_size or ((1200, 630) if og_image.endswith("og-default.png") else (1200, 1200))
     og_img = html.escape(og_image, quote=True)
     nav_items = []
@@ -1330,17 +1351,17 @@ def render_home(posts):
     lookup = by_slug(posts)
     photo = ""
     if HOME_HERO.exists():
-        srcset = "/about/david-dewese-hero.jpg 659w"
+        hv, hv_sm = photo_v("home-hero.jpg"), photo_v("home-hero-400.jpg")
+        srcset = f"/about/david-dewese-hero.jpg{hv} 659w"
         if HOME_HERO_SM.exists():
-            srcset = "/about/david-dewese-hero-400.jpg 400w, " + srcset
-        photo = f"""<figure class="hero-photo"><img src="/about/david-dewese-hero-400.jpg" srcset="{srcset}"
+            srcset = f"/about/david-dewese-hero-400.jpg{hv_sm} 400w, " + srcset
+        photo = f"""<figure class="hero-photo"><img src="/about/david-dewese-hero-400.jpg{hv_sm}" srcset="{srcset}"
         sizes="(max-width:820px) 11rem, 16rem" alt="{html.escape(HOME_HEADSHOT_ALT, quote=True)}" width="659" height="850" fetchpriority="high">
         <figcaption>{html.escape(HOME_HEADSHOT_CAPTION)}</figcaption></figure>"""
     hero = f"""<section class="hero{' has-photo' if photo else ''}"><div class="wrap">
       <div class="hero-copy">
       <h1>Money &amp; health insurance, <span class="accent">explained in plain English</span>.</h1>
       <p>Why you feel broke on a good income, how to beat the rising cost of health insurance, and how to save in something that holds its value. Written by a normal family guy with a regular job, for normal people with regular jobs. One idea per post, short enough to read with your coffee.</p>
-      <p class="promise">Read for a month and you'll know how to ask for the cash price on a medical bill, plug the leaks in your paycheck, and build your first $1,000 cushion. Almost nobody teaches this, because almost nobody gets paid to.</p>
       </div>
       {photo}
     </div></section>"""
@@ -1449,10 +1470,10 @@ def render_post(p, posts):
     if p["png_name"]:
         hero_src = p["svg_name"] or p["png_name"]
         hero_img = f'<figure class="hero-img"><img src="{hero_src}" alt="{html.escape(p["alt"], quote=True)}" width="1200" height="1200" fetchpriority="high"></figure>'
-        og_image = f"{canonical}{p['png_name']}"
+        og_image = f"{canonical}{p['png_name']}{file_v(p['png'])}"
     short = ""
     if p["short"]:
-        avatar = ('<img class="avatar" src="/about/david-dewese-round-96.png" alt="" width="36" height="36">'
+        avatar = (f'<img class="avatar" src="/about/david-dewese-round-96.png{photo_v("home-headshot-96.png")}" alt="" width="36" height="36">'
                   if HOME_HEADSHOT_XS.exists() else "")
         short = f'<div class="short-answer"><span class="label">{avatar}In short</span><p>{_inline(p["short"])}</p></div>'
     updated = ""
@@ -1486,7 +1507,7 @@ def render_post(p, posts):
         pager = f'<nav class="pager" aria-label="Older and newer posts">{o}{nw}</nav>'
 
     author_box = f"""<div class="author-box">
-        <img src="/about/david-dewese-240.png" alt="" width="72" height="72" loading="lazy">
+        <img src="/about/david-dewese-240.png{photo_v('author-headshot-240.png')}" alt="" width="72" height="72" loading="lazy">
         <div><p class="name">Written by <a href="/about/">{AUTHOR}</a></p>
         <p>{html.escape(AUTHOR_BIO)} <a href="/about/">More about me</a>.</p></div>
       </div>"""
@@ -1654,11 +1675,12 @@ def about_figure():
     """Return the <figure> for the About page, or '' if the photo isn't there."""
     if not ABOUT_PHOTO.exists():
         return ""
-    srcset = "family.jpg 1400w"
+    fv, fv_sm = photo_v("about-family.jpg"), photo_v("about-family-700.jpg")
+    srcset = f"family.jpg{fv} 1400w"
     if ABOUT_PHOTO_SM.exists():
-        srcset = "family-700.jpg 700w, " + srcset
+        srcset = f"family-700.jpg{fv_sm} 700w, " + srcset
     return f"""<figure class="about-photo">
-        <img src="family.jpg" srcset="{srcset}" sizes="(max-width:820px) 20rem, 21rem"
+        <img src="family.jpg{fv}" srcset="{srcset}" sizes="(max-width:820px) 20rem, 21rem"
              alt="{html.escape(ABOUT_PHOTO_ALT, quote=True)}" width="1400" height="1750" loading="eager">
         <figcaption>{html.escape(ABOUT_PHOTO_CAPTION)}</figcaption>
       </figure>"""
@@ -1984,7 +2006,7 @@ def main(preview=False):
         page_url = f"{SITE_URL}/{slug}/"
         if slug == "about" and ABOUT_PHOTO.exists():
             figure, page_class = about_figure(), "about"
-            og_image = f"{SITE_URL}/about/family.jpg"
+            og_image = f"{SITE_URL}/about/family.jpg{photo_v('about-family.jpg')}"
             (DIST / slug).mkdir(parents=True, exist_ok=True)
             shutil.copy(ABOUT_PHOTO, DIST / slug / "family.jpg")
             if ABOUT_PHOTO_SM.exists():
