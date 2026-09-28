@@ -28,18 +28,18 @@ Fill in the right-hand column from the source, then correct `06-cta-affiliate.md
 
 | # | What our file currently says | What 2026 search results suggest | Verified value | Source page |
 |---|---|---|---|---|
-| 1 | 37,000+ members | ~15,000 to 17,000 | | |
-| 2 | 45,000+ bills funded | 53,877 lifetime, 32 unfunded or partial | | |
+| 1 | ~~37,000+ members~~ | ~15,000 to 17,000 | **VERIFIED 2026-09-28 by David.** Roughly 15,000 to 17,000. The old figure was wrong by more than 2x. Corrected everywhere. | member/company |
+| 2 | ~~45,000+ bills funded~~ | 53,877 lifetime | **VERIFIED 2026-09-28 by David.** **53,877**. Corrected in 13 places. Pair it with row 11: 53,877 bills across ~16k members is 3+ funded bills per member. Do not cite the "32 unfunded" figure, that one is still unconfirmed. | member/company |
 | 3 | ~~$60/mo flat + variable contributions, no cap mentioned~~ | $60 base, contributions capped ~$140/mo per adult under 55 | **VERIFIED 2026-09-21 by David from his member account.** $60/mo per person incl. children. Crowd ask hard-capped: $140 (0-54), $280 (55-64), $420 (family of 4+, household). Worst case all in: $200 / $340 / $660. Crowd historically rarely asks the full share. | member account |
-| 4 | Pre-existing: ineligible yrs 1 to 2, then $25k/yr cap from yr 3 | One source describes a 6-month waiting period | | |
-| 5 | 4.9 Trustpilot, 1,000+ reviews | 4.6 in a 2026 roundup | | |
+| 4 | Pre-existing: ineligible yrs 1 to 2, then $25k/yr cap from yr 3 | ~~One source describes a 6-month waiting period~~ | **VERIFIED 2026-09-28 by David.** **Our copy was right, the 6-month claim was wrong.** Verbatim rules now in the fact sheet. New detail: **high cholesterol and high blood pressure are exempt.** | member guide |
+| 5 | 4.9 Trustpilot, 1,000+ reviews | ~~4.6 in a 2026 roundup~~ | **VERIFIED 2026-09-28 by David.** **4.9 confirmed, our copy was right.** trustpilot.com/review/joincrowdhealth.com | Trustpilot |
 | 6 | Referral NORMAL = 3 months at $99 | ~~Coupon sites advertise $99/mo for 6 months~~ | **VERIFIED 2026-09-21 by David: member referral discounts are 3 months only.** Site copy was already correct. The coupon-aggregator "6 months" claims are wrong or stale; do not repeat them. | member account |
-| 7 | $86.7M estimated saved vs insurance | not re-confirmed | | |
-| 8 | Largest bills: $643K / $437K / $333K | not re-confirmed | | |
-| 9 | ~7 days bill to funded, ~2 days to reimburse | not re-confirmed | | |
-| 10 | State notes: VT, CA, MA, NJ, RI, DC | MD advisory added March 2026; check for others | | |
-| 11 | (not in our file) 99.8% of bills funded | worth confirming, it is a strong honest stat | | |
-| 12 | (not in our file) Longevity Discount Program | exists on their site | | |
+| 7 | ~~$86.7M saved~~ | ~$100M | **VERIFIED 2026-09-28 by David.** ~$100 million total, CrowdHealth's own figure via their Instagram. Weak surface for a dollar claim, so always attribute to them. Never appeared in a post, only the fact sheet. | company Instagram |
+| 8 | Largest bills: $643K / $437K / $333K | not re-confirmed | **STILL OPEN.** Currently published in several posts as "single bills over $600,000". Sourced 2026-09-03, so not wrong, just stale. | |
+| 9 | ~7 days bill to funded, ~2 days to reimburse | not re-confirmed | **STILL OPEN.** Published as "about a week on average". Sourced 2026-09-03, stale not wrong. | |
+| 10 | State notes: VT, CA, MA, NJ, RI, DC | MD advisory added March 2026 | **STILL OPEN, and the most consequential one left.** The list does not include Maryland. Needed before the state-by-state page. | |
+| 11 | (was not in our file) 99.8% of bills funded | strong honest stat | **VERIFIED 2026-09-28 by David.** **True.** Now used alongside row 2. | member/company |
+| 12 | (was not in our file) Longevity Discount Program | exists | **VERIFIED 2026-09-28 by David.** Real, and still mentioned nowhere on the site. joincrowdhealth.com/longevity-discount-program | company |
 
 ## Rows 3 and 6 matter most
 

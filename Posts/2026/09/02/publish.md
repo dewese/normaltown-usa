@@ -5,8 +5,9 @@
 | **URL slug** | `can-you-trust-health-sharing-with-a-big-bill` |
 | **Title tag** | `Can You Trust Health Sharing With a Big Bill? The Track Record` |
 | **Subtitle** | `A real track record, an honest look at the limits, and why the model isn't playing against you.` |
-| **Meta description** | `Can you trust health sharing with a big medical bill? The community has funded 45,000+ bills, but it's not insurance. Here's the honest trust check.` |
+| **Meta description** | `Can you trust health sharing with a big medical bill? The community has funded 53,877 bills, but it's not insurance. Here's the honest trust check.` |
 | **Category** | Health |
+| **Updated** | 2026-09-28 |
 
 - **Image:** `crowd-catches.png` — Alt text: `A large plain circle labeled big bill falling toward a wide highlighted net made of many small connected dots labeled the crowd, catching it.`
 - **Internal links:** /p/who-health-sharing-is-wrong-for/, /p/health-insurances-conflict-of-interest/

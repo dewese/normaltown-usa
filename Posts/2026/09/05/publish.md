@@ -4,8 +4,9 @@
 |---|---|
 | **URL slug** | `health-sharing-myths-vs-facts` |
 | **Subtitle** | `Sorting the fair worries from the leftover confusion, honestly, including the myth that's half true.` |
-| **Meta description** | `Health sharing myths vs. facts: it's not insurance, it has funded 45,000+ bills, its limits are stated not hidden, and it fits more people than you'd think.` |
+| **Meta description** | `Health sharing myths vs. facts: it's not insurance, it has funded 53,877 bills, its limits are stated not hidden, and it fits more people than you'd think.` |
 | **Category** | Health |
+| **Updated** | 2026-09-28 |
 
 - **Image:** `myth-vs-fact.png` — Alt text: `A two-column comparison: a faint X column labeled myth on the left and a bold highlighted check column labeled fact on the right.`
 - **Internal links:** /p/health-insurances-conflict-of-interest/, /p/who-health-sharing-is-wrong-for/

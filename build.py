@@ -32,6 +32,7 @@ import json
 import re
 import shutil
 import subprocess
+import sys
 from datetime import date, datetime
 from pathlib import Path
 
@@ -1126,7 +1127,7 @@ h.addEventListener('keydown',function(e){if(e.key==='Escape'&&h.classList.contai
 
 CSS_VERSION = hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
 
-NAV = [("/start-here/", "Start Here"), ("/blog/", "Blog"), ("/resources/", "Resources"),
+NAV = [("/start-here/", "Start Here"), ("/crowdhealth/", "CrowdHealth"), ("/blog/", "Blog"), ("/resources/", "Resources"),
        ("/faq/", "FAQ"), ("/about/", "About"), ("/contact/", "Contact")]
 
 
@@ -1856,12 +1857,21 @@ def check_links(posts, page_slugs):
     return problems
 
 
-def main():
+def main(preview=False):
+    """Build the site. `preview=True` also renders future-dated posts, into preview/.
+
+    Scheduled posts are deliberately invisible until their day, so there is normally no
+    way to see one before it goes live. The preview build renders them to a separate,
+    gitignored directory, which keeps them out of dist/ and therefore out of the deploy.
+    """
+    global DIST
+    if preview:
+        DIST = ROOT / "preview"
     if DIST.exists():
         shutil.rmtree(DIST)
     DIST.mkdir(parents=True)
 
-    posts = load_posts()
+    posts = load_posts(include_future=preview)
 
     write(DIST / "styles.css", CSS)
     shutil.copytree(LOGO_DIR, DIST / "assets")
@@ -1892,6 +1902,14 @@ def main():
             "desc": ("New to Normaltown USA? Here's who it's for, what I write about, the three posts "
                      "to read first, and where my family actually landed on health insurance."),
             "page_title": "Start Here: Plain-English Money and Health Help, and Where to Begin",
+        },
+        "crowdhealth.md": {
+            "slug": "crowdhealth",
+            "desc": ("An independent CrowdHealth guide from a family of four who have used it since "
+                     "2022. What it really costs (including the monthly cap nobody mentions), how a "
+                     "bill gets paid, the pre-existing rules verbatim, and exactly who should not join."),
+            "page_title": "CrowdHealth Review: Costs, Caps, and the Honest Limits, From a Member",
+            "toc": True,
         },
         "resources.md": {
             "slug": "resources",
@@ -1988,6 +2006,15 @@ def main():
                            "name": cfg["page_title"], "description": cfg["desc"],
                            "mainEntity": {"@id": f"{SITE_URL}/#david"},
                            "isPartOf": {"@id": f"{SITE_URL}/#website"}})
+        elif slug == "crowdhealth":
+            faqs = extract_faqs(body)
+            if faqs:
+                schema.append({"@type": "FAQPage", "@id": page_url + "#faq", "url": page_url,
+                               "name": cfg["page_title"], "description": cfg["desc"],
+                               "isPartOf": {"@id": f"{SITE_URL}/#website"},
+                               "author": {"@id": f"{SITE_URL}/#david"},
+                               "mainEntity": [{"@type": "Question", "name": q,
+                                               "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faqs]})
         elif slug == "faq":
             faqs = extract_faqs(body, every_h3=True)
             schema.append({"@type": "FAQPage", "@id": page_url + "#faq", "url": page_url,
@@ -2053,4 +2080,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(preview="--preview" in sys.argv)

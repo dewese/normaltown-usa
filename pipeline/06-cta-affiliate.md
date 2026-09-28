@@ -75,11 +75,26 @@ be worth reading. If it isn't, the pitch was the point — start over.
     rather than health sharing, and the difference is not marketing." That sentence is a
     differentiator. The big comparison sites file CrowdHealth under health sharing
     ministries, which is the one thing CrowdHealth says it is not.
-- **Pre-existing** (documented/diagnosed/symptomatic within 5 yrs): not eligible years
-  1–2, then capped at **$25,000/yr** from year 3.
+- **Pre-existing, verified verbatim from the member guide 2026-09-28.** CrowdHealth's
+  term is "Previously Documented, Diagnosed, or Symptomatic" conditions. Anything
+  diagnosed, documented, symptomatic, suspected, or treated **within 5 years of
+  joining**: **not eligible for funding in years 1 and 2**, then a **$25,000 per year**
+  crowdfunding cap from year 3 onward. Their own non-exhaustive examples: asthma,
+  congenital conditions (except children who join CrowdHealth at birth), diabetes,
+  genetic disorders, heart conditions, sleep apnea.
+  **High cholesterol and high blood pressure are explicitly exempt** from these limits.
+  Say that every time. Those two are the most common thing a 45-year-old reader is
+  quietly worried about, and most write-ups leave the exemption out.
 - **Excluded:** dental, vision, cosmetic, mental-health counseling, alternative
   therapies, brand-name Rx when a generic exists, IVF, injuries from hazardous activity.
-- **State notes:** extra insurance-mandate steps in VT, CA, MA, NJ, RI, DC.
+- **State notes:** extra insurance-mandate steps in VT, CA, MA, NJ, RI, DC. **NOT
+  re-verified as of 2026-09-28**, and Maryland issued a consumer advisory in March 2026
+  that is not in this list. Treat the state list as stale until checked.
+- **Longevity Discount Program** exists and is nowhere on the site yet:
+  https://www.joincrowdhealth.com/longevity-discount-program
+- **Still unverified, do not present as fresh** (last checked 2026-09-03): the largest
+  funded bills ($643K / $437K / $333K), and the ~7 days to fund / ~2 days to reimburse
+  timings.
 - **Referral (verified 2026-09-03, joincrowdhealth.com/resources/referral-program):**
   code **NORMAL** → `https://www.joincrowdhealth.com/?referral_code=NORMAL`.
   - **New member gets:** first **3 months at $99/mo** (a 3-month discount).
@@ -101,12 +116,22 @@ disclaimer. Keep the honest limits (not insurance, no guarantee, exclusions, pre
 rules) somewhere in the body of every referral post.
 
 ## Verifiable social proof (attributable to CrowdHealth; use instead of invented quotes)
-- 37,000+ members signed up; 45,000+ bills funded by the community.
+- **Roughly 15,000 to 17,000 members** (verified 2026-09-28). The site previously said
+  "37,000+", which was wrong by more than 2x and is now corrected everywhere.
+- **53,877 bills funded**, and **99.8% of submitted bills get funded** (both verified
+  2026-09-28).
+- **Use the two together.** 53,877 bills across ~16,000 members is more than three
+  funded bills per member, a far stronger story than the old, wrong pairing of 45,000
+  bills against 37,000 members. Correcting the member count downward made the argument
+  better, not worse. Lead with the ratio.
 - ~7 days average from complete bill submission to fully funded; reimbursed ~2 days
   after approval.
-- ~$86.7M estimated saved vs. traditional insurance (their figure).
+- **~$100 million** total saved vs. traditional insurance. CrowdHealth's own figure,
+  announced on their Instagram. It is a company claim on a weak surface, so attribute
+  it to them ("CrowdHealth says") and never state it as an independent finding.
 - Largest bills funded: $643K (firearm injury, CA), $437K (NICU, ND), $333K (appendicitis, GA).
-- 4.9-star Trustpilot rating, 1,000+ reviews.
+- **4.9-star Trustpilot rating** (verified 2026-09-28):
+  https://www.trustpilot.com/review/joincrowdhealth.com
 - **Testimonials rule:** never invent a member quote or name. Use the stats above,
   or paraphrase real review *themes* with attribution ("members on Trustpilot
   describe…"). For named/photo testimonials, get them from CrowdHealth with permission.
