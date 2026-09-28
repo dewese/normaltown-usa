@@ -1,6 +1,6 @@
 # Can You Trust Health Sharing With a Big Bill?
 
-> CrowdHealth's community has funded more than 45,000 bills, including a single bill over $643,000, and complete submissions get funded in about a week on average. It profits from a flat $60 fee, not from denying you. But it's not insurance and funding isn't legally guaranteed, so read the guidelines before you trust it with anything.
+> CrowdHealth's community has funded 53,877 bills, including a single bill over $643,000, and complete submissions get funded in about a week on average. It profits from a flat $60 fee, not from denying you. But it's not insurance and funding isn't legally guaranteed, so read the guidelines before you trust it with anything.
 
 This is the question that stops most people. The monthly cost looks great, the idea sounds nice, and then your gut says the quiet part out loud: "But will it actually be there when I really need it?" That is the right question to ask. Here is the honest answer, with the parts that should reassure you and the parts that should keep you careful.
 
@@ -8,7 +8,7 @@ This is the question that stops most people. The monthly cost looks great, the i
 
 Trust is not a feeling. It is a track record plus a clear understanding of the rules. So let us look at both.
 
-On the track record: CrowdHealth's community has funded more than 45,000 bills, with over 37,000 people signed up. The largest single bill the crowd has funded was more than $643,000 for a serious injury. Bills get fully funded in about a week on average once they are submitted, and members are reimbursed a couple of days after approval. On Trustpilot, it carries a 4.9 star rating across more than a thousand reviews. Those are not my numbers, they are theirs, and they are public so you can check them.
+On the track record: CrowdHealth's community has funded 53,877 bills for a community of roughly 16,000 members. The largest single bill the crowd has funded was more than $643,000 for a serious injury. Bills get fully funded in about a week on average once they are submitted, and members are reimbursed a couple of days after approval. On Trustpilot, it carries a 4.9 star rating across more than a thousand reviews. Those are not my numbers, they are theirs, and they are public so you can check them.
 
 ## The part that should keep you careful
 

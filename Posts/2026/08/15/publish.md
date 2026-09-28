@@ -8,4 +8,4 @@
 | **Meta description** | `What is a deductible? The part of a medical bill you pay before insurance pays anything. Premium, copay, and out-of-pocket max explained plainly too.` |
 | **Category** | Health |
 
-- **Image:** `deductible-first.png` — Alt text: `A single horizontal bill bar split in two: a solid cyan first segment labeled you pay, and a larger white outlined segment labeled insurance pays after you hit it.`
+- **Image:** `deductible-first.png` — Alt text: `A single horizontal bill bar split in two: a solid highlighted first segment labeled you pay, and a larger plain outlined segment labeled insurance pays after you hit it.`

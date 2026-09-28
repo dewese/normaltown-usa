@@ -8,4 +8,4 @@
 | **Meta description** | `Health sharing vs. insurance, pros and cons laid side by side. Cost, the legal guarantee, what's covered, and the incentive, explained plainly with a potluck.` |
 | **Category** | Health |
 
-- **Image:** `sharing-vs-insurance.png` — Alt text: `On the left, a single white circle labeled insurance, one caterer. On the right, a ring of cyan dots around a plate labeled health sharing, a potluck, with vs between them.`
+- **Image:** `sharing-vs-insurance.png` — Alt text: `On the left, a single plain circle labeled insurance, one caterer. On the right, a ring of highlighted dots around a plate labeled health sharing, a potluck, with vs between them.`

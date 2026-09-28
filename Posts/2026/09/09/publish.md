@@ -8,6 +8,6 @@
 | **Meta description** | `Health sharing's $500 per-event commitment vs. a multi-thousand-dollar yearly deductible. A real example, the honest trade-off, and why the shape matters.` |
 | **Category** | Health |
 
-- **Image:** `500-vs-deductible.png` — Alt text: `A short cyan block labeled $500 per event next to a tall white bar labeled $8,000 deductible.`
+- **Image:** `500-vs-deductible.png` — Alt text: `A short highlighted block labeled $500 per event next to a tall plain bar labeled $8,000 deductible.`
 - **Internal links:** /p/what-a-deductible-really-means/, /p/can-you-trust-health-sharing-with-a-big-bill/
 - **Affiliate:** yes — CrowdHealth referral (code NORMAL), disclosure + limits in body.

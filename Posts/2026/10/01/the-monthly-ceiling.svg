@@ -1,0 +1,14 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<rect class="f-ac" x="470" y="720" width="260" height="180"/>
+<rect class="s-ink" x="470" y="450" width="260" height="270" stroke-width="3" fill="none"/>
+<line class="s-ac" x1="380" y1="330" x2="820" y2="330" stroke-width="12" stroke-linecap="round"/>
+<line class="s-ink" x1="600" y1="430" x2="600" y2="375" stroke-width="3"/>
+<path class="s-ink" d="M600 370 l-16 26 M600 370 l16 26" stroke-width="3" fill="none"/>
+<text class="f-ac" x="600" y="275" font-family="Manrope, Helvetica, Arial, sans-serif" font-size="38" font-weight="600" text-anchor="middle">the cap</text>
+<text class="f-ink" x="880" y="600" font-family="Manrope, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" text-anchor="start">crowd ask</text>
+<text class="f-ac" x="880" y="830" font-family="Manrope, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" text-anchor="start">$60 base</text>
+<line class="s-ink" x1="740" y1="585" x2="865" y2="585" stroke-width="2"/>
+<line class="s-ac" x1="740" y1="815" x2="865" y2="815" stroke-width="2"/>
+</svg>

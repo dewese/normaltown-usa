@@ -1,6 +1,6 @@
 # Health Sharing: Myths vs. Facts
 
-> Most health sharing myths fall apart under a plain look. It's not insurance, and that distinction matters. CrowdHealth's community has funded more than 45,000 bills, including single bills over $600,000. Its limits are stated, not hidden. It fits families, the self-employed, and early retirees, not just healthy singles. The fair worries are handled by reading the rules and keeping $500 on hand.
+> Most health sharing myths fall apart under a plain look. It's not insurance, and that distinction matters. CrowdHealth's community has funded 53,877 bills, including single bills over $600,000. Its limits are stated, not hidden. It fits families, the self-employed, and early retirees, not just healthy singles. The fair worries are handled by reading the rules and keeping $500 on hand.
 
 Health sharing sounds strange the first time you hear it, so it collects myths the way a screen door collects dust. Some of the worries are fair. Some are just leftover confusion. Let us sort the real from the noise, honestly, including the ones where the myth is actually pointing at something true.
 
@@ -10,7 +10,7 @@ Fact: it is not insurance at all, and that distinction matters. Insurance is a l
 
 ## Myth: "They'll never actually pay a big bill."
 
-Fact: the community has funded more than 45,000 bills, including single bills over $600,000. Complete submissions get funded in about a week on average. The track record is real and public. The honest asterisk: because it is not insurance, funding is not legally guaranteed. Strong history, not an ironclad promise. Both halves are true, and you should hold both.
+Fact: the community has funded 53,877 bills, including single bills over $600,000. Complete submissions get funded in about a week on average. The track record is real and public. The honest asterisk: because it is not insurance, funding is not legally guaranteed. Strong history, not an ironclad promise. Both halves are true, and you should hold both.
 
 ## Myth: "There's a catch in the fine print."
 

@@ -8,6 +8,6 @@
 | **Meta description** | `A hospital bill is negotiable. Get it itemized, ask for the cash price, ask for a discount, and get the final number in writing. A plain-English how-to.` |
 | **Category** | Health |
 
-- **Image:** `bill-marked-down.png` — Alt text: `A hospital bill with the large sticker total crossed out in white and a much smaller cyan number written beside it.`
+- **Image:** `bill-marked-down.png` — Alt text: `A hospital bill with the large sticker total crossed out and a much smaller highlighted number written beside it.`
 - **Internal links:** /p/the-cash-price-secret/
 - **Affiliate:** no — pure trust-builder.

@@ -8,4 +8,4 @@
 | **Meta description** | `You have health insurance and still got a big bill. Here's why, in plain English: the deductible, coinsurance, and network rules that make you pay first.` |
 | **Category** | Health |
 
-- **Image:** `you-pay-first.png` — Alt text: `A horizontal bar split into a cyan section labeled you pay first, the deductible, and a white section labeled then insurance helps.`
+- **Image:** `you-pay-first.png` — Alt text: `A horizontal bar split into a highlighted section labeled you pay first, the deductible, and a plain section labeled then insurance helps.`

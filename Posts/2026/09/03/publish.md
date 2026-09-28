@@ -8,6 +8,6 @@
 | **Meta description** | `How does a six-figure hospital bill get paid without insurance? You cover $500, the bill gets negotiated down, and the community funds the rest in about a week.` |
 | **Category** | Health |
 
-- **Image:** `bill-shrinks-then-shared.png` — Alt text: `A tall white bar labeled list price with a cyan arrow pointing down to a much shorter bar labeled negotiated, then split into many small cyan segments labeled the crowd.`
+- **Image:** `bill-shrinks-then-shared.png` — Alt text: `A tall plain bar labeled list price with a highlighted arrow pointing down to a much shorter bar labeled negotiated, then split into many small highlighted segments labeled the crowd.`
 - **Internal links:** /p/the-cash-price-secret/, /p/who-health-sharing-is-wrong-for/
 - **Affiliate:** yes — CrowdHealth referral (code NORMAL), disclosure + limits in body.

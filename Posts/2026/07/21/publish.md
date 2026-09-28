@@ -8,4 +8,4 @@
 | **Meta description** | `For a lot of care there are two prices, and the cash price is often far lower. Here's how to ask for it, and when it actually beats using insurance.` |
 | **Category** | Money |
 
-- **Image:** `two-prices.png` — Alt text: `A tall bar labeled list price next to a much shorter cyan bar labeled cash price, with a downward arrow showing how much the price drops when you pay cash.`
+- **Image:** `two-prices.png` — Alt text: `A tall bar labeled list price next to a much shorter highlighted bar labeled cash price, with a downward arrow showing how much the price drops when you pay cash.`

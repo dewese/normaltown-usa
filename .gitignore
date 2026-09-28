@@ -10,3 +10,6 @@ __pycache__/
 
 # Local preview log
 *.log
+
+# Preview build output (future-dated posts); never deployed
+preview/

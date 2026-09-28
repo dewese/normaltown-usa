@@ -6,6 +6,8 @@
 >
 > **Graphics:** see the visual twin of this file, `brand/visual-identity.md`
 > (Visualize-Value-inspired: black canvas, white line art, one cyan accent #2DD4FF).
+> As of V2 that palette is the *dark* theme and the drawing spec for hero art; the site
+> defaults to warm paper with a deep-teal accent. See the brand table in `README.md`.
 
 ---
 
@@ -94,6 +96,11 @@ of us who did the homework.
 - ❌ No talking down. Simple ≠ dumb. The reader is smart and busy.
 - ❌ No assuming prior knowledge. Start every concept from zero.
 - ❌ No usage of the word "fiat".
+- ❌ Never call **CrowdHealth** a health sharing ministry, or describe CrowdHealth itself
+  as "health sharing." Their own term is **healthcare crowdfunding** (confirmed
+  2026-09-21). "Health sharing" is fine for the *category* the reader is shopping in,
+  because that is what they searched for. See the terminology rule in
+  `pipeline/06-cta-affiliate.md`.
 - ❌ No cursing.
 - ❌ No em dashes (—) and no ellipses (… / ...). They're a tell of AI writing. Use
   periods and commas, and break ideas into short sentences instead. (A normal

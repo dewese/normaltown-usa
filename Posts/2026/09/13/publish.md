@@ -8,6 +8,6 @@
 | **Meta description** | `How maternity works on health sharing: about a $3,000 member commitment for the whole pregnancy, what it covers, and the waiting-period rule you can't skip.` |
 | **Category** | Health |
 
-- **Image:** `3000-then-shared.png` — Alt text: `A small cyan block labeled your $3,000 next to a large white block labeled the crowd shares the rest.`
+- **Image:** `3000-then-shared.png` — Alt text: `A small highlighted block labeled your $3,000 next to a large plain block labeled the crowd shares the rest.`
 - **Internal links:** /p/who-health-sharing-is-wrong-for/
 - **Affiliate:** yes — CrowdHealth referral (code NORMAL), disclosure + limits in body.

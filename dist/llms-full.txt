@@ -7,6 +7,76 @@ Author: David Dewese (https://www.normaltownusa.com/about/). Site: https://www.n
 
 ---
 
+# Letting Go of the "What If"
+
+URL: https://www.normaltownusa.com/p/letting-go-of-the-what-if/
+Published: 2026-09-28
+Updated: 2026-09-28
+Category: Health
+Author: David Dewese
+
+*No coverage erases risk. Do the reasonable things, then genuinely set the worry down.*
+
+**In short:** No coverage on earth erases risk. Insurance doesn't, health sharing doesn't, being rich doesn't. The goal isn't zero worry. It's turning the vague "what if" into a concrete plan: pay my $500, let the advocate negotiate, get care first in an emergency, cover gaps with the emergency fund, pay cash for routine. Do the controllable part well, then set the rest down.
+
+I want to talk about the quiet thing underneath all these health and money decisions. It's not really about premiums or deductibles or crowd funding. It's about the "what if" that runs in the back of your mind. What if something big happens? What if I picked wrong? That worry is heavy, and I've carried it too. So let me talk honestly about how to set it down, whatever coverage you end up choosing.
+
+## The "what if" never fully goes away, and that's okay
+
+Here's the first honest thing. No coverage on earth erases risk. Insurance doesn't. Health sharing doesn't. Being rich doesn't. Life comes with uncertainty, and any product promising to make you totally safe is lying to you.
+
+So the goal was never zero worry. The goal is to worry about the right size of thing, and to know you've done the reasonable stuff a responsible person can do. Once you've done that, the leftover worry is just the tax we all pay for being alive, and you're allowed to put it down.
+
+## Trade the vague fear for a concrete plan
+
+Vague worry is the worst kind, because your brain fills the blank with the scariest possible movie. The fix is to make the fear concrete, because a concrete problem has a concrete answer.
+
+So instead of "what if something awful happens," write down the actual plan:
+
+- If a health event hits, I pay my $500, and my advocate negotiates the bill down.
+- If it's an emergency, I get care first and sort the paperwork after.
+- If there's a gap, my emergency fund covers it.
+- If it's routine, I pay the cash price.
+
+Suddenly the monster under the bed is just a list. Lists aren't scary. I built my own version of that list as [a layered safety net](https://www.normaltownusa.com/p/the-diy-healthcare-safety-net/).
+
+## Control what you can, release what you can't
+
+There's real freedom in sorting your worries into two buckets.
+
+In the "I can control this" bucket: keeping $500 liquid, reading the guidelines, asking for the cash price, choosing coverage that fits your health honestly. Do these, fully, and take the win.
+
+In the "I can't control this" bucket: whether you get sick, when, and the exact shape of the future. You cannot think your way to certainty about these, so spending your peace on them is just paying twice. Do the first bucket well, and you earn the right to release the second.
+
+## Why this matters for your actual health
+
+This isn't just feel-good talk. Chronic worry about money and health is its own kind of tax on your body and your sleep. Part of why my family landed where we did is that a simple, understandable plan let us stop white-knuckling it. Knowing the shape of the deal, limits and all, is what let me actually relax. That peace is a real benefit, not a soft one.
+
+## The takeaway
+
+You will never buy your way to zero risk, so stop trying. Instead, do the reasonable things a responsible person can do, turn the vague "what if" into a concrete plan, and then genuinely let the rest go. You've done your part. Carrying the worry on top of the plan doesn't make you safer. It just makes you tired. Set it down.
+
+## Questions I get about this
+
+### How do I stop worrying about medical bills?
+
+Make the fear concrete. Vague worry lets your brain fill the blank with the scariest movie. Write down the actual plan for each scenario, and the monster under the bed becomes a list. Lists aren't scary. I built mine as a [layered safety net](https://www.normaltownusa.com/p/the-diy-healthcare-safety-net/).
+
+### Is health sharing riskier than insurance?
+
+It trades a legal guarantee for a lower cost and a strong track record. Whether that's "riskier" depends on your health and temperament. Both leave real risk on the table. Neither erases it.
+
+### Does worry about money actually affect health?
+
+Chronic worry about money and health is its own tax on your body and your sleep. Part of why my family landed where we did is that a simple, understandable plan let us stop white-knuckling it. That peace is a real benefit, not a soft one.
+
+If a simple, honest plan would help you set it down, use my code **NORMAL**: [see how CrowdHealth works](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+
+
+---
+
 # Health Sharing and the ER
 
 URL: https://www.normaltownusa.com/p/health-sharing-and-the-er/
@@ -141,13 +211,13 @@ From the gap between what you used to pay in premiums and what you pay now. You'
 
 URL: https://www.normaltownusa.com/p/what-the-health-sharing-numbers-say/
 Published: 2026-09-25
-Updated: 2026-09-25
+Updated: 2026-09-28
 Category: Health
 Author: David Dewese
 
-*45,000+ bills funded, six figures included, about a week on average. And the one asterisk.*
+*53,877 bills funded, six figures included, about a week on average. And the one asterisk.*
 
-**In short:** The numbers behind CrowdHealth: more than 45,000 bills funded, single bills over $600,000, about a week on average to fund a complete eligible submission, cash-pay discounts commonly 25 to 85 percent, and a flat $60 per person monthly fee that doesn't rise with age. Strong track record. Not a legal guarantee, because it isn't insurance.
+**In short:** The numbers behind CrowdHealth: 53,877 bills funded and 99.8 percent of them funded, for a community of roughly 16,000 members. Single bills over $600,000, about a week on average to fund a complete eligible submission, cash-pay discounts commonly 25 to 85 percent, a flat $60 per person monthly fee that is the same at any age, and a hard cap on what the crowd can ask you for in a month. Strong track record. Not a legal guarantee, because it isn't insurance.
 
 I'm a stories guy, but stories can fool you. Anybody can find one happy customer or one horror story to prove whatever they already believe. So let's set the anecdotes aside for a minute and look at the actual numbers behind health sharing, specifically CrowdHealth, the service I use. Numbers don't have a sales pitch. Here's what they say, and what they don't.
 
@@ -155,7 +225,8 @@ I'm a stories guy, but stories can fool you. Anybody can find one happy customer
 
 A few figures that tell the real story:
 
-- **More than 45,000 bills funded.** This isn't a startup hoping it works. It's a community that has actually done the thing, many thousands of times.
+- **53,877 bills funded, and 99.8 percent of submitted bills get funded.** This isn't a startup hoping it works. It's a community that has actually done the thing, tens of thousands of times.
+- **Roughly 16,000 members.** Smaller than you might guess, and I think that number is the more interesting one. Fifty-three thousand bills across sixteen thousand people is more than three funded bills per member. This is not a crowd where a handful of people use it and everybody else just pays in.
 - **Single bills funded over $600,000.** That matters, because the whole fear is "sure, but what about a truly catastrophic bill?" Big bills get funded, not just the little ones.
 - **About a week to fund a complete, eligible submission, on average.** Faster than plenty of insurance reimbursements I've personally waited on.
 - **Cash-pay discounts commonly 25 to 85 percent** off the sticker price, thanks to the advocates negotiating before anything is shared.
@@ -165,11 +236,11 @@ A few figures that tell the real story:
 
 Put together, they knock down the three biggest fears in one shot.
 
-The "it won't be there when I need it" fear? 45,000 funded bills says otherwise. The "sure, but not for the scary big stuff" fear? Six-figure funded bills say otherwise. The "I'll be stuck waiting forever" fear? A roughly one-week average says otherwise. And the discount numbers explain how the whole thing stays cheap: they shrink the bill before the crowd ever sees it. I walked through [that mechanism](https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance/).
+The "it won't be there when I need it" fear? Fifty-three thousand funded bills, at a 99.8 percent rate, says otherwise. The "sure, but not for the scary big stuff" fear? Six-figure funded bills say otherwise. The "I'll be stuck waiting forever" fear? A roughly one-week average says otherwise. And the discount numbers explain how the whole thing stays cheap: they shrink the bill before the crowd ever sees it. I walked through [that mechanism](https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance/).
 
 ## What the numbers honestly do not prove
 
-Here's where I stay straight with you. A strong track record is not a legal guarantee, because health sharing is not insurance. "45,000 bills funded" describes what has happened, not a contractual promise about your specific future bill. Those are different things, and an honest reading of the numbers holds both. The history is genuinely reassuring. It is not a signed guarantee, and I won't dress it up as one. I dug into [that exact trust question](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill/).
+Here's where I stay straight with you. A strong track record is not a legal guarantee, because health sharing is not insurance. "53,877 bills funded" describes what has happened, not a contractual promise about your specific future bill. Those are different things, and an honest reading of the numbers holds both. The history is genuinely reassuring. It is not a signed guarantee, and I won't dress it up as one. I dug into [that exact trust question](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill/).
 
 ## How to use numbers like these
 
@@ -191,7 +262,7 @@ About a week on average for a complete, eligible submission, with reimbursement 
 
 ### Do these numbers guarantee my bill gets paid?
 
-No. "45,000 bills funded" describes what has happened, not a contractual promise about your specific future bill. Health sharing is not insurance. The history is genuinely reassuring and the limits are real, and an honest reading holds both.
+No. "53,877 bills funded" describes what has happened, not a contractual promise about your specific future bill. Health sharing is not insurance. The history is genuinely reassuring and the limits are real, and an honest reading holds both.
 
 Want to see the current numbers for yourself? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
 
@@ -338,19 +409,19 @@ Ready to check your answers against the real thing? Use my code **NORMAL**: [see
 
 URL: https://www.normaltownusa.com/p/is-health-sharing-legit/
 Published: 2026-09-22
-Updated: 2026-09-22
+Updated: 2026-09-28
 Category: Health
 Author: David Dewese
 
 *Yes, and the good ones prove it by being upfront that they're not insurance.*
 
-**In short:** Yes, health sharing is legit. It's a real, legal, decades-old way hundreds of thousands of Americans handle healthcare, and CrowdHealth has funded more than 45,000 bills, including single bills over $600,000. But legit doesn't mean insurance. A trustworthy organization says so loudly, publishes specific guidelines, shows a track record, and prices transparently.
+**In short:** Yes, health sharing is legit. It's a real, legal, decades-old way hundreds of thousands of Americans handle healthcare, and CrowdHealth has funded 53,877 bills, including single bills over $600,000. But legit doesn't mean insurance. A trustworthy organization says so loudly, publishes specific guidelines, shows a track record, and prices transparently.
 
 Let's just ask the blunt question everybody's thinking. Is this thing legit, or is it some too-good-to-be-true scheme that leaves you holding the bag? It's the right question to ask about anything involving your family's health and money. So here's the honest answer, with the reasons, so you can decide for yourself instead of taking my word for it.
 
 ## The short answer
 
-Yes, health sharing is legit, in the sense that it's a real, established, above-board way that hundreds of thousands of Americans handle their healthcare. Health sharing organizations have existed for decades. The one I use, CrowdHealth, has funded more than 45,000 bills, including single bills over $600,000. This isn't a fly-by-night operation or a scam. It's a real model with a real track record.
+Yes, health sharing is legit, in the sense that it's a real, established, above-board way that hundreds of thousands of Americans handle their healthcare. Health sharing organizations have existed for decades. The one I use, CrowdHealth, has funded 53,877 bills, including single bills over $600,000. This isn't a fly-by-night operation or a scam. It's a real model with a real track record.
 
 But "legit" doesn't mean "the same as insurance," and that distinction is the whole ballgame.
 
@@ -545,7 +616,7 @@ Want to map out your family's year? Use my code **NORMAL**: [check CrowdHealth](
 
 URL: https://www.normaltownusa.com/p/how-members-vote-to-fund-bills/
 Published: 2026-09-19
-Updated: 2026-09-19
+Updated: 2026-09-28
 Category: Health
 Author: David Dewese
 
@@ -575,7 +646,7 @@ That's the core difference from insurance, and it's why the incentives feel so d
 
 ## The honest limits, as always
 
-It's a system run by people under a set of guidelines, not a legal guarantee, because it is not insurance. Bills outside the guidelines don't get funded, which is why reading them up front matters. But within the rules, the process is clear, orderly, and has funded more than 45,000 bills. Strong track record, stated limits, both true.
+It's a system run by people under a set of guidelines, not a legal guarantee, because it is not insurance. Bills outside the guidelines don't get funded, which is why reading them up front matters. But within the rules, the process is clear, orderly, and has funded 53,877 bills. Strong track record, stated limits, both true.
 
 ## The takeaway
 
@@ -672,13 +743,13 @@ Want to read the full guidelines yourself? Use my code **NORMAL**: [see CrowdHea
 
 URL: https://www.normaltownusa.com/p/health-sharing-for-early-retirees/
 Published: 2026-09-17
-Updated: 2026-09-17
+Updated: 2026-09-21
 Category: Health
 Author: David Dewese
 
-*Flat pricing that doesn't punish your age, built to bridge the pre-Medicare gap.*
+*A monthly ceiling you can look up before you join, built to bridge the pre-Medicare gap.*
 
-**In short:** Between leaving work and Medicare at 65, individual insurance in your late 50s and early 60s can cost well over a thousand dollars a month per person. Health sharing's flat $60 per person base fee doesn't rise with age, and a lower-cost backstop for a known stretch of years is exactly the job. Mind the pre-existing rules and the lack of a legal guarantee.
+**In short:** Between leaving work and Medicare at 65, individual insurance in your late 50s and early 60s can cost well over a thousand dollars a month per person. With CrowdHealth the $60 base fee is the same at any age, and the crowd's monthly ask is capped, so from 55 to 64 your worst possible month is $340 all in. That's a real step up from the $200 cap under 55, and it's still nowhere near a premium. Mind the pre-existing rules and the lack of a legal guarantee.
 
 There's a special kind of trap that catches people who did everything right. You save hard, you retire early, maybe at 58 or 60, and then you run into the wall nobody warned you about: you're too young for Medicare, which doesn't start until 65, and buying your own health insurance in that gap can cost more than your mortgage. That stretch is where a lot of early-retirement dreams get scared back into the workforce. Health sharing is one of the best-kept answers to it.
 
@@ -692,7 +763,7 @@ For a couple, that can be a soul-crushing number, big enough to make you wonder 
 
 A few reasons it's a natural fit for the pre-Medicare years:
 
-- **The cost doesn't spike with age the way premiums do.** With CrowdHealth, the service I use, it's a flat $60 per person per month plus a modest crowd contribution. A 60-year-old and a 30-year-old pay the same base fee. For an older adult, that flat pricing is a huge deal.
+- **The cost climbs with age, but nothing like premiums do.** I want to be careful here, because this is the one place I could accidentally oversell it. With CrowdHealth, the service I use, the $60 per person base fee really is the same at 60 as it is at 30. The crowd contribution on top of it is not. The most the crowd can ask you for in a month is $140 up to age 54, and $280 from 55 to 64. So crossing 55 moves your worst possible month from $200 to $340. That's a real jump and I'm not going to pretend it isn't. Now put it next to an individual premium in your early 60s, which can run well past a thousand dollars a month before the deductible does anything for you. The gap is still enormous.
 - **It's built for exactly this situation.** You're bridging a known number of years until a guaranteed program starts. A lower-cost backstop for that stretch is precisely the job.
 - **You likely have savings to self-insure the small stuff.** Early retirees usually have an emergency fund, which means the $500 per event and cash prices are very manageable.
 
@@ -706,7 +777,7 @@ Second, it is not insurance and has no legal guarantee. If you have an active co
 
 ## The takeaway
 
-If you're staring at the pre-Medicare gap and gasping at insurance quotes, health sharing deserves a serious look. Flat pricing that doesn't punish you for your age, a model built to bridge a known stretch of years, and savings you can use to handle the small stuff. Mind the pre-existing rules and the lack of a legal guarantee, and it can be the difference between staying retired and going back to work just for the benefits.
+If you're staring at the pre-Medicare gap and gasping at insurance quotes, health sharing deserves a serious look. A monthly ceiling you can look up before you join, even after it steps up at 55, a model built to bridge a known stretch of years, and savings you can use to handle the small stuff. Mind the pre-existing rules and the lack of a legal guarantee, and it can be the difference between staying retired and going back to work just for the benefits.
 
 ## Questions I get about this
 
@@ -1037,7 +1108,7 @@ You need something in that slot. A long hospital stay or major surgery can blow 
 
 URL: https://www.normaltownusa.com/p/what-if-the-crowd-doesnt-fund-your-bill/
 Published: 2026-09-11
-Updated: 2026-09-11
+Updated: 2026-09-28
 Category: Health
 Author: David Dewese
 
@@ -1055,7 +1126,7 @@ I say this in every post that touches the money, and I mean it every time.
 
 ## So how often does the crowd actually come through?
 
-Here's the other half, and it matters just as much. The track record is strong and public. The CrowdHealth community, the service I use, has funded more than 45,000 bills, including single bills over $600,000. Complete, eligible submissions get funded in about a week on average. So while there's no legal guarantee, there's a long, real history of the crowd showing up. I dug into [that trust question](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill/).
+Here's the other half, and it matters just as much. The track record is strong and public. The CrowdHealth community, the service I use, has funded 53,877 bills, including single bills over $600,000. Complete, eligible submissions get funded in about a week on average. So while there's no legal guarantee, there's a long, real history of the crowd showing up. I dug into [that trust question](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill/).
 
 Strong history is not the same as an ironclad promise. Both things are true, and a smart person holds both.
 
@@ -1088,7 +1159,7 @@ Could the crowd not fund a bill? Yes, and I won't pretend otherwise. There's no 
 
 ### How often does CrowdHealth not fund a bill?
 
-The public track record is strong: more than 45,000 bills funded, including single bills over $600,000, with complete eligible submissions funded in about a week on average. Declines mostly come from clear guideline rules you can read up front, not from mystery.
+The public track record is strong: 53,877 bills funded, 99.8 percent of them fully funded, including single bills over $600,000, with complete eligible submissions funded in about a week on average. Declines mostly come from clear guideline rules you can read up front, not from mystery.
 
 ### Can I appeal if my bill is declined?
 
@@ -1435,13 +1506,13 @@ Want to see how it works for your family? Use my code **NORMAL**: [check out Cro
 
 URL: https://www.normaltownusa.com/p/health-sharing-myths-vs-facts/
 Published: 2026-09-05
-Updated: 2026-09-05
+Updated: 2026-09-28
 Category: Health
 Author: David Dewese
 
 *Sorting the fair worries from the leftover confusion, honestly, including the myth that's half true.*
 
-**In short:** Most health sharing myths fall apart under a plain look. It's not insurance, and that distinction matters. CrowdHealth's community has funded more than 45,000 bills, including single bills over $600,000. Its limits are stated, not hidden. It fits families, the self-employed, and early retirees, not just healthy singles. The fair worries are handled by reading the rules and keeping $500 on hand.
+**In short:** Most health sharing myths fall apart under a plain look. It's not insurance, and that distinction matters. CrowdHealth's community has funded 53,877 bills, including single bills over $600,000. Its limits are stated, not hidden. It fits families, the self-employed, and early retirees, not just healthy singles. The fair worries are handled by reading the rules and keeping $500 on hand.
 
 Health sharing sounds strange the first time you hear it, so it collects myths the way a screen door collects dust. Some of the worries are fair. Some are just leftover confusion. Let us sort the real from the noise, honestly, including the ones where the myth is actually pointing at something true.
 
@@ -1451,7 +1522,7 @@ Fact: it is not insurance at all, and that distinction matters. Insurance is a l
 
 ## Myth: "They'll never actually pay a big bill."
 
-Fact: the community has funded more than 45,000 bills, including single bills over $600,000. Complete submissions get funded in about a week on average. The track record is real and public. The honest asterisk: because it is not insurance, funding is not legally guaranteed. Strong history, not an ironclad promise. Both halves are true, and you should hold both.
+Fact: the community has funded 53,877 bills, including single bills over $600,000. Complete submissions get funded in about a week on average. The track record is real and public. The honest asterisk: because it is not insurance, funding is not legally guaranteed. Strong history, not an ironclad promise. Both halves are true, and you should hold both.
 
 ## Myth: "There's a catch in the fine print."
 
@@ -1626,13 +1697,13 @@ Want to see the guidelines and what your cost would be? Use my code **NORMAL**: 
 
 URL: https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill/
 Published: 2026-09-02
-Updated: 2026-09-02
+Updated: 2026-09-28
 Category: Health
 Author: David Dewese
 
 *A real track record, an honest look at the limits, and why the model isn't playing against you.*
 
-**In short:** CrowdHealth's community has funded more than 45,000 bills, including a single bill over $643,000, and complete submissions get funded in about a week on average. It profits from a flat $60 fee, not from denying you. But it's not insurance and funding isn't legally guaranteed, so read the guidelines before you trust it with anything.
+**In short:** CrowdHealth's community has funded 53,877 bills, including a single bill over $643,000, and complete submissions get funded in about a week on average. It profits from a flat $60 fee, not from denying you. But it's not insurance and funding isn't legally guaranteed, so read the guidelines before you trust it with anything.
 
 This is the question that stops most people. The monthly cost looks great, the idea sounds nice, and then your gut says the quiet part out loud: "But will it actually be there when I really need it?" That is the right question to ask. Here is the honest answer, with the parts that should reassure you and the parts that should keep you careful.
 
@@ -1640,7 +1711,7 @@ This is the question that stops most people. The monthly cost looks great, the i
 
 Trust is not a feeling. It is a track record plus a clear understanding of the rules. So let us look at both.
 
-On the track record: CrowdHealth's community has funded more than 45,000 bills, with over 37,000 people signed up. The largest single bill the crowd has funded was more than $643,000 for a serious injury. Bills get fully funded in about a week on average once they are submitted, and members are reimbursed a couple of days after approval. On Trustpilot, it carries a 4.9 star rating across more than a thousand reviews. Those are not my numbers, they are theirs, and they are public so you can check them.
+On the track record: CrowdHealth's community has funded 53,877 bills for a community of roughly 16,000 members. The largest single bill the crowd has funded was more than $643,000 for a serious injury. Bills get fully funded in about a week on average once they are submitted, and members are reimbursed a couple of days after approval. On Trustpilot, it carries a 4.9 star rating across more than a thousand reviews. Those are not my numbers, they are theirs, and they are public so you can check them.
 
 ## The part that should keep you careful
 
@@ -1687,13 +1758,13 @@ If you want to look at the guidelines and see your own cost, use my code **NORMA
 
 URL: https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing/
 Published: 2026-09-01
-Updated: 2026-09-01
+Updated: 2026-09-21
 Category: Health
 Author: David Dewese
 
 *The real numbers: a flat fee, a set amount per health event, and no surprise premium.*
 
-**In short:** With CrowdHealth, health sharing costs a flat $60 a month per person, plus a modest monthly contribution to other members' bills that moves up and down, plus $500 out of pocket when you have a health event. No premium black box and no five-figure deductible. New members get their first 3 months at $99 a month with code NORMAL.
+**In short:** With CrowdHealth, health sharing costs a flat $60 a month per person, plus a monthly contribution to other members' bills that moves up and down but is hard-capped, plus $500 out of pocket when you have a health event. Under 55, the most you can be asked for in a month is $200 all in. For a family of four it's $660. No premium black box and no five-figure deductible. New members get their first 3 months at $99 a month with code NORMAL.
 
 If you have ever tried to figure out what your health insurance really costs, you know the problem. There is the premium you pay every month, the deductible you have to hit before it helps, the copays, the coinsurance, and the surprise bill that shows up anyway. Health sharing works differently, and the money side is a lot easier to say out loud. Here is the honest math.
 
@@ -1710,6 +1781,30 @@ That is the whole shape of it. A flat monthly fee, and $500 when something big h
 ## The part I want to be straight about
 
 There is a third piece, and I would be doing you a disservice to skip it. On top of the $60, you also chip in a small amount each month to help fund other members' bills. That is the "sharing" part. It moves up and down depending on what the community needs that month, and you approve each request. It is usually modest, but it is not zero, so your real monthly number is a bit more than $60.
+
+## The ceiling nobody tells you about
+
+Here is the question you should be asking right now, and it is the one I had: if that number moves around, how high can it go?
+
+It has a hard cap. The crowd cannot ask you for more than a set amount in a month, and you can look the number up before you ever join. It depends on your age and your household.
+
+| Who you are | Most the crowd can ask in one month | Your worst case, with the $60 |
+|---|---|---|
+| Ages 0 to 54 | $140 | **$200 per person** |
+| Ages 55 to 64 | $280 | **$340 per person** |
+| A family of four or more | $420 for the whole household | **$660 for the family** |
+
+Read that last row again, because it is the one that surprised people I have explained this to. A family of four pays $240 in subscription, four people at $60, and the crowd can ask for at most $420 more. Six hundred sixty dollars is the worst month that family can possibly have, before the $500 if somebody actually gets hurt.
+
+And that is the ceiling, not the normal month. CrowdHealth has historically not asked for the full amount. The cap is what protects you on a bad month, the same way a guardrail is not where you normally drive.
+
+## Why the cap is the part that should convince you
+
+The strongest argument against health sharing, the one I take seriously, goes like this: insurance gives you an out-of-pocket maximum. A real number you cannot go past. Health sharing gives you a promise and a track record. That is a fair thing to worry about, and I have written about it in [what if the crowd doesn't fund your bill](https://www.normaltownusa.com/p/what-if-the-crowd-doesnt-fund-your-bill/).
+
+But on the monthly side, that argument is just wrong. There is a maximum. It is published. You can do the arithmetic before you hand over a dollar, and compare it to a premium you cannot negotiate.
+
+I am not going to tell you the cap makes the rest of the risk disappear. It does not. There is still no legal guarantee that a big bill gets funded, and that is the real trade you are making. But the monthly number is not a mystery, and anybody who tells you health sharing has no ceiling has not read the terms.
 
 Even with that, most healthy people and families land well below what a traditional plan costs. But I want you comparing real numbers, not a fantasy.
 

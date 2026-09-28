@@ -21,6 +21,13 @@ split it into two graphics.
 2. **Geometry as metaphor.** No illustration, no clip-art. Primitives only: circles,
    arrows, triangles, lines, dots, bars, math symbols. The *contrast between shapes*
    carries the meaning.
+> **V2 note (2026-09-21):** the palette below is now the **dark theme**. The site's
+> default is warm paper with a deep-teal accent; see the brand table in `README.md` for
+> both sets of tokens and how one file serves both. Hero art is still drawn exactly as
+> described here, in `#0F0F0F` / `#FFFFFF` / `#2DD4FF`, and then run through
+> `brand/theme-hero-svgs.py`, which rewrites those three colours into theme-aware
+> classes. Keep drawing to this spec; the script handles the rest.
+
 3. **Soft-black canvas, white line art.** Thin white monoline shapes on `#0F0F0F`,
    huge negative space.
 4. **One bright accent: cyan.** On exactly ONE element — the thing the eye should land

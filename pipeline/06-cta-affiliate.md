@@ -29,19 +29,72 @@ be worth reading. If it isn't, the pitch was the point — start over.
 - Never bolt a pitch onto an unrelated article. No fake urgency. No "act now."
 
 ## CrowdHealth quick-facts (verified from joincrowdhealth.com — last checked 2026-09-03)
-- Flat **$60/mo** advocacy fee per member (plus variable monthly crowdfunding
-  contributions toward others' bills; members get 2 days to approve/deny each request).
+- Flat **$60/mo** subscription **per person, children included** (a family of four pays
+  $240/mo in subscription). Covers admin, the app, the bill negotiators, and a Care
+  Advocate. Members get 2 days to approve/deny each funding request.
+- **The monthly crowd ask is hard-capped.** This is the single most under-used fact on
+  the site. Verified by David from his own member account, 2026-09-21:
+
+  | Who | Most the crowd can ask per month | Worst case all in, with the $60 |
+  |---|---|---|
+  | Ages 0 to 54 | $140 | **$200** per person |
+  | Ages 55 to 64 | $280 | **$340** per person |
+  | Family of 4+ | $420 for the household | **$660** for a family of four |
+
+  **Historically CrowdHealth rarely asks for the full share**, so the cap is the ceiling,
+  not the typical month. Never present the cap as the normal cost, and never quote a
+  "typical" figure until we have David's real monthly history to cite.
+
+  **Why it matters:** the strongest objection to health sharing is "insurance has an
+  out-of-pocket maximum and sharing has nothing." On the monthly side that is simply not
+  true, and a reader can see the ceiling before joining. Use this wherever cost comes up.
+
+  **Writing rule:** the $60 base fee is flat at every age, but the *total* is not. Never
+  write "the cost doesn't rise with age" or "flat pricing that doesn't punish you for your
+  age" on its own. The cap doubles at 55, so a 60-year-old's worst case is $340 against a
+  30-year-old's $200. Any age-flat claim must name the step-up in the same breath. This
+  matters most for the early-retiree audience, who sit exactly on that line.
 - Makes money from the flat fee, **not** a percentage of claims → aligned incentive.
 - **$500 member commitment** per health event (instead of a deductible). Maternity
   is a **$3,000** commitment. One preventive/wellness visit a year is crowdfunded up
   to $300 with the commitment waived.
 - **Self-pay discounts 25%–85%** off billed charges (they negotiate cash prices).
 - **Not insurance.** No guarantee bills are funded; members are ultimately responsible.
-- **Pre-existing** (documented/diagnosed/symptomatic within 5 yrs): not eligible years
-  1–2, then capped at **$25,000/yr** from year 3.
+- **Terminology (confirmed by David, 2026-09-21): CrowdHealth's preferred term for itself
+  is "healthcare crowdfunding," not "health sharing."** They are not a healthcare sharing
+  ministry, there is no shared-beliefs requirement, and the Maryland advisory turns on
+  exactly that distinction. So:
+  - Describing **CrowdHealth itself** -> "healthcare crowdfunding." Always.
+  - Describing **the category a reader is shopping in** -> "health sharing" stays, because
+    that is the phrase they typed into Google. "Healthcare crowdfunding" has almost no
+    consumer search volume; people who search "crowdfunding" are thinking GoFundMe.
+  - **Do not mass-rename existing slugs or titles.** 18 slugs and 37 posts carry "health
+    sharing" and it is the term that brings the traffic. Renaming them to a phrase nobody
+    searches would delete the category traffic to win a vocabulary argument.
+  - Where both appear, **bridge them once**: "CrowdHealth calls it healthcare crowdfunding
+    rather than health sharing, and the difference is not marketing." That sentence is a
+    differentiator. The big comparison sites file CrowdHealth under health sharing
+    ministries, which is the one thing CrowdHealth says it is not.
+- **Pre-existing, verified verbatim from the member guide 2026-09-28.** CrowdHealth's
+  term is "Previously Documented, Diagnosed, or Symptomatic" conditions. Anything
+  diagnosed, documented, symptomatic, suspected, or treated **within 5 years of
+  joining**: **not eligible for funding in years 1 and 2**, then a **$25,000 per year**
+  crowdfunding cap from year 3 onward. Their own non-exhaustive examples: asthma,
+  congenital conditions (except children who join CrowdHealth at birth), diabetes,
+  genetic disorders, heart conditions, sleep apnea.
+  **High cholesterol and high blood pressure are explicitly exempt** from these limits.
+  Say that every time. Those two are the most common thing a 45-year-old reader is
+  quietly worried about, and most write-ups leave the exemption out.
 - **Excluded:** dental, vision, cosmetic, mental-health counseling, alternative
   therapies, brand-name Rx when a generic exists, IVF, injuries from hazardous activity.
-- **State notes:** extra insurance-mandate steps in VT, CA, MA, NJ, RI, DC.
+- **State notes:** extra insurance-mandate steps in VT, CA, MA, NJ, RI, DC. **NOT
+  re-verified as of 2026-09-28**, and Maryland issued a consumer advisory in March 2026
+  that is not in this list. Treat the state list as stale until checked.
+- **Longevity Discount Program** exists and is nowhere on the site yet:
+  https://www.joincrowdhealth.com/longevity-discount-program
+- **Still unverified, do not present as fresh** (last checked 2026-09-03): the largest
+  funded bills ($643K / $437K / $333K), and the ~7 days to fund / ~2 days to reimburse
+  timings.
 - **Referral (verified 2026-09-03, joincrowdhealth.com/resources/referral-program):**
   code **NORMAL** → `https://www.joincrowdhealth.com/?referral_code=NORMAL`.
   - **New member gets:** first **3 months at $99/mo** (a 3-month discount).
@@ -63,12 +116,22 @@ disclaimer. Keep the honest limits (not insurance, no guarantee, exclusions, pre
 rules) somewhere in the body of every referral post.
 
 ## Verifiable social proof (attributable to CrowdHealth; use instead of invented quotes)
-- 37,000+ members signed up; 45,000+ bills funded by the community.
+- **Roughly 15,000 to 17,000 members** (verified 2026-09-28). The site previously said
+  "37,000+", which was wrong by more than 2x and is now corrected everywhere.
+- **53,877 bills funded**, and **99.8% of submitted bills get funded** (both verified
+  2026-09-28).
+- **Use the two together.** 53,877 bills across ~16,000 members is more than three
+  funded bills per member, a far stronger story than the old, wrong pairing of 45,000
+  bills against 37,000 members. Correcting the member count downward made the argument
+  better, not worse. Lead with the ratio.
 - ~7 days average from complete bill submission to fully funded; reimbursed ~2 days
   after approval.
-- ~$86.7M estimated saved vs. traditional insurance (their figure).
+- **~$100 million** total saved vs. traditional insurance. CrowdHealth's own figure,
+  announced on their Instagram. It is a company claim on a weak surface, so attribute
+  it to them ("CrowdHealth says") and never state it as an independent finding.
 - Largest bills funded: $643K (firearm injury, CA), $437K (NICU, ND), $333K (appendicitis, GA).
-- 4.9-star Trustpilot rating, 1,000+ reviews.
+- **4.9-star Trustpilot rating** (verified 2026-09-28):
+  https://www.trustpilot.com/review/joincrowdhealth.com
 - **Testimonials rule:** never invent a member quote or name. Use the stats above,
   or paraphrase real review *themes* with attribution ("members on Trustpilot
   describe…"). For named/photo testimonials, get them from CrowdHealth with permission.

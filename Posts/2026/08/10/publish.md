@@ -8,4 +8,4 @@
 | **Meta description** | `Why does money lose value over time? Because more can always be made. Here's what scarcity really means, explained with front-row concert seats.` |
 | **Category** | Money |
 
-- **Image:** `hard-cap.png` — Alt text: `A box completely full of a fixed number of white circles with a solid cyan line capping the top, showing a hard limit that can't be added to.`
+- **Image:** `hard-cap.png` — Alt text: `A box completely full of a fixed number of plain circles with a solid highlighted line capping the top, showing a hard limit that can't be added to.`

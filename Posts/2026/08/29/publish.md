@@ -8,4 +8,4 @@
 | **Meta description** | `What is a bitcoin wallet, in simple terms? It's a mailbox: an address anyone can send to, and a key only you should open. The coins live on a shared record.` |
 | **Category** | Money |
 
-- **Image:** `mailbox-and-key.png` — Alt text: `A white mailbox with a slot on top and white arrows dropping letters in, and a cyan keyhole on the front door, labeled anyone can send in and only your key opens.`
+- **Image:** `mailbox-and-key.png` — Alt text: `A plain mailbox with a slot on top and plain arrows dropping letters in, and a highlighted keyhole on the front door, labeled anyone can send in and only your key opens.`

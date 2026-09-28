@@ -8,6 +8,6 @@
 | **Meta description** | `The dentist and glasses without insurance: ask for the cash price, try a dental savings plan, buy glasses online, add a cheap standalone plan only if needed.` |
 | **Category** | Health |
 
-- **Image:** `tooth-and-eye-cash.png` — Alt text: `A simple cyan tooth icon and eye icon side by side above a small dollar sign, labeled pay direct.`
+- **Image:** `tooth-and-eye-cash.png` — Alt text: `A simple highlighted tooth icon and eye icon side by side above a small dollar sign, labeled pay direct.`
 - **Internal links:** /p/the-cash-price-secret/
 - **Affiliate:** no — pure trust-builder.

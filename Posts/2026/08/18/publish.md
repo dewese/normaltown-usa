@@ -8,4 +8,4 @@
 | **Meta description** | `What is dollar-cost averaging? Buying a little on a set schedule instead of betting it all at once. Be the steady faucet, not the one big bucket.` |
 | **Category** | Money |
 
-- **Image:** `little-each-week.png` — Alt text: `Six cyan bars rising steadily from left to right, with a white upward arrow tracing their tops, showing small regular buys adding up over time.`
+- **Image:** `little-each-week.png` — Alt text: `Six highlighted bars rising steadily from left to right, with a plain upward arrow tracing their tops, showing small regular buys adding up over time.`

@@ -1,6 +1,6 @@
 # What Health Sharing Actually Costs Each Month
 
-> With CrowdHealth, health sharing costs a flat $60 a month per person, plus a modest monthly contribution to other members' bills that moves up and down, plus $500 out of pocket when you have a health event. No premium black box and no five-figure deductible. New members get their first 3 months at $99 a month with code NORMAL.
+> With CrowdHealth, health sharing costs a flat $60 a month per person, plus a monthly contribution to other members' bills that moves up and down but is hard-capped, plus $500 out of pocket when you have a health event. Under 55, the most you can be asked for in a month is $200 all in. For a family of four it's $660. No premium black box and no five-figure deductible. New members get their first 3 months at $99 a month with code NORMAL.
 
 If you have ever tried to figure out what your health insurance really costs, you know the problem. There is the premium you pay every month, the deductible you have to hit before it helps, the copays, the coinsurance, and the surprise bill that shows up anyway. Health sharing works differently, and the money side is a lot easier to say out loud. Here is the honest math.
 
@@ -17,6 +17,30 @@ That is the whole shape of it. A flat monthly fee, and $500 when something big h
 ## The part I want to be straight about
 
 There is a third piece, and I would be doing you a disservice to skip it. On top of the $60, you also chip in a small amount each month to help fund other members' bills. That is the "sharing" part. It moves up and down depending on what the community needs that month, and you approve each request. It is usually modest, but it is not zero, so your real monthly number is a bit more than $60.
+
+## The ceiling nobody tells you about
+
+Here is the question you should be asking right now, and it is the one I had: if that number moves around, how high can it go?
+
+It has a hard cap. The crowd cannot ask you for more than a set amount in a month, and you can look the number up before you ever join. It depends on your age and your household.
+
+| Who you are | Most the crowd can ask in one month | Your worst case, with the $60 |
+|---|---|---|
+| Ages 0 to 54 | $140 | **$200 per person** |
+| Ages 55 to 64 | $280 | **$340 per person** |
+| A family of four or more | $420 for the whole household | **$660 for the family** |
+
+Read that last row again, because it is the one that surprised people I have explained this to. A family of four pays $240 in subscription, four people at $60, and the crowd can ask for at most $420 more. Six hundred sixty dollars is the worst month that family can possibly have, before the $500 if somebody actually gets hurt.
+
+And that is the ceiling, not the normal month. CrowdHealth has historically not asked for the full amount. The cap is what protects you on a bad month, the same way a guardrail is not where you normally drive.
+
+## Why the cap is the part that should convince you
+
+The strongest argument against health sharing, the one I take seriously, goes like this: insurance gives you an out-of-pocket maximum. A real number you cannot go past. Health sharing gives you a promise and a track record. That is a fair thing to worry about, and I have written about it in [what if the crowd doesn't fund your bill](/p/what-if-the-crowd-doesnt-fund-your-bill/).
+
+But on the monthly side, that argument is just wrong. There is a maximum. It is published. You can do the arithmetic before you hand over a dollar, and compare it to a premium you cannot negotiate.
+
+I am not going to tell you the cap makes the rest of the risk disappear. It does not. There is still no legal guarantee that a big bill gets funded, and that is the real trade you are making. But the monthly number is not a mystery, and anybody who tells you health sharing has no ceiling has not read the terms.
 
 Even with that, most healthy people and families land well below what a traditional plan costs. But I want you comparing real numbers, not a fantasy.
 

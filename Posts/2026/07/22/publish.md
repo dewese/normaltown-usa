@@ -8,4 +8,4 @@
 | **Meta description** | `You earn more than you used to but still feel broke. Here's the simple reason your money leaks out as fast as it comes in, and how to patch the holes.` |
 | **Category** | Money |
 
-- **Image:** `leaky-bucket.png` — Alt text: `A bucket being filled from the top by an income stream while water leaks out three holes in the bottom, with the water level marked in cyan staying flat.`
+- **Image:** `leaky-bucket.png` — Alt text: `A bucket being filled from the top by an income stream while water leaks out three holes in the bottom, with the water level marked and staying flat.`

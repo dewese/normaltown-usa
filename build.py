@@ -32,6 +32,7 @@ import json
 import re
 import shutil
 import subprocess
+import sys
 from datetime import date, datetime
 from pathlib import Path
 
@@ -284,6 +285,17 @@ def md_to_html(md, drop_email_cta=True, ids=None):
                 i += 1
             blocks.append(f"<blockquote><p>{_inline(' '.join(q))}</p></blockquote>")
             continue
+        elif TABLE_ROW.match(stripped) and i + 1 < len(lines) and TABLE_RULE.match(lines[i + 1].strip()):
+            flush_para()
+            head = split_row(stripped)
+            align = [cell_align(c) for c in split_row(lines[i + 1].strip())]
+            i += 2
+            body = []
+            while i < len(lines) and TABLE_ROW.match(lines[i].strip()):
+                body.append(split_row(lines[i].strip()))
+                i += 1
+            blocks.append(table_block(head, align, body))
+            continue
         elif re.match(r'^[-*] ', stripped):
             flush_para()
             items = []
@@ -310,6 +322,41 @@ def md_to_html(md, drop_email_cta=True, ids=None):
 
 PARTNER_OPEN = re.compile(r'^:::partner\s+(.+)$')
 
+# Comparison tables. The whole point of the site is putting two options side by side, so
+# a pipe table has to render as a table and not as a row of stray pipes.
+TABLE_ROW = re.compile(r'^\|.*\|$')
+TABLE_RULE = re.compile(r'^\|[\s:|-]+\|$')
+
+
+def split_row(line):
+    """Cells of a pipe row, without the leading and trailing pipe."""
+    return [c.strip() for c in line.strip().strip("|").split("|")]
+
+
+def cell_align(rule):
+    """`:---`, `---:` and `:---:` in the divider row become a text-align."""
+    left, right = rule.startswith(":"), rule.endswith(":")
+    if left and right:
+        return "center"
+    if right:
+        return "right"
+    return ""
+
+
+def table_block(head, align, body):
+    def cells(row, tag):
+        out = []
+        for n, cell in enumerate(row):
+            a = align[n] if n < len(align) else ""
+            style = f' style="text-align:{a}"' if a else ""
+            out.append(f"<{tag}{style}>{_inline(cell)}</{tag}>")
+        return "".join(out)
+
+    rows = "".join(f"<tr>{cells(r, 'td')}</tr>" for r in body)
+    return ('<div class="table-wrap"><table>'
+            f"<thead><tr>{cells(head, 'th')}</tr></thead>"
+            f"<tbody>{rows}</tbody></table></div>")
+
 
 def partner_block(header, inner_md, ids):
     """Render one `:::partner` block on the Resources page as a card.
@@ -332,10 +379,10 @@ def partner_block(header, inner_md, ids):
     safe_url = html.escape(url, quote=True)
 
     logo_path = PARTNER_LOGO_DIR / logo if logo else None
-    if logo_path and logo_path.exists():
-        mark = (f'<img class="partner-mark mark-{html.escape(logo_path.stem, quote=True)}" '
-                f'src="/assets/partners/{logo}" alt="{html.escape(name, quote=True)}" '
-                f'{svg_size(logo_path)} decoding="async">')
+    if logo_path and logo_path.exists() and logo_path.suffix == ".svg":
+        # Inlined, not <img>: the wordmark's text is `currentColor`, so it flips with the
+        # theme instead of needing a second file per logo per theme.
+        mark = inline_svg(logo_path, cls=f"partner-mark mark-{logo_path.stem}", label=name)
     else:
         mark = html.escape(name)
 
@@ -345,12 +392,37 @@ def partner_block(header, inner_md, ids):
 
     foot = ""
     if url and cta:
+        # The disclosure sits ABOVE the button on purpose. The FTC asks for it to be
+        # unavoidable *before* the click, and a reader who has already clicked has not
+        # really been told. It reads more honest to a human for the same reason.
         foot = (f'<div class="partner-cta">'
-                f'<a class="btn" href="{safe_url}" target="_blank" rel="{rel}">'
-                f'{html.escape(cta)}{NEW_TAB}</a>'
                 + (f'<p class="partner-note">{_inline(note)}</p>' if note else "")
+                + f'<a class="btn" href="{safe_url}" target="_blank" rel="{rel}">'
+                f'{html.escape(cta)}{NEW_TAB}</a>'
                 + "</div>")
     return f'<div class="partner">{head}{honest_sections(inner_md, ids)}{foot}</div>'
+
+
+def inline_svg(path, cls="", label=None, extra=""):
+    """Drop an SVG straight into the HTML so `currentColor` works.
+
+    The logos carry `fill="currentColor"` for their text and `var(--brand-mark)` for
+    their accent, which is how one file serves both the light and the dark theme. Neither
+    resolves through `<img src>`, because an external SVG has no access to the page's
+    colours, so these have to be inlined.
+    """
+    svg = path.read_text(encoding="utf-8").strip()
+    svg = re.sub(r'<\?xml[^>]*\?>\s*', '', svg)
+    attrs = []
+    if cls:
+        attrs.append(f'class="{html.escape(cls, quote=True)}"')
+    if label:
+        attrs.append(f'role="img" aria-label="{html.escape(label, quote=True)}"')
+    else:
+        attrs.append('aria-hidden="true" focusable="false"')
+    if extra:
+        attrs.append(extra)
+    return svg.replace("<svg", "<svg " + " ".join(attrs), 1)
 
 
 def svg_size(path):
@@ -639,6 +711,10 @@ def load_posts(include_future=False):
             alt = title
 
         png = next(iter(sorted(folder.glob("*.png"))), None)
+        # The vector twin of the hero carries its own light/dark stylesheet, so it is what
+        # the page shows. The PNG stays behind as the share image, where a fixed dark
+        # rendering is fine and an SVG would not be accepted.
+        svg = next(iter(sorted(folder.glob("*.svg"))), None)
         ids = set()
         body_html = md_to_html(body_md, drop_email_cta=False, ids=ids)
         words = len(plain_text(body_md).split())
@@ -664,6 +740,8 @@ def load_posts(include_future=False):
             "alt": alt,
             "png": png,
             "png_name": png.name if png else None,
+            "svg": svg,
+            "svg_name": svg.name if svg else None,
             "body_md": body_md,
             "body_html": body_html,
             "faqs": extract_faqs(body_md),
@@ -682,9 +760,32 @@ def load_posts(include_future=False):
 
 CSS = """
 :root{
-  --canvas:#0F0F0F; --ink:#FFFFFF; --accent:#2DD4FF;
-  --muted:rgba(255,255,255,.60); --faint:rgba(255,255,255,.12);
-  --panel:#161616; --measure:40rem;
+  /* Warm paper by default. Every pair below is checked against WCAG 2.1 AA on its own
+     background; the accessibility statement promises AA, so nothing here is by eye.
+     --accent teal on canvas 5.71:1, ink 16.55:1, muted 6.75:1, white on accent 6.05:1. */
+  --canvas:#FBF8F3; --ink:#1B1917; --accent:#0E6F63; --accent-hover:#0B5F55;
+  --accent-ink:#FFFFFF; --warm:#A54B24; --bitcoin:#0E7490; --brand-mark:#0E6F63;
+  --muted:#5C5751; --faint:rgba(27,25,23,.14);
+  --panel:#F3EDE4; --measure:40rem;
+  --serif:Fraunces,Georgia,'Times New Roman',serif;
+  color-scheme:light dark;
+}
+/* The old identity, kept whole as the dark theme. Electric cyan #2DD4FF scores 1.66:1 on
+   warm paper, which is why it cannot be the light-theme accent; here it has 10.65:1, so
+   it lives on as the bitcoin colour where it always read best. */
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --canvas:#141210; --ink:#F7F3EC; --accent:#4FC7B4; --accent-hover:#6FD8C7;
+    --accent-ink:#141210; --warm:#E8996A; --bitcoin:#2DD4FF; --brand-mark:#4FC7B4;
+    --muted:#A8A199; --faint:rgba(247,243,236,.16);
+    --panel:#1C1917;
+  }
+}
+:root[data-theme="dark"]{
+  --canvas:#141210; --ink:#F7F3EC; --accent:#4FC7B4; --accent-hover:#6FD8C7;
+  --accent-ink:#141210; --warm:#E8996A; --bitcoin:#2DD4FF; --brand-mark:#4FC7B4;
+  --muted:#A8A199; --faint:rgba(247,243,236,.16);
+  --panel:#1C1917;
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -705,7 +806,7 @@ a:hover{text-decoration:underline}
 .sr-only{position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0}
 img{max-width:100%; height:auto; display:block}
 .wrap{width:100%; max-width:64rem; margin:0 auto; padding:0 1.5rem}
-.skip{position:absolute; left:-999px; top:0; background:var(--accent); color:#000; padding:.5rem 1rem}
+.skip{position:absolute; left:-999px; top:0; background:var(--accent); color:var(--accent-ink); padding:.5rem 1rem}
 .skip:focus{left:1rem; z-index:10}
 
 /* header */
@@ -714,7 +815,13 @@ img{max-width:100%; height:auto; display:block}
   gap:1rem; padding-top:1.1rem; padding-bottom:1.1rem; flex-wrap:wrap}
 .brand{display:flex; align-items:center; flex:none}
 .brand:hover{text-decoration:none}
-.brand img{height:34px; width:auto; display:block}
+.brand .brand-logo{height:34px; width:auto; display:block; color:var(--ink)}
+/* Headline serif. A geometric sans in every slot reads like a product; a warm serif on
+   the headlines reads like a person wrote it, which is the whole positioning. */
+.hero h1,.page h1,.article-head h1,.body h2,.body h3,.post-card h2,.post-card h3,
+.tile h2,.tile h3,.post-cta h2,.contact-form h2{
+  font-family:var(--serif); font-weight:600; font-variation-settings:"SOFT" 8,"WONK" 1}
+.hero h1,.page h1,.article-head h1{font-weight:700}
 nav.main{display:flex; gap:1.3rem; font-size:.95rem; font-weight:600; flex-wrap:wrap}
 nav.main a{color:var(--muted)}
 nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none}
@@ -787,6 +894,17 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .post-card .meta{font-size:.82rem; color:var(--muted); font-weight:600;
   text-transform:uppercase; letter-spacing:.08em; margin-bottom:.5rem;
   display:flex; gap:.7rem; align-items:center; flex-wrap:wrap}
+/* Cyan is not retired, it is demoted: the bitcoin hub and its cards still wear it. */
+body.cat-bitcoin{--accent:var(--bitcoin); --accent-hover:#0A6A85; --brand-mark:var(--bitcoin)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) body.cat-bitcoin{--accent-hover:#5CDFFF}}
+.table-wrap{overflow-x:auto; margin:1.6rem 0; -webkit-overflow-scrolling:touch}
+.body table{border-collapse:collapse; width:100%; font-size:.95rem; line-height:1.5}
+.body table th,.body table td{padding:.6rem .8rem; text-align:left; vertical-align:top;
+  border-bottom:1px solid var(--faint)}
+.body table thead th{font-size:.72rem; letter-spacing:.09em; text-transform:uppercase;
+  color:var(--muted); font-weight:700; border-bottom:2px solid var(--faint)}
+.body table tbody tr:last-child td{border-bottom:none}
+.body table tbody tr:nth-child(even){background:var(--panel)}
 .tag{color:var(--accent); border:1px solid var(--faint); border-radius:999px;
   padding:.05rem .55rem; font-size:.72rem}
 a.tag:hover{border-color:var(--accent); text-decoration:none}
@@ -857,15 +975,15 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
   text-transform:uppercase; color:var(--muted); font-weight:700}
 .partner-cta{border-top:1px solid var(--faint); margin:1.6rem 0 0; padding-top:1.4rem}
 .body .partner-cta a.btn{display:inline-block; font-weight:800; font-size:1rem;
-  color:#0F0F0F; background:var(--accent); border:1px solid var(--accent);
+  color:var(--accent-ink); background:var(--accent); border:1px solid var(--accent);
   border-radius:999px; padding:.85rem 1.6rem; text-decoration:none; line-height:1.2}
-.body .partner-cta a.btn:hover{background:#5CDFFF; text-decoration:none}
-.body .partner-note{margin:.55rem 0 0; font-size:.8rem; line-height:1.45; color:var(--muted)}
+.body .partner-cta a.btn:hover{background:var(--accent-hover); border-color:var(--accent-hover); text-decoration:none}
+.body .partner-note{margin:0 0 .9rem; font-size:.8rem; line-height:1.45; color:var(--muted)}
 .body .own-cta{margin:1.4rem 0 0}
 .body .own-cta a.btn-ghost{display:inline-block; font-weight:800; font-size:1rem;
   color:var(--accent); border:1px solid var(--accent); border-radius:999px;
   padding:.85rem 1.6rem; text-decoration:none; line-height:1.2}
-.body .own-cta a.btn-ghost:hover{background:var(--accent); color:#0F0F0F; text-decoration:none}
+.body .own-cta a.btn-ghost:hover{background:var(--accent); color:var(--accent-ink); text-decoration:none}
 /* on the Resources page a section break has to beat a card break, so rule the headings */
 .page-resources .body h2{margin-top:3.5rem}
 .page-resources .body h2::before{content:""; display:block; height:1px;
@@ -947,7 +1065,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .contact-form select{appearance:none; -webkit-appearance:none; background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);
   background-position:calc(100% - 20px) 50%,calc(100% - 14px) 50%; background-size:6px 6px; background-repeat:no-repeat; padding-right:2.4rem}
 .contact-form .hp{position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden}
-.contact-form button{margin-top:1.3rem; font:inherit; font-weight:800; color:#0F0F0F; background:var(--accent);
+.contact-form button{margin-top:1.3rem; font:inherit; font-weight:800; color:var(--accent-ink); background:var(--accent);
   border:none; border-radius:999px; padding:.8rem 1.6rem; cursor:pointer}
 .contact-form button:hover{filter:brightness(1.08)}
 .contact-form .fine{margin:.9rem 0 0; font-size:.85rem; color:var(--muted)}
@@ -985,7 +1103,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .foot-sub input[type=email]{flex:1; min-width:0; font:inherit; color:var(--ink); background:var(--canvas);
   border:1px solid var(--faint); border-radius:999px; padding:.6rem 1rem}
 .foot-sub input[type=email]:focus{outline:2px solid var(--accent); outline-offset:2px; border-color:var(--accent)}
-.foot-sub button{font:inherit; font-weight:800; color:#0F0F0F; background:var(--accent); border:none;
+.foot-sub button{font:inherit; font-weight:800; color:var(--accent-ink); background:var(--accent); border:none;
   border-radius:999px; padding:.6rem 1.1rem; cursor:pointer; white-space:nowrap}
 .foot-sub button:hover{filter:brightness(1.08)}
 .foot-sub .fine{margin:.5rem 0 0; font-size:.8rem}
@@ -995,7 +1113,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
   body{font-size:17px}
   .hero{padding:3rem 0 1.6rem}
   nav.main{gap:.9rem; font-size:.9rem}
-  .brand img{height:28px}
+  .brand .brand-logo{height:28px}
   .author-box{flex-direction:column}
 }
 """
@@ -1009,7 +1127,7 @@ h.addEventListener('keydown',function(e){if(e.key==='Escape'&&h.classList.contai
 
 CSS_VERSION = hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
 
-NAV = [("/start-here/", "Start Here"), ("/blog/", "Blog"), ("/resources/", "Resources"),
+NAV = [("/start-here/", "Start Here"), ("/crowdhealth/", "CrowdHealth"), ("/blog/", "Blog"), ("/resources/", "Resources"),
        ("/faq/", "FAQ"), ("/about/", "About"), ("/contact/", "Contact")]
 
 
@@ -1105,9 +1223,13 @@ def footer_signup():
   <script>(function(){{var f=document.querySelector('form.foot-sub');if(f)f.action=atob(f.getAttribute('data-t'));}})();</script>"""
 
 
+BRAND_LOGO = inline_svg(LOGO_DIR / "normaltown-logo.svg", cls="brand-logo",
+                        label=SITE_NAME) if (LOGO_DIR / "normaltown-logo.svg").exists() else SITE_NAME
+
+
 def layout(title, description, body, canonical, og_image=None, og_type="article",
            schema=None, current=None, extra_head="", og_size=None, page_title=None,
-           section=None):
+           section=None, body_class=""):
     desc = html.escape(description or SITE_TAGLINE, quote=True)
     ga, signup = ga_tag(), footer_signup()
     if page_title is None:
@@ -1121,16 +1243,18 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
         nav_items.append(f'    <a href="{href}"{cur}>{label}</a>')
     nav = "\n".join(nav_items)
     graph = {"@context": "https://schema.org", "@graph": schema} if schema else None
+    BODY_CLASS = f' class="{html.escape(body_class, quote=True)}"' if body_class else ""
     return f"""<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<script>if(/\.(workers|pages)\.dev$/.test(location.hostname)||location.hostname==="normaltownusa.com")location.replace("{SITE_URL}"+location.pathname+location.search+location.hash);</script>
+<script>if(/^[^.]+\.(workers|pages)\.dev$/.test(location.hostname)||location.hostname==="normaltownusa.com")location.replace("{SITE_URL}"+location.pathname+location.search+location.hash);</script>
 {ga}<title>{html.escape(page_title)}</title>
 <meta name="description" content="{desc}">
 <meta name="author" content="{AUTHOR}">
-<meta name="theme-color" content="#0F0F0F">
+<meta name="theme-color" content="#FBF8F3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141210" media="(prefers-color-scheme: dark)">
 <link rel="canonical" href="{canonical}">
 <meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:locale" content="en_US">
@@ -1149,14 +1273,14 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 <link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/styles.css?v={CSS_VERSION}">
 {json_ld(graph) if graph else ""}
 </head>
-<body>
+<body{BODY_CLASS}>
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head"><div class="wrap">
-  <a class="brand" href="/" aria-label="{SITE_NAME} home"><img src="/assets/normaltown-logo-reverse.svg" alt="{SITE_NAME}" width="1132" height="156"></a>
+  <a class="brand" href="/" aria-label="{SITE_NAME} home">{BRAND_LOGO}</a>
   <button class="menu-btn" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="main-nav" hidden>
     <svg class="bars" aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
     <svg class="x" aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
@@ -1171,8 +1295,8 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 <footer class="site-foot"><div class="wrap">
   {signup}
   <span>&copy; {TODAY.year} {SITE_NAME}. {SITE_TAGLINE}.</span>
-  <span><a href="/blog/">All posts</a> &middot; <a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/resources/">Resources</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/accessibility/">Accessibility</a> &middot; <a href="/rss.xml">RSS</a></span>
-  <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. Some links (CrowdHealth, code NORMAL, and River) pay a referral bonus at no extra cost to you. Health sharing is not insurance.</p>
+  <span><a href="/blog/">All posts</a> &middot; <a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/resources/">Resources</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/what-i-earn/">What I Earn</a> &middot; <a href="/how-i-keep-this-accurate/">Accuracy</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/accessibility/">Accessibility</a> &middot; <a href="/rss.xml">RSS</a></span>
+  <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. <strong>Normaltown USA is independent. It is not affiliated with, endorsed by, sponsored by, or employed by CrowdHealth, River, or anyone else named on this site.</strong> Some links (CrowdHealth, code NORMAL, and River) pay me a referral bonus at no extra cost to you, and I publish <a href="/what-i-earn/">exactly what I earn</a>. CrowdHealth is not insurance, and nobody is legally required to pay your medical bill.</p>
 </div></footer>
 {MENU_SCRIPT}
 </body>
@@ -1299,7 +1423,8 @@ def render_hub(key, posts):
                   {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE_URL + "/"},
                   {"@type": "ListItem", "position": 2, "name": c["name"], "item": f"{SITE_URL}/{key}/"}]}]
     return layout(c["title"], c["description"], body, f"{SITE_URL}/{key}/", og_type="website",
-                  schema=schema, section="/blog/", page_title=f"{c['page_title']} | {SITE_NAME}")
+                  schema=schema, section="/blog/", body_class=f"cat-{key}",
+                  page_title=f"{c['page_title']} | {SITE_NAME}")
 
 
 def related_posts(p, posts, n=3):
@@ -1322,7 +1447,8 @@ def render_post(p, posts):
     subtitle = f'<p class="subtitle">{html.escape(p["subtitle"])}</p>' if p["subtitle"] else ""
     hero_img, og_image = "", None
     if p["png_name"]:
-        hero_img = f'<figure class="hero-img"><img src="{p["png_name"]}" alt="{html.escape(p["alt"], quote=True)}" width="1200" height="1200" fetchpriority="high"></figure>'
+        hero_src = p["svg_name"] or p["png_name"]
+        hero_img = f'<figure class="hero-img"><img src="{hero_src}" alt="{html.escape(p["alt"], quote=True)}" width="1200" height="1200" fetchpriority="high"></figure>'
         og_image = f"{canonical}{p['png_name']}"
     short = ""
     if p["short"]:
@@ -1430,7 +1556,8 @@ def render_post(p, posts):
         extra += f'<link rel="next" href="{newer["url"]}">\n'
     page_title = f"{p['title_tag'] or p['title']} | {SITE_NAME}"
     return layout(p["title"], p["meta"], body, canonical, og_image=og_image, schema=schema,
-                  section="/blog/", extra_head=extra, page_title=page_title)
+                  section="/blog/", extra_head=extra, body_class=f"cat-{p['category']}",
+                  page_title=page_title)
 
 
 def contact_form():
@@ -1507,19 +1634,19 @@ def render_page(title, md_body, slug, description, figure="", page_class="", og_
                   page_title=page_title, extra_head=extra_head)
 
 
-# About page photo: black-and-white family portrait, 4:5, two sizes for srcset.
+# About page photo: colour family portrait, 4:5, two sizes for srcset.
 ABOUT_PHOTO = SITE_DIR / "about-family.jpg"          # 1400x1750
 ABOUT_PHOTO_SM = SITE_DIR / "about-family-700.jpg"   # 700x875
-AUTHOR_HEADSHOT = SITE_DIR / "author-headshot.png"        # transparent B&W cutout, 595x793 (Person schema image)
+AUTHOR_HEADSHOT = SITE_DIR / "author-headshot.png"        # transparent colour cutout, 595x793 (Person schema image)
 AUTHOR_HEADSHOT_SM = SITE_DIR / "author-headshot-240.png"  # 180x240 copy for the round author-box avatar
-HOME_HEADSHOT = SITE_DIR / "home-headshot.png"            # 850x850 round B&W headshot, Person schema image
+HOME_HEADSHOT = SITE_DIR / "home-headshot.png"            # 850x850 round colour headshot, Person schema image
 HOME_HEADSHOT_XS = SITE_DIR / "home-headshot-96.png"      # 96x96 copy for the tiny avatar beside "In short"
-HOME_HERO = SITE_DIR / "home-hero.jpg"                    # 659x850 B&W portrait, homepage hero
+HOME_HERO = SITE_DIR / "home-hero.jpg"                    # 659x850 colour portrait, homepage hero
 HOME_HERO_SM = SITE_DIR / "home-hero-400.jpg"             # 400x516 copy for the hero at 1x/2x
-HOME_HEADSHOT_ALT = "David Dewese, smiling, in a black and white headshot."
+HOME_HEADSHOT_ALT = "David Dewese smiling at the camera, in a black t-shirt against a warm cream wall."
 HOME_HEADSHOT_CAPTION = "Hi, I'm David!"
-ABOUT_PHOTO_ALT = ("Black and white photo of David Dewese kneeling with his wife and two "
-                   "daughters, everyone laughing, in front of giant paper letters.")
+ABOUT_PHOTO_ALT = ("David Dewese kneeling with his wife and their two daughters, all four "
+                   "laughing, in front of giant fringed paper letters in bright colours.")
 ABOUT_PHOTO_CAPTION = "The whole reason I do the homework."
 
 
@@ -1564,7 +1691,9 @@ def render_rss(posts):
         content = p["body_html"]
         if p["short"]:
             content = f"<p><strong>In short:</strong> {_inline(p['short'])}</p>" + content
-        content = content.replace('src="' + (p["png_name"] or "\x00"), f'src="{p["url"]}{p["png_name"]}"')
+        for name in (p["svg_name"], p["png_name"]):
+            if name:
+                content = content.replace(f'src="{name}', f'src="{p["url"]}{name}')
         content = re.sub(r'href="/', f'href="{SITE_URL}/', content)
         items.append(f"""<item>
       <title>{html.escape(p['title'])}</title>
@@ -1615,6 +1744,8 @@ def render_llms(posts):
            f"- [Resources]({SITE_URL}/resources/): the tools David's family pays for and uses, the free guides, and the disclosed referral links.",
            f"- [FAQ]({SITE_URL}/faq/): short answers to the most common money, medical bill, health sharing, and bitcoin questions.",
            f"- [About David Dewese]({SITE_URL}/about/): who writes this, how he researches, how the site makes money.",
+           f"- [What I Earn]({SITE_URL}/what-i-earn/): every referral on the site in dollars, what gets turned down, and the conflict of interest stated plainly.",
+           f"- [How I Keep This Accurate]({SITE_URL}/how-i-keep-this-accurate/): the sourcing standard, the monthly CrowdHealth fact re-check, and the corrections policy.",
            f"- [Blog]({SITE_URL}/blog/): every post, newest first, grouped by topic.",
            f"- [Contact]({SITE_URL}/contact/): send a question or ask about one-on-one help.", ""]
     for s in START_HERE_SLUGS:
@@ -1726,12 +1857,21 @@ def check_links(posts, page_slugs):
     return problems
 
 
-def main():
+def main(preview=False):
+    """Build the site. `preview=True` also renders future-dated posts, into preview/.
+
+    Scheduled posts are deliberately invisible until their day, so there is normally no
+    way to see one before it goes live. The preview build renders them to a separate,
+    gitignored directory, which keeps them out of dist/ and therefore out of the deploy.
+    """
+    global DIST
+    if preview:
+        DIST = ROOT / "preview"
     if DIST.exists():
         shutil.rmtree(DIST)
     DIST.mkdir(parents=True)
 
-    posts = load_posts()
+    posts = load_posts(include_future=preview)
 
     write(DIST / "styles.css", CSS)
     shutil.copytree(LOGO_DIR, DIST / "assets")
@@ -1752,6 +1892,8 @@ def main():
         write(DIST / "p" / p["slug"] / "index.html", render_post(p, posts))
         if p["png"]:
             shutil.copy(p["png"], DIST / "p" / p["slug"] / p["png_name"])
+        if p["svg"]:
+            shutil.copy(p["svg"], DIST / "p" / p["slug"] / p["svg_name"])
 
     # static pages from site/*.md
     page_map = {
@@ -1760,6 +1902,14 @@ def main():
             "desc": ("New to Normaltown USA? Here's who it's for, what I write about, the three posts "
                      "to read first, and where my family actually landed on health insurance."),
             "page_title": "Start Here: Plain-English Money and Health Help, and Where to Begin",
+        },
+        "crowdhealth.md": {
+            "slug": "crowdhealth",
+            "desc": ("An independent CrowdHealth guide from a family of four who have used it since "
+                     "2022. What it really costs (including the monthly cap nobody mentions), how a "
+                     "bill gets paid, the pre-existing rules verbatim, and exactly who should not join."),
+            "page_title": "CrowdHealth Review: Costs, Caps, and the Honest Limits, From a Member",
+            "toc": True,
         },
         "resources.md": {
             "slug": "resources",
@@ -1788,6 +1938,20 @@ def main():
             "desc": ("Ask a question, send a medical bill that doesn't make sense, or ask about "
                      f"one-on-one help. Messages go straight to {AUTHOR}'s inbox."),
             "page_title": "Contact David Dewese",
+        },
+        "what-i-earn.md": {
+            "slug": "what-i-earn",
+            "desc": ("Exactly what Normaltown USA gets paid, in dollars. The CrowdHealth referral "
+                     "(code NORMAL) pays $250 after three months; River splits its bonus evenly. "
+                     "What I turn down, and what I do about the conflict of interest."),
+            "page_title": "What I Earn: Every Referral on This Site, in Dollars",
+        },
+        "how-i-keep-this-accurate.md": {
+            "slug": "how-i-keep-this-accurate",
+            "desc": ("How the facts on Normaltown USA get checked: primary sources only, a monthly "
+                     "re-check of the CrowdHealth numbers, honest Updated dates, no silent edits, "
+                     "and what I tell you I can't verify."),
+            "page_title": "How I Keep This Accurate: Sources, Checks, and Corrections",
         },
         "accessibility.md": {
             "slug": "accessibility",
@@ -1842,6 +2006,15 @@ def main():
                            "name": cfg["page_title"], "description": cfg["desc"],
                            "mainEntity": {"@id": f"{SITE_URL}/#david"},
                            "isPartOf": {"@id": f"{SITE_URL}/#website"}})
+        elif slug == "crowdhealth":
+            faqs = extract_faqs(body)
+            if faqs:
+                schema.append({"@type": "FAQPage", "@id": page_url + "#faq", "url": page_url,
+                               "name": cfg["page_title"], "description": cfg["desc"],
+                               "isPartOf": {"@id": f"{SITE_URL}/#website"},
+                               "author": {"@id": f"{SITE_URL}/#david"},
+                               "mainEntity": [{"@type": "Question", "name": q,
+                                               "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faqs]})
         elif slug == "faq":
             faqs = extract_faqs(body, every_h3=True)
             schema.append({"@type": "FAQPage", "@id": page_url + "#faq", "url": page_url,
@@ -1907,4 +2080,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(preview="--preview" in sys.argv)

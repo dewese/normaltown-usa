@@ -8,6 +8,6 @@
 | **Meta description** | `On a high deductible or health sharing, you're self-insured. The habit that makes it work is a healthcare sinking fund: park your event number, build a buffer.` |
 | **Category** | Health |
 
-- **Image:** `sinking-fund.png` — Alt text: `A jar filling up from small monthly cyan deposits, labeled healthcare sinking fund.`
+- **Image:** `sinking-fund.png` — Alt text: `A jar filling up from small monthly highlighted deposits, labeled healthcare sinking fund.`
 - **Internal links:** /p/the-diy-healthcare-safety-net/
 - **Affiliate:** no — pure trust-builder.

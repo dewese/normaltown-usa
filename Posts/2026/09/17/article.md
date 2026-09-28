@@ -1,6 +1,6 @@
 # Health Sharing for Early Retirees
 
-> Between leaving work and Medicare at 65, individual insurance in your late 50s and early 60s can cost well over a thousand dollars a month per person. Health sharing's flat $60 per person base fee doesn't rise with age, and a lower-cost backstop for a known stretch of years is exactly the job. Mind the pre-existing rules and the lack of a legal guarantee.
+> Between leaving work and Medicare at 65, individual insurance in your late 50s and early 60s can cost well over a thousand dollars a month per person. With CrowdHealth the $60 base fee is the same at any age, and the crowd's monthly ask is capped, so from 55 to 64 your worst possible month is $340 all in. That's a real step up from the $200 cap under 55, and it's still nowhere near a premium. Mind the pre-existing rules and the lack of a legal guarantee.
 
 There's a special kind of trap that catches people who did everything right. You save hard, you retire early, maybe at 58 or 60, and then you run into the wall nobody warned you about: you're too young for Medicare, which doesn't start until 65, and buying your own health insurance in that gap can cost more than your mortgage. That stretch is where a lot of early-retirement dreams get scared back into the workforce. Health sharing is one of the best-kept answers to it.
 
@@ -14,7 +14,7 @@ For a couple, that can be a soul-crushing number, big enough to make you wonder 
 
 A few reasons it's a natural fit for the pre-Medicare years:
 
-- **The cost doesn't spike with age the way premiums do.** With CrowdHealth, the service I use, it's a flat $60 per person per month plus a modest crowd contribution. A 60-year-old and a 30-year-old pay the same base fee. For an older adult, that flat pricing is a huge deal.
+- **The cost climbs with age, but nothing like premiums do.** I want to be careful here, because this is the one place I could accidentally oversell it. With CrowdHealth, the service I use, the $60 per person base fee really is the same at 60 as it is at 30. The crowd contribution on top of it is not. The most the crowd can ask you for in a month is $140 up to age 54, and $280 from 55 to 64. So crossing 55 moves your worst possible month from $200 to $340. That's a real jump and I'm not going to pretend it isn't. Now put it next to an individual premium in your early 60s, which can run well past a thousand dollars a month before the deductible does anything for you. The gap is still enormous.
 - **It's built for exactly this situation.** You're bridging a known number of years until a guaranteed program starts. A lower-cost backstop for that stretch is precisely the job.
 - **You likely have savings to self-insure the small stuff.** Early retirees usually have an emergency fund, which means the $500 per event and cash prices are very manageable.
 
@@ -28,7 +28,7 @@ Second, it is not insurance and has no legal guarantee. If you have an active co
 
 ## The takeaway
 
-If you're staring at the pre-Medicare gap and gasping at insurance quotes, health sharing deserves a serious look. Flat pricing that doesn't punish you for your age, a model built to bridge a known stretch of years, and savings you can use to handle the small stuff. Mind the pre-existing rules and the lack of a legal guarantee, and it can be the difference between staying retired and going back to work just for the benefits.
+If you're staring at the pre-Medicare gap and gasping at insurance quotes, health sharing deserves a serious look. A monthly ceiling you can look up before you join, even after it steps up at 55, a model built to bridge a known stretch of years, and savings you can use to handle the small stuff. Mind the pre-existing rules and the lack of a legal guarantee, and it can be the difference between staying retired and going back to work just for the benefits.
 
 ## Questions I get about this
 

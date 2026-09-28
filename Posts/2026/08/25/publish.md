@@ -8,4 +8,4 @@
 | **Meta description** | `Health sharing is wrong for you if you have ongoing medical needs, need a legal guarantee that bills get paid, or can't keep $500 set aside. The honest test.` |
 | **Category** | Health |
 
-- **Image:** `right-fit.png` — Alt text: `Two white circles. The left holds a cyan checkmark labeled right for some; the right holds a white X labeled wrong for others.`
+- **Image:** `right-fit.png` — Alt text: `Two plain circles. The left holds a highlighted checkmark labeled right for some; the right holds a plain X labeled wrong for others.`

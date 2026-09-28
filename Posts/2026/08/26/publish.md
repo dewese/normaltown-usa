@@ -8,4 +8,4 @@
 | **Meta description** | `Why do the rich get richer with inflation? New money reaches them first, before prices rise. Regular people are last in line. Explained with a buffet line.` |
 | **Category** | Money |
 
-- **Image:** `first-in-line.png` — Alt text: `A row of circles shrinking from left to right. The first, largest circle is solid cyan and labeled first; the smallest on the right is white and labeled you.`
+- **Image:** `first-in-line.png` — Alt text: `A row of circles shrinking from left to right. The first, largest circle is solid and highlighted, labeled first; the smallest on the right is plain and labeled you.`

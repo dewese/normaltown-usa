@@ -24,7 +24,7 @@ That's the core difference from insurance, and it's why the incentives feel so d
 
 ## The honest limits, as always
 
-It's a system run by people under a set of guidelines, not a legal guarantee, because it is not insurance. Bills outside the guidelines don't get funded, which is why reading them up front matters. But within the rules, the process is clear, orderly, and has funded more than 45,000 bills. Strong track record, stated limits, both true.
+It's a system run by people under a set of guidelines, not a legal guarantee, because it is not insurance. Bills outside the guidelines don't get funded, which is why reading them up front matters. But within the rules, the process is clear, orderly, and has funded 53,877 bills. Strong track record, stated limits, both true.
 
 ## The takeaway
 

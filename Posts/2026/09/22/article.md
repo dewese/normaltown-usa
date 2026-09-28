@@ -1,12 +1,12 @@
 # Is Health Sharing Legit?
 
-> Yes, health sharing is legit. It's a real, legal, decades-old way hundreds of thousands of Americans handle healthcare, and CrowdHealth has funded more than 45,000 bills, including single bills over $600,000. But legit doesn't mean insurance. A trustworthy organization says so loudly, publishes specific guidelines, shows a track record, and prices transparently.
+> Yes, health sharing is legit. It's a real, legal, decades-old way hundreds of thousands of Americans handle healthcare, and CrowdHealth has funded 53,877 bills, including single bills over $600,000. But legit doesn't mean insurance. A trustworthy organization says so loudly, publishes specific guidelines, shows a track record, and prices transparently.
 
 Let's just ask the blunt question everybody's thinking. Is this thing legit, or is it some too-good-to-be-true scheme that leaves you holding the bag? It's the right question to ask about anything involving your family's health and money. So here's the honest answer, with the reasons, so you can decide for yourself instead of taking my word for it.
 
 ## The short answer
 
-Yes, health sharing is legit, in the sense that it's a real, established, above-board way that hundreds of thousands of Americans handle their healthcare. Health sharing organizations have existed for decades. The one I use, CrowdHealth, has funded more than 45,000 bills, including single bills over $600,000. This isn't a fly-by-night operation or a scam. It's a real model with a real track record.
+Yes, health sharing is legit, in the sense that it's a real, established, above-board way that hundreds of thousands of Americans handle their healthcare. Health sharing organizations have existed for decades. The one I use, CrowdHealth, has funded 53,877 bills, including single bills over $600,000. This isn't a fly-by-night operation or a scam. It's a real model with a real track record.
 
 But "legit" doesn't mean "the same as insurance," and that distinction is the whole ballgame.
 
