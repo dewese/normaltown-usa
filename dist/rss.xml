@@ -5,8 +5,67 @@
     <atom:link href="https://www.normaltownusa.com/rss.xml" rel="self" type="application/rss+xml"/>
     <description>Plain-English help with money, medical bills, health insurance, health sharing, and saving in bitcoin. Written by a regular guy with a family of four, for regular people. No jargon, no hype.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 09:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:00:00 -0400</lastBuildDate>
     <item>
+      <title>How Much Does CrowdHealth Cost? The Real Numbers, With the Cap</title>
+      <link>https://www.normaltownusa.com/p/crowdhealth-cost/</link>
+      <guid isPermaLink="true">https://www.normaltownusa.com/p/crowdhealth-cost/</guid>
+      <pubDate>Thu, 01 Oct 2026 09:00:00 -0400</pubDate>
+      <dc:creator>David Dewese</dc:creator>
+      <category>Health</category>
+      <description>CrowdHealth costs $60/mo per person plus a capped crowd contribution. Worst case is $200/mo under 55, $340 at 55-64, $660 for a family of four. Real math.</description>
+      <content:encoded><![CDATA[<p><strong>In short:</strong> CrowdHealth costs $60 a month per person, children included, plus a crowd contribution that's hard-capped by age and household. Under 55 your worst possible month is $200. From 55 to 64 it's $340. For a family of four or more it's $660. On top of that you cover the first $500 of any health event. The crowd usually asks for less than the cap.</p><p>Every time somebody asks me what CrowdHealth costs, I give them a number, and then I watch them not believe it. So let me do this the long way, with the arithmetic in the open.</p>
+<p>My family of four has been on it since 2022. Here's exactly how the money works.</p>
+<h2 id="the-three-pieces">The three pieces</h2>
+<p><strong>One. The subscription: $60 a month, per person.</strong></p>
+<p>Children count. A family of four pays $240 a month in subscription. This is the part that doesn't move. It pays for the app, the people who negotiate your bills down, and a Care Advocate you can actually reach.</p>
+<p>It does not go up because you got older, and it does not go up because you got sick.</p>
+<p><strong>Two. The crowd contribution: variable, but capped.</strong></p>
+<p>Each month you chip in to fund other members' bills. That's the crowdfunding part, and it's the number people worry about, because "variable" sounds like "unlimited."</p>
+<p>It isn't. There's a published ceiling.</p>
+<p><strong>Three. The member commitment: $500 per health event.</strong></p>
+<p>A health event is one thing that happens to you. A broken wrist. An appendix. You cover the first $500 of it, and the crowd covers the eligible rest. It works like a deductible, except it resets per event instead of per year, and it's $500 instead of five figures.</p>
+<h2 id="the-cap-which-is-the-part-nobody-tells-you">The cap, which is the part nobody tells you</h2>
+<div class="table-wrap"><table><thead><tr><th>Who you are</th><th>Most the crowd can ask in one month</th><th>Your worst case, with the $60</th></tr></thead><tbody><tr><td>Ages 0 to 54</td><td>$140</td><td><strong>$200 per person</strong></td></tr><tr><td>Ages 55 to 64</td><td>$280</td><td><strong>$340 per person</strong></td></tr><tr><td>A family of four or more</td><td>$420 for the whole household</td><td><strong>$660 for the family</strong></td></tr></tbody></table></div>
+<p>Read the bottom row twice. A family of four pays $240 in subscription, and the crowd can ask for at most $420 more. <strong>Six hundred sixty dollars is the worst month that family can possibly have.</strong> Then $500 on top if somebody actually gets hurt that month.</p>
+<p>That's the ceiling. It is not the normal month. CrowdHealth has historically not asked for the full amount, and in a quiet month the ask is a good bit lower.</p>
+<p>For a real month: in October 2026, CrowdHealth told members the all-in cost was $165 for a single member under 55, $270 for a single member 55 or older, and $555 for a family of four, before a small transaction fee.</p>
+<p><strong>One change is already announced.</strong> On January 1, 2027, the subscription goes from $60 to $65 per person. If the crowd caps stay where they are, the worst cases become $205, $345, and $680. I'll update this page when the 2027 caps are published.</p>
+<h2 id="let-s-do-it-for-real-people">Let's do it for real people</h2>
+<p><strong>A 35-year-old on her own.</strong> $60 subscription. Worst month, $200. If she breaks an ankle in March, add $500 that one time. Her worst possible year, assuming the crowd maxed her out every single month and she got hurt once, is $2,400 plus $500, so $2,900.</p>
+<p>Now price a bronze marketplace plan for a 35-year-old without a subsidy. The premium alone often beats $2,900 before the deductible does one thing for her.</p>
+<p><strong>A 58-year-old bridging to Medicare.</strong> $60 subscription, but his cap is $280, so his worst month is $340 and his worst year is $4,080 plus commitments. That's a real step up from the under-55 number, and I'm not going to pretend it isn't. Then go price an individual plan for a 58-year-old. It's frequently north of a thousand dollars a month. The gap is still enormous. More on that in <a href="https://www.normaltownusa.com/p/health-sharing-for-early-retirees/">health sharing for early retirees</a>.</p>
+<p><strong>A family of four, two adults under 55.</strong> $240 subscription. Worst month $660. Worst year $7,920, before any $500 commitments.</p>
+<p>Compare that to a family plan with a $1,500 monthly premium and a $12,000 deductible, which is $18,000 before the plan pays for anything. That comparison is why we switched.</p>
+<h2 id="where-the-savings-actually-come-from">Where the savings actually come from</h2>
+<p>It isn't magic, and it isn't the crowd being generous. Two things do the work.</p>
+<p><strong>Cash prices.</strong> When you walk in as self-pay instead of insured, the price is often dramatically lower for the identical service. Discounts commonly run 25 to 85 percent off billed charges. CrowdHealth's team negotiates this for you before the crowd ever sees the bill, which means the crowd is funding a smaller number. I wrote about the mechanism in <a href="https://www.normaltownusa.com/p/why-cash-prices-beat-insured-prices/">why cash prices beat insured prices</a>.</p>
+<p><strong>Aligned incentives.</strong> CrowdHealth makes its money on that flat $60, not on a slice of your claims. Nobody there gets a bonus for slow-walking your bill. That's the whole argument in <a href="https://www.normaltownusa.com/p/nobody-gets-paid-to-make-you-well/">nobody gets paid to make you well</a>.</p>
+<h2 id="what-the-price-does-not-buy-you">What the price does not buy you</h2>
+<p>I'd be selling you something if I stopped here.</p>
+<p>The low number is low partly because you're giving something up, and it's a real thing. <strong>There is no legal guarantee your bill gets funded.</strong> CrowdHealth is not insurance. No state insurance regulator can step in for you if a bill goes unfunded.</p>
+<p>The funding rate is 99.8 percent across 53,877 bills, which is a strong record. A record is not a promise, and I won't dress it up as one.</p>
+<p>You're also not buying coverage for a condition you already have. Anything documented, diagnosed, or symptomatic within five years of joining gets nothing in years one and two, then up to $25,000 a year from year three. High cholesterol and high blood pressure are exempt. If that rule lands on you, the cheap monthly number is beside the point.</p>
+<p>The full picture, including who should walk away, is on my <a href="https://www.normaltownusa.com/crowdhealth/">CrowdHealth guide</a>.</p>
+<h2 id="so-is-it-cheaper">So is it cheaper?</h2>
+<p>For a reasonably healthy household with a cushion, on our numbers, by a lot.</p>
+<p>For somebody with an ongoing condition, or somebody getting a large ACA subsidy, quite possibly not. Run your own numbers before you cancel anything, and read <a href="https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/">who health sharing is wrong for</a> first.</p>
+<h2 id="questions-i-get-about-this">Questions I get about this</h2>
+<h3 id="how-much-is-crowdhealth-per-month">How much is CrowdHealth per month?</h3>
+<p>$60 per person in subscription, children included, plus a capped crowd contribution. Worst case all in is $200 a month under 55, $340 from 55 to 64, and $660 for a family of four or more. Most months come in under the cap.</p>
+<h3 id="does-crowdhealth-cost-more-as-you-get-older">Does CrowdHealth cost more as you get older?</h3>
+<p>The $60 subscription is the same at any age. The cap is not. It's $140 up to 54 and $280 from 55 to 64, so crossing 55 moves your worst month from $200 to $340.</p>
+<h3 id="is-there-a-deductible">Is there a deductible?</h3>
+<p>No. There's a $500 member commitment per health event instead, and it resets per event rather than per year.</p>
+<h3 id="how-much-does-crowdhealth-cost-for-a-family">How much does CrowdHealth cost for a family?</h3>
+<p>$60 per person, so $240 for a family of four, plus a household crowd cap of $420. That's $660 in the worst month.</p>
+<h3 id="is-the-monthly-contribution-really-capped">Is the monthly contribution really capped?</h3>
+<p>Yes, and it's published by age and household size. That cap is the direct answer to the usual objection that crowdfunding has no out-of-pocket maximum. On the monthly side, it does.</p>
+<h3 id="is-there-a-crowdhealth-discount">Is there a CrowdHealth discount?</h3>
+<p>Code <strong>NORMAL</strong> gets your first 3 months at $99 a month per member. It's three months, not six, whatever the coupon sites say.</p>
+<hr class="rule">
+<p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>, and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
+    </item><item>
       <title>Should You Switch? A 5-Question Guide</title>
       <link>https://www.normaltownusa.com/p/should-you-switch-a-5-question-guide/</link>
       <guid isPermaLink="true">https://www.normaltownusa.com/p/should-you-switch-a-5-question-guide/</guid>
@@ -945,50 +1004,6 @@
 <p>If you want to look at the guidelines and see your own cost, use my code <strong>NORMAL</strong>: <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">check out CrowdHealth<span class="sr-only"> (opens in a new tab)</span></a>. New members get their first 3 months at $99 a month per member with code NORMAL.</p>
 <p><em>Correction, September 30, 2026: an earlier version of this post put CrowdHealth at roughly 16,000 members. That was too low. CrowdHealth's CEO gave the figure as 35,000 current members in a September 2026 webinar, and I've updated it here.</em></p>
 <p><em>Added September 30, 2026: CrowdHealth has announced that its monthly fee goes from $60 to $65 per member on January 1, 2027. The numbers in this post are the 2026 ones.</em></p>
-<p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
-    </item><item>
-      <title>What Health Sharing Actually Costs Each Month</title>
-      <link>https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing/</link>
-      <guid isPermaLink="true">https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing/</guid>
-      <pubDate>Tue, 01 Sep 2026 09:00:00 -0400</pubDate>
-      <dc:creator>David Dewese</dc:creator>
-      <category>Health</category>
-      <description>What does health sharing cost? A flat $60/month per person plus $500 per health event, not a premium and a deductible. Here&#x27;s the honest math.</description>
-      <content:encoded><![CDATA[<p><strong>In short:</strong> With CrowdHealth, health sharing costs a flat $60 a month per person, plus a monthly contribution to other members' bills that moves up and down but is hard-capped, plus $500 out of pocket when you have a health event. Under 55, the most you can be asked for in a month is $200 all in. For a family of four it's $660. No premium black box and no five-figure deductible. New members get their first 3 months at $99 a month per member with code NORMAL.</p><p>If you have ever tried to figure out what your health insurance really costs, you know the problem. There is the premium you pay every month, the deductible you have to hit before it helps, the copays, the coinsurance, and the surprise bill that shows up anyway. Health sharing works differently, and the money side is a lot easier to say out loud. Here is the honest math.</p>
-<h2 id="the-two-numbers-that-matter">The two numbers that matter</h2>
-<p>With CrowdHealth, the health sharing service I use and point people to, there are really two numbers.</p>
-<p>The first is a flat <strong>$60 a month per person</strong>. That is the advocacy fee. It pays for the app, the bill negotiators, and a real human who helps you when something goes wrong. It does not change based on how sick you are or how old you are.</p>
-<p>The second is a <strong>$500 member commitment per health event</strong>. Think of a health event as one thing that happens to you, like a broken arm or an appendix that has to come out. You cover the first $500 of that event. The community covers the rest of the eligible bill.</p>
-<p>That is the whole shape of it. A flat monthly fee, and $500 when something big happens.</p>
-<h2 id="the-part-i-want-to-be-straight-about">The part I want to be straight about</h2>
-<p>There is a third piece, and I would be doing you a disservice to skip it. On top of the $60, you also chip in a small amount each month to help fund other members' bills. That is the "sharing" part. It moves up and down depending on what the community needs that month, and you approve each request. It is usually modest, but it is not zero, so your real monthly number is a bit more than $60.</p>
-<h2 id="the-ceiling-nobody-tells-you-about">The ceiling nobody tells you about</h2>
-<p>Here is the question you should be asking right now, and it is the one I had: if that number moves around, how high can it go?</p>
-<p>It has a hard cap. The crowd cannot ask you for more than a set amount in a month, and you can look the number up before you ever join. It depends on your age and your household.</p>
-<div class="table-wrap"><table><thead><tr><th>Who you are</th><th>Most the crowd can ask in one month</th><th>Your worst case, with the $60</th></tr></thead><tbody><tr><td>Ages 0 to 54</td><td>$140</td><td><strong>$200 per person</strong></td></tr><tr><td>Ages 55 to 64</td><td>$280</td><td><strong>$340 per person</strong></td></tr><tr><td>A family of four or more</td><td>$420 for the whole household</td><td><strong>$660 for the family</strong></td></tr></tbody></table></div>
-<p>Read that last row again, because it is the one that surprised people I have explained this to. A family of four pays $240 in subscription, four people at $60, and the crowd can ask for at most $420 more. Six hundred sixty dollars is the worst month that family can possibly have, before the $500 if somebody actually gets hurt.</p>
-<p>And that is the ceiling, not the normal month. CrowdHealth has historically not asked for the full amount. The cap is what protects you on a bad month, the same way a guardrail is not where you normally drive.</p>
-<h2 id="why-the-cap-is-the-part-that-should-convince-you">Why the cap is the part that should convince you</h2>
-<p>The strongest argument against health sharing, the one I take seriously, goes like this: insurance gives you an out-of-pocket maximum. A real number you cannot go past. Health sharing gives you a promise and a track record. That is a fair thing to worry about, and I have written about it in <a href="https://www.normaltownusa.com/p/what-if-the-crowd-doesnt-fund-your-bill/">what if the crowd doesn't fund your bill</a>.</p>
-<p>But on the monthly side, that argument is just wrong. There is a maximum. It is published. You can do the arithmetic before you hand over a dollar, and compare it to a premium you cannot negotiate.</p>
-<p>I am not going to tell you the cap makes the rest of the risk disappear. It does not. There is still no legal guarantee that a big bill gets funded, and that is the real trade you are making. But the monthly number is not a mystery, and anybody who tells you health sharing has no ceiling has not read the terms.</p>
-<p>Even with that, most healthy people and families land well below what a traditional plan costs. But I want you comparing real numbers, not a fantasy.</p>
-<h2 id="why-this-is-easier-to-plan-for">Why this is easier to plan for</h2>
-<p>Picture two phone bills. One is a flat plan where you know the number every month. The other charges you a base rate, plus overage fees, plus a device fee, plus taxes you cannot predict. Same service, totally different stress level.</p>
-<p>Traditional insurance is the second bill. You pay the premium, and then you still owe a deductible that can run five figures before the plan pays a dime. Health sharing is closer to the first bill. A flat fee, a known amount per event, and negotiators working to shrink the bill before the crowd ever funds it. Members regularly see cash-pay discounts of 25 to 85 percent off the sticker price.</p>
-<h2 id="who-this-math-works-for">Who this math works for</h2>
-<p>This works best if you are relatively healthy, you have $500 set aside for a health event, and you want a lower, more predictable monthly number. It does not work for everyone. It is not insurance, there is no legal guarantee your bill gets funded, and there are real exclusions and rules for pre-existing conditions. I wrote <a href="https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/">the honest who-should-skip-this version</a>, and <a href="https://www.normaltownusa.com/p/what-is-health-sharing/">a plain-English explainer of how the whole thing works</a>.</p>
-<h2 id="the-takeaway">The takeaway</h2>
-<p>Health sharing costs a flat $60 a month per person, plus a modest monthly contribution to the crowd, plus $500 when you have a real health event. No premium black box, no five-figure deductible waiting to ambush you. For a lot of normal families, that is a smaller and calmer number than what they pay now.</p>
-<h2 id="questions-i-get-about-this">Questions I get about this</h2>
-<h3 id="is-the-60-a-month-the-whole-cost">Is the $60 a month the whole cost?</h3>
-<p>No, and I want you comparing real numbers. On top of the $60 you chip in a small amount each month toward other members' bills. It moves with what the community needs and you approve each request. It's usually modest, but it's not zero.</p>
-<h3 id="how-does-the-500-compare-to-a-deductible">How does the $500 compare to a deductible?</h3>
-<p>A deductible can run five figures before insurance pays a dime, and it resets every January. The $500 is per health event, one thing that happens to you, and it's your only fixed responsibility for that event. I lay the two side by side in <a href="https://www.normaltownusa.com/p/the-500-you-pay-vs-the-deductible-you-dont/">The $500 You Pay vs. the Deductible You Don't</a>.</p>
-<h3 id="how-much-does-health-sharing-cost-for-a-family">How much does health sharing cost for a family?</h3>
-<p>The $60 advocacy fee is per person, so a family of four is $240 plus the community contribution. Ages and household size change the sharing amount. The honest way to know is to run your own numbers on CrowdHealth's site, then compare to your current premium plus deductible.</p>
-<p>If you want to see what your own number would be, you can check it on CrowdHealth's site with my code <strong>NORMAL</strong>: <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">see your cost at CrowdHealth<span class="sr-only"> (opens in a new tab)</span></a>. New members get their first 3 months at $99 a month per member with code NORMAL.</p>
-<p><em>Added September 30, 2026: CrowdHealth has announced that its monthly fee goes from $60 to $65 per member on January 1, 2027. For a family of four that's $20 more a month, which moves the worst-case month from $660 to $680 if the ceiling on the crowd's ask stays where it is. The numbers in this post are the 2026 ones.</em></p>
 <p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
     </item>
 </channel></rss>
