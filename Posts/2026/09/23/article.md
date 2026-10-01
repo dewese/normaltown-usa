@@ -48,6 +48,6 @@ Add up your premiums, your deductible exposure, and your typical out-of-pocket f
 
 If most point toward healthy, some savings, comfortable managing a bit of risk, and willing to read the rules, it's likely a strong fit. If several point toward an active condition, pricey meds, no cushion, or needing a guarantee, it's probably not, and that's fine. Use the right tool.
 
-Ready to check your answers against the real thing? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+Ready to check your answers against the real thing? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

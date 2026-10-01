@@ -44,8 +44,8 @@ On average a complete submission is fully funded in about a week, and members ar
 
 Read the member reviews on Trustpilot, both glowing and critical. Then read the actual guidelines on what's eligible before you join. Trust that survives your skepticism is the only kind worth having.
 
-If you want to look at the guidelines and see your own cost, use my code **NORMAL**: [check out CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+If you want to look at the guidelines and see your own cost, use my code **NORMAL**: [check out CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
 *Correction, September 30, 2026: an earlier version of this post put CrowdHealth at roughly 16,000 members. That was too low. CrowdHealth's CEO gave the figure as 35,000 current members in a September 2026 webinar, and I've updated it here.*
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

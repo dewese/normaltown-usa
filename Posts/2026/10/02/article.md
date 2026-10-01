@@ -107,4 +107,4 @@ Children who become members at birth are excepted from the congenital condition 
 
 ---
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish [exactly what I earn](/what-i-earn/), and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish [exactly what I earn](/what-i-earn/), and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.*

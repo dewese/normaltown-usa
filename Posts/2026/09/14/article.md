@@ -45,6 +45,6 @@ Generally not treated the same way as self-employed health insurance premiums, w
 
 Yes. It isn't tied to any employer, so it moves with you through good months and slow months. And self-employed people are usually already comfortable managing a bit of risk to keep costs sane, which is the health sharing mindset exactly.
 
-Want to see your own number? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+Want to see your own number? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

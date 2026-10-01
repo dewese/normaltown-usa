@@ -60,6 +60,6 @@ You pay the cash price, which for a normal office visit is often very reasonable
 
 Family premiums alone often run past $5,500 a year before anyone gets sick, and you'd still owe a big deductible when the arm breaks. I put the two side by side for a good year and a bad one in [The All-In Yearly Cost, Side by Side](/p/the-all-in-yearly-cost-side-by-side/).
 
-Want to map out your family's year? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+Want to map out your family's year? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

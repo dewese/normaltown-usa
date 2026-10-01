@@ -49,6 +49,6 @@ Everyday generics you pay at the cash price, often a few dollars a month with a 
 
 Because if the pool also paid for everyone's glasses, cleanings, and elective procedures, it would just be regular insurance with regular insurance prices. You're trading "covers every little thing" for "cheap and strong on the big things." For a healthy family, that's usually the better trade.
 
-Want to read the full guidelines yourself? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+Want to read the full guidelines yourself? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

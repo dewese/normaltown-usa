@@ -47,8 +47,8 @@ About a week on average for a complete, eligible submission, with reimbursement 
 
 No. "53,877 bills funded" describes what has happened, not a contractual promise about your specific future bill. Health sharing is not insurance. The history is genuinely reassuring and the limits are real, and an honest reading holds both.
 
-Want to see the current numbers for yourself? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+Want to see the current numbers for yourself? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
 *Correction, September 30, 2026: an earlier version of this post put CrowdHealth at roughly 16,000 members. That was too low. CrowdHealth's CEO gave the figure as 35,000 current members in a September 2026 webinar, and I've updated it here.*
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

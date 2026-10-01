@@ -4,12 +4,12 @@ This is the shelf where I keep the useful stuff. Not more articles to read, but 
 
 ## What my family actually uses
 
-:::partner CrowdHealth | Healthcare crowdfunding | crowdhealth-wordmark.svg | https://www.joincrowdhealth.com/?referral_code=NORMAL | Get 3 months at $99 | Affiliate link, code **NORMAL**. Pays me $250 once you've been a member 3 months. Costs you nothing extra.
+:::partner CrowdHealth | Healthcare crowdfunding | crowdhealth-wordmark.svg | https://www.joincrowdhealth.com/?referral_code=NORMAL | Get 3 months at $99 | Affiliate link, code **NORMAL**. Pays me $250 for each person who joins, once they've been a member 3 months. Costs you nothing extra.
 A flat monthly fee instead of an insurance bill. My family has used it since 2022.
 
 My family of four has been uninsured since 2022. That's right, we canceled our expensive health insurance plan and haven't regretted it. We use CrowdHealth instead. It's a flat monthly fee plus a share of other members' bills, and they make their money on that fee instead of on slow-walking your claim.
 
-Join through my link with code **NORMAL** and your first 3 months are $99 a month.
+Join through my link with code **NORMAL** and your first 3 months are $99 a month per member.
 
 ### The honest other half
 It matters more than the discount, so read it before you read anything else. CrowdHealth is not insurance. Nobody is legally on the hook to pay your bill. It has waiting periods, exclusions, and rules about conditions you already have. For some families it's the wrong answer, full stop. Start with [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/), and read [the plain-English guide](/p/what-is-health-sharing/) if the whole idea is new to you.

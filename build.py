@@ -1966,7 +1966,7 @@ def main(preview=False):
         "what-i-earn.md": {
             "slug": "what-i-earn",
             "desc": ("Exactly what Normaltown USA gets paid, in dollars. The CrowdHealth referral "
-                     "(code NORMAL) pays $250 after three months; River splits its bonus evenly. "
+                     "(code NORMAL) pays $250 per new member after three months; River splits its bonus evenly. "
                      "What I turn down, and what I do about the conflict of interest."),
             "page_title": "What I Earn: Every Referral on This Site, in Dollars",
         },

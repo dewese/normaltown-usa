@@ -22,7 +22,7 @@ I use the stuff I write about. My family of four left regular health insurance f
 
 ## How this site makes money
 
-Honestly, not much yet, and it costs almost nothing to run. The one way it earns: if you join CrowdHealth through my link with code NORMAL, you get your first 3 months at $99 a month and I earn a referral bonus if you stick around. It costs you nothing extra. I only point you to things I'd tell a friend about, I always say when a link pays me, and I'll tell you [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/) before I tell you how to sign up. No ads, no sponsored posts, no selling your email.
+Honestly, not much yet, and it costs almost nothing to run. The one way it earns: if you join CrowdHealth through my link with code NORMAL, you get your first 3 months at $99 a month per member and I earn a referral bonus if you stick around. It costs you nothing extra. I only point you to things I'd tell a friend about, I always say when a link pays me, and I'll tell you [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/) before I tell you how to sign up. No ads, no sponsored posts, no selling your email.
 
 ## What I'm not
 

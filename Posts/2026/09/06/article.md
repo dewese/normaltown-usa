@@ -47,6 +47,6 @@ No. An advocate is a person helping you, not a magic wand. They can't force a ho
 
 With CrowdHealth you can text, call, or email a real human who knows your situation. Spend twenty minutes in your first month learning how to submit a bill, so you know where the fire extinguisher is before there's a fire. More in [the first 90 days](/p/switching-to-health-sharing-first-90-days/).
 
-Want to see how it works for your family? Use my code **NORMAL**: [check out CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+Want to see how it works for your family? Use my code **NORMAL**: [check out CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

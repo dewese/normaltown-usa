@@ -10,7 +10,7 @@ Two links on this site pay me. Everything else is free, and always will be.
 
 | Who | What you get | What I get |
 |---|---|---|
-| CrowdHealth, code **NORMAL** | Your first 3 months at $99 a month | $250, once you've been a member 3 months |
+| CrowdHealth, code **NORMAL** | Your first 3 months at $99 a month per member | $250 for each person who joins, once they've been a member 3 months |
 | River (bitcoin) | Up to $100 in bitcoin, same as me | Up to $100 in bitcoin, same as you |
 
 Neither one costs you a penny extra. The CrowdHealth discount is money in your pocket that you would not get by going straight to their site.
@@ -22,8 +22,9 @@ My family of four has used CrowdHealth since 2022. I wrote about it for a long t
 Here's exactly how it works:
 
 - You join through my link with code **NORMAL**.
-- Your first 3 months cost $99 a month instead of the normal rate.
-- If you're still a member in good standing after 3 months, CrowdHealth pays me **$250** by bank transfer at the end of the following month.
+- Your first 3 months cost $99 a month per member instead of the normal rate. Two people is $198 a month. Three is $297.
+- After those 3 months, CrowdHealth pays me **$250 for each person who signed up**, by bank transfer at the end of the month. If a family of four joins, that's $1,000 to me, and you should know that.
+- These are CrowdHealth's published terms, from their referral program page.
 - If you sign up and cancel in month two, I get nothing. That's the right way around, and I want you to know it works that way.
 
 **What that means for you, honestly:** I have a financial reason to want you to join and stay. I'm telling you that up front because it's true, and because a site that pretends otherwise is lying to you about something small in a way that should make you doubt the big things.
@@ -64,13 +65,13 @@ I take on a few people a month for one-on-one help with a specific bill or money
 
 If a payout changes, if I add a third partner, or if somebody offers me a deal I decide to take, this page changes the same week and I'll say so in a post. I'd rather you catch me being consistent than catch me being quiet.
 
-Last updated 2026-09-21.
+Last updated 2026-09-30. On that date I corrected this page to say the $99 price and the $250 payout are both per person. It had read as if they were per household.
 
 ## Questions I get about this
 
 ### Does using your link cost me more?
 
-No. It costs you less. The code **NORMAL** gets you 3 months at $99, which is a discount off what you'd pay going direct. CrowdHealth pays me out of their own marketing budget, not out of your bill.
+No. It costs you less. The code **NORMAL** gets you 3 months at $99 per member, which is a discount off what you'd pay going direct. CrowdHealth pays me out of their own marketing budget, not out of your bill.
 
 ### Would you still recommend CrowdHealth without the referral?
 

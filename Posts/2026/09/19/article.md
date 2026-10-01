@@ -44,6 +44,6 @@ Complete, eligible submissions get funded in about a week on average. That's fas
 
 Directly to fund the actual bills of actual members that month, not into a corporate pool to boost quarterly profit. Nobody in this system gets richer by denying your bill. That's the incentive flip I unpack in [Health Insurance's Built-In Conflict of Interest](/p/health-insurances-conflict-of-interest/).
 
-Want to see the process from the inside? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+Want to see the process from the inside? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

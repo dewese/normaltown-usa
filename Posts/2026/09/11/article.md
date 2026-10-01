@@ -55,6 +55,6 @@ Yes. The appeal process is not a dead end. Often the fix is completing paperwork
 
 Keep your $500 event commitment liquid, keep a modest emergency fund on top of it, know the guidelines so you never submit something that was never eligible, and appeal if needed. Do that and a gap never wrecks you. Start with the [first $1,000](/p/the-first-1000-emergency-fund/).
 
-Want to read the guidelines yourself before deciding? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+Want to read the guidelines yourself before deciding? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

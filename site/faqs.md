@@ -18,7 +18,7 @@ No. I'm not a financial advisor, a doctor, a tax pro, or a lawyer. I'm a guy who
 
 ### How does Normaltown USA make money?
 
-Honestly, not much yet, and the site costs almost nothing to run. The one way it earns: my family uses a health sharing service called CrowdHealth, and if you join through my link with code **NORMAL**, you get your first 3 months at $99 a month and I earn a referral bonus if you stick around. It costs you nothing extra. I only point you to things I'd tell a friend about, and I always say when a link pays me.
+Honestly, not much yet, and the site costs almost nothing to run. The one way it earns: my family uses a health sharing service called CrowdHealth, and if you join through my link with code **NORMAL**, you get your first 3 months at $99 a month per member and I earn a referral bonus if you stick around. It costs you nothing extra. I only point you to things I'd tell a friend about, and I always say when a link pays me.
 
 ### How often do you post?
 
@@ -166,7 +166,7 @@ Yes. Health sharing isn't tied to a job, so it works the same whether you have a
 
 ### How do I sign up, and what's the deal with your code?
 
-You can see what your own number would be at [CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL) with code **NORMAL**. New members get their first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra. Read their guidelines first, and read my post on [who it's wrong for](/p/who-health-sharing-is-wrong-for/) before you switch. If you want the whole decision in one place, it's [Should You Switch? A 5-Question Guide](/p/should-you-switch-a-5-question-guide/).
+You can see what your own number would be at [CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL) with code **NORMAL**. New members get their first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra. Read their guidelines first, and read my post on [who it's wrong for](/p/who-health-sharing-is-wrong-for/) before you switch. If you want the whole decision in one place, it's [Should You Switch? A 5-Question Guide](/p/should-you-switch-a-5-question-guide/).
 
 ---
 

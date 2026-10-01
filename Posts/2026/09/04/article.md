@@ -48,6 +48,6 @@ Two things. $500 sitting in savings for a health event, not on a credit card. An
 
 A real person you can text, call, or email who helps you find fair-priced care and negotiates your bills. Spend twenty minutes in the first month learning how to submit a bill before you need to. I wrote up [what a care advocate actually does](/p/what-a-care-advocate-actually-does/).
 
-If you are ready to see your number and the $99-a-month new-member deal (your first 3 months), use my code **NORMAL**: [start at CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL).
+If you are ready to see your number and the new-member deal ($99 a month per member for your first 3 months), use my code **NORMAL**: [start at CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

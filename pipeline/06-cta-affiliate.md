@@ -95,21 +95,25 @@ be worth reading. If it isn't, the pitch was the point — start over.
 - **Still unverified, do not present as fresh** (last checked 2026-09-03): the largest
   funded bills ($643K / $437K / $333K), and the ~7 days to fund / ~2 days to reimburse
   timings.
-- **Referral (verified 2026-09-03, joincrowdhealth.com/resources/referral-program):**
+- **Referral (re-read 2026-09-30, joincrowdhealth.com/resources/referral-program; David
+  says to use that page as the source):**
   code **NORMAL** → `https://www.joincrowdhealth.com/?referral_code=NORMAL`.
-  - **New member gets:** first **3 months at $99/mo** (a 3-month discount).
-  - **David earns:** **$250 per signup**, paid after the new member stays active and
-    in good standing for 3 months (ACH, end of the following month).
+  - **New member gets:** a discount "bringing their total to **$99/mo per new member**
+    for their first 3 months". Always write "per member". Two people $198, three $297.
+  - **David earns:** **$250 per sign up, per person**, after their first 3 months, by ACH
+    at the end of the month. The page's own example: refer a family of 4 and earn $1,000.
+    The What I Earn page and the partner cards must say "for each person who joins".
 
-## Standard disclaimer — paste at the END of every CrowdHealth post (updated 2026-09-05)
+## Standard disclaimer — paste at the END of every CrowdHealth post (updated 2026-09-30)
 Casual, first-person, family-of-four, discount + link baked in, honest limits. Italicize it:
 
 > *My family of four uses CrowdHealth and I really believe in the model. If you join
 > through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL)
-> (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA
-> earns a referral bonus if you stick around. It costs you nothing extra, and I only
-> refer you to things I would tell a friend about. Health sharing is not insurance,
-> and nothing here is medical, tax, or financial advice.*
+> (code **NORMAL**), you get your first 3 months at $99 a month per member, and
+> Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra,
+> I publish [exactly what I earn](/what-i-earn/), and I only refer you to things I would
+> tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or
+> financial advice.*
 
 Also link the referral naturally at least once in the body (the CTA), not only in the
 disclaimer. Keep the honest limits (not insurance, no guarantee, exclusions, pre-existing

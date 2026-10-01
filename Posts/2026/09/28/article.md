@@ -53,6 +53,6 @@ It trades a legal guarantee for a lower cost and a strong track record. Whether 
 
 Chronic worry about money and health is its own tax on your body and your sleep. Part of why my family landed where we did is that a simple, understandable plan let us stop white-knuckling it. That peace is a real benefit, not a soft one.
 
-If a simple, honest plan would help you set it down, use my code **NORMAL**: [see how CrowdHealth works](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+If a simple, honest plan would help you set it down, use my code **NORMAL**: [see how CrowdHealth works](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

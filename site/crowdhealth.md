@@ -168,16 +168,16 @@ No. It isn't minimum essential coverage. There's no federal penalty for that any
 
 ### Is there a CrowdHealth discount code?
 
-Yes. Code **NORMAL** gets you your first 3 months at $99 a month. That's the standard member referral, and it's three months, not six, whatever the coupon sites claim. It's below.
+Yes. Code **NORMAL** gets you your first 3 months at $99 a month per member. That's the standard member referral, and it's three months, not six, whatever the coupon sites claim. It's below.
 
 ## If you decide it fits
 
 My family of four has used CrowdHealth since 2022. I wrote about it here long before there was any referral money in it, and I'd still write about it if the program ended tomorrow.
 
-:::partner CrowdHealth | Healthcare crowdfunding | crowdhealth-wordmark.svg | https://www.joincrowdhealth.com/?referral_code=NORMAL | Get 3 months at $99 | Affiliate link, code **NORMAL**. Pays me $250 once you've been a member 3 months. Costs you nothing extra, and I publish [exactly what I earn](/what-i-earn/).
+:::partner CrowdHealth | Healthcare crowdfunding | crowdhealth-wordmark.svg | https://www.joincrowdhealth.com/?referral_code=NORMAL | Get 3 months at $99 | Affiliate link, code **NORMAL**. Pays me $250 for each person who joins, once they've been a member 3 months. Costs you nothing extra, and I publish [exactly what I earn](/what-i-earn/).
 A flat monthly fee with a hard cap, instead of a premium that only goes one direction.
 
-Join through my link with code **NORMAL** and your first 3 months are $99 a month.
+Join through my link with code **NORMAL** and your first 3 months are $99 a month per member.
 
 ### The honest other half
 It's not insurance. Nobody is legally on the hook to pay your bill, and no regulator can help you if they don't. It has waiting periods, exclusions, and strict rules about conditions you already have. For some families it's the wrong answer, full stop. Read [who it's wrong for](/p/who-health-sharing-is-wrong-for/) before you read anything else about it.

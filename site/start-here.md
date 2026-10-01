@@ -50,7 +50,7 @@ Three things, all in plain English. Here's where to start on each one.
 
 I'll be straight with you about this up front, because it comes up a lot. My family of four left regular health insurance for a health sharing service called CrowdHealth. I write about it because we use it, and I'll always tell you the honest limits: it's not insurance, there's no legal guarantee a bill gets paid, and it's the wrong fit for some people. Read [who it's wrong for](/p/who-health-sharing-is-wrong-for/) before you read anything else about it.
 
-If you join through my link with code **NORMAL**, you get your first 3 months at $99 a month and I earn a referral bonus if you stick around. It costs you nothing extra. I'll say so every time a link pays me.
+If you join through my link with code **NORMAL**, you get your first 3 months at $99 a month per member and I earn a referral bonus if you stick around. It costs you nothing extra. I'll say so every time a link pays me.
 
 ## My promise to you
 

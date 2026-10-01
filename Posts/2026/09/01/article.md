@@ -1,6 +1,6 @@
 # What Health Sharing Actually Costs Each Month
 
-> With CrowdHealth, health sharing costs a flat $60 a month per person, plus a monthly contribution to other members' bills that moves up and down but is hard-capped, plus $500 out of pocket when you have a health event. Under 55, the most you can be asked for in a month is $200 all in. For a family of four it's $660. No premium black box and no five-figure deductible. New members get their first 3 months at $99 a month with code NORMAL.
+> With CrowdHealth, health sharing costs a flat $60 a month per person, plus a monthly contribution to other members' bills that moves up and down but is hard-capped, plus $500 out of pocket when you have a health event. Under 55, the most you can be asked for in a month is $200 all in. For a family of four it's $660. No premium black box and no five-figure deductible. New members get their first 3 months at $99 a month per member with code NORMAL.
 
 If you have ever tried to figure out what your health insurance really costs, you know the problem. There is the premium you pay every month, the deductible you have to hit before it helps, the copays, the coinsurance, and the surprise bill that shows up anyway. Health sharing works differently, and the money side is a lot easier to say out loud. Here is the honest math.
 
@@ -72,6 +72,6 @@ A deductible can run five figures before insurance pays a dime, and it resets ev
 
 The $60 advocacy fee is per person, so a family of four is $240 plus the community contribution. Ages and household size change the sharing amount. The honest way to know is to run your own numbers on CrowdHealth's site, then compare to your current premium plus deductible.
 
-If you want to see what your own number would be, you can check it on CrowdHealth's site with my code **NORMAL**: [see your cost at CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+If you want to see what your own number would be, you can check it on CrowdHealth's site with my code **NORMAL**: [see your cost at CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
-*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
+*My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
