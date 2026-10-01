@@ -153,3 +153,51 @@ rules) somewhere in the body of every referral post.
 ## Standard disclaimers (every money/health article)
 > Nothing here is financial, medical, tax, or legal advice. I'm a guy who did the
 > homework, sharing what I learned — you make your own calls.
+
+## Refresh, 2026-09-30 (read from the live CrowdHealth pages and David's October newsletter)
+
+This time the pages loaded from David's Mac, so these were read from the page text itself.
+
+- **The referral code works on any joincrowdhealth.com URL.** Append
+  `?referral_code=NORMAL` to the page that fits the topic (`/how-it-works`, `/pricing`,
+  `/pregnancy`, `/crowdfunding-results`, `/member-tools-and-services`,
+  `/monthly-cost-insights`, `/member-guides`, `/resources/faq`). Confirmed by David.
+- **The $99 intro price is per member per month** (two people $198, three $297), per the
+  referral program page. October posts say "per member". Older posts and the standard
+  disclaimer above still say "$99 a month" and should be brought in line.
+- **Advocacy fee rises to $65 per member on 2027-01-01.** Other 2027 guide changes: annual
+  wellness becomes several services up to a combined $300; talk therapy moves under that
+  $300; virtual visits from any licensed provider, up to $129 each, without the $500;
+  PT/OT/speech/pelvic floor/chiropractic limited to 15 visits per health event unless a
+  clinical review approves more; Type 2 diabetes care moves to the Exit Diabetes product.
+  Source: joincrowdhealth.com/member-guide-updates.
+- **October 2026 posted member cost:** $165 single under 55, $270 single 55+, $555 family
+  of four, before a 0.8% to 3% transaction fee. This is CrowdHealth's own published
+  figure, so it can be quoted with attribution and the month named.
+- **September 2026 event mix:** injury 44.0%, pregnancy 25.4%, illness 13.8%, wellness
+  10.7%, other 6.1%.
+- **Largest bills (row 8 of the checklist), re-read 2026-09-30:** the homepage list still
+  leads with $643,242.32 (firearm injury, CA), $437,729.31 (NICU, ND), $333,943.56
+  (appendicitis, GA). The page says "Funded: $X bill" and does not say whether X is billed,
+  negotiated, or funded. The October newsletter mentions newer events of nearly $3 million
+  and $1.3 million.
+- **Days to fund (row 9), re-read 2026-09-30:** August 2026 Transparency Files show 7.72
+  days average, 7 median, from a complete bill to funds in the member's account.
+- **State list (row 10):** the FAQ still lists CA, DC, MA, NJ, RI, VT as states where
+  CrowdHealth does not satisfy an insurance mandate. Maryland is not on it.
+- **Second product:** "Black Swan", a $15,000 per-event commitment with a much lower monthly
+  ask and no maternity, wellness, or funded virtual care. The homepage's "$500 to $15,000"
+  means these two products, not a sliding scale.
+- **Maternity:** the due date must be at least 300 days after the membership start date.
+  Newborn routine care and newborn complications are each a separate $500 event.
+
+**Two conflicts David should settle:**
+
+1. **Member count.** This file says roughly 15,000 to 17,000 (verified by David
+   2026-09-28). CrowdHealth's CEO said "35,000 members as of today" in the Sept 23, 2026
+   webinar transcript on their site, and 40,000 who have ever joined. The October posts
+   avoid stating a member count.
+2. **"99.8% of submitted bills get funded."** CrowdHealth's homepage says 99% of
+   *eligible* bills, and its monthly results show 3% to 5% of *submitted* bills ruled
+   ineligible. The October posts say "more than 99% of eligible bills". The "submitted"
+   wording in older posts overstates it.

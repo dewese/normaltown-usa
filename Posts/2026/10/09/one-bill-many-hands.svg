@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+  <rect class="f-bg" width="1200" height="1200"/>
+  <text class="f-ink" x="600" y="220" text-anchor="middle" font-size="46" font-weight="800">One bill. Many hands.</text>
+  <rect class="s-ink" x="190" y="360" width="330" height="330" rx="12" fill="none" stroke-width="6"/>
+  <text class="f-ink" x="355" y="545" text-anchor="middle" font-size="46" font-weight="800">$240,000+</text>
+  <text class="f-ink" x="355" y="750" text-anchor="middle" font-size="28" font-weight="700" fill-opacity="0.8">one NICU bill</text>
+  <g class="s-ac" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="555" y1="525" x2="640" y2="525"/><polyline points="614,505 644,525 614,545"/></g>
+  <rect class="f-ac" x="690" y="360" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="732" y="360" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="774" y="360" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="816" y="360" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="858" y="360" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="900" y="360" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="942" y="360" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="984" y="360" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="690" y="402" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="732" y="402" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="774" y="402" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="816" y="402" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="858" y="402" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="900" y="402" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="942" y="402" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="984" y="402" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="690" y="444" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="732" y="444" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="774" y="444" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="816" y="444" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="858" y="444" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="900" y="444" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="942" y="444" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="984" y="444" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="690" y="486" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="732" y="486" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="774" y="486" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="816" y="486" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="858" y="486" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="900" y="486" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="942" y="486" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="984" y="486" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="690" y="528" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="732" y="528" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="774" y="528" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="816" y="528" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="858" y="528" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="900" y="528" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="942" y="528" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="984" y="528" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="690" y="570" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="732" y="570" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="774" y="570" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="816" y="570" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="858" y="570" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="900" y="570" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="942" y="570" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="984" y="570" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="690" y="612" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="732" y="612" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="774" y="612" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="816" y="612" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="858" y="612" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="900" y="612" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="942" y="612" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="984" y="612" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="690" y="654" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="732" y="654" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="774" y="654" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="816" y="654" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="858" y="654" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="900" y="654" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="942" y="654" width="30" height="30" rx="5"/>
+  <rect class="f-ac" x="984" y="654" width="30" height="30" rx="5"/>
+  <text class="f-ink" x="853" y="750" text-anchor="middle" font-size="28" font-weight="700">small pieces, many members</text>
+  <text class="f-ac" x="600" y="930" text-anchor="middle" font-size="32" font-weight="800">Negotiated first. Then shared.</text>
+</svg>

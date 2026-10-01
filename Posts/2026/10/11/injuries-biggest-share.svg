@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+  <rect class="f-bg" width="1200" height="1200"/>
+  <text class="f-ink" x="600" y="220" text-anchor="middle" font-size="46" font-weight="800">What the crowd pays for most</text>
+  <text class="f-ac" x="600" y="640" text-anchor="middle" font-size="220" font-weight="800">44%</text>
+  <text class="f-ink" x="600" y="760" text-anchor="middle" font-size="38" font-weight="700">of health events were injuries</text>
+  <text class="f-ink" x="600" y="860" text-anchor="middle" font-size="28" font-weight="500" fill-opacity="0.65">September 2026</text>
+  <text class="f-ink" x="600" y="960" text-anchor="middle" font-size="32" font-weight="800">Your share of a broken bone: $500.</text>
+</svg>

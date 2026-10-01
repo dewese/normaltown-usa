@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="1200" fill="#0F0F0F"/>
+  <text x="600" y="220" text-anchor="middle" font-size="46" font-weight="800" fill="#FFFFFF">The plan changed. The share did not.</text>
+  <circle cx="360" cy="560" r="150" fill="none" stroke="#FFFFFF" stroke-width="6"/>
+  <text x="360" y="580.3" text-anchor="middle" font-size="58" font-weight="800" fill="#FFFFFF">$3,000</text>
+  <text x="360" y="800" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF" fill-opacity="0.8">home birth</text>
+  <circle cx="840" cy="560" r="150" fill="#2DD4FF"/>
+  <text x="840" y="580.3" text-anchor="middle" font-size="58" font-weight="800" fill="#0F0F0F">$3,000</text>
+  <text x="840" y="800" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">C-section</text>
+  <text x="600" y="960" text-anchor="middle" font-size="32" font-weight="800" fill="#2DD4FF">A NICU stay adds $500, not $50,000.</text>
+</svg>

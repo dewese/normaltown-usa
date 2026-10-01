@@ -13,3 +13,6 @@ __pycache__/
 
 # Preview build output (future-dated posts); never deployed
 preview/
+
+# Research notes with source URLs and reviewer details. Kept local, never published.
+pipeline/research-private/
