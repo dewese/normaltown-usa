@@ -51,4 +51,6 @@ Because if the pool also paid for everyone's glasses, cleanings, and elective pr
 
 Want to read the full guidelines yourself? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
+*Added September 30, 2026: CrowdHealth's 2027 member guide adds a few limits, all starting January 1, 2027. Physical therapy, occupational therapy, speech therapy, pelvic floor therapy, and chiropractic care are limited to 15 visits per health event unless a clinical review approves more. Type 2 diabetes care moves to a separate program called Exit Diabetes. And talk therapy counts toward the $300 yearly wellness amount.*
+
 *My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

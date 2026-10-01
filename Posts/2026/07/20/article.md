@@ -85,4 +85,6 @@ Yes. My wife, our two girls, and I are on CrowdHealth. I write about what we act
 
 ---
 
+*Added September 30, 2026: CrowdHealth has announced that its monthly fee goes from $60 to $65 per member on January 1, 2027. The numbers in this post are the 2026 ones.*
+
 *Nothing here is financial, medical, tax, or legal advice. I'm just a guy who did the homework, sharing what I learned. You make your own calls. This post contains an affiliate link to [CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). If you join through it, I may earn a referral at no extra cost to you.*

@@ -54,12 +54,14 @@ With CrowdHealth, $60 per person is $240 a month in advocacy fees, plus the mont
 
 ### What about checkups and sick visits on health sharing?
 
-You pay the cash price, which for a normal office visit is often very reasonable. Across a year that's a few hundred dollars for a family. CrowdHealth also crowdfunds one preventive visit a year per member up to $300 with the commitment waived.
+You pay the cash price, which for a normal office visit is often very reasonable. Across a year that's a few hundred dollars for a family. CrowdHealth also crowdfunds one preventive visit a year per member up to $300 with the commitment waived. Starting January 1, 2027, that $300 can be spread across more than one preventive visit.
 
 ### How does this compare to a traditional family plan?
 
 Family premiums alone often run past $5,500 a year before anyone gets sick, and you'd still owe a big deductible when the arm breaks. I put the two side by side for a good year and a bad one in [The All-In Yearly Cost, Side by Side](/p/the-all-in-yearly-cost-side-by-side/).
 
 Want to map out your family's year? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
+
+*Added September 30, 2026: CrowdHealth has announced that its monthly fee goes from $60 to $65 per member on January 1, 2027, which is $240 more a year for a family of four. Also starting in 2027, the $300 yearly wellness amount can be spread across more than one preventive visit. The numbers in this post are the 2026 ones.*
 
 *My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

@@ -19,6 +19,8 @@ Here's the shape of it:
 
 Their own examples, and they're clear the list isn't exhaustive: asthma, congenital conditions, diabetes, genetic disorders, heart conditions, sleep apnea.
 
+One of those is about to get its own rule. Starting January 1, 2027, Type 2 diabetes care won't be eligible for crowdfunding on the standard membership at all, even for a new diagnosis. Members who want help with it move to a separate CrowdHealth program called Exit Diabetes.
+
 Children who join CrowdHealth at birth are excepted from the congenital condition limit.
 
 ## The exemption almost nobody mentions

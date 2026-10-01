@@ -7,5 +7,6 @@
 | **Subtitle** | `A potluck vs. a catered dinner. Both feed you. They're different deals.` |
 | **Meta description** | `Health sharing vs. insurance, pros and cons laid side by side. Cost, the legal guarantee, what's covered, and the incentive, explained plainly with a potluck.` |
 | **Category** | Health |
+| **Updated** | 2026-09-30 |
 
 - **Image:** `sharing-vs-insurance.png` — Alt text: `On the left, a single plain circle labeled insurance, one caterer. On the right, a ring of highlighted dots around a plate labeled health sharing, a potluck, with vs between them.`

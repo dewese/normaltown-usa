@@ -114,7 +114,7 @@ Yes. My wife, our two girls, and I have been on CrowdHealth, and I write about w
 
 ### What does health sharing cost per month?
 
-With CrowdHealth there are three numbers. A flat $60 a month per person for the app, the bill negotiators, and a real human who helps you. A small monthly amount that goes to other members' bills, which moves up and down and is usually modest. And $500 out of your pocket when you have a health event. No deductible in the thousands waiting to bite you. Full post: [What Health Sharing Actually Costs Each Month](/p/the-real-monthly-cost-of-health-sharing/).
+With CrowdHealth there are three numbers. A flat $60 a month per person for the app, the bill negotiators, and a real human who helps you. (CrowdHealth has announced that goes to $65 on January 1, 2027.) A small monthly amount that goes to other members' bills, which moves up and down and is usually modest. And $500 out of your pocket when you have a health event. No deductible in the thousands waiting to bite you. Full post: [What Health Sharing Actually Costs Each Month](/p/the-real-monthly-cost-of-health-sharing/).
 
 ### What's a "health event" in health sharing?
 

@@ -36,6 +36,10 @@ Read the bottom row twice. A family of four pays $240 in subscription, and the c
 
 That's the ceiling. It is not the normal month. CrowdHealth has historically not asked for the full amount, and in a quiet month the ask is a good bit lower.
 
+For a real month: in October 2026, CrowdHealth told members the all-in cost was $165 for a single member under 55, $270 for a single member 55 or older, and $555 for a family of four, before a small transaction fee.
+
+**One change is already announced.** On January 1, 2027, the subscription goes from $60 to $65 per person. If the crowd caps stay where they are, the worst cases become $205, $345, and $680. I'll update this page when the 2027 caps are published.
+
 ## Let's do it for real people
 
 **A 35-year-old on her own.** $60 subscription. Worst month, $200. If she breaks an ankle in March, add $500 that one time. Her worst possible year, assuming the crowd maxed her out every single month and she got hurt once, is $2,400 plus $500, so $2,900.

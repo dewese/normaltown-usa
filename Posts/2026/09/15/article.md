@@ -48,4 +48,6 @@ Often yes. Something minor, well-controlled, or years behind you may matter far 
 
 Want to read the actual guidelines for your situation? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
+*Added September 30, 2026: starting January 1, 2027, CrowdHealth will no longer crowdfund Type 2 diabetes care on its standard membership at all, even for a new diagnosis. Members who want help with it move to a separate CrowdHealth program called Exit Diabetes.*
+
 *My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

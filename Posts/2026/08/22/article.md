@@ -57,3 +57,7 @@ Insurance covers a broad, regulated list. Sharing communities focus on big, unex
 ### Which one is right for me?
 
 If you need a broad, legally guaranteed safety net, especially with an ongoing condition, insurance. If you're relatively healthy, can keep $500 set aside, want a lower monthly number, and can live with a commitment instead of a contract, sharing is worth pricing. Read [Who Health Sharing Is Wrong For](/p/who-health-sharing-is-wrong-for/) first.
+
+---
+
+*Added September 30, 2026: CrowdHealth has announced that its monthly fee goes from $60 to $65 per member on January 1, 2027. The numbers in this post are the 2026 ones.*

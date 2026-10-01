@@ -54,4 +54,6 @@ No. Health sharing isn't tied to a job you no longer have, so it doesn't expire 
 
 Between jobs and staring at a COBRA quote? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 
+*Added September 30, 2026: CrowdHealth has announced that its monthly fee goes from $60 to $65 per member on January 1, 2027. The numbers in this post are the 2026 ones.*
+
 *My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*

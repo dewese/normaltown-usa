@@ -7,6 +7,7 @@
 | **Subtitle** | `If you already chose a high-deductible plan, this is the same bet made better.` |
 | **Meta description** | `High-deductible plan vs. health sharing, head to head: monthly cost, what happens at a health event, a real-year example, and where the insurance plan wins.` |
 | **Category** | Health |
+| **Updated** | 2026-09-30 |
 
 - **Image:** `head-to-head.png` — Alt text: `Two columns compared, a faint plain column labeled high-deductible plan and a bold highlighted column labeled health sharing.`
 - **Internal links:** /p/the-real-monthly-cost-of-health-sharing/, /p/who-health-sharing-is-wrong-for/

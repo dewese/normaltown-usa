@@ -45,3 +45,7 @@ Health sharing is one. The community pools money to cover each other's big bills
 ### Does knowing this help me with my next claim?
 
 It explains the runaround, which lowers the blood pressure. Practically: get pre-approvals in writing, ask for the itemized bill, appeal denials, and ask for the cash price when you're under your deductible. And know that other ways to handle a big bill exist.
+
+---
+
+*Added September 30, 2026: CrowdHealth has announced that its monthly fee goes from $60 to $65 per member on January 1, 2027. The numbers in this post are the 2026 ones.*

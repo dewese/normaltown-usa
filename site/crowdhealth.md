@@ -39,6 +39,10 @@ On top of the $60, you chip in each month to fund other members' bills. That amo
 
 That last row is the one people don't believe the first time. A family of four pays $240 in subscription and can be asked for at most $420 more. **Six hundred sixty dollars is the worst month that family can have**, before the $500 if somebody actually gets hurt.
 
+For a real month: in October 2026, CrowdHealth told members the all-in cost was $165 for a single member under 55, $270 for a single member 55 or older, and $555 for a family of four, before a small transaction fee.
+
+**One change is already announced.** On January 1, 2027, the subscription goes from $60 to $65 per person. If the crowd caps stay where they are, the worst cases become $205, $345, and $680.
+
 And that's the ceiling, not the normal month. CrowdHealth has historically not asked for the full amount.
 
 ### Why the cap is the part that should convince you
@@ -89,7 +93,9 @@ If you have a real ongoing condition, read that again, slowly. Two years of noth
 
 - Dental and vision, beyond the annual wellness event
 - Cosmetic procedures
-- Mental health counseling
+- Mental health counseling (starting in 2027, talk therapy can count toward the $300 yearly wellness amount)
+- Type 2 diabetes care, starting January 1, 2027, when it moves to a separate program called Exit Diabetes
+- Physical therapy and chiropractic care past 15 visits per health event, starting in 2027, unless a clinical review approves more
 - Alternative therapies
 - Brand-name prescriptions when a generic exists
 - IVF
@@ -152,7 +158,7 @@ It's a real, operating company with a long public record: 53,877 bills funded, 9
 
 ### How much does CrowdHealth cost per month?
 
-$60 per person, children included, plus a capped crowd contribution. Worst case is $200 a month under 55, $340 from 55 to 64, and $660 for a family of four or more. The crowd typically asks for less than the cap.
+$60 per person, children included, plus a capped crowd contribution. Worst case is $200 a month under 55, $340 from 55 to 64, and $660 for a family of four or more. The crowd typically asks for less than the cap. The $60 goes to $65 on January 1, 2027.
 
 ### Does CrowdHealth cover pre-existing conditions?
 
