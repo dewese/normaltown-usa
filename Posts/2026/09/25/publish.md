@@ -7,7 +7,7 @@
 | **Subtitle** | `53,877 bills funded, six figures included, about a week on average. And the one asterisk.` |
 | **Meta description** | `CrowdHealth by the numbers: 53,877 bills funded, single bills over $600,000, about a week to fund, 25 to 85 percent discounts. What they prove and don't.` |
 | **Category** | Health |
-| **Updated** | 2026-09-28 |
+| **Updated** | 2026-09-30 |
 
 - **Image:** `by-the-numbers.png` — Alt text: `Three large highlighted stat figures stacked: 53,877 bills funded, $600,000+ single bill, about 1 week to fund.`
 - **Internal links:** /p/how-a-big-hospital-bill-gets-paid-without-insurance/, /p/can-you-trust-health-sharing-with-a-big-bill/

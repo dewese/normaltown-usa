@@ -53,11 +53,11 @@ I'm not going to tell you the cap makes the rest of the risk disappear. It doesn
 
 - **53,877 bills funded.** Not a startup hoping it works.
 - **99.8 percent of submitted bills get funded.**
-- **Roughly 15,000 to 17,000 members.** Smaller than most people guess, and I think it's the more interesting number. Fifty-three thousand bills across about sixteen thousand people is **more than three funded bills per member**. This isn't a crowd where a few people use it and everybody else just pays in.
+- **About 35,000 members.** Fifty-three thousand bills across about thirty-five thousand people is **about three funded bills for every two members**. This isn't a crowd where a few people use it and everybody else just pays in.
 - **4.9 stars on Trustpilot.**
 - **About $100 million** saved versus traditional insurance, which is CrowdHealth's own figure and should be read as one.
 
-I had the member count wrong on this site for months. I was saying 37,000, more than double the truth, because I'd picked it up and not rechecked it. I've corrected it everywhere. The funny part is the real numbers tell a better story.
+A correction, made September 30, 2026. For a few days this page said roughly 15,000 to 17,000 members. That was too low. CrowdHealth's CEO gave the figure as 35,000 current members in a September 2026 webinar, with about 40,000 who have ever joined.
 
 ## How a bill actually gets paid
 

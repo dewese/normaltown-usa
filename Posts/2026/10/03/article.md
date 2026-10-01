@@ -1,6 +1,6 @@
 # Is CrowdHealth Legit? What I Found When I Checked
 
-> Yes, in the sense that matters: it's a real company doing exactly what it says. 53,877 bills funded, 99.8 percent of submissions funded, 4.9 stars on Trustpilot, roughly 16,000 members. But "legit" and "insurance" are different questions. Nobody is legally required to fund your bill, and no state regulator can help you if they don't. That's the actual trade.
+> Yes, in the sense that matters: it's a real company doing exactly what it says. 53,877 bills funded, 99.8 percent of submissions funded, 4.9 stars on Trustpilot, about 35,000 members. But "legit" and "insurance" are different questions. Nobody is legally required to fund your bill, and no state regulator can help you if they don't. That's the actual trade.
 
 "Is this a scam?" is the first thing anybody asks me about CrowdHealth, and it's the right question to ask about anything that promises to replace a $1,500 premium.
 
@@ -18,13 +18,13 @@ Numbers first, because they're checkable.
 
 - **53,877 bills funded.** That's a lot of real money moving to real people.
 - **99.8 percent of submitted bills get funded.**
-- **Roughly 15,000 to 17,000 members.**
+- **About 35,000 members.**
 - **4.9 stars on Trustpilot.**
 - **About $100 million** saved versus traditional insurance, which is CrowdHealth's own figure and should be read as a company claim, not an audit.
 
-Sit with the first and third for a second. Fifty-three thousand bills across about sixteen thousand members is **more than three funded bills per member**. That's not a program where a handful of people use it and everybody else just pays in. The crowd is actually working.
+Sit with the first and third for a second. Fifty-three thousand bills across about thirty-five thousand members is **about three funded bills for every two members**. That's not a program where a handful of people use it and everybody else just pays in. The crowd is actually working.
 
-I'll admit something here. I had the member count on this site at 37,000 for months, which was more than double the truth. I picked the number up somewhere and didn't recheck it. I've fixed it everywhere, and the funny part is the real numbers make a better argument than the wrong ones did.
+I'll admit something here. I've had the member count wrong on this site before, once too high and once too low, because I picked up a number and didn't recheck it. The 35,000 figure is what CrowdHealth's CEO said in a September 2026 webinar, along with about 40,000 people who have ever joined.
 
 ## What "legit" doesn't mean
 
@@ -87,7 +87,7 @@ No. It's for-profit and secular, with no shared-beliefs requirement, so it doesn
 
 ### How many members does CrowdHealth have?
 
-Roughly 15,000 to 17,000, which is smaller than most people assume and smaller than the large sharing ministries.
+About 35,000 as of September 2026, according to CrowdHealth's CEO. That's still small next to an insurance company.
 
 ### Why did Maryland issue a warning about CrowdHealth?
 

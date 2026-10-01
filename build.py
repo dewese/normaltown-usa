@@ -1099,7 +1099,9 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .foot-sub .label{display:block; font-weight:800; color:var(--ink); font-size:1rem; margin:0 0 .6rem}
 .foot-sub .row{display:flex; gap:.5rem; max-width:26rem}
 .foot-sub .embed{max-width:26rem; min-height:3rem}
-.foot-sub .embed iframe{display:block; width:100%; border:0}
+/* color-scheme:light matches beehiiv's document; a mismatch (our dark mode) makes the
+   browser paint an opaque white backdrop behind the otherwise transparent iframe */
+.foot-sub .embed iframe{display:block; width:100%; border:0; background:transparent; color-scheme:light}
 .foot-sub input[type=email]{flex:1; min-width:0; font:inherit; color:var(--ink); background:var(--canvas);
   border:1px solid var(--faint); border-radius:999px; padding:.6rem 1rem}
 .foot-sub input[type=email]:focus{outline:2px solid var(--accent); outline-offset:2px; border-color:var(--accent)}
@@ -1290,7 +1292,7 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 <meta name="twitter:title" content="{html.escape(title, quote=True)}">
 <meta name="twitter:description" content="{desc}">
 <meta name="twitter:image" content="{og_img}">
-{extra_head}<link rel="icon" type="image/svg+xml" href="/assets/normaltown-icon.svg">
+{extra_head}<link rel="icon" type="image/svg+xml" href="/assets/normaltown-icon.svg{file_v(LOGO_DIR / "normaltown-icon.svg")}">
 <link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

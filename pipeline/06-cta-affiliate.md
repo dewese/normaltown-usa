@@ -116,14 +116,14 @@ disclaimer. Keep the honest limits (not insurance, no guarantee, exclusions, pre
 rules) somewhere in the body of every referral post.
 
 ## Verifiable social proof (attributable to CrowdHealth; use instead of invented quotes)
-- **Roughly 15,000 to 17,000 members** (verified 2026-09-28). The site previously said
-  "37,000+", which was wrong by more than 2x and is now corrected everywhere.
+- **About 35,000 members** (set by David 2026-09-30; CrowdHealth's CEO said "35,000
+  members as of today" in the Sept 23, 2026 webinar, and 40,000 who have ever joined).
+  The 15,000 to 17,000 figure used from 09-28 to 09-30 was too low and is corrected.
 - **53,877 bills funded**, and **99.8% of submitted bills get funded** (both verified
   2026-09-28).
-- **Use the two together.** 53,877 bills across ~16,000 members is more than three
-  funded bills per member, a far stronger story than the old, wrong pairing of 45,000
-  bills against 37,000 members. Correcting the member count downward made the argument
-  better, not worse. Lead with the ratio.
+- **Use the two together, carefully.** 53,877 bills across about 35,000 members is about
+  three funded bills for every two members. Do not use the old "more than three funded
+  bills per member" line, which was built on the 16,000 figure.
 - ~7 days average from complete bill submission to fully funded; reimbursed ~2 days
   after approval.
 - **~$100 million** total saved vs. traditional insurance. CrowdHealth's own figure,
@@ -162,8 +162,10 @@ This time the pages loaded from David's Mac, so these were read from the page te
   `?referral_code=NORMAL` to the page that fits the topic (`/how-it-works`, `/pricing`,
   `/pregnancy`, `/crowdfunding-results`, `/member-tools-and-services`,
   `/monthly-cost-insights`, `/member-guides`, `/resources/faq`). Confirmed by David.
-- **The $99 intro price is per member per month** (two people $198, three $297), per the
-  referral program page. October posts say "per member". Older posts and the standard
+- **The $99 intro price is per member per month.** The referral program page says the
+  discount brings "their total to $99/mo per new member for their first 3 months", and the
+  August 2026 complaints log has a member who "expected the total cost to be $35 ...
+  rather than $99 per member per month". October posts say "per member". Older posts and the standard
   disclaimer above still say "$99 a month" and should be brought in line.
 - **Advocacy fee rises to $65 per member on 2027-01-01.** Other 2027 guide changes: annual
   wellness becomes several services up to a combined $300; talk therapy moves under that
@@ -193,11 +195,10 @@ This time the pages loaded from David's Mac, so these were read from the page te
 
 **Two conflicts David should settle:**
 
-1. **Member count.** This file says roughly 15,000 to 17,000 (verified by David
-   2026-09-28). CrowdHealth's CEO said "35,000 members as of today" in the Sept 23, 2026
-   webinar transcript on their site, and 40,000 who have ever joined. The October posts
-   avoid stating a member count.
-2. **"99.8% of submitted bills get funded."** CrowdHealth's homepage says 99% of
+1. **Member count. SETTLED 2026-09-30: David says 35,000.** Corrected in the hub, the
+   09/02 and 09/25 posts (with a dated correction line), and the 10/03 post.
+2. **"99.8% of submitted bills get funded." SETTLED 2026-09-30: David is fine leaving
+   the 99.8% and 99% wordings as they are.** For reference, CrowdHealth's homepage says 99% of
    *eligible* bills, and its monthly results show 3% to 5% of *submitted* bills ruled
    ineligible. The October posts say "more than 99% of eligible bills". The "submitted"
    wording in older posts overstates it.

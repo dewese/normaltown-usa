@@ -1,6 +1,6 @@
 # What the Health Sharing Numbers Actually Say
 
-> The numbers behind CrowdHealth: 53,877 bills funded and 99.8 percent of them funded, for a community of roughly 16,000 members. Single bills over $600,000, about a week on average to fund a complete eligible submission, cash-pay discounts commonly 25 to 85 percent, a flat $60 per person monthly fee that is the same at any age, and a hard cap on what the crowd can ask you for in a month. Strong track record. Not a legal guarantee, because it isn't insurance.
+> The numbers behind CrowdHealth: 53,877 bills funded and 99.8 percent of them funded, for a community of about 35,000 members. Single bills over $600,000, about a week on average to fund a complete eligible submission, cash-pay discounts commonly 25 to 85 percent, a flat $60 per person monthly fee that is the same at any age, and a hard cap on what the crowd can ask you for in a month. Strong track record. Not a legal guarantee, because it isn't insurance.
 
 I'm a stories guy, but stories can fool you. Anybody can find one happy customer or one horror story to prove whatever they already believe. So let's set the anecdotes aside for a minute and look at the actual numbers behind health sharing, specifically CrowdHealth, the service I use. Numbers don't have a sales pitch. Here's what they say, and what they don't.
 
@@ -9,7 +9,7 @@ I'm a stories guy, but stories can fool you. Anybody can find one happy customer
 A few figures that tell the real story:
 
 - **53,877 bills funded, and 99.8 percent of submitted bills get funded.** This isn't a startup hoping it works. It's a community that has actually done the thing, tens of thousands of times.
-- **Roughly 16,000 members.** Smaller than you might guess, and I think that number is the more interesting one. Fifty-three thousand bills across sixteen thousand people is more than three funded bills per member. This is not a crowd where a handful of people use it and everybody else just pays in.
+- **About 35,000 members.** Fifty-three thousand bills across thirty-five thousand people is about three funded bills for every two members. This is not a crowd where a handful of people use it and everybody else just pays in.
 - **Single bills funded over $600,000.** That matters, because the whole fear is "sure, but what about a truly catastrophic bill?" Big bills get funded, not just the little ones.
 - **About a week to fund a complete, eligible submission, on average.** Faster than plenty of insurance reimbursements I've personally waited on.
 - **Cash-pay discounts commonly 25 to 85 percent** off the sticker price, thanks to the advocates negotiating before anything is shared.
@@ -48,5 +48,7 @@ About a week on average for a complete, eligible submission, with reimbursement 
 No. "53,877 bills funded" describes what has happened, not a contractual promise about your specific future bill. Health sharing is not insurance. The history is genuinely reassuring and the limits are real, and an honest reading holds both.
 
 Want to see the current numbers for yourself? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month with code NORMAL.
+
+*Correction, September 30, 2026: an earlier version of this post put CrowdHealth at roughly 16,000 members. That was too low. CrowdHealth's CEO gave the figure as 35,000 current members in a September 2026 webinar, and I've updated it here.*
 
 *My family of four uses CrowdHealth and I really believe in the model. If you join through [my discount link](https://www.joincrowdhealth.com/?referral_code=NORMAL) (code **NORMAL**), you get your first 3 months at $99 a month, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, and I only refer you to things I would tell a friend about. Health sharing is not insurance, and nothing here is medical, tax, or financial advice.*
