@@ -37,6 +37,7 @@ Hub: https://www.normaltownusa.com/money/
 
 Hub: https://www.normaltownusa.com/health/
 
+- [CrowdHealth and Pre-Existing Conditions: The Real Rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/): CrowdHealth funds nothing for pre-existing conditions in years 1-2, then $25,000/yr from year 3. The 5-year window, and the cholesterol and blood pressure exemption.
 - [How Much Does CrowdHealth Cost? The Real Numbers, With the Cap](https://www.normaltownusa.com/p/crowdhealth-cost/): CrowdHealth costs $60/mo per person plus a capped crowd contribution. Worst case is $200/mo under 55, $340 at 55-64, $660 for a family of four. Real math.
 - [Should You Switch? A 5-Question Guide](https://www.normaltownusa.com/p/should-you-switch-a-5-question-guide/): Five questions decide whether health sharing fits your family: your health, $500 on hand, trading a guarantee for savings, your meds, and being hands-on.
 - [The All-In Yearly Cost, Side by Side](https://www.normaltownusa.com/p/the-all-in-yearly-cost-side-by-side/): All-in yearly cost for a healthy family of four: a traditional plan runs $13,000 to $28,000 depending on the year. Health sharing runs about $5,000 to $6,000.
