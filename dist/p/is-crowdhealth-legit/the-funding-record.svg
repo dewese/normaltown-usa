@@ -1,0 +1,10 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<circle class="s-ink" cx="600" cy="560" r="230" stroke-width="3" fill="none"/>
+<path class="s-ac" d="M600.0 330.0 A230 230 0 1 1 597.1 330.0" stroke-width="26" fill="none" stroke-linecap="butt"/>
+<text class="f-ink" x="600" y="566" font-family="Manrope, Helvetica, Arial, sans-serif" font-size="96" font-weight="600" text-anchor="middle">99.8%</text>
+<text class="f-ink" x="600" y="626" font-family="Manrope, Helvetica, Arial, sans-serif" font-size="32" font-weight="400" text-anchor="middle">of bills funded</text>
+<text class="f-ac" x="600" y="900" font-family="Manrope, Helvetica, Arial, sans-serif" font-size="76" font-weight="600" text-anchor="middle">53,877</text>
+<text class="f-ink" x="600" y="950" font-family="Manrope, Helvetica, Arial, sans-serif" font-size="32" font-weight="400" text-anchor="middle">bills funded so far</text>
+</svg>
