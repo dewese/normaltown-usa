@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+  <rect class="f-bg" width="1200" height="1200"/>
+  <text class="f-ink" x="600" y="220" text-anchor="middle" font-size="46" font-weight="800">One injury. One $500.</text>
+  <line class="s-ink" x1="250" y1="560" x2="950" y2="560" stroke-width="4" stroke-opacity="0.5"/>
+  <circle class="f-ac" cx="250" cy="560" r="34"/>
+  <circle class="f-bg s-ink" cx="350" cy="560" r="24" stroke-width="5"/>
+  <circle class="f-bg s-ink" cx="450" cy="560" r="24" stroke-width="5"/>
+  <circle class="f-bg s-ink" cx="550" cy="560" r="24" stroke-width="5"/>
+  <circle class="f-bg s-ink" cx="650" cy="560" r="24" stroke-width="5"/>
+  <circle class="f-bg s-ink" cx="750" cy="560" r="24" stroke-width="5"/>
+  <circle class="f-bg s-ink" cx="850" cy="560" r="24" stroke-width="5"/>
+  <circle class="f-bg s-ink" cx="950" cy="560" r="24" stroke-width="5"/>
+  <text class="f-ac" x="250" y="480" text-anchor="middle" font-size="38" font-weight="800">$500</text>
+  <text class="f-ink" x="250" y="650" text-anchor="middle" font-size="28" font-weight="700">you</text>
+  <text class="f-ink" x="650" y="650" text-anchor="middle" font-size="28" font-weight="700" fill-opacity="0.8">every visit after: the crowd</text>
+  <text class="f-ink" x="600" y="790" text-anchor="middle" font-size="30" font-weight="500" fill-opacity="0.65">X-ray, surgery, and months of therapy</text>
+  <text class="f-ac" x="600" y="930" text-anchor="middle" font-size="32" font-weight="800">You pay each visit first, then get paid back.</text>
+</svg>
