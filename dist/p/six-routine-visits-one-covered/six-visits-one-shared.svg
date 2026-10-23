@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+  <rect class="f-bg" width="1200" height="1200"/>
+  <text class="f-ink" x="600" y="220" text-anchor="middle" font-size="46" font-weight="800">A year of routine visits</text>
+  <circle class="f-ac" cx="225" cy="540" r="58"/>
+  <circle class="s-ink" cx="375" cy="540" r="55" fill="none" stroke-width="6"/>
+  <circle class="s-ink" cx="525" cy="540" r="55" fill="none" stroke-width="6"/>
+  <circle class="s-ink" cx="675" cy="540" r="55" fill="none" stroke-width="6"/>
+  <circle class="s-ink" cx="825" cy="540" r="55" fill="none" stroke-width="6"/>
+  <circle class="s-ink" cx="975" cy="540" r="55" fill="none" stroke-width="6"/>
+  <text class="f-ac" x="225" y="670" text-anchor="middle" font-size="28" font-weight="800">shared</text>
+  <text class="f-ac" x="225" y="706" text-anchor="middle" font-size="24" font-weight="700">up to $300</text>
+  <text class="f-ink" x="675" y="670" text-anchor="middle" font-size="28" font-weight="700" fill-opacity="0.8">yours, at the cash price</text>
+  <text class="f-ac" x="600" y="900" text-anchor="middle" font-size="32" font-weight="800">For the wreck, not the oil change.</text>
+</svg>
