@@ -1,0 +1,18 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E7490}.s-ac{stroke:#0E7490}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#2DD4FF}.s-ac{stroke:#2DD4FF}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<line class="s-ink" x1="160" y1="540" x2="1040" y2="540" stroke-width="3" stroke-opacity="0.5" stroke-dasharray="14 12"/>
+<polyline class="s-ink" points="160,540.0 168,527.5 176,515.1 184,503.0 192,491.5 200,480.5 208,470.4 216,461.1 224,452.9 232,445.8 240,439.9 248,435.4 256,432.2 264,430.4 272,430.0 280,431.1 288,433.6 296,437.5 304,442.7 312,449.2 320,456.9 328,465.6 336,475.3 344,485.9 352,497.2 360,509.0 368,521.2 376,533.7 384,546.3 392,558.8 400,571.0 408,582.8 416,594.1 424,604.7 432,614.4 440,623.1 448,630.8 456,637.3 464,642.5 472,646.4 480,648.9 488,650.0 496,649.6 504,647.8 512,644.6 520,640.1 528,634.2 536,627.1 544,618.9 552,609.6 560,599.5 568,588.5 576,577.0 584,564.9 592,552.5 600,540.0 608,527.5 616,515.1 624,503.0 632,491.5 640,480.5 648,470.4 656,461.1 664,452.9 672,445.8 680,439.9 688,435.4 696,432.2 704,430.4 712,430.0 720,431.1 728,433.6 736,437.5 744,442.7 752,449.2 760,456.9 768,465.6 776,475.3 784,485.9 792,497.2 800,509.0 808,521.2 816,533.7 824,546.3 832,558.8 840,571.0 848,582.8 856,594.1 864,604.7 872,614.4 880,623.1 888,630.8 896,637.3 904,642.5 912,646.4 920,648.9 928,650.0 936,649.6 944,647.8 952,644.6 960,640.1 968,634.2 976,627.1 984,618.9 992,609.6 1000,599.5 1008,588.5 1016,577.0 1024,564.9 1032,552.5 1040,540.0" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle class="f-ink" cx="200" cy="480.5" r="10"/>
+<circle class="f-ink" cx="300" cy="439.9" r="10"/>
+<circle class="f-ac" cx="400" cy="571.0" r="22"/>
+<circle class="f-ac" cx="500" cy="648.9" r="22"/>
+<circle class="f-ink" cx="600" cy="540.0" r="10"/>
+<circle class="f-ink" cx="700" cy="431.1" r="10"/>
+<circle class="f-ink" cx="800" cy="509.0" r="10"/>
+<circle class="f-ac" cx="900" cy="640.1" r="22"/>
+<circle class="f-ac" cx="1000" cy="599.5" r="22"/>
+<text class="f-ink" x="1040" y="524" fill-opacity="0.6" font-family="Manrope" font-size="22" font-weight="700" letter-spacing="3" text-anchor="end">AVERAGE</text>
+<text class="f-ac" x="600" y="830" font-family="Manrope" font-size="40" font-weight="800" letter-spacing="2" text-anchor="middle">ON DIP WEEKS, BUY MORE</text>
+<text class="f-ink" x="600" y="886" font-family="Manrope" font-size="32" font-weight="700" letter-spacing="4" text-anchor="middle">SAME DAY, SAME HABIT</text>
+</svg>

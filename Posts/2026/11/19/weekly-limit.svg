@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" fill="none">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E7490}.s-ac{stroke:#0E7490}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#2DD4FF}.s-ac{stroke:#2DD4FF}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<circle class="s-ink" cx="440" cy="600" r="230" stroke-width="6"/>
+<rect class="f-bg" x="650" y="574" width="40" height="52"/>
+<line class="s-ink" x1="666" y1="577" x2="900" y2="577" stroke-width="6" stroke-linecap="round"/>
+<line class="s-ink" x1="666" y1="623" x2="900" y2="623" stroke-width="6" stroke-linecap="round"/>
+<circle class="f-ac" cx="950" cy="600" r="10"/>
+<circle class="f-ac" cx="995" cy="600" r="10"/>
+<circle class="f-ac" cx="1040" cy="600" r="10"/>
+<text class="f-ink" x="440" y="612" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="1" text-anchor="middle">YOUR BITCOIN</text>
+<text class="f-ink" x="880" y="520" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="1" text-anchor="middle">WEEKLY LIMIT</text>
+<text class="f-ink" x="880" y="690" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill-opacity="0.6" letter-spacing="1" text-anchor="middle">5 DAYS TO LIFT</text>
+</svg>

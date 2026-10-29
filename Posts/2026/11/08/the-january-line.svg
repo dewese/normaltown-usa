@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<line class="s-ac" x1="600" y1="230" x2="600" y2="900" stroke-width="6"/>
+<text class="f-ac" x="600" y="190" font-size="34" font-weight="800" text-anchor="middle" letter-spacing="3">JAN 1, 2027</text>
+<text class="f-ink" x="380" y="600" font-size="120" font-weight="800" text-anchor="middle" fill-opacity="0.45">$60</text>
+<text class="f-ink" x="820" y="600" font-size="120" font-weight="800" text-anchor="middle">$65</text>
+<text class="f-ink" x="380" y="680" font-size="26" font-weight="700" text-anchor="middle" letter-spacing="2" fill-opacity="0.45">2026 FEE</text>
+<text class="f-ink" x="820" y="680" font-size="26" font-weight="700" text-anchor="middle" letter-spacing="2">2027 FEE</text>
+<text class="f-ink" x="600" y="1000" font-size="30" font-weight="700" text-anchor="middle" fill-opacity="0.8">Plus new rules for wellness, therapy, and PT.</text>
+</svg>

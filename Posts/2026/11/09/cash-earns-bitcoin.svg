@@ -1,0 +1,13 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E7490}.s-ac{stroke:#0E7490}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#2DD4FF}.s-ac{stroke:#2DD4FF}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<rect class="s-ink" x="330" y="280" width="540" height="280" rx="8" stroke-width="6"/>
+<rect class="s-ink" x="360" y="310" width="480" height="220" rx="4" stroke-width="2" stroke-opacity="0.4"/>
+<text class="f-ink" x="600" y="440" font-family="Manrope" font-size="64" font-weight="800" letter-spacing="8" text-anchor="middle">CASH</text>
+<circle class="f-ac" cx="600" cy="620" r="8"/>
+<circle class="f-ac" cx="600" cy="670" r="10"/>
+<circle class="f-ac" cx="600" cy="725" r="12"/>
+<circle class="f-ac" cx="600" cy="785" r="14"/>
+<text class="f-ink" x="600" y="900" font-family="Manrope" font-size="34" font-weight="700" letter-spacing="4" text-anchor="middle">INTEREST ARRIVES</text>
+<text class="f-ac" x="600" y="958" font-family="Manrope" font-size="44" font-weight="800" letter-spacing="4" text-anchor="middle">IN BITCOIN</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+  <rect class="f-bg" width="1200" height="1200"/>
+  <rect class="s-ink" x="300" y="330" width="80" height="80" fill="none" stroke-width="4"/>
+  <path class="s-ac" d="M318 372 L334 390 L364 352" fill="none" stroke-width="7"/>
+  <text class="f-ink" x="430" y="383" font-size="38" font-weight="800" letter-spacing="3">SUBMIT BILLS</text>
+  <rect class="s-ink" x="300" y="480" width="80" height="80" fill="none" stroke-width="4"/>
+  <path class="s-ac" d="M318 522 L334 540 L364 502" fill="none" stroke-width="7"/>
+  <text class="f-ink" x="430" y="533" font-size="38" font-weight="800" letter-spacing="3">USE WELLNESS</text>
+  <rect class="s-ink" x="300" y="630" width="80" height="80" fill="none" stroke-width="4"/>
+  <path class="s-ac" d="M318 672 L334 690 L364 652" fill="none" stroke-width="7"/>
+  <text class="f-ink" x="430" y="683" font-size="38" font-weight="800" letter-spacing="3">Q4 TESTS</text>
+  <rect class="s-ink" x="300" y="780" width="80" height="80" fill="none" stroke-width="4"/>
+  <path class="s-ac" d="M318 822 L334 840 L364 802" fill="none" stroke-width="7"/>
+  <text class="f-ink" x="430" y="833" font-size="38" font-weight="800" letter-spacing="3">BUDGET FOR $65</text>
+  <line class="s-ink" x1="300" y1="960" x2="900" y2="960" stroke-width="3" stroke-opacity="0.5"/>
+  <text class="f-ac" x="600" y="1030" text-anchor="middle" font-size="34" font-weight="800" letter-spacing="3">BEFORE DEC 31</text>
+</svg>

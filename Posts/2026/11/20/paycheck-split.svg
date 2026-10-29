@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" fill="none">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E7490}.s-ac{stroke:#0E7490}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#2DD4FF}.s-ac{stroke:#2DD4FF}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<line class="s-ink" x1="160" y1="600" x2="520" y2="600" stroke-width="18" stroke-linecap="round"/>
+<path class="s-ink" d="M520 600 L940 400" stroke-width="18" stroke-linecap="round"/>
+<path class="s-ac" d="M520 600 L940 800" stroke-width="8" stroke-linecap="round"/>
+<text class="f-ink" x="160" y="550" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="1">PAYCHECK</text>
+<text class="f-ink" x="960" y="350" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="1" text-anchor="end">BILLS + CUSHION</text>
+<text class="f-ac" x="960" y="870" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="1" text-anchor="end">BITCOIN</text>
+</svg>

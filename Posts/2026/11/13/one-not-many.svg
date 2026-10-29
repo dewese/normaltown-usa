@@ -1,0 +1,34 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E7490}.s-ac{stroke:#0E7490}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#2DD4FF}.s-ac{stroke:#2DD4FF}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<circle class="f-ac" cx="330" cy="520" r="130"/>
+<circle class="s-ink" cx="1010" cy="491" r="22" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="678" cy="530" r="14" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="871" cy="635" r="22" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="741" cy="534" r="14" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="964" cy="415" r="14" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="890" cy="543" r="18" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="869" cy="491" r="14" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="668" cy="620" r="18" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="809" cy="531" r="22" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="945" cy="510" r="26" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="787" cy="450" r="26" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="916" cy="448" r="18" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="759" cy="654" r="26" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="845" cy="426" r="14" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="1016" cy="402" r="14" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="986" cy="609" r="22" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="779" cy="395" r="14" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="1013" cy="549" r="22" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="689" cy="476" r="18" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="830" cy="583" r="18" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="744" cy="597" r="18" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="682" cy="392" r="18" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="836" cy="381" r="18" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="901" cy="398" r="14" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="931" cy="653" r="18" stroke-width="4" stroke-opacity="0.7"/>
+<circle class="s-ink" cx="735" cy="423" r="14" stroke-width="4" stroke-opacity="0.7"/>
+<text class="f-ac" x="330" y="760" font-family="Manrope" font-size="38" font-weight="800" letter-spacing="4" text-anchor="middle">BITCOIN</text>
+<text class="f-ink" x="840" y="760" font-family="Manrope" font-size="30" font-weight="700" letter-spacing="3" text-anchor="middle">EVERYTHING ELSE</text>
+<text class="f-ink" x="600" y="910" font-family="Manrope" font-size="32" font-weight="700" letter-spacing="2" text-anchor="middle">ONE COIN. NO COMPANY IN CHARGE.</text>
+</svg>

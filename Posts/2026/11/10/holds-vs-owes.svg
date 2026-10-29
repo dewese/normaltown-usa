@@ -1,0 +1,10 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E7490}.s-ac{stroke:#0E7490}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#2DD4FF}.s-ac{stroke:#2DD4FF}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<rect class="f-ac" x="370" y="340" width="190" height="440"/>
+<rect class="s-ink" x="643" y="363" width="184" height="414" stroke-width="6"/>
+<line class="s-ink" x1="300" y1="780" x2="900" y2="780" stroke-width="6"/>
+<text class="f-ac" x="465" y="850" font-family="Manrope" font-size="38" font-weight="800" letter-spacing="4" text-anchor="middle">HOLDS</text>
+<text class="f-ink" x="735" y="850" font-family="Manrope" font-size="38" font-weight="800" letter-spacing="4" text-anchor="middle">OWES</text>
+<text class="f-ink" x="600" y="960" font-family="Manrope" font-size="34" font-weight="700" letter-spacing="4" text-anchor="middle">CHECK IT MONTHLY</text>
+</svg>

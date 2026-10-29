@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" fill="none">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E7490}.s-ac{stroke:#0E7490}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#2DD4FF}.s-ac{stroke:#2DD4FF}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<line class="s-ink" x1="150" y1="765" x2="1050" y2="765" stroke-width="4"/>
+<rect class="f-bg s-ink" x="170" y="720" width="90" height="90" stroke-width="6"/>
+<rect class="f-bg s-ink" x="330" y="720" width="90" height="90" stroke-width="6"/>
+<rect class="f-bg s-ink" x="490" y="720" width="90" height="90" stroke-width="6"/>
+<rect class="f-bg s-ink" x="650" y="720" width="90" height="90" stroke-width="6"/>
+<rect class="f-bg s-ink" x="810" y="720" width="90" height="90" stroke-width="6"/>
+<rect class="f-bg s-ink" x="970" y="720" width="90" height="90" stroke-width="6"/>
+<path class="s-ac" d="M215 680 Q 615 220, 1015 680" stroke-width="8" stroke-linecap="round"/>
+<path class="s-ac" d="M975 660 L1015 682 L1022 638" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="f-ac" x="615" y="420" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="2" text-anchor="middle">LIGHTNING</text>
+<text class="f-ink" x="615" y="890" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="2" text-anchor="middle">ON-CHAIN</text>
+</svg>
