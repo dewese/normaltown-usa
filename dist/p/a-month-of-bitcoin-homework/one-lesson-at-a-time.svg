@@ -1,0 +1,23 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E7490}.s-ac{stroke:#0E7490}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#2DD4FF}.s-ac{stroke:#2DD4FF}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<rect class="f-ac" x="285.0" y="360" width="80" height="80"/>
+<rect class="s-ink" x="398.0" y="363" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="508.0" y="363" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="618.0" y="363" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="728.0" y="363" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="838.0" y="363" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="288.0" y="473" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="398.0" y="473" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="508.0" y="473" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="618.0" y="473" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="728.0" y="473" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="838.0" y="473" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="288.0" y="583" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="398.0" y="583" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="508.0" y="583" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="618.0" y="583" width="74" height="74" stroke-width="6"/>
+<rect class="s-ink" x="728.0" y="583" width="74" height="74" stroke-width="6"/>
+<text class="f-ac" x="600" y="800" font-family="Manrope" font-size="44" font-weight="800" letter-spacing="2" text-anchor="middle">17 LESSONS</text>
+<text class="f-ink" x="600" y="856" font-family="Manrope" font-size="34" font-weight="700" letter-spacing="4" text-anchor="middle">ONE AT A TIME</text>
+</svg>
