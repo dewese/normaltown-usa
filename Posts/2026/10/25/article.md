@@ -1,6 +1,6 @@
 # The Freak Accident: Three Hospitals and a Helicopter
 
-> A CrowdHealth member was accidentally shot on a fishing trip, flown out by helicopter, and treated at three hospitals over several months. By his own estimate the bills ran somewhere between $500,000 and $1 million. CrowdHealth negotiated and funded them. The largest bill on CrowdHealth's public list is a firearm injury at $643,242.
+> A CrowdHealth member was accidentally shot on a fishing trip, flown out by helicopter, and treated at three hospitals over several months. By his own estimate the bills ran somewhere between $500,000 and $1 million. CrowdHealth negotiated and funded them. One of the largest bills on CrowdHealth's public list is a firearm injury at $643,242.
 
 Insurance people call this "catastrophic." I call it the thing you actually buy protection for. Everything else is just budgeting.
 
@@ -22,7 +22,7 @@ The member himself said the first hospital's bill was close to $300,000. He figu
 
 CrowdHealth's founder has told the story as roughly a million dollars, negotiated down to somewhere between $200,000 and $250,000.
 
-And the top bill on CrowdHealth's public list is $643,242 for a firearm injury. That may or may not be the same event. CrowdHealth doesn't say.
+And one of the largest bills on CrowdHealth's public list is $643,242 for a firearm injury. That may or may not be the same event. CrowdHealth doesn't say.
 
 So I'll just say this: hundreds of thousands of dollars, at least.
 
@@ -44,7 +44,7 @@ A member who hadn't seen a doctor in years had a freak accident and spent more t
 
 Another had a bike wreck and one night in the hospital, and said the process was easier and faster than expected.
 
-CrowdHealth's list also shows a car accident at $267,636 and a broken leg at $180,761. And in its October 2026 newsletter, CrowdHealth told members the crowd had recently taken on two much larger events, one of nearly $3 million and another of $1.3 million. It didn't say what they were.
+CrowdHealth's list also shows a car accident at $267,636 and a broken leg at $180,761. And in its October 2026 newsletter, CrowdHealth told members the crowd had recently taken on two much larger events, one of nearly $3 million and another of $1.3 million. CrowdHealth has since said the larger one was a NICU bill for a member's baby, the largest bill it has funded, and the other was a member's ongoing glioblastoma (brain cancer) treatment.
 
 ## What's the honest part?
 
@@ -64,9 +64,9 @@ This is the story I'd point to if someone asked, "But what about something reall
 
 ### Is there a limit on how much CrowdHealth will fund?
 
-CrowdHealth says there's no yearly or lifetime maximum on eligible bills, and its public list shows funded bills up to $643,242. Funding is never guaranteed, and members are responsible for their own bills in the end. See [can you trust health sharing with a big bill](/p/can-you-trust-health-sharing-with-a-big-bill/).
+CrowdHealth says there's no yearly or lifetime maximum on eligible bills, and that its largest funded bill is a $3 million NICU bill. Its public list includes a $643,242 firearm injury. Funding is never guaranteed, and members are responsible for their own bills in the end. See [can you trust health sharing with a big bill](/p/can-you-trust-health-sharing-with-a-big-bill/).
 
-### Are accident injuries covered from day one?
+### Are accident injuries eligible from day one?
 
 New accidents are eligible right away, with no waiting period. You pay the first $500 of the event. Injuries from certain hazardous activities, or while under the influence, are excluded.
 

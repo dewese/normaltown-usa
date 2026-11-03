@@ -10,7 +10,7 @@ This is the big one. Health sharing rewards the relatively healthy and is a poor
 
 ## Question 2: Can you keep $500 on hand at all times?
 
-Health sharing asks you to cover the first $500 of any health event. If you can keep that liquid, ideally with a small emergency fund on top, you're built for this model. If money is so tight that $500 would be a crisis, shore that up first before switching. This is the foundation everything else stands on.
+Health sharing asks you to pay the first $500 of any health event. If you can keep that liquid, ideally with a small emergency fund on top, you're built for this model. If money is so tight that $500 would be a crisis, shore that up first before switching. This is the foundation everything else stands on.
 
 ## Question 3: Are you okay trading a legal guarantee for a big cost savings?
 

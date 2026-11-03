@@ -16,7 +16,7 @@ Here's the honest, non-negotiable part. Maternity is only eligible if you concei
 
 This trips people up, so I'll say it plainly. Health sharing is something you set up before you're planning a baby, not after you see two lines on the test. Plan ahead and it works beautifully. Show up late and it won't.
 
-## What the $3,000 actually covers
+## What the $3,000 actually includes
 
 Once you're eligible, the maternity event is designed to wrap the normal stuff together: prenatal visits, the delivery, and typical newborn care around the birth. Instead of a pile of separate confusing bills, it's handled as one event with one commitment from you. The advocates still work to get fair cash pricing on the care, same as any other event.
 
@@ -30,7 +30,7 @@ If you're planning to grow your family in the next couple of years, maternity on
 
 ## Questions I get about this
 
-### Does health sharing cover pregnancy?
+### Is pregnancy eligible for health sharing?
 
 Yes, if you conceived after you'd been a member for the required waiting period. Prenatal visits, the delivery, and typical newborn care around the birth are wrapped into one maternity event with one commitment from you.
 

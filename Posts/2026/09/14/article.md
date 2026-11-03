@@ -1,6 +1,6 @@
 # Health Sharing for the Self-Employed
 
-> Health sharing fits the self-employed because it's a flat, predictable cost ($60 per person a month plus a modest crowd contribution with CrowdHealth), it isn't tied to a job, and a care advocate handles the bills you'd otherwise fight alone. One honest catch: sharing contributions generally aren't tax-deductible the way self-employed insurance premiums can be.
+> Health sharing fits the self-employed because it's a flat, predictable cost ($60 per person a month plus a modest crowd contribution with CrowdHealth), it isn't tied to a job, and a care advocate guides you through the bills you'd otherwise fight alone. One honest catch: sharing contributions generally aren't tax-deductible the way self-employed insurance premiums can be.
 
 If you work for yourself, healthcare is one of the biggest, most annoying line items you deal with, and nobody hands you a group plan to make it easy. I've been there. When you're a 1099 worker, a freelancer, or running your own small shop, you feel the full price of coverage in a way employees never do. That's exactly why so many self-employed folks end up looking hard at health sharing. Let me walk through why it fits, and where to be careful.
 
@@ -17,7 +17,7 @@ A few reasons it lines up well with working for yourself:
 - **A flat, predictable cost.** With CrowdHealth, the service I use, it's $60 per person per month plus a modest crowd contribution. When your income is lumpy, a flat, low base cost is a gift.
 - **It's not tied to a job.** It's yours. It moves with you through good months and slow months, new clients and dropped ones.
 - **You're already the type it's built for.** Self-employed people are usually comfortable managing a bit of risk to keep costs sane. That's the health sharing mindset exactly.
-- **A human handles the bills.** When you don't have an HR department, having a care advocate negotiate your bills down is worth a lot. I wrote about [what care advocates do](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does).
+- **A human helps with the bills.** When you don't have an HR department, having a care advocate guide you, and a team that negotiates big bills down, is worth a lot. I wrote about [what care advocates do](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does).
 
 ## The tax angle, plainly
 
@@ -29,7 +29,7 @@ Same honest limits as always. It is not insurance, there's no legal guarantee, a
 
 ## The takeaway
 
-For a healthy self-employed person or family, health sharing solves the exact pain the 1099 life creates: a high, unpredictable healthcare cost that isn't tied to any employer. A flat monthly number, real human help with bills, and coverage that's truly yours. Mind the tax difference, know the limits, and it can be one of the smartest moves you make working for yourself.
+For a healthy self-employed person or family, health sharing solves the exact pain the 1099 life creates: a high, unpredictable healthcare cost that isn't tied to any employer. A flat monthly number, real human help with bills, and a membership that's truly yours. Mind the tax difference, know the limits, and it can be one of the smartest moves you make working for yourself.
 
 ## Questions I get about this
 

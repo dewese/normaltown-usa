@@ -55,7 +55,7 @@ When a kid can't breathe, nobody shops for prices. The shopping happens after, a
 
 ## Questions I get about this
 
-### Does CrowdHealth cover ambulance or helicopter rides?
+### Are ambulance or helicopter rides eligible on CrowdHealth?
 
 In this member's story, the medevac was part of the health event and its bill was handled with the others. One limit I do know: CrowdHealth's member guide says international air ambulance is not eligible. Read the current guide, because it's the rulebook.
 

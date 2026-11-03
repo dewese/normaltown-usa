@@ -52,7 +52,7 @@ Rehab after an injury is one event with one $500, however long it takes. The cat
 
 ## Questions I get about this
 
-### Does CrowdHealth cover physical therapy?
+### Is physical therapy eligible on CrowdHealth?
 
 Yes, when it's part of recovering from an eligible injury or surgery. One member had four months of twice-weekly sessions shared after his first $500. Starting in 2027, there's a limit of 15 visits per health event unless a clinical review approves more. Ongoing maintenance care, like routine chiropractic visits, isn't shared.
 

@@ -38,7 +38,7 @@ Several things, and they matter.
 
 **His cancer doctor was alarmed** when he said he had no insurance. Expect that reaction. You'll have to explain yourself in a lot of offices.
 
-**Other cancer stories are less tidy.** A husband wrote that the community covered "most" of the costs of his wife's cancer treatment. Most, not all. A woman with a new breast cancer diagnosis said she felt more in control of her treatment, and also that she was doing more legwork getting estimates. Her treatment hadn't started yet.
+**Other cancer stories are less tidy.** A husband wrote that the community funded "most" of the costs of his wife's cancer treatment. Most, not all. A woman with a new breast cancer diagnosis said she felt more in control of her treatment, and also that she was doing more legwork getting estimates. Her treatment hadn't started yet.
 
 **Long treatments are the weak spot.** CrowdHealth's guide limits ongoing prescriptions to a 12-month supply and excludes some high-cost drugs. One independent writer who joined pointed out that a condition needing expensive care forever is the real risk in this model. I think he's right.
 
@@ -48,7 +48,7 @@ A man got a terrifying diagnosis a few months after joining, and by his account 
 
 ## Questions I get about this
 
-### Does CrowdHealth cover cancer treatment?
+### Is cancer treatment eligible on CrowdHealth?
 
 A new cancer found after you join is an eligible health event, and CrowdHealth's published list of large funded bills includes several cancers from $143,000 to $272,000. Funding isn't guaranteed, and there are limits on long-term prescriptions and experimental treatment. Read the guide before relying on it.
 

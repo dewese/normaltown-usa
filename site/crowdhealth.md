@@ -1,10 +1,10 @@
 # CrowdHealth: An Honest Guide From a Family Who Actually Uses It
 
-> CrowdHealth costs $60 a month per person plus a crowd contribution that's hard-capped, so under 55 your worst possible month is $200. You cover the first $500 of a health event. It is **not insurance**, nobody is legally required to pay your bill, and no state regulator can help you if they don't. The community has funded 53,877 bills and funds 99.8 percent of what gets submitted. My family of four has used it since 2022. Here's the whole thing, including the parts that cost me money to tell you.
+> CrowdHealth costs $60 a month per person plus a crowd contribution that's hard-capped, so under 55 your worst possible month is $200. You cover the first $500 of a health event. It is **not insurance**, nobody is legally required to pay your bill, and no state regulator can help you if they don't. The community has funded 53,877 bills, and CrowdHealth says 99.9 percent of eligible bills have been funded to date. My family of four has used it since 2022. Here's the whole thing, including the parts that cost me money to tell you.
 
 I'm David. My family of four canceled our health insurance in 2022 and joined CrowdHealth. We're still there.
 
-This page is everything I know about it, in one place, in normal words. I'm going to tell you what it costs, how a bill actually gets paid, what it doesn't cover, and exactly who should read this and walk away. I get paid if you join through my link, and I'll show you that number too, because you should weigh it.
+This page is everything I know about it, in one place, in normal words. I'm going to tell you what it costs, how a bill actually gets paid, what it won't fund, and exactly who should read this and walk away. I get paid if you join through my link, and I'll show you that number too, because you should weigh it.
 
 If you only read one section, make it [who should not join](#who-should-not-join).
 
@@ -23,9 +23,9 @@ I still use the phrase "health sharing" on this site, because that's what people
 
 Two numbers, and then the one almost nobody tells you.
 
-**One. A flat $60 a month, per person.** Children included, so a family of four pays $240. That's the subscription. It covers the app, the bill negotiators, and a Care Advocate who is a real human being. It does not change based on how sick you are.
+**One. A flat $60 a month, per person.** Children included, so a family of four pays $240. That's the subscription. It pays for the app, the bill negotiators, and a Care Advocate who is a real human being. It does not change based on how sick you are.
 
-**Two. A $500 member commitment per health event.** A health event is one thing that happens to you, like a broken arm or an appendix coming out. You cover the first $500. The community covers the rest of the eligible bill. This replaces a deductible, and it resets per event rather than per year.
+**Two. A $500 member commitment per health event.** A health event is one thing that happens to you, like a broken arm or an appendix coming out. You cover the first $500. The community funds the rest of the eligible bill. This replaces a deductible, and it resets per event rather than per year.
 
 **Three, and this is the one that should decide it for you: the monthly crowd contribution is hard-capped.**
 
@@ -56,7 +56,7 @@ I'm not going to tell you the cap makes the rest of the risk disappear. It doesn
 ## The numbers, current as of September 2026
 
 - **53,877 bills funded.** Not a startup hoping it works.
-- **99.8 percent of submitted bills get funded.**
+- **99.9 percent of eligible bills funded to date**, by CrowdHealth's count.
 - **About 35,000 members.** Fifty-three thousand bills across about thirty-five thousand people is **about three funded bills for every two members**. This isn't a crowd where a few people use it and everybody else just pays in.
 - **4.9 stars on Trustpilot.**
 - **About $100 million** saved versus traditional insurance, which is CrowdHealth's own figure and should be read as one.
@@ -70,7 +70,7 @@ A correction, made September 30, 2026. For a few days this page said roughly 15,
 3. CrowdHealth's team reviews it for eligibility and negotiates it down. Self-pay discounts commonly run 25 to 85 percent off billed charges.
 4. You cover your $500 commitment for that event.
 5. The remainder goes to the crowd. Members get two days to approve or deny each request.
-6. The money goes directly to you or the provider. There's no pooled fund sitting in the middle.
+6. The money goes member to member, directly to you or the provider. There's no central fund sitting in the middle.
 
 The longer version, with a real example, is in [how a big hospital bill gets paid without insurance](/p/how-a-big-hospital-bill-gets-paid-without-insurance/).
 
@@ -89,7 +89,7 @@ Their own examples, and they say the list isn't exhaustive: asthma, congenital c
 
 If you have a real ongoing condition, read that again, slowly. Two years of nothing, then a $25,000 ceiling, is a very different product from insurance. For a lot of people it's disqualifying, and it should be.
 
-## What it doesn't cover
+## What isn't eligible
 
 - Dental and vision, beyond the annual wellness event
 - Cosmetic procedures
@@ -101,7 +101,7 @@ If you have a real ongoing condition, read that again, slowly. Two years of noth
 - IVF
 - Injuries from hazardous activities
 
-More detail in [what CrowdHealth doesn't cover](/p/what-crowdhealth-doesnt-cover/) and [health sharing and prescriptions](/p/health-sharing-and-prescriptions/).
+More detail in [what isn't eligible on CrowdHealth](/p/what-crowdhealth-doesnt-cover/) and [health sharing and prescriptions](/p/health-sharing-and-prescriptions/).
 
 ## The regulator question
 
@@ -121,7 +121,7 @@ Some states also have their own insurance mandates that affect you, and my list 
 
 I'd rather you skip this than join and get hurt. Don't join if:
 
-- **You have an ongoing condition you need covered.** See the rules above. Two years of nothing, then a $25,000 cap, is not coverage for a chronic illness.
+- **You have an ongoing condition that needs reliable funding.** See the rules above. Two years of nothing, then a $25,000 cap, won't carry a chronic illness.
 - **An unfunded bill would ruin you.** No cushion means you're buying a lower monthly cost with risk you can't actually carry.
 - **You need the referee.** Some people, completely reasonably, want a regulator they can call. That isn't a character flaw, it's a preference about risk, and insurance is the product that sells it. Buy the insurance.
 - **You'd lose a big ACA subsidy.** If a subsidy makes a marketplace plan cheap for you, there may be no savings here at all. Run your actual numbers.
@@ -154,19 +154,19 @@ No, and it never claims to be. It's a healthcare crowdfunding platform. It does 
 
 ### Is CrowdHealth legit?
 
-It's a real, operating company with a long public record: 53,877 bills funded, 99.8 percent of submissions funded, 4.9 stars on Trustpilot. Legit and insurance are different questions, though. It's legitimately what it says it is, which is a crowdfunding community with no legal guarantee.
+It's a real, operating company with a long public record: 53,877 bills funded, 99.9 percent of eligible bills funded to date by CrowdHealth's count, 4.9 stars on Trustpilot. Legit and insurance are different questions, though. It's legitimately what it says it is, which is a crowdfunding community with no legal guarantee.
 
 ### How much does CrowdHealth cost per month?
 
 $60 per person, children included, plus a capped crowd contribution. Worst case is $200 a month under 55, $340 from 55 to 64, and $660 for a family of four or more. The crowd typically asks for less than the cap. The $60 goes to $65 on January 1, 2027.
 
-### Does CrowdHealth cover pre-existing conditions?
+### Does CrowdHealth fund pre-existing conditions?
 
 Not in years one and two, and then up to $25,000 a year from year three, for anything documented, diagnosed, symptomatic, suspected, or treated within five years of joining. High cholesterol and high blood pressure are exempt from those limits.
 
 ### What happens if the crowd doesn't fund my bill?
 
-You're responsible for it. That's the trade. The funding rate is 99.8 percent, but a rate is not a guarantee and I won't describe it as one. [The longer answer is here](/p/what-if-the-crowd-doesnt-fund-your-bill/).
+You're responsible for it. That's the trade. CrowdHealth says 99.9 percent of eligible bills have been funded to date, but a rate is not a guarantee and I won't describe it as one. [The longer answer is here](/p/what-if-the-crowd-doesnt-fund-your-bill/).
 
 ### Does CrowdHealth count as insurance on my taxes?
 

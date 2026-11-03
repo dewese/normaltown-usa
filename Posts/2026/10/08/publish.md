@@ -1,9 +1,9 @@
-# Publish — Having a Baby on CrowdHealth: What $3,000 Covers
+# Publish — Having a Baby on CrowdHealth: What $3,000 Pays For
 
 | Field | Value |
 |---|---|
 | **URL slug** | `having-a-baby-on-crowdhealth` |
-| **Title tag** | `Having a Baby on CrowdHealth: What the $3,000 Covers` |
+| **Title tag** | `Having a Baby on CrowdHealth: What the $3,000 Pays For` |
 | **Subtitle** | `One event, one $3,000 commitment, and a 300-day rule you can't skip.` |
 | **Meta description** | `Pregnancy on CrowdHealth is one event with a $3,000 member commitment, if your due date is 300+ days after joining. What members say it's really like.` |
 | **Category** | Health |

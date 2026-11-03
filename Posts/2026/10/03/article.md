@@ -1,6 +1,6 @@
 # Is CrowdHealth Legit? What I Found When I Checked
 
-> Yes, in the sense that matters: it's a real company doing exactly what it says. 53,877 bills funded, 99.8 percent of submissions funded, 4.9 stars on Trustpilot, about 35,000 members. But "legit" and "insurance" are different questions. Nobody is legally required to fund your bill, and no state regulator can help you if they don't. That's the actual trade.
+> Yes, in the sense that matters: it's a real company doing exactly what it says. 53,877 bills funded, 99.9 percent of eligible bills funded to date by CrowdHealth's count, 4.9 stars on Trustpilot, about 35,000 members. But "legit" and "insurance" are different questions. Nobody is legally required to fund your bill, and no state regulator can help you if they don't. That's the actual trade.
 
 "Is this a scam?" is the first thing anybody asks me about CrowdHealth, and it's the right question to ask about anything that promises to replace a $1,500 premium.
 
@@ -17,7 +17,7 @@ It's also not insurance, doesn't claim to be, and doesn't carry the protections 
 Numbers first, because they're checkable.
 
 - **53,877 bills funded.** That's a lot of real money moving to real people.
-- **99.8 percent of submitted bills get funded.**
+- **99.9 percent of eligible bills funded to date**, by CrowdHealth's count.
 - **About 35,000 members.**
 - **4.9 stars on Trustpilot.**
 - **About $100 million** saved versus traditional insurance, which is CrowdHealth's own figure and should be read as a company claim, not an audit.
@@ -71,7 +71,7 @@ If any of those is you, don't join, and I'd rather lose the referral than have y
 
 ### Is CrowdHealth a scam?
 
-No. It's a real operating company with a long, checkable record: 53,877 bills funded, 99.8 percent of submissions funded, 4.9 stars on Trustpilot. The real question isn't whether it's a scam, it's whether you're comfortable without a legal guarantee.
+No. It's a real operating company with a long, checkable record: 53,877 bills funded, 99.9 percent of eligible bills funded to date by CrowdHealth's count, 4.9 stars on Trustpilot. The real question isn't whether it's a scam, it's whether you're comfortable without a legal guarantee.
 
 ### Is CrowdHealth insurance?
 
@@ -79,7 +79,7 @@ No, and it doesn't claim to be. It's healthcare crowdfunding. It doesn't satisfy
 
 ### What happens if CrowdHealth doesn't pay my bill?
 
-You're responsible for it, and no state insurance department can intervene. The funding rate is 99.8 percent, but a rate is not a guarantee. [The longer answer is here](/p/what-if-the-crowd-doesnt-fund-your-bill/).
+You're responsible for it, and no state insurance department can intervene. CrowdHealth says 99.9 percent of eligible bills have been funded to date, but a rate is not a guarantee. [The longer answer is here](/p/what-if-the-crowd-doesnt-fund-your-bill/).
 
 ### Is CrowdHealth a health sharing ministry?
 

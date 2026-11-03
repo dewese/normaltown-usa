@@ -1,6 +1,6 @@
 # What the Health Sharing Numbers Actually Say
 
-> The numbers behind CrowdHealth: 53,877 bills funded and 99.8 percent of them funded, for a community of about 35,000 members. Single bills over $600,000, about a week on average to fund a complete eligible submission, cash-pay discounts commonly 25 to 85 percent, a flat $60 per person monthly fee that is the same at any age, and a hard cap on what the crowd can ask you for in a month. Strong track record. Not a legal guarantee, because it isn't insurance.
+> The numbers behind CrowdHealth: 53,877 bills funded, and CrowdHealth says 99.9% of eligible bills have been funded to date, for a community of about 35,000 members. A single $3 million NICU bill, about a week on average to fund a complete eligible submission, cash-pay discounts commonly 25 to 85 percent, a flat $60 per person monthly fee that is the same at any age, and a hard cap on what the crowd can ask you for in a month. Strong track record. Not a legal guarantee, because it isn't insurance.
 
 I'm a stories guy, but stories can fool you. Anybody can find one happy customer or one horror story to prove whatever they already believe. So let's set the anecdotes aside for a minute and look at the actual numbers behind health sharing, specifically CrowdHealth, the service I use. Numbers don't have a sales pitch. Here's what they say, and what they don't.
 
@@ -8,9 +8,9 @@ I'm a stories guy, but stories can fool you. Anybody can find one happy customer
 
 A few figures that tell the real story:
 
-- **53,877 bills funded, and 99.8 percent of submitted bills get funded.** This isn't a startup hoping it works. It's a community that has actually done the thing, tens of thousands of times.
+- **53,877 bills funded, and CrowdHealth says 99.9% of eligible bills have been funded to date.** This isn't a startup hoping it works. It's a community that has actually done the thing, tens of thousands of times.
 - **About 35,000 members.** Fifty-three thousand bills across thirty-five thousand people is about three funded bills for every two members. This is not a crowd where a handful of people use it and everybody else just pays in.
-- **Single bills funded over $600,000.** That matters, because the whole fear is "sure, but what about a truly catastrophic bill?" Big bills get funded, not just the little ones.
+- **A single $3 million NICU bill funded.** That matters, because the whole fear is "sure, but what about a truly catastrophic bill?" Big bills get funded, not just the little ones.
 - **About a week to fund a complete, eligible submission, on average.** Faster than plenty of insurance reimbursements I've personally waited on.
 - **Cash-pay discounts commonly 25 to 85 percent** off the sticker price, thanks to the advocates negotiating before anything is shared.
 - **A flat $60 per person per month** advocacy fee, plus a modest monthly crowd contribution. The base number doesn't change with your age.
@@ -19,7 +19,7 @@ A few figures that tell the real story:
 
 Put together, they knock down the three biggest fears in one shot.
 
-The "it won't be there when I need it" fear? Fifty-three thousand funded bills, at a 99.8 percent rate, says otherwise. The "sure, but not for the scary big stuff" fear? Six-figure funded bills say otherwise. The "I'll be stuck waiting forever" fear? A roughly one-week average says otherwise. And the discount numbers explain how the whole thing stays cheap: they shrink the bill before the crowd ever sees it. I walked through [that mechanism](https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance).
+The "it won't be there when I need it" fear? Fifty-three thousand funded bills, at a 99.9% rate for eligible bills, says otherwise. The "sure, but not for the scary big stuff" fear? Six-figure funded bills say otherwise. The "I'll be stuck waiting forever" fear? A roughly one-week average says otherwise. And the discount numbers explain how the whole thing stays cheap: they shrink the bill before the crowd ever sees it. I walked through [that mechanism](https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance).
 
 ## What the numbers honestly do not prove
 
@@ -37,11 +37,11 @@ The numbers behind health sharing are strong and specific: tens of thousands of 
 
 ### What's the biggest bill CrowdHealth has funded?
 
-More than $643,000 for a serious injury, with another over $437,000 for a newborn who needed intensive care. Those knock down the "sure, but what about a truly catastrophic bill?" fear.
+A $3 million NICU bill for a member's baby, with another over $437,000 for a newborn who needed intensive care. Those knock down the "sure, but what about a truly catastrophic bill?" fear.
 
 ### How fast does CrowdHealth fund bills?
 
-About a week on average for a complete, eligible submission, with reimbursement a couple of days after approval. Faster than plenty of insurance reimbursements I've personally waited on.
+About a week on average for a complete, eligible submission, with the money reaching the member a couple of days after approval. Faster than plenty of insurance reimbursements I've personally waited on.
 
 ### Do these numbers guarantee my bill gets paid?
 

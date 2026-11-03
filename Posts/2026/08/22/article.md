@@ -8,7 +8,7 @@ If you've heard about health sharing and wondered whether it's a smart move or t
 
 **Insurance** is a contract with a company. You pay a monthly bill, and in return the company is legally on the hook to pay covered claims, minus your share.
 
-**Health sharing** is a big group of people who agree to chip in and cover each other's large medical bills. You pay a monthly amount into the group, and when someone has a big bill, the group's money covers it.
+**Health sharing** is a big group of people who agree to chip in and fund each other's large medical bills. You pay a monthly amount, and when someone has a big bill, the other members' contributions fund it.
 
 ## The potluck and the catered dinner
 
@@ -26,7 +26,7 @@ Neither one is a scam. They're just two different deals.
 
 **The guarantee:** This is the real difference. Insurance is a legal contract. Health sharing is not insurance and does not legally guarantee your bill gets paid. The group has every reason to pay, but it's a commitment, not a contract. You have to be honest with yourself about that.
 
-**What's covered:** Insurance covers a broad, regulated list. Health sharing communities usually focus on big, unexpected events, and often have rules about pre-existing conditions and waiting periods. It's built for the broken-leg surprise, not the routine stuff.
+**What gets paid for:** Insurance covers a broad, regulated list. Health sharing communities usually focus on big, unexpected events, and often have rules about pre-existing conditions and waiting periods. It's built for the broken-leg surprise, not the routine stuff.
 
 **The incentive:** This one favors sharing. Insurance profits when it pays you less, [a conflict I dug into](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest). A sharing group has no leftover to keep, so it has no reason to fight your bill.
 
@@ -36,7 +36,7 @@ Insurance fits people who need a broad, legally guaranteed safety net, especiall
 
 ## If you want to look closer
 
-The sharing community I've looked into most is CrowdHealth. It charges a flat monthly fee and lets the crowd cover big bills. You can [see how CrowdHealth model works](https://www.joincrowdhealth.com/?referral_code=NORMAL).
+The sharing community I've looked into most is CrowdHealth. It charges a flat monthly fee and lets the crowd fund big bills. You can [see how CrowdHealth model works](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 *Honest disclosure: that's a referral link. If you join through it, Normaltown USA may earn a small referral bonus, at no extra cost to you. I only mention it because it fits the honest comparison above. Health sharing is not insurance, has real limits, and isn't right for everyone.*
 
@@ -50,7 +50,7 @@ Insurance is the catered dinner: reliable, regulated, and pricey. Health sharing
 
 Usually, a lot cheaper month to month, and that's the big draw. With CrowdHealth it's a flat $60 a month per person plus a modest community contribution, and $500 when you have a health event. No five-figure deductible. Real numbers in [What Health Sharing Actually Costs Each Month](/p/the-real-monthly-cost-of-health-sharing/).
 
-### What does insurance cover that health sharing doesn't?
+### What does insurance pay for that health sharing doesn't?
 
 Insurance covers a broad, regulated list. Sharing communities focus on big, unexpected events and have rules about pre-existing conditions and waiting periods. Routine dental, vision, cosmetic work, and expensive ongoing medications usually aren't shared. It's built for the broken-leg surprise, not the routine stuff.
 

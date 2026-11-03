@@ -12,7 +12,7 @@ Health sharing is the same. It's a genuinely good tool for the right job. But fo
 
 ## It's wrong for you if you have ongoing medical needs
 
-Health sharing is built for the big surprise: the broken leg, the unexpected event. It is usually not built for the steady, known, ongoing stuff. Most sharing communities have rules about pre-existing conditions, and they often won't cover care for a condition you already have when you join, at least not right away.
+Health sharing is built for the big surprise: the broken leg, the unexpected event. It is usually not built for the steady, known, ongoing stuff. Most sharing communities have rules about pre-existing conditions, and they often won't share bills for a condition you already have when you join, at least not right away.
 
 So if you or someone in your family has an ongoing condition that needs regular care and medication, health sharing may leave the exact thing you need most out in the cold. That's the lumber the motorcycle can't haul.
 
@@ -40,7 +40,7 @@ Health sharing is a motorcycle: great for the right job, wrong for hauling lumbe
 
 ## Questions I get about this
 
-### Does health sharing cover pre-existing conditions?
+### Does health sharing pay for pre-existing conditions?
 
 Not right away. With CrowdHealth, a condition you've had within the last few years isn't shared for the first two years, then it can be shared with a yearly cap. Something minor and well-controlled from years ago is treated differently from something you're being treated for today. Read the exact rule for your condition before you decide.
 

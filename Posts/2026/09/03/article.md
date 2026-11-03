@@ -1,12 +1,12 @@
 # How a Big Hospital Bill Gets Paid Without Insurance
 
-> On health sharing, a big hospital bill goes like this: you pay the first $500, negotiators cut the bill down hard (cash-pay discounts commonly run 25 to 85 percent), and the community funds the rest, usually within about a week. CrowdHealth's crowd has done this for bills north of $600,000. Not insurance, not guaranteed, but real and fast.
+> On health sharing, a big hospital bill goes like this: you pay the first $500, negotiators cut the bill down hard (cash-pay discounts commonly run 25 to 85 percent), and the community funds the rest, usually within about a week. CrowdHealth's crowd has done this for a bill as large as $3 million. Not insurance, not guaranteed, but real and fast.
 
 A six-figure hospital bill is the thing everyone is quietly afraid of. It is the reason a lot of people keep paying for insurance they do not really understand. So let us walk through exactly what happens with health sharing when a genuinely big bill lands, step by step, using real examples. No hand-waving.
 
 ## Start with a real one
 
-CrowdHealth's community once funded a single bill of more than $643,000 for a serious injury. Another was over $437,000 for a newborn who needed intensive care. These are not small, easy bills. They are the nightmare scenario, and the crowd covered them. Here is how that actually works.
+CrowdHealth's community once funded a single $3 million NICU bill for a member's baby. Another was over $437,000 for a newborn who needed intensive care. These are not small, easy bills. They are the nightmare scenario, and the crowd funded them. Here is how that actually works.
 
 ## Step one: you get care and pay your $500
 
@@ -18,7 +18,7 @@ This is the part that surprised me most. Before a single dollar gets crowdfunded
 
 ## Step three: the crowd funds the rest
 
-Once the bill is negotiated, the need goes out to the community. Members chip in to fund it, the same way you have been chipping in for others each month. On average, a complete submission gets fully funded in about a week, and the money is reimbursed a couple of days after approval. It is a barn raising. Everyone brings a little, and together it covers the thing no single family could carry alone.
+Once the bill is negotiated, the need goes out to the community. Members chip in to fund it, the same way you have been chipping in for others each month. On average, a complete submission gets fully funded in about a week, and the money reaches the member a couple of days after approval. It is a barn raising. Everyone brings a little, and together it pays for the thing no single family could carry alone.
 
 ## The honest catch
 
@@ -30,13 +30,13 @@ With a high-deductible insurance plan, that same big event could cost you the fu
 
 ## The takeaway
 
-A big hospital bill on health sharing goes like this: you pay the first $500, negotiators cut the bill down hard, and the community funds the rest, usually within about a week. The crowd has done this for bills north of $600,000. It is not insurance and it is not guaranteed, but the mechanism is real, it is fast, and it has a public track record.
+A big hospital bill on health sharing goes like this: you pay the first $500, negotiators cut the bill down hard, and the community funds the rest, usually within about a week. The crowd has done this for a bill as large as $3 million. It is not insurance and it is not guaranteed, but the mechanism is real, it is fast, and it has a public track record.
 
 ## Questions I get about this
 
 ### What's the biggest bill health sharing has paid?
 
-CrowdHealth's community funded a single bill of more than $643,000 for a serious injury, and another over $437,000 for a newborn who needed intensive care. Those are the nightmare scenarios, and the crowd covered them.
+CrowdHealth's community funded a single $3 million NICU bill for a member's baby, and another over $437,000 for a newborn who needed intensive care. Those are the nightmare scenarios, and the crowd funded them.
 
 ### Do I have to negotiate the hospital bill myself?
 

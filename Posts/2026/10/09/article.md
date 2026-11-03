@@ -44,7 +44,7 @@ A $240,000 NICU bill got negotiated and funded, and extra savings went back to t
 
 ### Has CrowdHealth funded really large bills?
 
-Yes. CrowdHealth publishes a list of its largest funded bills. The top ones are $643,242, $437,729, and $333,943, and four of the top 25 are NICU stays. It says there's no yearly or lifetime cap on eligible bills. Funding still isn't guaranteed. See [can you trust health sharing with a big bill](/p/can-you-trust-health-sharing-with-a-big-bill/).
+Yes. CrowdHealth says its largest funded bill is a $3 million NICU bill for a member's baby. Its published list of large funded bills includes $643,242, $437,729, and $333,943, and four of the top 25 are NICU stays. It says there's no yearly or lifetime cap on eligible bills. Funding still isn't guaranteed. See [can you trust health sharing with a big bill](/p/can-you-trust-health-sharing-with-a-big-bill/).
 
 ### Does a long illness reset my $500 every year?
 

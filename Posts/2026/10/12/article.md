@@ -6,7 +6,7 @@ I promised the bad stories too. This is the first one, and it's the rule that tr
 
 ## What happened?
 
-A woman wrote a one-star public review about a claim for her household. They'd been members for almost seven months. They were paying about $110 a month in fees, plus $200 to $300 a month toward other members' bills.
+A woman wrote a one-star public review about a bill for her household. They'd been members for almost seven months. They were paying about $110 a month in fees, plus $200 to $300 a month toward other members' bills.
 
 Then they had a health problem that produced a $10,000 bill. CrowdHealth had them fill out forms describing the issue. In those forms was a symptom that had come up before, one a doctor had looked at before they joined.
 
@@ -18,7 +18,7 @@ Here is the rule, as plainly as I can put it.
 
 If you had a condition in the five years before joining, it isn't shared during your first two years. In year three and after, it's shared up to $25,000 a year.
 
-The part people miss is what "had a condition" means. It isn't only a diagnosis. It also covers symptoms, things a doctor suspected, and anything you were treated for. So a symptom that got looked at and never got a name can still count.
+The part people miss is what "had a condition" means. It isn't only a diagnosis. It also includes symptoms, things a doctor suspected, and anything you were treated for. So a symptom that got looked at and never got a name can still count.
 
 CrowdHealth replied publicly to her review. They said the rule is on the sign-up page and in the member guide, and they offered to help find a lower-cost way to get the care.
 
@@ -36,7 +36,7 @@ Another member wrote that an event of theirs was flagged as previously diagnosed
 
 I think the rule itself is fair. A crowd can't work if people join the week after they find a lump. Somebody has to pay for that, and it'd be the rest of us.
 
-But fair and painless aren't the same thing. This couple thought they were covered and found out otherwise holding a $10,000 bill. Whether they misread the rule or it wasn't explained well, the result was the same for them.
+But fair and painless aren't the same thing. This couple thought the bill would be shared and found out otherwise holding a $10,000 bill. Whether they misread the rule or it wasn't explained well, the result was the same for them.
 
 To her credit, the reviewer added that CrowdHealth might still be a good fit for a pregnancy or a sudden emergency. That's about right. This is built for new things, not old things.
 

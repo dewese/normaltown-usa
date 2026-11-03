@@ -22,7 +22,7 @@ It isn't. There's a published ceiling.
 
 **Three. The member commitment: $500 per health event.**
 
-A health event is one thing that happens to you. A broken wrist. An appendix. You cover the first $500 of it, and the crowd covers the eligible rest. It works like a deductible, except it resets per event instead of per year, and it's $500 instead of five figures.
+A health event is one thing that happens to you. A broken wrist. An appendix. You pay the first $500 of it, and the crowd funds the eligible rest. It works like a deductible, except it resets per event instead of per year, and it's $500 instead of five figures.
 
 ## The cap, which is the part nobody tells you
 
@@ -58,7 +58,7 @@ It isn't magic, and it isn't the crowd being generous. Two things do the work.
 
 **Cash prices.** When you walk in as self-pay instead of insured, the price is often dramatically lower for the identical service. Discounts commonly run 25 to 85 percent off billed charges. CrowdHealth's team negotiates this for you before the crowd ever sees the bill, which means the crowd is funding a smaller number. I wrote about the mechanism in [why cash prices beat insured prices](/p/why-cash-prices-beat-insured-prices/).
 
-**Aligned incentives.** CrowdHealth makes its money on that flat $60, not on a slice of your claims. Nobody there gets a bonus for slow-walking your bill. That's the whole argument in [nobody gets paid to make you well](/p/nobody-gets-paid-to-make-you-well/).
+**Aligned incentives.** CrowdHealth makes its money on that flat $60, not on a slice of your bills. Nobody there gets a bonus for slow-walking your bill. That's the whole argument in [nobody gets paid to make you well](/p/nobody-gets-paid-to-make-you-well/).
 
 ## What the price does not buy you
 
@@ -66,9 +66,9 @@ I'd be selling you something if I stopped here.
 
 The low number is low partly because you're giving something up, and it's a real thing. **There is no legal guarantee your bill gets funded.** CrowdHealth is not insurance. No state insurance regulator can step in for you if a bill goes unfunded.
 
-The funding rate is 99.8 percent across 53,877 bills, which is a strong record. A record is not a promise, and I won't dress it up as one.
+CrowdHealth says 99.9 percent of eligible bills have been funded to date, 53,877 bills in all, which is a strong record. A record is not a promise, and I won't dress it up as one.
 
-You're also not buying coverage for a condition you already have. Anything documented, diagnosed, or symptomatic within five years of joining gets nothing in years one and two, then up to $25,000 a year from year three. High cholesterol and high blood pressure are exempt. If that rule lands on you, the cheap monthly number is beside the point.
+You're also not getting funding for a condition you already have. Anything documented, diagnosed, or symptomatic within five years of joining gets nothing in years one and two, then up to $25,000 a year from year three. High cholesterol and high blood pressure are exempt. If that rule lands on you, the cheap monthly number is beside the point.
 
 The full picture, including who should walk away, is on my [CrowdHealth guide](/crowdhealth/).
 

@@ -1,9 +1,9 @@
-# Publish — Six Routine Visits, One Covered
+# Publish — Six Routine Visits, One Shared
 
 | Field | Value |
 |---|---|
 | **URL slug** | `six-routine-visits-one-covered` |
-| **Title tag** | `Does CrowdHealth Cover Routine Care? Six Visits, One Covered` |
+| **Title tag** | `Does CrowdHealth Pay for Routine Care? Six Visits, One Shared` |
 | **Subtitle** | `It's for the wreck, not the oil change.` |
 | **Meta description** | `A CrowdHealth member counted six routine bills in a year and one was shared. The membership funds up to $300 of wellness care per person per year.` |
 | **Category** | Health |

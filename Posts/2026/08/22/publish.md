@@ -5,7 +5,7 @@
 | **URL slug** | `health-sharing-vs-insurance-honest-trade-offs` |
 | **Title tag** | `Health Sharing vs. Health Insurance: The Honest Trade-Offs, Side by Side` |
 | **Subtitle** | `A potluck vs. a catered dinner. Both feed you. They're different deals.` |
-| **Meta description** | `Health sharing vs. insurance, pros and cons laid side by side. Cost, the legal guarantee, what's covered, and the incentive, explained plainly with a potluck.` |
+| **Meta description** | `Health sharing vs. insurance, pros and cons laid side by side. Cost, the legal guarantee, what gets paid for, and the incentive, explained plainly with a potluck.` |
 | **Category** | Health |
 | **Updated** | 2026-09-30 |
 

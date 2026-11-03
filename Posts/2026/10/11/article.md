@@ -14,7 +14,7 @@ Then they did the thing I find most reassuring. They funded the surgery before i
 
 They were honest that the first day or two was rough. They didn't know what to do, and the app wasn't much help in the moment. One phone call with their advocate cleared it up. They finished the review saying they felt at ease.
 
-**The quick ones.** A member who broke an arm right after joining said every penny past the commitment was covered. A couple of two years said the husband's broken wrist cost them less than it would have on insurance. And one member with a broken ankle got a meal gift card and a mug in the mail that said "I do my own stunts."
+**The quick ones.** A member who broke an arm right after joining said every penny past the commitment was funded. A couple of two years said the husband's broken wrist cost them less than it would have on insurance. And one member with a broken ankle got a meal gift card and a mug in the mail that said "I do my own stunts."
 
 ## What do the bills look like?
 
@@ -44,15 +44,15 @@ Broken bones are the bread and butter of what this crowd pays for, and the stori
 
 ### What do I do first if my kid breaks a bone?
 
-Get care. Then open a health event in the app or message your advocate, and tell the provider you're paying directly and want the cash price. Ask for itemized bills. I laid out the steps in [health sharing and the ER](/p/health-sharing-and-the-er/).
+Get care. Then open a health event in the app or message your advocate, and tell the provider you're self-pay and ask them to send the bill by mail. Ask for itemized bills. I laid out the steps in [health sharing and the ER](/p/health-sharing-and-the-er/).
 
 ### Will CrowdHealth pay for surgery before it happens?
 
 It can. One member's ankle surgery was funded ahead of time using an estimate from the surgeon. CrowdHealth says planned, larger procedures can be negotiated and funded before the date, so you aren't floating the whole bill.
 
-### Are sports injuries covered?
+### Are sports injuries eligible?
 
-Ordinary ones, yes. Public results show funded requests for football and basketball concussions, bike wrecks, and broken wrists. The exclusions are for a specific list of hazardous activities and for injuries while impaired. Check the list in [what CrowdHealth doesn't cover](/p/what-crowdhealth-doesnt-cover/).
+Ordinary ones, yes. Public results show funded requests for football and basketball concussions, bike wrecks, and broken wrists. The exclusions are for a specific list of hazardous activities and for injuries while impaired. Check the list in [what isn't eligible on CrowdHealth](/p/what-crowdhealth-doesnt-cover/).
 
 ## Sources
 

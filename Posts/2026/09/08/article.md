@@ -38,7 +38,7 @@ Health sharing handles prescriptions differently, not worse, for most people. Ev
 
 Shop the cash price. Use a free discount tool like GoodRx, ask the pharmacist for the cash price directly, or check a low-cost pharmacy. The same pill can be four dollars at one place and forty at another. A little looking around goes a long way.
 
-### Are prescriptions after a surgery or injury covered by health sharing?
+### Are prescriptions after a surgery or injury eligible for health sharing?
 
 With CrowdHealth, medications tied to a health event, like pain pills and an antibiotic after a broken ankle, are part of that event and are shared the same way the rest of the eligible bills are.
 

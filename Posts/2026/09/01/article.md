@@ -10,7 +10,7 @@ With CrowdHealth, the health sharing service I use and point people to, there ar
 
 The first is a flat **$60 a month per person**. That is the advocacy fee. It pays for the app, the bill negotiators, and a real human who helps you when something goes wrong. It does not change based on how sick you are or how old you are.
 
-The second is a **$500 member commitment per health event**. Think of a health event as one thing that happens to you, like a broken arm or an appendix that has to come out. You cover the first $500 of that event. The community covers the rest of the eligible bill.
+The second is a **$500 member commitment per health event**. Think of a health event as one thing that happens to you, like a broken arm or an appendix that has to come out. You pay the first $500 of that event. The community funds the rest of the eligible bill.
 
 That is the whole shape of it. A flat monthly fee, and $500 when something big happens.
 

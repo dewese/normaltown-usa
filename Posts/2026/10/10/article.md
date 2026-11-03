@@ -26,7 +26,7 @@ That tells you something useful. A kidney stone bill is big to one person and sm
 
 ## What did CrowdHealth actually do?
 
-For the first member, mostly one thing: paid him back fast. He covered the bills, uploaded them, and the money came back in under two weeks.
+For the first member, mostly one thing: paid him back fast. He paid the bills, uploaded them, and the money came back in under two weeks.
 
 For the second, they negotiated the ER bills down before anything went to the crowd.
 
@@ -46,7 +46,7 @@ A healthy guy got blindsided, paid for surgery, and was made whole in under two 
 
 ## Questions I get about this
 
-### Does CrowdHealth cover kidney stones?
+### Are kidney stones eligible on CrowdHealth?
 
 A new kidney stone is an eligible health event. You pay the first $500 and the crowd shares the rest once the bill is negotiated. CrowdHealth's public results show about 60 funded kidney stone requests over roughly two years. A history of stones before joining may fall under the pre-existing rule.
 

@@ -4,7 +4,7 @@
 
 If you've ever looked at health sharing and wondered "okay, but what actually happens when I get hurt?", this is for you. Let's walk through one real health event, step by step, in plain English.
 
-The short version: you cover the first $500, and the group covers the rest. Here's how that works.
+The short version: you cover the first $500, and the group funds the rest. Here's how that works.
 
 ## Passing the hat
 
@@ -19,7 +19,7 @@ Say you break your ankle and end up in the ER. Here's what happens.
 - **Step 1: The event happens.** Broken ankle, ER visit, X-rays, the works. Scary, and usually expensive on paper.
 - **Step 2: You cover the first $500.** This part is yours. Think of it like the family putting in the first bit before the hat goes around. It keeps the whole thing fair and keeps tiny stuff from bogging down the group.
 - **Step 3: They knock the bill down.** Before the hat even goes around, the bill gets negotiated toward the lower cash price, the same trick I wrote about in [The Cash Price Secret](https://www.normaltownusa.com/p/the-cash-price-secret). A smaller bill is easier on everyone.
-- **Step 4: The crowd covers the rest.** Past your $500, your bill becomes a request the community pays into. The hat goes around. The bill gets covered.
+- **Step 4: The crowd funds the rest.** Past your $500, your bill becomes a request the community pays into. The hat goes around. The bill gets funded.
 
 That's the whole loop. Small piece from you, big piece from the crowd.
 
@@ -37,7 +37,7 @@ Health sharing is not insurance. There's no legal promise the hat comes back ful
 
 ## The takeaway
 
-When a big health event hits, health sharing works in a simple loop: you cover the first $500, the bill gets negotiated down, and the crowd passes the hat for the rest. It's an old idea, neighbors covering neighbors, with a small piece of skin in the game to keep it fair. Not insurance, but for the right person, a genuinely good deal.
+When a big health event hits, health sharing works in a simple loop: you cover the first $500, the bill gets negotiated down, and the crowd passes the hat for the rest. It's an old idea, neighbors helping neighbors, with a small piece of skin in the game to keep it fair. Not insurance, but for the right person, a genuinely good deal.
 
 ## Questions I get about this
 
@@ -45,7 +45,7 @@ When a big health event hits, health sharing works in a simple loop: you cover t
 
 One thing that happens to you: a broken arm, an appendix that has to come out, a trip to the ER. All the bills tied to that one event roll together. You cover the first $500 of the event, not $500 per bill.
 
-### Do I have to pay the hospital myself and wait to be reimbursed?
+### Do I have to pay the hospital myself and wait for the crowd to fund it?
 
 With CrowdHealth, you submit the bills, the care advocate negotiates them, and the community funds the eligible amount. You're responsible for your $500 and for keeping every piece of paperwork. Read the guidelines for the exact steps before you join.
 

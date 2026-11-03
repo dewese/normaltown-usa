@@ -12,13 +12,13 @@ So step one isn't asking the crowd for money. It's making sure the crowd is aske
 
 ## Then the bill gets submitted and funded
 
-Once the bill is negotiated and confirmed as eligible under the guidelines, it goes into the system to be funded by the community. You've already covered your $500 member commitment for the event. The remaining eligible amount is what the crowd shares.
+Once the bill is negotiated and confirmed as eligible under the guidelines, it goes into the system to be funded by the community. You've already paid your $500 member commitment for the event. The remaining eligible amount is what the crowd shares.
 
 Complete, eligible submissions get funded in about a week on average. That's faster than a lot of people expect, and faster than plenty of insurance reimbursements I've dealt with.
 
 ## Where your monthly contribution goes
 
-Here's the part that makes it a community and not a company. Each month, the money you contribute isn't disappearing into a corporate pool to boost some quarterly profit. It's going directly to fund the actual bills of actual members that month. You can see the requests. You're not paying premiums to a company hoping to pay out less. You're chipping in to catch a neighbor, knowing the same net catches you.
+Here's the part that makes it a community and not a company. Each month, the money you contribute isn't disappearing into a corporate account to boost some quarterly profit. It's going directly to fund the actual bills of actual members that month. You can see the requests. You're not paying premiums to a company hoping to pay out less. You're chipping in to catch a neighbor, knowing the same net catches you.
 
 That's the core difference from insurance, and it's why the incentives feel so different. Nobody in this system gets richer by denying your bill. I unpacked [that incentive flip](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest).
 
@@ -42,7 +42,7 @@ Complete, eligible submissions get funded in about a week on average. That's fas
 
 ### Where does my monthly contribution actually go?
 
-Directly to fund the actual bills of actual members that month, not into a corporate pool to boost quarterly profit. Nobody in this system gets richer by denying your bill. That's the incentive flip I unpack in [Health Insurance's Built-In Conflict of Interest](/p/health-insurances-conflict-of-interest/).
+Directly to fund the actual bills of actual members that month, not into a corporate account to boost quarterly profit. Nobody in this system gets richer by denying your bill. That's the incentive flip I unpack in [Health Insurance's Built-In Conflict of Interest](/p/health-insurances-conflict-of-interest/).
 
 Want to see the process from the inside? Use my code **NORMAL**: [check CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 

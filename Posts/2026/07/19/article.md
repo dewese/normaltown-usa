@@ -70,11 +70,11 @@ And the nice thing about plumbing is that it can be re-routed.
 
 If the real problem is how the money flows, then the fix is a setup where the company makes its money one honest way, a flat fee, and has no reason to deny you or run up your bill.
 
-That's the idea behind something called health sharing. Instead of an insurance company, a big group of regular people agree to chip in for each other's large medical bills. One of these, called CrowdHealth, charges a flat $60 a month, plus your share of other members' bills as they come up. Because they make their money from that flat fee, and not from a cut of your claims, they have no reason to want your bills to grow. (Full honesty here. I'm a member, and I'll earn a small referral if you ever join through my link at the bottom. No pressure either way.)
+That's the idea behind something called health sharing. Instead of an insurance company, a big group of regular people agree to chip in for each other's large medical bills. One of these, called CrowdHealth, charges a flat $60 a month, plus your share of other members' bills as they come up. Because they make their money from that flat fee, and not from a cut of your bills, they have no reason to want your bills to grow. (Full honesty here. I'm a member, and I'll earn a small referral if you ever join through my link at the bottom. No pressure either way.)
 
 Now the honest other half, because this brand doesn't do bait-and-switch.
 
-Health sharing is not insurance. There's no legal promise that your bill gets paid. It has rules, and things it won't cover. And it's a poor fit for some folks, like anyone managing an expensive ongoing condition who needs guaranteed coverage. It's a real tool, not a magic wand. I'll write a full, fair breakdown of exactly who it's right and wrong for in a future piece.
+Health sharing is not insurance. There's no legal promise that your bill gets paid. It has rules, and things it won't fund. And it's a poor fit for some folks, like anyone managing an expensive ongoing condition who needs guaranteed coverage. It's a real tool, not a magic wand. I'll write a full, fair breakdown of exactly who it's right and wrong for in a future piece.
 
 The point today isn't "go do this." The point is simpler and bigger. Once you see the incentive, you can't unsee it. And you can start asking sharper questions.
 
@@ -108,7 +108,7 @@ No. Your doctor almost certainly wants you healthy. The problem is the plumbing,
 
 ### Is there a setup where the company isn't paid to run up your bill?
 
-Health sharing is one. My family of four uses CrowdHealth, which charges a flat $60 a month per person and makes its money from that fee, not a cut of your claims. It's not insurance, there's no legal guarantee a bill gets paid, and it's wrong for some people. Start with [What Is Health Sharing?](/p/what-is-health-sharing/).
+Health sharing is one. My family of four uses CrowdHealth, which charges a flat $60 a month per person and makes its money from that fee, not a cut of your bills. It's not insurance, there's no legal guarantee a bill gets paid, and it's wrong for some people. Start with [What Is Health Sharing?](/p/what-is-health-sharing/).
 
 ## Sources
 

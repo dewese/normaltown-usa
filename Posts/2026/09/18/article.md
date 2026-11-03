@@ -1,4 +1,4 @@
-# What CrowdHealth Doesn't Cover
+# What's Not Eligible on CrowdHealth
 
 > CrowdHealth doesn't share routine dental and vision, cosmetic procedures, expensive ongoing medications, some elective and lifestyle care, or pre-existing conditions until their waiting period is up. That's the design, not fine print. Sharing is for the big unexpected things, and the gaps are exactly why the monthly number stays low.
 
@@ -18,9 +18,9 @@ None of these should feel like a trap. They're all the same theme: health sharin
 
 ## Why the gaps exist (and why that's fine)
 
-A sharing community pools money to catch each other when something unexpected and expensive hits. If the pool also paid for everyone's glasses, teeth cleanings, and elective procedures, it would just be regular insurance with regular insurance prices, and the whole cost advantage would vanish.
+A sharing community chips in to catch each other when something unexpected and expensive hits. If the crowd also paid for everyone's glasses, teeth cleanings, and elective procedures, it would just be regular insurance with regular insurance prices, and the whole cost advantage would vanish.
 
-The gaps are the reason the monthly number is low. You're trading "covers every little thing" for "cheap and strong on the big things." For a healthy family, that's usually the better trade.
+The gaps are the reason the monthly number is low. You're trading "pays for every little thing" for "cheap and strong on the big things." For a healthy family, that's usually the better trade.
 
 ## How to plan around every one of these
 
@@ -33,21 +33,21 @@ The good news is that each gap has a simple, cheap workaround:
 
 ## The takeaway
 
-CrowdHealth doesn't cover routine dental and vision, cosmetic work, expensive ongoing meds, or pre-existing conditions before their waiting periods. That's not fine print, it's the design, and it's exactly why the monthly cost stays low. Know the gaps, plan the cheap workarounds, and you get the best of it: a strong, affordable backstop for the big stuff, with no nasty surprises.
+Routine dental and vision, cosmetic work, expensive ongoing meds, and pre-existing conditions before their waiting periods aren't eligible on CrowdHealth. That's not fine print, it's the design, and it's exactly why the monthly cost stays low. Know the gaps, plan the cheap workarounds, and you get the best of it: a strong, affordable backstop for the big stuff, with no nasty surprises.
 
 ## Questions I get about this
 
-### Does CrowdHealth cover dental and vision?
+### Are dental and vision eligible on CrowdHealth?
 
 Not routine dental and vision. Cleanings, fillings, glasses, and contacts are everyday maintenance, not unexpected events. Pay cash, which is often reasonable, or add a low-cost standalone dental or vision plan. I explain how my family handles it in [Dental and Vision Without Insurance](/p/dental-and-vision-without-insurance/).
 
-### Does CrowdHealth cover prescriptions?
+### Are prescriptions eligible on CrowdHealth?
 
 Everyday generics you pay at the cash price, often a few dollars a month with a free discount tool. Medications tied to a health event ride along with the event. An expensive brand-name drug you take every month isn't what the model is built for.
 
-### Why doesn't health sharing cover everything?
+### Why isn't everything eligible for health sharing?
 
-Because if the pool also paid for everyone's glasses, cleanings, and elective procedures, it would just be regular insurance with regular insurance prices. You're trading "covers every little thing" for "cheap and strong on the big things." For a healthy family, that's usually the better trade.
+Because if the crowd also paid for everyone's glasses, cleanings, and elective procedures, it would just be regular insurance with regular insurance prices. You're trading "pays for every little thing" for "cheap and strong on the big things." For a healthy family, that's usually the better trade.
 
 Want to read the full guidelines yourself? Use my code **NORMAL**: [see CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL). New members get their first 3 months at $99 a month per member with code NORMAL.
 

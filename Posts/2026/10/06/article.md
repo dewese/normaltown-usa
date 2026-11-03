@@ -2,7 +2,7 @@
 
 > One member's emergency appendectomy was first quoted at $35,000. CrowdHealth got it reduced to $10,600, he paid his $500, and other members shared the rest. Another member, a doctor, was billed about $50,000 for nine hours in the ER and operating room. Appendix bills are a great lesson in how far apart the sticker price and the real price can be.
 
-Your appendix doesn't schedule anything. It just goes. That makes it a good test of any health plan, because you can't shop around while you're doubled over.
+Your appendix doesn't schedule anything. It just goes. That makes it a good test of how you pay for health care, because you can't shop around while you're doubled over.
 
 ## What happened?
 
@@ -23,7 +23,7 @@ That first number isn't a lie exactly. It's a starting bid. Think of a rug at a 
 
 ## Is that kind of bill normal?
 
-A second member's public review backs it up. This one was a physician. They described nine hours total, from the ER to the operating room to home, and a bill of about $50,000. They said CrowdHealth had them covered. They didn't say what they paid or what the bill came down to, so I won't guess.
+A second member's public review backs it up. This one was a physician. They described nine hours total, from the ER to the operating room to home, and a bill of about $50,000. They said CrowdHealth took care of them. They didn't say what they paid or what the bill came down to, so I won't guess.
 
 And CrowdHealth's own list of big funded bills includes one for appendicitis that reached $333,943. The list doesn't say what made that one so large.
 
@@ -33,7 +33,7 @@ So the same body part can run $10,600 or $333,000 depending on how it goes and w
 
 In the first story, they got the price cut from $35,000 to $10,600 using self-pay pricing. Self-pay just means you're paying directly instead of through an insurance company. Hospitals will often take far less from a direct payer, because they get paid faster and skip the paperwork fight.
 
-Then the crowd covered everything above the member's $500.
+Then the crowd funded everything above the member's $500.
 
 The couple also said the advocates later pointed them to a doctor who only takes self-pay patients, and they liked him a lot.
 
@@ -41,7 +41,7 @@ The couple also said the advocates later pointed them to a doctor who only takes
 
 You don't get the discount at the front desk. In an emergency you get the care, and the negotiating happens afterward, with the bill in your name. That takes some nerve the first time. I'd be lying if I said opening a $35,000 envelope feels fine just because you know the plan.
 
-The second story left out the ending. A doctor saying "they had me covered" is encouraging. It isn't a receipt.
+The second story left out the ending. A doctor saying CrowdHealth took care of them is encouraging. It isn't a receipt.
 
 And this first story was chosen and published by CrowdHealth. They pick the good ones. Keep that in mind, the same way you would with any company's testimonials.
 
@@ -53,7 +53,7 @@ A $35,000 quote became $10,600, and the member paid $500. The lesson isn't that 
 
 ### How much does an appendectomy cost without insurance?
 
-It varies wildly. In the member stories I found, one was quoted $35,000 and reduced to $10,600, another was billed about $50,000, and the largest on CrowdHealth's published list reached $333,943. The first quote is a starting point, which is why I always [ask for the cash price](/p/the-cash-price-secret/).
+It varies wildly. In the member stories I found, one was quoted $35,000 and reduced to $10,600, another was billed about $50,000, and the largest appendicitis bill on CrowdHealth's published list reached $333,943. The first quote is a starting point, which is why I always [ask for the cash price](/p/the-cash-price-secret/).
 
 ### What do I pay if I have an emergency surgery on CrowdHealth?
 

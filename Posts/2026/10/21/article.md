@@ -43,7 +43,7 @@ He also said it might not suit people with frequent health problems, or people w
 
 That's the trade in one sentence. You save a pile of money, and in exchange you act like the customer. If you want to hand over a card and never think about it again, a surgery like this will frustrate you.
 
-There's a second catch for joints specifically. Worn-out hips and knees usually hurt for years before surgery. If you had symptoms or treatment in the five years before joining, that joint is a pre-existing condition. It wouldn't be shared for your first two years, and it's capped at $25,000 a year after that. A lot of people shopping for coverage because their knee already hurts will run into this.
+There's a second catch for joints specifically. Worn-out hips and knees usually hurt for years before surgery. If you had symptoms or treatment in the five years before joining, that joint is a pre-existing condition. It wouldn't be shared for your first two years, and it's capped at $25,000 a year after that. A lot of people looking at CrowdHealth because their knee already hurts will run into this.
 
 And the knee member drove an hour. Not everyone can.
 
@@ -53,7 +53,7 @@ A new hip for $500 is real. So is the work behind it. For a planned surgery, the
 
 ## Questions I get about this
 
-### Does CrowdHealth cover hip or knee replacement?
+### Is hip or knee replacement eligible on CrowdHealth?
 
 If the joint problem is new since you joined, yes. Members have reported paying $500 for a hip replacement and $500 for a knee replacement. If you had symptoms or treatment in the five years before joining, the pre-existing rule applies.
 
@@ -63,7 +63,7 @@ Lower overhead. A surgery center does one kind of work and doesn't carry the cos
 
 ### Can I say no to the surgeon CrowdHealth suggests?
 
-Yes. There are no networks, so you choose. One member turned down the first suggestion and worked with CrowdHealth to find another. The price still has to be near a fair local rate for the crowd to fund all of it.
+Yes. You can see any doctor, so you choose. One member turned down the first suggestion and worked with CrowdHealth to find another. The price still has to be near a fair local rate for the crowd to fund all of it.
 
 ## Sources
 

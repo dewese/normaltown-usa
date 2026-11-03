@@ -38,7 +38,7 @@ It's a lot like filing your own taxes instead of having them taken out of each p
 
 Some. CrowdHealth says it rebuilt its app in late 2024, and many of the harshest paperwork reviews are from before that. The company also says the app now shows which step each bill is on.
 
-A member who joined early said reimbursement used to be slow and came by mailed check. Now, they said, bills are approved in about a week and deposited about two days after.
+A member who joined early said funding used to be slow and came by mailed check. Now, they said, bills are approved in about a week and deposited about two days after.
 
 But the complaints log CrowdHealth publishes still shows bumps this year. Members charged twice by mistake. Members who couldn't reach the banking page. A price shown in the app that didn't match what the provider charged.
 

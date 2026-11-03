@@ -6,7 +6,7 @@ I write about medical bills and money. If I get a number wrong, somebody makes a
 
 Every figure on this site traces back to a primary source. Not a blog post about the source. The source.
 
-- **CrowdHealth's own pages** for anything about what it costs, what it covers, and what the rules are. Their member guide, pricing page, and FAQ.
+- **CrowdHealth's own pages** for anything about what it costs, what's eligible, and what the rules are. Their member guide, pricing page, and FAQ.
 - **Government pages** for anything about the law, taxes, or your rights. State insurance departments, the IRS, HealthCare.gov.
 - **The actual study** for anything with a statistic in it, not the news article about the study.
 - **My own bills and my own account** for anything about what my family has paid or had funded. Those are the numbers I trust most, and they're the ones nobody else can give you.

@@ -32,7 +32,7 @@ One more honest note. I can't verify a stranger's review. When a story comes fro
 
 ## What should you know before any of this?
 
-CrowdHealth is not insurance. Nobody is legally required to pay your bill. Members are responsible for their own bills in the end, and the crowd has funded more than 99% of the eligible ones.
+CrowdHealth is not insurance. Nobody is legally required to pay your bill. Members are responsible for their own bills in the end, and CrowdHealth says 99.9% of eligible bills have been funded to date.
 
 "Eligible" is doing real work in that sentence. Conditions you had symptoms of in the five years before joining aren't shared for your first two years, and they're capped at $25,000 a year after that. Dental work, most mental health care, and ongoing brand-name prescriptions aren't shared. You can't join at 65 or older, or if you use tobacco. I wrote up [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/) if you want that list first.
 
@@ -54,7 +54,7 @@ About $60 a month per person for the advocacy fee, plus a share of other members
 
 ### Is every bill funded?
 
-No. CrowdHealth reports more than 99% of eligible bills funded, and roughly 3% to 5% of submitted bills are ruled not eligible each month, mostly for conditions that started before the member joined. I cover what happens in [what if the crowd doesn't fund your bill](/p/what-if-the-crowd-doesnt-fund-your-bill/).
+No. CrowdHealth says 99.9% of eligible bills have been funded to date, and roughly 3% to 5% of submitted bills are ruled not eligible each month, mostly for conditions that started before the member joined. I cover what happens in [what if the crowd doesn't fund your bill](/p/what-if-the-crowd-doesnt-fund-your-bill/).
 
 ## Sources
 

@@ -1,4 +1,4 @@
-# Six Routine Visits, One Covered
+# Six Routine Visits, One Shared
 
 > A CrowdHealth member counted their household's routine care for a year: two dental checkups, two doctor visits, and standard blood work. That's six bills. CrowdHealth shared one. The standard membership funds one wellness visit per person per year, up to $300. In 2027 that $300 can be split across several visits. If you want routine care paid for, this isn't the tool.
 
@@ -8,7 +8,7 @@ I'm a fan, and this is one of the places CrowdHealth is weakest. Better you hear
 
 A member wrote a two-star public review this September. Their household likes regular preventive care. In a year, that came to two dental checkups, two primary care visits, and standard blood work.
 
-Six bills. CrowdHealth covered one of them.
+Six bills. CrowdHealth shared one of them.
 
 They also live in a state where CrowdHealth's lab vouchers don't apply, so they didn't get the cheap blood work either.
 
@@ -32,9 +32,9 @@ Think about car insurance. It doesn't pay for oil changes or new wiper blades. I
 
 Mostly, from what members say.
 
-A family of four wrote that their well checks were covered at $300 a person and paid back in less than two weeks. One parent got $600 back for two kids' wellness exams. A woman had her yearly women's health exam and mammogram with her own doctor and was repaid within a couple of weeks. Another member's dental visit was paid back a few days after one follow-up email.
+A family of four wrote that their well checks were funded at $300 a person and paid back in less than two weeks. One parent got $600 back for two kids' wellness exams. A woman had her yearly women's health exam and mammogram with her own doctor and was repaid within a couple of weeks. Another member's dental visit was paid back a few days after one follow-up email.
 
-And then the slow ones. One member's $300 wellness bill took about five weeks, across the December holidays. Their comment was that it seemed like a long time for a $300 claim. Hard to argue. Another said routine dental repayment takes several weeks.
+And then the slow ones. One member's $300 wellness bill took about five weeks, across the December holidays. Their comment was that it seemed like a long time for a $300 bill. Hard to argue. Another said routine dental repayment takes several weeks.
 
 One woman had a worse time. She'd paid for a women's health checkup that included a mammogram. The scheduling company CrowdHealth used couldn't reach the first location for four weeks. The second was booked two months out. A local place wouldn't accept the order from an out-of-state doctor. She ended up arranging it herself. CrowdHealth apologized and offered to fund it once it was done.
 
@@ -50,15 +50,15 @@ And if you choose the cheaper membership with the $15,000 commitment, there's no
 
 ## The takeaway
 
-CrowdHealth is for the wreck, not the oil change. You get one shared wellness visit a year and good cash prices on the rest. If you count on routine care being covered, you'll be disappointed, and that two-star review will be yours. If you're fine paying for routine care yourself, the math can still work out well ahead.
+CrowdHealth is for the wreck, not the oil change. You get one shared wellness visit a year and good cash prices on the rest. If you count on routine care being paid for, you'll be disappointed, and that two-star review will be yours. If you're fine paying for routine care yourself, the math can still work out well ahead.
 
 ## Questions I get about this
 
-### Does CrowdHealth cover annual checkups?
+### Does CrowdHealth pay for annual checkups?
 
 In 2026, one per person per year, up to $300, with no $500 commitment first. You choose one: a physical, a child's well visit, a women's health exam, a dental exam and cleaning, or a vision exam. Starting in 2027 you can submit several preventive visits, up to the same $300 combined. Anything past $300 is yours to pay.
 
-### Does CrowdHealth cover dental cleanings?
+### Does CrowdHealth pay for dental cleanings?
 
 Only if you use your one yearly wellness event on it. Larger dental work, like crowns, root canals, and implants, isn't shared at all. I cover how to handle that in [dental and vision without insurance](/p/dental-and-vision-without-insurance/).
 

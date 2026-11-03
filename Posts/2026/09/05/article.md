@@ -1,20 +1,20 @@
 # Health Sharing: Myths vs. Facts
 
-> Most health sharing myths fall apart under a plain look. It's not insurance, and that distinction matters. CrowdHealth's community has funded 53,877 bills, including single bills over $600,000. Its limits are stated, not hidden. It fits families, the self-employed, and early retirees, not just healthy singles. The fair worries are handled by reading the rules and keeping $500 on hand.
+> Most health sharing myths fall apart under a plain look. It's not insurance, and that distinction matters. CrowdHealth's community has funded 53,877 bills, including a single $3 million NICU bill. Its limits are stated, not hidden. It fits families, the self-employed, and early retirees, not just healthy singles. The fair worries are handled by reading the rules and keeping $500 on hand.
 
 Health sharing sounds strange the first time you hear it, so it collects myths the way a screen door collects dust. Some of the worries are fair. Some are just leftover confusion. Let us sort the real from the noise, honestly, including the ones where the myth is actually pointing at something true.
 
 ## Myth: "It's just cheap insurance."
 
-Fact: it is not insurance at all, and that distinction matters. Insurance is a legal contract with a company that profits by paying out less. Health sharing is a community that agrees to fund each other's eligible bills, run by a company that earns a flat fee, not a cut of your claims. Different structure, different incentives. I unpacked [the insurance conflict](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest).
+Fact: it is not insurance at all, and that distinction matters. Insurance is a legal contract with a company that profits by paying out less. Health sharing is a community that agrees to fund each other's eligible bills, run by a company that earns a flat fee, not a cut of your bills. Different structure, different incentives. I unpacked [the insurance conflict](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest).
 
 ## Myth: "They'll never actually pay a big bill."
 
-Fact: the community has funded 53,877 bills, including single bills over $600,000. Complete submissions get funded in about a week on average. The track record is real and public. The honest asterisk: because it is not insurance, funding is not legally guaranteed. Strong history, not an ironclad promise. Both halves are true, and you should hold both.
+Fact: the community has funded 53,877 bills, including a single $3 million NICU bill. Complete submissions get funded in about a week on average. The track record is real and public. The honest asterisk: because it is not insurance, funding is not legally guaranteed. Strong history, not an ironclad promise. Both halves are true, and you should hold both.
 
 ## Myth: "There's a catch in the fine print."
 
-Fact: there are limits, and they are not hidden, they are just real. Pre-existing conditions have waiting rules. Dental, vision, cosmetic work, and a handful of other things are not eligible. If you want the model to work, you read the guidelines first. That is not a catch, that is doing your homework, same as you would with any plan.
+Fact: there are limits, and they are not hidden, they are just real. Pre-existing conditions have waiting rules. Dental, vision, cosmetic work, and a handful of other things are not eligible. If you want the model to work, you read the guidelines first. That is not a catch, that is doing your homework, same as you would with anything you sign up for.
 
 ## Myth: "It's only for young, healthy singles."
 
@@ -36,7 +36,7 @@ Most health sharing myths fall apart under a plain look: it is not insurance, it
 
 ### Is health sharing a scam?
 
-No. It's real, legal, and has a public track record: tens of thousands of bills funded, some over $600,000, usually within about a week. What it isn't is insurance. There's no legal guarantee, so read the guidelines and keep your $500 ready. I go deeper in [Is Health Sharing Legit?](/p/is-health-sharing-legit/).
+No. It's real, legal, and has a public track record: tens of thousands of bills funded, one as large as $3 million, usually within about a week. What it isn't is insurance. There's no legal guarantee, so read the guidelines and keep your $500 ready. I go deeper in [Is Health Sharing Legit?](/p/is-health-sharing-legit/).
 
 ### Is health sharing only for religious people?
 

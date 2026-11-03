@@ -8,9 +8,9 @@ I've spent most of a month telling you why I'm a fan. A fan who can't repeat the
 
 I pulled these from national magazines, a business magazine, a regional newspaper, and a state insurance agency's consumer warning.
 
-**It works until it doesn't.** A health policy executive told a business magazine that a few unlucky, very expensive cases could overwhelm a small pool of members. He also said it would probably work for most members, while the risk to any one person could be high.
+**It works until it doesn't.** A health policy executive told a business magazine that a few unlucky, very expensive cases could overwhelm a small group of members. He also said it would probably work for most members, while the risk to any one person could be high.
 
-**It's a gamble.** A university researcher called it "rolling the dice" in a newspaper story this spring. A consumer advocate in the same story said plans like this work for routine care until something serious happens.
+**It's a gamble.** A university researcher called it "rolling the dice" in a newspaper story this spring. A consumer advocate in the same story said arrangements like this work for routine care until something serious happens.
 
 **No one can step in.** One state's insurance agency put out a consumer warning that named CrowdHealth. Its points: it isn't insurance, payment isn't guaranteed, the usual legal protections for insurance customers don't apply, and the state can't step in on a complaint.
 
@@ -32,7 +32,7 @@ I pulled these from national magazines, a business magazine, a regional newspape
 
 ## Where do I push back?
 
-**The small pool.** That warning is from early 2024. CrowdHealth has funded more than 53,000 bills since it started, so it's bigger than it was. It's still tiny next to an insurance company, and the worry isn't gone.
+**The small crowd.** That warning is from early 2024. CrowdHealth has funded more than 53,000 bills since it started, so it's bigger than it was. It's still tiny next to an insurance company, and the worry isn't gone.
 
 **The comparison.** Critics often compare CrowdHealth to good insurance. For a lot of normal families, that isn't the choice. The choice is between CrowdHealth and a plan with a huge monthly bill and a deductible so high they'd pay for nearly everything themselves anyway. One family in that newspaper story was looking at their monthly insurance bill going from $600 to $2,000.
 

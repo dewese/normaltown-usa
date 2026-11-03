@@ -1,12 +1,12 @@
 # The Fine Print That Catches New Members
 
-> A new dad joined CrowdHealth with a baby on the way, thinking the baby would be covered at birth. A newborn isn't active until two weeks after birth when the pregnancy wasn't eligible. Other new members were surprised that funding requests are approved automatically unless you decline within 48 hours, and that the $99 intro price is per member.
+> A new dad joined CrowdHealth with a baby on the way, thinking the baby would be eligible from birth. A newborn isn't active until two weeks after birth when the pregnancy wasn't eligible. Other new members were surprised that funding requests are approved automatically unless you decline within 48 hours, and that the $99 intro price is per member.
 
 Most of the one-star and two-star reviews I read weren't about a medical bill going unpaid. They were about somebody being surprised. So here are the surprises, so you aren't.
 
 ## What happened?
 
-A new father wrote a two-star review this summer. He signed up with a baby already on the way. He says the sales rep told him more than once that coverage starts at sign-up.
+A new father wrote a two-star review this summer. He signed up with a baby already on the way. He says the sales rep told him more than once that eligibility starts at sign-up.
 
 Then he learned the baby wouldn't be active until two weeks after birth. Within days of joining he was charged for the membership and had automatically chipped in toward another member's birth. He asked for that money back and was told no.
 
@@ -56,7 +56,7 @@ Almost nobody in the angry reviews was cheated. They were surprised. Read the gu
 
 ## Questions I get about this
 
-### When is a newborn covered on CrowdHealth?
+### When is a newborn eligible on CrowdHealth?
 
 If the pregnancy was eligible, add the baby within 30 days of birth, and newborn care is its own $500 event. If the pregnancy wasn't eligible, the baby can't join until two weeks old. Check the timing with your advocate well before the due date.
 

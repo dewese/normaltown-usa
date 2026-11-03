@@ -4,8 +4,8 @@
 |---|---|
 | **URL slug** | `letting-go-of-the-what-if` |
 | **Title tag** | `Letting Go of the "What If": Making Peace With Health Risk on Any Coverage` |
-| **Subtitle** | `No coverage erases risk. Do the reasonable things, then genuinely set the worry down.` |
-| **Meta description** | `No coverage erases risk. How to let go of the healthcare "what if": trade vague fear for a concrete plan, control what you can, and release what you can't.` |
+| **Subtitle** | `Nothing you can buy erases risk. Do the reasonable things, then genuinely set the worry down.` |
+| **Meta description** | `Nothing you can buy erases risk. How to let go of the healthcare "what if": trade vague fear for a concrete plan, control what you can, and release what you can't.` |
 | **Category** | Health |
 
 - **Image:** `set-down-worry.png` — Alt text: `A heavy backpack or weight being set down on the ground, with a lighter highlighted figure standing beside it.`

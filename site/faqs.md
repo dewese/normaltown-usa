@@ -136,17 +136,17 @@ This is the biggest limit, so hear it before you join. A condition you already h
 
 You pay the cash price instead of a copay. For everyday generics, that's often a few dollars a month if you shop around with a free discount tool. Medicine tied to a health event, like pain pills after surgery, rides along with the event. The one real limit is an expensive brand-name drug you take every month. Sharing isn't built for that. Full post: [Health Sharing and Prescriptions](/p/health-sharing-and-prescriptions/).
 
-### What doesn't health sharing cover?
+### What isn't eligible on health sharing?
 
-Routine dental and vision. Cosmetic work. Expensive ongoing medications. Pre-existing conditions until the waiting period is up. Some elective and lifestyle stuff. None of it is hidden, and it's all the same idea: sharing is for the big unexpected things, not the routine and predictable ones. That's exactly why the monthly number stays low. Full post: [What CrowdHealth Doesn't Cover](/p/what-crowdhealth-doesnt-cover/).
+Routine dental and vision. Cosmetic work. Expensive ongoing medications. Pre-existing conditions until the waiting period is up. Some elective and lifestyle stuff. None of it is hidden, and it's all the same idea: sharing is for the big unexpected things, not the routine and predictable ones. That's exactly why the monthly number stays low. Full post: [What's Not Eligible on CrowdHealth](/p/what-crowdhealth-doesnt-cover/).
 
 ### What happens if I have a real emergency on health sharing?
 
-Go to the ER. Don't stand in the parking lot doing math. Afterward, you pay your $500, a care advocate works the ER bill down to the cash price and lower, and the community shares the rest. Keep your $500 ready and save every piece of paperwork. Full post: [Health Sharing and the ER](/p/health-sharing-and-the-er/).
+Go to the ER. Don't stand in the parking lot doing math. Afterward, you pay your $500, CrowdHealth works the ER bill down to the cash price and lower, and the community shares the rest. Keep your $500 ready and save every piece of paperwork. Full post: [Health Sharing and the ER](/p/health-sharing-and-the-er/).
 
 ### What's a care advocate?
 
-A real person on your side when you have a health event. They help you find fair-priced care, negotiate the bill down, and handle the back-and-forth with the hospital so you don't have to. Members often see 25 to 85 percent knocked off the sticker price. It's the part of health sharing that surprised me most. We pay less and get more human help than we ever did with insurance. Full post: [What a Care Advocate Actually Does](/p/what-a-care-advocate-actually-does/).
+A real person on your side when you have a health event. They help you find fair-priced care and walk you through what to ask for, like the cash price and an itemized bill, while CrowdHealth negotiates the bigger bills down. They guide you, but they won't make the calls or payments for you. Members often see 25 to 85 percent knocked off the sticker price. It's the part of health sharing that surprised me most. We pay less and get more human help than we ever did with insurance. Full post: [What a Care Advocate Actually Does](/p/what-a-care-advocate-actually-does/).
 
 ### What about having a baby on health sharing?
 

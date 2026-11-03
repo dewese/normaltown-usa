@@ -20,7 +20,7 @@ If you're seriously thinking about switching to health sharing, don't do it on a
 
 - **Have I actually read the guidelines?** Not a summary, the real thing. What's eligible, what isn't, how waiting periods work.
 - **Do I understand it's not insurance?** No legal guarantee, ever. If that fact keeps you up at night, that's important information about your own risk tolerance.
-- **What's my plan for the stuff it doesn't cover?** Routine dental, vision, and the like. Have a cheap workaround ready.
+- **What's my plan for the stuff that isn't eligible?** Routine dental, vision, and the like. Have a cheap workaround ready.
 
 ## Questions about your temperament
 

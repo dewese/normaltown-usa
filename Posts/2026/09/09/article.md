@@ -12,7 +12,7 @@ Here's the part that stings. You pay your monthly insurance bill the whole time,
 
 ## What the $500 member commitment is
 
-With CrowdHealth, the service I use, you pay $500 per health event. Not per year. Per event. A health event is one thing that happens to you, like a broken wrist or an appendix that has to come out. You cover the first $500 of that event, and the community funds the rest of the eligible bill.
+With CrowdHealth, the service I use, you pay $500 per health event. Not per year. Per event. A health event is one thing that happens to you, like a broken wrist or an appendix that has to come out. You pay the first $500 of that event, and the community funds the rest of the eligible bill.
 
 So the honest comparison isn't $500 versus $500. It's $500 per event versus thousands, sometimes five figures, before your plan kicks in.
 
@@ -21,7 +21,7 @@ So the honest comparison isn't $500 versus $500. It's $500 per event versus thou
 Say your kid breaks an arm. Total bill, after the cash price and the advocates work it down, comes to $4,000.
 
 - **On a high-deductible plan** with an $8,000 deductible: you pay the entire $4,000 yourself, because you never even reached your deductible. Your plan pays nothing. You also paid your monthly premium all year for the privilege.
-- **On health sharing:** you pay $500. The community covers the rest of the eligible amount.
+- **On health sharing:** you pay $500. The community funds the rest of the eligible amount.
 
 Same broken arm. Wildly different number on your side of the table.
 

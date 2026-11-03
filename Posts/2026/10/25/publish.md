@@ -8,6 +8,6 @@
 | **Meta description** | `A CrowdHealth member was accidentally shot, airlifted, and treated at three hospitals. The bills ran into the hundreds of thousands. What the crowd did.` |
 | **Category** | Health |
 
-- **Image:** `largest-bill-on-the-list.png` — Alt text: `A large figure of $643,242, the largest funded bill on CrowdHealth's public list, for a firearm injury.`
+- **Image:** `largest-bill-on-the-list.png` — Alt text: `A large figure of $643,242, one of the largest funded bills on CrowdHealth's public list, for a firearm injury.`
 - **Internal links:** /p/can-you-trust-health-sharing-with-a-big-bill/, /p/how-a-big-hospital-bill-gets-paid-without-insurance/, /what-i-earn/
 - **Affiliate:** yes — CrowdHealth referral (code NORMAL), disclosure + limits in body.

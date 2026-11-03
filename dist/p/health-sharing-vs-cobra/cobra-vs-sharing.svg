@@ -2,7 +2,7 @@
 <style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
   <rect class="f-bg" width="1200" height="1200"/>
 
-  <text class="f-ink" x="600" y="180" text-anchor="middle" font-size="44" font-weight="800">Same coverage, very different bill.</text>
+  <text class="f-ink" x="600" y="180" text-anchor="middle" font-size="44" font-weight="800">Big-bill help, very different price.</text>
 
   <!-- baseline -->
   <line class="s-ink" x1="200" y1="880" x2="1000" y2="880" stroke-width="3" stroke-opacity="0.25"/>

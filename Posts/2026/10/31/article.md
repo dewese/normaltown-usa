@@ -32,7 +32,7 @@ For most of October I've told one kind of story a day. A toddler on a medevac. A
 
 On Trustpilot, as of late September, CrowdHealth has a 4.9 out of 5 from 1,190 reviews. About 94% are five stars. Digging for the bad ones turned up 7 one-star, 5 two-star, and 11 three-star reviews. About a quarter of this month's posts came out of those.
 
-CrowdHealth's own results say more than 99% of eligible bills get funded. They also say 3% to 5% of submitted bills are ruled not eligible each month. Both numbers matter. The second one is where the unhappy stories live.
+CrowdHealth says 99.9% of eligible bills have been funded to date. They also say 3% to 5% of submitted bills are ruled not eligible each month. Both numbers matter. The second one is where the unhappy stories live.
 
 Keep in mind that most of those reviews were invited by the company, and many of the blogs I read earn a referral bonus. So do I.
 

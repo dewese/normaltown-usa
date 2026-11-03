@@ -8,7 +8,7 @@ This is the topic where you most need a straight shooter, because it's where hea
 
 A pre-existing condition is any health issue you already have when you sign up, or one you had recently. Think diabetes, high blood pressure, a past cancer, a bad back you've been treated for. The reason it matters is simple. Health sharing is a community pooling money for unexpected events. Something you already have isn't unexpected, so the model treats it differently.
 
-That's not a moral judgment about you. It's just the math of how a sharing pool stays fair for everyone in it.
+That's not a moral judgment about you. It's just the math of how a sharing community stays fair for everyone in it.
 
 ## The waiting-period rule
 

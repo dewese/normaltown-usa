@@ -22,7 +22,7 @@ You've probably felt it already. The claim denied on a technicality. The "this w
 
 ## Is there another way to do it?
 
-This is exactly why some people go looking for a different setup, one where the folks handling the money don't profit by keeping yours. Health sharing is one of those. Instead of a company that wins when it pays less, it's a large group of members who pool their money to cover each other's big bills. The group has no reason to deny you, because it isn't pocketing the leftover as profit. I gave [the honest, plain-English breakdown of how that works](https://www.normaltownusa.com/p/what-is-health-sharing).
+This is exactly why some people go looking for a different setup, one where the folks handling the money don't profit by keeping yours. Health sharing is one of those. Instead of a company that wins when it pays less, it's a large group of members who chip in directly to fund each other's big bills. The group has no reason to deny you, because it isn't pocketing the leftover as profit. I gave [the honest, plain-English breakdown of how that works](https://www.normaltownusa.com/p/what-is-health-sharing).
 
 One health-sharing community I've looked into is CrowdHealth, which charges a flat monthly fee instead of profiting from denied claims. If you want to see how their model works, you can [check out CrowdHealth](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
@@ -40,7 +40,7 @@ Because a dollar they don't pay out is a dollar they keep. So the process is bui
 
 ### Is there a health setup without this conflict?
 
-Health sharing is one. The community pools money to cover each other's big bills and has no leftover to keep as profit, so it has no reason to fight your bill. My family uses CrowdHealth, which charges a flat $60 a month per person. It's not insurance, though, and it isn't right for everyone. Start with [What Is Health Sharing?](/p/what-is-health-sharing/).
+Health sharing is one. The community chips in to fund each other's big bills and has no leftover to keep as profit, so it has no reason to fight your bill. My family uses CrowdHealth, which charges a flat $60 a month per person. It's not insurance, though, and it isn't right for everyone. Start with [What Is Health Sharing?](/p/what-is-health-sharing/).
 
 ### Does knowing this help me with my next claim?
 

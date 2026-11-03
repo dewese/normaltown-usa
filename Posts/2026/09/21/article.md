@@ -2,7 +2,7 @@
 
 > Dental and vision are the easy part of going without insurance because they're predictable, not emergencies. Ask the dentist for the cash price or use a dental savings plan. Pay for the eye exam directly, then buy glasses online for a fraction of the shop price. Add a cheap standalone dental or vision plan only if your family truly needs a lot of work.
 
-Dental and vision are the two things that trip people up when they think about leaving traditional insurance, or when they go with health sharing, which doesn't cover routine dental and vision. So people panic a little: "How will I afford the dentist and my glasses?" Take a breath. This stuff is way more manageable to pay for directly than the big medical scary stuff. Here's exactly how my family handles it, no insurance required.
+Dental and vision are the two things that trip people up when they think about leaving traditional insurance, or when they go with health sharing, where routine dental and vision aren't eligible. So people panic a little: "How will I afford the dentist and my glasses?" Take a breath. This stuff is way more manageable to pay for directly than the big medical scary stuff. Here's exactly how my family handles it, no insurance required.
 
 ## The mindset: these are predictable, so budget them
 
@@ -29,7 +29,7 @@ Eye care splits into two easy parts. The exam, and the glasses or contacts.
 
 ## When a small standalone plan makes sense
 
-If your family needs a lot of dental work, or someone needs regular specialized eye care, a cheap standalone dental or vision plan can still be worth it. These are inexpensive on their own and totally separate from your medical coverage. There's no rule that says you have to solve everything with one product. Layering a small dental plan on top of health sharing is a perfectly normal, smart move.
+If your family needs a lot of dental work, or someone needs regular specialized eye care, a cheap standalone dental or vision plan can still be worth it. These are inexpensive on their own and totally separate from your medical setup. There's no rule that says you have to solve everything with one product. Layering a small dental plan on top of health sharing is a perfectly normal, smart move.
 
 ## The takeaway
 

@@ -29,7 +29,7 @@ Here's exactly how it works:
 
 **What that means for you, honestly:** I have a financial reason to want you to join and stay. I'm telling you that up front because it's true, and because a site that pretends otherwise is lying to you about something small in a way that should make you doubt the big things.
 
-**What I do about it:** I write the parts that cost me money. [Who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/) talks people out of it. [What CrowdHealth doesn't cover](/p/what-crowdhealth-doesnt-cover/) is a list of reasons to say no. [What if the crowd doesn't fund your bill](/p/what-if-the-crowd-doesnt-fund-your-bill/) is the scary one, and I wrote it anyway. If I only wrote the good parts, the $250 would be worth more to me than you are, and it isn't.
+**What I do about it:** I write the parts that cost me money. [Who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/) talks people out of it. [What isn't eligible on CrowdHealth](/p/what-crowdhealth-doesnt-cover/) is a list of reasons to say no. [What if the crowd doesn't fund your bill](/p/what-if-the-crowd-doesnt-fund-your-bill/) is the scary one, and I wrote it anyway. If I only wrote the good parts, the $250 would be worth more to me than you are, and it isn't.
 
 ## The River one, in detail
 

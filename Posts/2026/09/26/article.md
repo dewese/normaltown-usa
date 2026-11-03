@@ -27,7 +27,7 @@ Do that, and over a year or two you build a personal buffer that does the job pe
 
 ## The honest caution
 
-Self-insuring works great for the small and medium bumps. It does not, by itself, cover a true catastrophe. That's why the sinking fund is a layer, not the whole plan. You still want real coverage for the big stuff behind it, whether that's insurance or health sharing. The budget habit protects the front line. It's not the whole army.
+Self-insuring works great for the small and medium bumps. It does not, by itself, cover a true catastrophe. That's why the sinking fund is a layer, not the whole plan. You still want a real backstop for the big stuff behind it, whether that's insurance or health sharing. The budget habit protects the front line. It's not the whole army.
 
 ## The takeaway
 

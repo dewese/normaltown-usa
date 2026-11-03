@@ -22,7 +22,7 @@ Then they asked 142 members to help fund it. The average ask was $64.71 per memb
 - **Members asked:** 142
 - **Average each:** $64.71
 
-Multiply 142 by $64.71 and you get $9,188.82. So the crowd covered essentially the whole negotiated price.
+Multiply 142 by $64.71 and you get $9,188.82. So the crowd funded essentially the whole negotiated price.
 
 Look at those two steps separately, because they do different jobs.
 

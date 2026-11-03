@@ -8,4 +8,4 @@
 | **Category** | Health |
 | **Updated** | 2026-09-30 |
 
-- **Image:** `crowd-covers-one.png` — Alt text: `A ring of sixteen people each sending a contribution inward to cover one member's medical bill, showing how health sharing spreads one big cost across a crowd.`
+- **Image:** `crowd-covers-one.png` — Alt text: `A ring of sixteen people each sending a contribution inward to fund one member's medical bill, showing how health sharing spreads one big cost across a crowd.`

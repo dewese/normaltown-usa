@@ -1,6 +1,6 @@
-# Having a Baby on CrowdHealth: What $3,000 Covers
+# Having a Baby on CrowdHealth: What $3,000 Pays For
 
-> On CrowdHealth, a whole pregnancy is one health event with a $3,000 member commitment covering prenatal care, delivery, and postpartum. The catch is timing: your due date has to be at least 300 days after you join. Members report getting paid back in one to four weeks, and some say the billing paperwork felt like a part-time job.
+> On CrowdHealth, a whole pregnancy is one health event with a $3,000 member commitment that includes prenatal care, delivery, and postpartum. The catch is timing: your due date has to be at least 300 days after you join. Members report getting paid back in one to four weeks, and some say the billing paperwork felt like a part-time job.
 
 Babies are the second biggest thing the CrowdHealth crowd pays for. The company expects about 800 of them this year. So there are a lot of member stories, and they rhyme.
 
@@ -20,9 +20,9 @@ And a fourth, writing on her own blog, was using a birthing center. One of her l
 
 Here's how the $3,000 works.
 
-With regular health events, you pay the first $500. Pregnancy is different. It's one big event that covers everything from the first prenatal visit through postpartum, and your share is $3,000 total.
+With regular health events, you pay the first $500. Pregnancy is different. It's one big event that includes everything from the first prenatal visit through postpartum, and your share is $3,000 total.
 
-Think of it like a cover charge at a concert. You pay once at the door, and after that the show is covered, whether the band plays one set or three.
+Think of it like a cover charge at a concert. You pay once at the door, and after that the show is paid for, whether the band plays one set or three.
 
 For comparison, a mom of three wrote that each of her earlier births on insurance cost her more than $6,000 out of pocket. And those were simple hospital births with no complications.
 
@@ -46,7 +46,7 @@ For a planned pregnancy, $3,000 for the whole thing is a good deal next to what 
 
 ## Questions I get about this
 
-### Does CrowdHealth cover pregnancy?
+### Is pregnancy eligible on CrowdHealth?
 
 Yes, on the standard membership, if your due date is at least 300 days after you join. Your share is $3,000 for the whole pregnancy, including prenatal visits, delivery, and postpartum care. Pregnancies that started before you joined aren't shared. More in [maternity on health sharing](/p/maternity-on-health-sharing/).
 

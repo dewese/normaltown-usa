@@ -5,7 +5,7 @@
 | **URL slug** | `how-a-big-hospital-bill-gets-paid-without-insurance` |
 | **Title tag** | `How a Big Hospital Bill Gets Paid Without Insurance` |
 | **Subtitle** | `You pay $500, negotiators shrink the bill, the crowd funds the rest. Here's the real mechanism.` |
-| **Meta description** | `How does a six-figure hospital bill get paid without insurance? You cover $500, the bill gets negotiated down, and the community funds the rest in about a week.` |
+| **Meta description** | `How does a six-figure hospital bill get paid without insurance? You pay $500, the bill gets negotiated down, and the community funds the rest in about a week.` |
 | **Category** | Health |
 
 - **Image:** `bill-shrinks-then-shared.png` — Alt text: `A tall plain bar labeled list price with a highlighted arrow pointing down to a much shorter bar labeled negotiated, then split into many small highlighted segments labeled the crowd.`

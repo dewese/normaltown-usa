@@ -13,7 +13,7 @@ CrowdHealth's term is **Previously Documented, Diagnosed, or Symptomatic** condi
 Here's the shape of it:
 
 - The window is **five years before you join**.
-- It covers anything **diagnosed, documented, symptomatic, suspected, or treated** in that window. Note "suspected." You don't need a formal diagnosis for this to apply.
+- It applies to anything **diagnosed, documented, symptomatic, suspected, or treated** in that window. Note "suspected." You don't need a formal diagnosis for this to apply.
 - **Years one and two of membership: not eligible for funding.** Not reduced. Not eligible.
 - **Year three and after: a $25,000 per year crowdfunding cap** for anything related to those conditions.
 
@@ -57,7 +57,7 @@ That's the trade. It's cheap partly because it doesn't do this. Knowing that doe
 
 Be honest with yourself here:
 
-- **Anyone with a chronic condition needing ongoing treatment.** Two years of nothing, then a $25,000 annual ceiling, is not coverage for diabetes or a heart condition. It's a partial subsidy starting two years from now.
+- **Anyone with a chronic condition needing ongoing treatment.** Two years of nothing, then a $25,000 annual ceiling, is not dependable funding for diabetes or a heart condition. It's a partial subsidy starting two years from now.
 - **Anyone in the middle of a workup.** If you're currently being investigated for something, it's symptomatic or suspected now, which puts it in the window.
 - **Anyone who'd be gambling.** If you're hoping the rule won't be applied to you, don't join. It'll be applied.
 
@@ -72,13 +72,13 @@ If that's you, the honest answer is a real insurance plan, and I'd rather say so
 
 ## The part I have to say
 
-Even outside these rules, CrowdHealth is not insurance. There's no legal guarantee any bill gets funded, and no state regulator to call if one doesn't. The record is strong, 53,877 bills funded at a 99.8 percent rate, but a record is not a promise.
+Even outside these rules, CrowdHealth is not insurance. There's no legal guarantee any bill gets funded, and no state regulator to call if one doesn't. The record is strong: CrowdHealth says 99.9 percent of eligible bills have been funded to date, 53,877 bills in all. But a record is not a promise.
 
 The whole picture, including costs and the monthly cap, is on my [CrowdHealth guide](/crowdhealth/).
 
 ## Questions I get about this
 
-### Does CrowdHealth cover pre-existing conditions?
+### Are pre-existing conditions eligible on CrowdHealth?
 
 Not in years one and two. From year three, up to $25,000 a year for conditions documented, diagnosed, symptomatic, suspected, or treated within five years of joining.
 
@@ -92,7 +92,7 @@ No. High blood pressure and high cholesterol are explicitly exempt from the prev
 
 ### What if I was never formally diagnosed?
 
-The rule covers conditions that were symptomatic or suspected, not just diagnosed. Pull your medical records and ask CrowdHealth in writing before you join.
+The rule applies to conditions that were symptomatic or suspected, not just diagnosed. Pull your medical records and ask CrowdHealth in writing before you join.
 
 ### Is asthma a pre-existing condition for CrowdHealth?
 

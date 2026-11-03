@@ -48,7 +48,7 @@ A 15-minute ear surgery cost one insured dad $8,000, and he built a company beca
 
 ## Questions I get about this
 
-### Does CrowdHealth cover ear tubes and tonsillectomies?
+### Are ear tubes and tonsillectomies eligible on CrowdHealth?
 
 Yes, when the problem is new since joining. CrowdHealth's public results show funded requests for both. You pay the first $500 of each health event. Ask the surgeon's office and the facility for written cash prices before the surgery date.
 
@@ -56,7 +56,7 @@ Yes, when the problem is new since joining. CrowdHealth's public results show fu
 
 It's a written estimate of what your care will cost, which providers are required to give to patients who aren't using insurance. CrowdHealth uses it to check the price and fund planned procedures. One family couldn't get one from their hospital, and that procedure went unfunded.
 
-### Are kids' checkups covered?
+### Are kids' checkups eligible?
 
 One wellness visit per child per year is shared, up to $300. Babies and toddlers have several well visits a year, so the rest are yours at the cash price. See [a healthy family's year on health sharing](/p/a-healthy-familys-year-on-health-sharing/) for how that adds up.
 

@@ -50,7 +50,7 @@ Two years of paying in. One catastrophic week. A phone call the next morning, an
 
 ## Questions I get about this
 
-### Would CrowdHealth cover a heart attack or bypass surgery?
+### Would a heart attack or bypass surgery be eligible on CrowdHealth?
 
 A new heart event is eligible, and CrowdHealth's list of large funded bills includes heart events of $180,129 and $122,340. You'd pay the first $500. A heart condition treated before you joined could fall under the pre-existing rule for your first two years.
 
