@@ -7,7 +7,7 @@
   <text class="f-ink" x="600" y="590" text-anchor="middle" font-size="34" font-weight="800">ONE</text>
   <text class="f-ink" x="600" y="640" text-anchor="middle" font-size="34" font-weight="800">BILL</text>
 
-  <!-- ring of small cyan checks (many members) -->
+  <!-- ring of small teal checks (many members) -->
   <g class="s-ac" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <polyline points="230,250 255,278 300,225"/>
     <polyline points="580,180 605,208 650,155"/>

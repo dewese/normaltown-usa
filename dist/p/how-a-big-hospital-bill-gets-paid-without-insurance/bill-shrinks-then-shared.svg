@@ -25,7 +25,7 @@
     <polygon points="880,700 920,720 880,740"/>
   </g>
 
-  <!-- 3: the crowd, small cyan segments -->
+  <!-- 3: the crowd, small teal segments -->
   <g> class="f-ac"
     <rect x="945" y="740" width="80" height="22" rx="4"/>
     <rect x="945" y="768" width="80" height="22" rx="4"/>

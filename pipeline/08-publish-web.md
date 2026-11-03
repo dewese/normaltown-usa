@@ -74,4 +74,4 @@ its date. This is now automated:
 Stations 1–5 (topic → outline → draft → fact-check → repurpose) are unchanged. Keep
 the voice spec (plain English, one analogy, no em dashes, no ellipses) and Station 6
 (value-first, disclose affiliate, state the honest limits). Graphics = Station 7 (VV
-style: soft-black, white line art, one cyan accent, Manrope, labels, no baked-in title).
+style: soft-black, white line art, one teal accent, Manrope, labels, no baked-in title).

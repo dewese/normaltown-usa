@@ -5,7 +5,7 @@
   <!-- ground -->
   <line class="s-ink" x1="200" y1="820" x2="1000" y2="820" stroke-width="3" stroke-opacity="0.25"/>
 
-  <!-- person, standing lighter (cyan) -->
+  <!-- person, standing lighter (teal) -->
   <circle class="s-ac" cx="470" cy="420" r="60" fill="none" stroke-width="12"/>
   <line class="s-ac" x1="470" y1="480" x2="470" y2="700" stroke-width="12" stroke-linecap="round"/>
   <line class="s-ac" x1="470" y1="700" x2="420" y2="815" stroke-width="12" stroke-linecap="round"/>

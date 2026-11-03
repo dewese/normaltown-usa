@@ -510,7 +510,7 @@ This is the list you asked for. The starred ones block the most work.
 ### About the look
 
 20. **React to the palette in 5.2.** Warm paper and deep teal, or a different direction?
-21. **Keep or retire the cyan?** My suggestion is to demote it to the bitcoin section.
+21. **Keep or retire the cyan?** My suggestion is to demote it to the bitcoin section. *(Update 2026-11-02: David retired it completely; teal is the only accent, bitcoin included.)*
 22. **Is dark mode important to you personally,** or is it fine as an option?
 23. **Any sites whose feel you like?** Two or three links tells me more than a paragraph.
 

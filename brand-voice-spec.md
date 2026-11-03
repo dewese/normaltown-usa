@@ -5,7 +5,7 @@
 > time the voice drifts — it's the steering wheel.
 >
 > **Graphics:** see the visual twin of this file, `brand/visual-identity.md`
-> (Visualize-Value-inspired: black canvas, white line art, one cyan accent #2DD4FF).
+> (Visualize-Value-inspired: black canvas, white line art, one teal accent #4FC7B4).
 > As of V2 that palette is the *dark* theme and the drawing spec for hero art; the site
 > defaults to warm paper with a deep-teal accent. See the brand table in `README.md`.
 

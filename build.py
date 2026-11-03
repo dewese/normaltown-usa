@@ -20,7 +20,7 @@ SEO / GEO features (all automatic, driven by the post files):
   * llms.txt + llms-full.txt, RSS with full text, sitemap with lastmod,
     Cloudflare `_headers`, 404 page, absolute internal links normalised.
 
-Brand (locked): canvas #0F0F0F (never #000), text #FFFFFF, accent cyan #2DD4FF,
+Brand (locked): canvas #0F0F0F (never #000), text #FFFFFF, accent teal #4FC7B4,
 Manrope for body/UI type. Logo = the SVG lockup in brand/logo/ (Montserrat ExtraBold,
 outlined to paths, so no logo font is loaded). Visualize-Value aesthetic: one idea,
 lots of negative space.
@@ -459,7 +459,7 @@ CTA_BLOCK = re.compile(r'^:::cta\s+(.+)$')
 def cta_block(spec):
     """`:::cta /contact/ | Label` -- the outline button for our own offers.
 
-    Filled cyan is reserved for the partner links, so our own asks read as a second tier
+    The filled accent button is reserved for the partner links, so our own asks read as a second tier
     instead of competing with them.
     """
     parts = [x.strip() for x in spec.split("|")]
@@ -764,26 +764,25 @@ CSS = """
      background; the accessibility statement promises AA, so nothing here is by eye.
      --accent teal on canvas 5.71:1, ink 16.55:1, muted 6.75:1, white on accent 6.05:1. */
   --canvas:#FBF8F3; --ink:#1B1917; --accent:#0E6F63; --accent-hover:#0B5F55;
-  --accent-ink:#FFFFFF; --warm:#A54B24; --bitcoin:#0E7490; --brand-mark:#0E6F63;
+  --accent-ink:#FFFFFF; --warm:#A54B24; --brand-mark:#0E6F63;
   --muted:#5C5751; --faint:rgba(27,25,23,.14);
   --panel:#F3EDE4; --measure:40rem;
   --serif:Fraunces,Georgia,'Times New Roman',serif;
   color-scheme:light dark;
 }
-/* The old identity, kept whole as the dark theme. Electric cyan #2DD4FF scores 1.66:1 on
-   warm paper, which is why it cannot be the light-theme accent; here it has 10.65:1, so
-   it lives on as the bitcoin colour where it always read best. */
+/* Dark theme: near-black canvas with the light teal accent. One accent colour everywhere;
+   the old turquoise accent was retired 2026-11-02. */
 @media (prefers-color-scheme:dark){
   :root:not([data-theme="light"]){
     --canvas:#141210; --ink:#F7F3EC; --accent:#4FC7B4; --accent-hover:#6FD8C7;
-    --accent-ink:#141210; --warm:#E8996A; --bitcoin:#2DD4FF; --brand-mark:#4FC7B4;
+    --accent-ink:#141210; --warm:#E8996A; --brand-mark:#4FC7B4;
     --muted:#A8A199; --faint:rgba(247,243,236,.16);
     --panel:#1C1917;
   }
 }
 :root[data-theme="dark"]{
   --canvas:#141210; --ink:#F7F3EC; --accent:#4FC7B4; --accent-hover:#6FD8C7;
-  --accent-ink:#141210; --warm:#E8996A; --bitcoin:#2DD4FF; --brand-mark:#4FC7B4;
+  --accent-ink:#141210; --warm:#E8996A; --brand-mark:#4FC7B4;
   --muted:#A8A199; --faint:rgba(247,243,236,.16);
   --panel:#1C1917;
 }
@@ -894,7 +893,6 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .post-card .meta{font-size:.82rem; color:var(--muted); font-weight:600;
   text-transform:uppercase; letter-spacing:.08em; margin-bottom:.5rem;
   display:flex; gap:.7rem; align-items:center; flex-wrap:wrap}
-/* Cyan is not retired, it is demoted: the bitcoin hub and its cards still wear it. */
 /* Bitcoin pages use the same teal accent as the rest of the site (David, 2026-11-02). */
 .table-wrap{overflow-x:auto; margin:1.6rem 0; -webkit-overflow-scrolling:touch}
 .body table{border-collapse:collapse; width:100%; font-size:.95rem; line-height:1.5}

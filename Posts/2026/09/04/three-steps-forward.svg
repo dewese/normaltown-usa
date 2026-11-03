@@ -17,7 +17,7 @@
   <text class="f-ink" x="600" y="740" text-anchor="middle" font-size="30" font-weight="800">GET SET UP</text>
   <text class="f-ink" x="600" y="778" text-anchor="middle" font-size="23" font-weight="500" fill-opacity="0.6">days 8–30</text>
 
-  <!-- step 3, the point, cyan filled -->
+  <!-- step 3, the point, teal filled -->
   <circle class="f-ac" cx="940" cy="600" r="70"/>
   <text class="f-bg" x="940" y="614" text-anchor="middle" font-size="46" font-weight="800">3</text>
   <text class="f-ink" x="940" y="740" text-anchor="middle" font-size="30" font-weight="800">SETTLE IN</text>

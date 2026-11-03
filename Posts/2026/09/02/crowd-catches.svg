@@ -9,7 +9,7 @@
   <!-- motion -->
   <line class="s-ink" x1="600" y1="470" x2="600" y2="560" stroke-width="3" stroke-opacity="0.4" stroke-dasharray="6 12"/>
 
-  <!-- the crowd: a wide net of connected cyan dots -->
+  <!-- the crowd: a wide net of connected teal dots -->
   <g> class="f-ac"
     <circle cx="360" cy="720" r="16"/><circle cx="440" cy="700" r="16"/><circle cx="520" cy="690" r="16"/>
     <circle cx="600" cy="686" r="16"/><circle cx="680" cy="690" r="16"/><circle cx="760" cy="700" r="16"/>

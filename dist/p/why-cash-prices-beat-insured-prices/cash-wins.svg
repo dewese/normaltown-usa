@@ -12,7 +12,7 @@
   <text class="f-ink" x="400" y="500" text-anchor="middle" font-size="46" font-weight="800" fill-opacity="0.5">$2,400</text>
   <text class="f-ink" x="400" y="700" text-anchor="middle" font-size="30" font-weight="700" fill-opacity="0.5">insured price</text>
 
-  <!-- cash price tag (cyan, bold) -->
+  <!-- cash price tag (teal, bold) -->
   <g class="s-ac" stroke-width="8" fill="none">
     <path d="M700 320 h200 v300 h-200 z"/>
   </g>

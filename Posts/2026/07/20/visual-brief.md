@@ -4,7 +4,7 @@
 
 **Graphic:** `crowd-covers-one.svg` (+ `crowd-covers-one.png` preview) — 1:1, 1200×1200.
 - 16 white outlined "member" dots in a ring, each with an arrow flowing inward.
-- ONE cyan circle (#2DD4FF) at center = the one member's bill being covered. The cyan is the point.
+- ONE teal circle (#4FC7B4) at center = the one member's bill being covered. The teal is the point.
 - Canvas soft-black #0F0F0F, white line art, Manrope (no type used in final — pure geometry). No title, no branding.
 - Motif reuse: same circle + arrow primitives as the visual vocabulary / premium-dollar, for a family look.
 

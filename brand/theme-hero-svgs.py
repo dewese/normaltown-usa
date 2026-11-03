@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """Recolour the post hero art so it answers to the reader's light/dark setting.
 
-Every hero was drawn with exactly three colours: #0F0F0F canvas, #FFFFFF line art,
-#2DD4FF accent. This rewrites each one to carry semantic classes plus a small internal
-stylesheet, so a single file renders warm on the light theme and keeps the original
-identity on the dark one. Browsers honour a `prefers-color-scheme` query inside an SVG
+Every hero is drawn with exactly three colours: #0F0F0F canvas, #FFFFFF line art,
+#4FC7B4 teal accent (older heroes used #2DD4FF turquoise, which is handled the same way). This rewrites each one to carry semantic classes plus a small internal
+stylesheet, so a single file renders warm on the light theme and dark on the dark one. Browsers honour a `prefers-color-scheme` query inside an SVG
 even when it is loaded through <img>, so nothing needs a second file.
 
 Idempotent: a file that already has the stylesheet is skipped. Standard library only.
@@ -20,7 +19,9 @@ import build  # noqa: E402  (the builder owns the category rules)
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 POSTS = ROOT / "Posts"
 
-BG, INK, ACCENT = "#0F0F0F", "#FFFFFF", "#2DD4FF"
+BG, INK, ACCENT = "#0F0F0F", "#FFFFFF", "#4FC7B4"
+# Heroes drawn before 2026-11-02 used the old turquoise accent; it maps to the same role.
+LEGACY_ACCENT = "#2DD4FF"
 
 # light, dark
 PALETTE = {
@@ -32,7 +33,7 @@ PALETTE = {
 # uses the same teal, at David's request; the name stays so the call sites read the same.
 PALETTE_BITCOIN = PALETTE
 
-ROLE = {BG: "bg", INK: "ink", ACCENT: "ac"}
+ROLE = {BG: "bg", INK: "ink", ACCENT: "ac", LEGACY_ACCENT: "ac"}
 MARKER = "normaltown-theme"
 
 
@@ -49,7 +50,7 @@ def convert_tag(tag):
 
     def take(attr, prefix):
         nonlocal tag
-        m = re.search(rf'\s{attr}="({BG}|{INK}|{ACCENT})"', tag, re.I)
+        m = re.search(rf'\s{attr}="({BG}|{INK}|{ACCENT}|{LEGACY_ACCENT})"', tag, re.I)
         if not m:
             return
         classes.append(f"{prefix}-{ROLE[m.group(1).upper()]}")
@@ -74,7 +75,7 @@ def convert(path, pal):
     out = re.sub(r'<[a-zA-Z][^>]*?/?>', lambda m: convert_tag(m.group(0)), src)
     # Root <svg> keeps fill="none"; drop the stylesheet in right after it.
     out = re.sub(r'(<svg\b[^>]*>)', r'\1\n' + stylesheet(pal).replace('\\', '\\\\'), out, count=1)
-    leftover = [c for c in (BG, INK, ACCENT) if c in out.replace(stylesheet(pal), "")]
+    leftover = [c for c in (BG, INK, ACCENT, LEGACY_ACCENT) if c in out.replace(stylesheet(pal), "")]
     if leftover:
         print(f"  WARN {path}: unconverted {leftover}", file=sys.stderr)
     path.write_text(out, encoding="utf-8")

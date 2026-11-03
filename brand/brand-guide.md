@@ -36,9 +36,9 @@ marked in one color.**
 > deep-teal accent `#0E6F63`; see `README.md`.
 
 - **Colors (exactly three):** soft-black `#0F0F0F` (never true black), white
-  `#FFFFFF`, cyan `#2DD4FF` (the accent that marks "the point"). No gray, no orange.
+  `#FFFFFF`, teal `#4FC7B4` (the accent that marks "the point"). No gray, no orange.
 - **Logo:** icon + wordmark lockup in `brand/logo/` (wordmark set in **Montserrat
-  ExtraBold**, outlined to paths; "Normaltown" white, "USA" + icon cyan). Reverse
+  ExtraBold**, outlined to paths; "Normaltown" white, "USA" + icon teal). Reverse
   (dark-canvas) versions only. The icon alone is the favicon.
 - **Font:** Manrope (Google Font) for all body, headline, UI, and graphic type. The
   logo is the only place Montserrat appears.
@@ -84,7 +84,7 @@ Normaltown-USA/
 ```
 
 ## Quick facts (keep current)
-- **Accent color decided:** cyan `#2DD4FF` (chosen over green/magenta/yellow).
+- **Accent color decided:** teal, `#0E6F63` on light and `#4FC7B4` on dark (2026-11-02; replaced the original turquoise `#2DD4FF`).
 - **Cornerstone article:** `articles/nobody-gets-paid-to-make-you-well/`.
 - **Platform:** self-hosted static site (`build.py` → GitHub `dewese/normaltown-usa` → Cloudflare). Publish = git push.
 - **CrowdHealth:** flat $60/mo fee (not a cut of claims); not insurance; has limits.

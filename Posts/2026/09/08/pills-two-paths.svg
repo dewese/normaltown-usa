@@ -10,7 +10,7 @@
 
   <!-- two branching arrows -->
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <!-- cheap generics (cyan) -->
+    <!-- cheap generics (teal) -->
     <path class="s-ac" d="M540 470 C 460 600, 380 640, 320 700" stroke-width="10"/>
     <polyline class="s-ac" points="345,660 320,705 365,712" stroke-width="10"/>
     <!-- costly ongoing (faint) -->

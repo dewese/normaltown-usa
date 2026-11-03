@@ -6,7 +6,7 @@
   <circle class="s-ink" cx="600" cy="540" r="260" fill="none" stroke-width="6" stroke-opacity="0.5"/>
   <!-- faint arc (not yet) -->
   <path class="s-ink" d="M600 280 A260 260 0 0 0 340 540" fill="none" stroke-width="18" stroke-opacity="0.3" stroke-linecap="round"/>
-  <!-- bright cyan arc (becomes eligible) -->
+  <!-- bright teal arc (becomes eligible) -->
   <path class="s-ac" d="M600 280 A260 260 0 0 1 860 540" fill="none" stroke-width="18" stroke-linecap="round"/>
 
   <!-- hand -->

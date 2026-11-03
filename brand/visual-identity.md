@@ -24,14 +24,14 @@ split it into two graphics.
 > **V2 note (2026-09-21):** the palette below is now the **dark theme**. The site's
 > default is warm paper with a deep-teal accent; see the brand table in `README.md` for
 > both sets of tokens and how one file serves both. Hero art is still drawn exactly as
-> described here, in `#0F0F0F` / `#FFFFFF` / `#2DD4FF`, and then run through
+> described here, in `#0F0F0F` / `#FFFFFF` / `#4FC7B4`, and then run through
 > `brand/theme-hero-svgs.py`, which rewrites those three colours into theme-aware
 > classes. Keep drawing to this spec; the script handles the rest.
 
 3. **Soft-black canvas, white line art.** Thin white monoline shapes on `#0F0F0F`,
    huge negative space.
-4. **One bright accent: cyan.** On exactly ONE element — the thing the eye should land
-   on (the point, the answer, the aligned choice). White is default; cyan is spotlight.
+4. **One bright accent: teal.** On exactly ONE element — the thing the eye should land
+   on (the point, the answer, the aligned choice). White is default; teal is spotlight.
 
 ---
 
@@ -41,7 +41,7 @@ split it into two graphics.
 |---|---|---|
 | Canvas (soft black) | `#0F0F0F` | the background. **Never true black `#000`.** |
 | Line + labels (white) | `#FFFFFF` | all line art and functional labels |
-| **Accent (cyan)** | **`#2DD4FF`** | the ONE element that is "the point" |
+| **Accent (teal)** | **`#4FC7B4`** | the ONE element that is "the point" |
 
 No gray, no second accent, **no orange** (CrowdHealth + bitcoin own it). The only
 allowance: white at reduced opacity (e.g., 60%) for a quieter label — still white.
@@ -53,14 +53,14 @@ The logo is a **lockup: icon + wordmark**. Master files live in `brand/logo/`.
 
 | File | What it is | Use |
 |---|---|---|
-| `normaltown-logo-reverse.svg` | Full lockup: cyan icon + "Normaltown" (white) + "USA" (cyan). 1132×156. | Site header, anything on the soft-black canvas |
+| `normaltown-logo-reverse.svg` | Full lockup: teal icon + "Normaltown" (white) + "USA" (teal). 1132×156. | Site header, anything on the soft-black canvas |
 | `normaltown-wordmark-reverse.svg` | Wordmark only, no icon. 977×99. | Tight horizontal spaces |
-| `normaltown-icon.svg` | The icon alone (two cyan shapes, ~118×156, portrait). | Favicon, avatars, app-style tiles |
+| `normaltown-icon.svg` | The icon alone (two teal shapes, ~118×156, portrait). | Favicon, avatars, app-style tiles |
 
-- **Wordmark font: Montserrat ExtraBold.** "Normaltown" is white, "USA" is cyan
-  `#2DD4FF`. The text is **outlined to paths** in the SVGs, so nothing needs to load
+- **Wordmark font: Montserrat ExtraBold.** "Normaltown" is white, "USA" is teal
+  `#4FC7B4`. The text is **outlined to paths** in the SVGs, so nothing needs to load
   Montserrat to render the logo correctly. Never re-typeset the wordmark in Manrope.
-- **Icon is always cyan** on the soft-black canvas. Do not recolor it, add a stroke, or
+- **Icon is always teal** on the soft-black canvas. Do not recolor it, add a stroke, or
   put it on a light background (these are "reverse" files: built for dark canvas only).
   A light-canvas version does not exist yet; make one from the same paths if needed.
 - Clear space: at least the icon's width on every side. Minimum header height 28px.
@@ -115,25 +115,25 @@ Two typefaces, each with one job:
 
 ## Visual vocabulary (reach for these first)
 - **Circle:** outline = ordinary/empty; filled = real/the point.
-- **Arrows:** straight = direct; jagged = wasted motion; up = growth; cyan arrow = "this grows."
+- **Arrows:** straight = direct; jagged = wasted motion; up = growth; teal arrow = "this grows."
 - **Triangle:** whole = the goal; subdivided = made of small parts.
 - **Bar / split:** proportions, before/after, where-the-money-goes.
-- **Two-up comparison:** the workhorse. Left = the common way; right (cyan) = the point.
+- **Two-up comparison:** the workhorse. Left = the common way; right (teal) = the point.
 - **Math symbols:** `=`, `≠`, `0 → 1`, `+`, `×` for crisp logical ideas.
 
 ---
 
 ## Production: who makes it
-- **Default = Claude builds it natively as SVG** (`#0F0F0F`/white/cyan, Manrope,
+- **Default = Claude builds it natively as SVG** (`#0F0F0F`/white/teal, Manrope,
   exact geometry), then renders a PNG preview via `qlmanage`. Edits are one-liners.
 - **Gemini only for the rare organic illustration** geometry can't carry — and it must
-  still obey this system: soft-black, white line art, one cyan accent, Manrope feel,
+  still obey this system: soft-black, white line art, one teal accent, Manrope feel,
   no embedded title, no branding.
 
 ---
 
 ## Do / Don't
-- ✅ One idea. Lots of soft-black. White lines. One cyan accent. Manrope. No title baked in.
+- ✅ One idea. Lots of soft-black. White lines. One teal accent. Manrope. No title baked in.
 - ✅ Functional data labels when they help. Reuse a motif across a cluster.
 - ❌ No true black, no gray, no second accent, no orange.
 - ❌ No embedded headline, no logo/wordmark/footer.

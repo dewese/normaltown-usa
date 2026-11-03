@@ -6,7 +6,7 @@
   <rect class="s-ink" x="520" y="200" width="160" height="200" rx="10" fill="none" stroke-width="6" stroke-opacity="0.7"/>
   <text class="f-ink" x="600" y="320" text-anchor="middle" font-size="34" font-weight="800" fill-opacity="0.7">BILL</text>
 
-  <!-- net: cyan mesh with a gap on the right -->
+  <!-- net: teal mesh with a gap on the right -->
   <g class="s-ac" stroke-width="6" fill="none">
     <path d="M180 640 Q600 820 940 660"/>
     <line x1="240" y1="662" x2="300" y2="760"/>

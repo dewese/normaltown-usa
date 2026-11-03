@@ -8,7 +8,7 @@
   <line class="s-ink" x1="230" y1="560" x2="230" y2="820" stroke-width="10" stroke-opacity="0.6"/>
   <line class="s-ink" x1="970" y1="560" x2="970" y2="820" stroke-width="10" stroke-opacity="0.6"/>
 
-  <!-- bridge span (cyan) -->
+  <!-- bridge span (teal) -->
   <path class="s-ac" d="M230 560 Q600 430 970 560" fill="none" stroke-width="14" stroke-linecap="round"/>
   <!-- suspenders -->
   <g class="s-ac" stroke-width="5" stroke-opacity="0.7">

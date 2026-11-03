@@ -11,7 +11,7 @@
   <text class="f-ink" x="390" y="265" text-anchor="middle" font-size="42" font-weight="800" fill-opacity="0.7">~$20,000</text>
   <text class="f-ink" x="390" y="960" text-anchor="middle" font-size="30" font-weight="700" fill-opacity="0.7">traditional plan</text>
 
-  <!-- health sharing bar (short/cyan) -->
+  <!-- health sharing bar (short/teal) -->
   <rect class="f-ac" x="690" y="740" width="240" height="160"/>
   <text class="f-ac" x="810" y="705" text-anchor="middle" font-size="42" font-weight="800">~$5,500</text>
   <text class="f-ink" x="810" y="960" text-anchor="middle" font-size="30" font-weight="800">health sharing</text>

@@ -16,7 +16,7 @@ and the article. Find the article's ONE core idea (and its analogy). Then design
 
 1. A SQUARE 1:1 graphic (default; add a 16:9 only if a blog hero needs it) that
    reduces the idea to GEOMETRY (circles, arrows, triangles, bars, math symbols).
-   - Canvas #0F0F0F (soft black, NEVER #000). White line art. CYAN #2DD4FF on
+   - Canvas #0F0F0F (soft black, NEVER #000). White line art. TEAL #4FC7B4 on
      exactly ONE element — the point. Manrope for any type.
    - DO NOT embed the article title/headline. The title is delivered in the article
      or social caption. Only include short FUNCTIONAL labels if the diagram needs
@@ -25,12 +25,12 @@ and the article. Find the article's ONE core idea (and its analogy). Then design
    - DEFAULT: write a precise SVG build-spec (shapes, coordinates, exact hex,
      font-family Manrope) so Claude renders it directly. Prefer this almost always.
    - ONLY IF it truly needs organic illustration: a Gemini prompt that still obeys
-     the system (soft-black, white line art, one cyan accent, no title, no branding).
+     the system (soft-black, white line art, one teal accent, no title, no branding).
 3. ALT TEXT: one plain sentence, topic worked in naturally (SEO + a11y).
 4. Filename: descriptive kebab-case, no brand name, no "vv".
 
-RULES: one idea; contrast carries meaning; cyan marks ONE thing; three colors only
-(#0F0F0F / #FFFFFF / #2DD4FF); no gray, no orange, no second accent; no embedded
+RULES: one idea; contrast carries meaning; teal marks ONE thing; three colors only
+(#0F0F0F / #FFFFFF / #4FC7B4); no gray, no orange, no second accent; no embedded
 title; no branding; no gradients/shadows/3D/clip-art.
 ```
 
