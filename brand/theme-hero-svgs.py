@@ -28,9 +28,9 @@ PALETTE = {
     "ink": ("#1B1917", "#F7F3EC"),
     "ac":  ("#0E6F63", "#4FC7B4"),
 }
-# Bitcoin posts keep the cyan. It is the one place it still reads right, and on warm
-# paper it has to darken to #0E7490 to clear 4.5:1.
-PALETTE_BITCOIN = dict(PALETTE, ac=("#0E7490", "#2DD4FF"))
+# Bitcoin posts used to keep the cyan (#0E7490 / #2DD4FF). Since 2026-11-02 every post
+# uses the same teal, at David's request; the name stays so the call sites read the same.
+PALETTE_BITCOIN = PALETTE
 
 ROLE = {BG: "bg", INK: "ink", ACCENT: "ac"}
 MARKER = "normaltown-theme"
