@@ -4,7 +4,7 @@
 |---|---|
 | **URL slug** | `where-the-crowds-money-goes` |
 | **Title tag** | `Where CrowdHealth's Crowd Money Goes: September 2026 Numbers` |
-| **Subtitle** | `Two pots: the fee runs the company, the crowd ask pays members' bills.` |
+| **Subtitle** | `Two payments: the fee runs the company, the crowd ask funds members' bills.` |
 | **Meta description** | `Where CrowdHealth members' money went in September 2026: 44% injury, 25% pregnancy, 100% of eligible bills funded, 4% ruled ineligible, and the top reasons why.` |
 | **Category** | Health |
 

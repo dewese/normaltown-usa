@@ -2,7 +2,7 @@
 
 > CrowdHealth's average monthly cost tends to rise in the fall. For a single member under 55 it went from $135 in July 2026 to $165 in October, counting the $60 fee. The last two times, it dropped back in January. That's a pattern, not a promise. The number that protects you is the cap: under 55, the crowd can never ask more than $140 a month, so your worst month is $200.
 
-If you're a CrowdHealth member, you've probably noticed the monthly number creeping up lately. You're not imagining it. And CrowdHealth says so too: the ask ticks up toward year end, same as past years.
+I canceled my family's expensive insurance plan, and the four of us have been CrowdHealth members since 2022. So this is my bill too. If you're a CrowdHealth member, you've probably noticed the monthly number creeping up lately. You're not imagining it. And CrowdHealth says so too: the ask ticks up toward year end, same as past years.
 
 Here are the real numbers, what they mean, and how to plan for them.
 
@@ -48,7 +48,7 @@ Think of it like the electric bill in a Texas August. You don't know the exact n
 
 ## How I plan for it
 
-**Budget for the cap, not the average.** Under 55, the crowd can ask up to $140 a month. With the $60 fee, that's $200. From 55 to 64, it's $340. For a family of four or more, it's $660. If your budget handles the cap, a high month is just a month. I walk through this in [how much CrowdHealth costs](/p/crowdhealth-cost/).
+**Budget for the cap, not the average.** Under 55, the crowd can ask up to $140 a month. With the $60 fee, that's $200. From 55 to 64, it's $340. For a family of four or more, the crowd cap is $420 per family, so with four $60 fees it's $660. If your budget handles the cap, a high month is just a month. I walk through this in [how much CrowdHealth costs](/p/crowdhealth-cost/).
 
 **Remember the fee goes up in January.** Starting January 1, 2027, the advocacy fee is $65 per member, not $60. If the crowd caps stay the same, the worst month becomes $205 under 55, $345 from 55 to 64, and $680 for a family of four. So even if the ask drops in January like it has before, part of that drop goes to the higher fee. The other 2027 changes are in [what changes at CrowdHealth on January 1, 2027](/p/crowdhealth-2027-changes/).
 
@@ -58,7 +58,7 @@ Think of it like the electric bill in a Texas August. You don't know the exact n
 
 Two Januaries is not a law of nature. The ask could stay high. It could go higher. The crowd ask is a share of real members' bills, and nobody knows next month's bills in advance.
 
-That's the trade. Insurance gives you a fixed monthly bill and a big deductible. CrowdHealth gives you a monthly number that moves, with a hard ceiling. If a number that moves would keep you up at night, even with a ceiling, that matters. [Who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/) covers it.
+That's the trade. Insurance gives you a fixed monthly bill and a big deductible. CrowdHealth gives you a monthly number that moves, with a hard ceiling. If a number that moves would keep you up at night, even with a ceiling, that matters. [Who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/) goes into it.
 
 ## Questions I get about this
 

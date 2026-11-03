@@ -2,13 +2,13 @@
 
 > People who save in bitcoin and people who use CrowdHealth tend to share four habits: they cut out the middleman, they pay directly, they like numbers they can check themselves, and they think in years, not months. That's why so many bitcoiners end up on CrowdHealth, and why CrowdHealth runs a bitcoin savings program. It doesn't mean one fits everybody who likes the other.
 
-My family uses CrowdHealth, and I buy bitcoin every week. For a while I thought those were two separate parts of my life. Then I noticed how many people I talk to do both. It isn't a coincidence. It's the same way of thinking, pointed at two different problems.
+In 2022 my family of four canceled an expensive insurance plan and joined CrowdHealth. No regrets. I also buy bitcoin every week on River. For a while I thought those were two separate parts of my life, like peanut butter and a power drill. Then I noticed how many people I talk to do both. It isn't a coincidence. It's the same way of thinking, pointed at two different problems.
 
 ## Habit 1: Cut out the middleman
 
-CrowdHealth's member guide says it plainly: members use healthcare as self-pay patients, "cutting out the health insurance middleman." You deal with the doctor. The crowd helps with the big bills. There's no network deciding who you can see.
+CrowdHealth's member guide says it plainly: members use healthcare as self-pay patients, "cutting out the health insurance middleman." You deal with the doctor. The crowd helps with the big bills. You pick any doctor you want.
 
-Bitcoin works the same way with money. You can hold it yourself, with no bank in between. I buy on River, and auto-withdrawal moves my bitcoin to a hardware wallet I control. I explain why that matters in [not your keys](/p/not-your-keys-what-it-means/).
+Bitcoin works the same way with money. You can hold it yourself, with no bank in between. I buy on River with its ForceField security setting turned on, and auto-withdrawal moves my bitcoin to a hardware wallet I control. ForceField is explained in [bitcoin scams and the lock I use](/p/bitcoin-scams-and-forcefield/). I explain why that matters in [not your keys](/p/not-your-keys-what-it-means/).
 
 Think of the farmers market. You hand the farmer your money and get the tomatoes. No warehouse, no distributor, no grocery chain taking a cut along the way. Fewer hands in the middle means fewer people getting paid to slow things down.
 
@@ -24,7 +24,7 @@ Both groups are comfortable with a little more responsibility in exchange for fe
 
 This is the one I love most.
 
-CrowdHealth publishes its monthly cost history. You can see that in 2026 a single member under 55 paid between $125 and $165 a month, before card fees. It also publishes Transparency Files on how bills got funded. I dig into those in [where the crowd's money goes](/p/where-the-crowds-money-goes/).
+CrowdHealth publishes its monthly cost history. You can see that in 2026 a single member under 55 paid between $125 and $165 a month, before card fees. It also publishes Transparency Files on how bills got funded. CrowdHealth says 99.9% of eligible bills have been funded to date, and its results page lets you look for yourself. I dig into those in [where the crowd's money goes](/p/where-the-crowds-money-goes/).
 
 River publishes a proof of reserves every month. Its October 6, 2026 proof showed 33,404.73 bitcoin in assets against 33,332.42 bitcoin owed to customers. You can even look up your own balance on the list. More on that in [proof of reserves, explained](/p/proof-of-reserves-explained/).
 
@@ -34,7 +34,7 @@ Your insurance company doesn't show you what last month's claims looked like. Yo
 
 Bitcoin savers buy a little at a time and leave it alone. I don't try to time the price. I wrote about why in [why I don't try to time the price](/p/why-i-dont-try-to-time-the-price/).
 
-CrowdHealth leans the same direction with your health. There's an annual wellness benefit, quarterly specials on tests like DEXA scans and fasting insulin, and a new [Longevity Discount](/p/crowdhealth-longevity-discount/) of up to 20% off the monthly contribution for passing certain health tests. And CrowdHealth makes its money from the flat advocacy fee, not a cut of the bills, so it isn't rewarded when you're sick.
+CrowdHealth leans the same direction with your health. There's an annual wellness feature, quarterly specials on tests like DEXA scans and fasting insulin, and a new [Longevity Discount](/p/crowdhealth-longevity-discount/) of up to 20% off the monthly contribution for passing certain health tests. And CrowdHealth makes its money from the flat advocacy fee, not a cut of the bills, so it isn't rewarded when you're sick.
 
 Both reward patience over the quick fix.
 
@@ -67,6 +67,7 @@ Not for me. It's a math and paperwork thing. I like seeing the numbers, and I li
 - [CrowdHealth member guide](https://www.joincrowdhealth.com/resources/member-guide?referral_code=NORMAL): self-pay as "cutting out the health insurance middleman," 25% to 85% self-pay discounts, and revenue from advocacy fees rather than a share of crowdfunding.
 - [CrowdHealth monthly cost history](https://www.joincrowdhealth.com/monthly-cost-insights?referral_code=NORMAL): the $125 to $165 range for 2026 under 55.
 - [CrowdHealth Longevity Discount Program](https://www.joincrowdhealth.com/longevity-discount-program?referral_code=NORMAL): up to 20% off the monthly contribution for passing approved tests.
+- [CrowdHealth crowdfunding results](https://www.joincrowdhealth.com/crowdfunding-results?referral_code=NORMAL): the Transparency Files and the share of eligible bills funded.
 - [River Proof of Reserves](https://river.com/reserves): the October 6, 2026 assets and liabilities.
 - [River Learn: what is proof of reserves](https://river.com/learn/what-is-proof-of-reserves/): further reading, including what a proof can't show.
 

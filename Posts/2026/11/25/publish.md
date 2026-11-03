@@ -5,7 +5,7 @@
 | **URL slug** | `hurt-over-the-holidays` |
 | **Title tag** | `Hurt Over the Holidays? What CrowdHealth Members Do First` |
 | **Subtitle** | `Emergency care first, always. Then the app, your Care Advocate, and every bill.` |
-| **Meta description** | `Hurt over the holidays on CrowdHealth? Call 911 or go to the ER first. Then open a health event, tell your Care Advocate, keep every bill, submit in 6 months.` |
+| **Meta description** | `Hurt over the holidays on CrowdHealth? ER or 911 first. Then open a health event, say you're self-pay, get the bill by mail, and submit it once it arrives.` |
 | **Category** | Health |
 
 - **Image:** `first-911-then-the-app.png` — Alt text: `Three numbered steps in a row: call 911 first, then open a health event, then keep every bill.`

@@ -1,8 +1,8 @@
 # CrowdHealth's Longevity Discount: Up to 20% Off for Three Blood and Body Tests
 
-> CrowdHealth's new Longevity Discount Program takes up to 20% off your monthly crowdfunding contribution in 2027 if you pass health tests. There are three: fasting insulin, a blood test for inflammation called hs-CRP, and a DEXA scan for belly fat. Pass one and you get 10%. Pass two and you get 20%. Tests must be done and sent in between October 1, 2026 and January 31, 2027. If two adults are on the account, both have to pass, or nobody gets it.
+> CrowdHealth's new Longevity Discount Program takes up to 20% off your monthly crowdfunding contribution in 2027 if you pass health tests. There are three: fasting insulin, a blood test for inflammation called hs-CRP, and a DEXA scan for belly fat. Pass one and you get 10%. Pass two and you get 20%. Tests must be done and sent in between October 1, 2026 and January 31, 2027. If two adults are on the account, each has to complete at least one test, and both have to pass, or nobody gets it.
 
-Most health plans charge you the same whether you run marathons or live on the couch. CrowdHealth just launched something different. Get healthier on paper, and your monthly cost goes down.
+Most insurance plans charge you the same whether you run marathons or live on the couch. I canceled my family's expensive insurance plan, and the four of us have been CrowdHealth members since 2022, so I read this one closely. CrowdHealth just launched something different. Get healthier on paper, and your monthly cost goes down.
 
 Here's how it works, and who should skip it.
 
@@ -24,21 +24,21 @@ Pass one test and you get 10% off. Pass two and you get 20% off. CrowdHealth wil
 
 ## The fine print that matters
 
-**Both adults have to pass.** If you and a spouse are on the account, each of you has to take part and pass at least one test for 10%, and two tests each for 20%. If only one of you passes, the account gets nothing.
+**Both adults have to take part.** The primary account holder and a spouse, if there is one, each have to complete at least one of the three tests. For the discount, each of you has to pass at least one test for 10%, and two tests each for 20%. If only one of you passes, the account gets nothing.
 
-**The window is short.** Tests have to be done and turned in through the app between October 1, 2026 and January 31, 2027. Old results don't count. The discount starts in January 2027, or February if you test in January.
+**The window is short.** Tests have to be done between October 1, 2026 and January 31, 2027, with results and receipts sent in through the app by January 31. Old results don't count. The discount starts in January 2027, or February if you test in January. If you qualify, you also get a badge in the app.
 
-**It's one year at a time.** The discount only covers the next calendar year. To keep it, you test again every year.
+**It's one year at a time.** The discount only applies to the next calendar year. To keep it, you test again every year.
 
 **It's for the Original membership only.** Black Swan members, the ones with the $15,000 commitment, can't use it.
 
 **It doesn't stack with a referral code.** If you join with a promo or referral code, including mine, the Longevity Discount waits until that code runs out, then kicks in.
 
-There's also a Q4 2026 special running alongside it: any two of these tests can be crowdfunded if you do them and turn them in this quarter. CrowdHealth won't fund the same test twice across the two programs.
+**The tests can be crowdfunded, up to a limit.** The tests themselves are eligible for crowdfunding, with a limit of 2 per eligible adult. January 31, 2027 is the last day to get them done and sent in, and it's also when enrollment in the program closes.
 
 ## What 20% looks like
 
-Think of it like a safe-driver discount on car coverage. You don't get paid to drive well. You just pay a little less because you're less likely to cost the group money.
+Think of it like a safe-driver discount on car insurance. You don't get paid to drive well. You just pay a little less because you're less likely to cost the group money.
 
 CrowdHealth's October 2026 average ask for a single member under 55 was $105, on top of the $60 fee. Twenty percent of $105 is $21 a month. Over a year, that's $252, roughly.
 
@@ -62,7 +62,7 @@ No. One passed test is enough for 10%. Two passed tests get you 20%. The DEXA sc
 
 ### Can I retake a test if I fail?
 
-Yes. But CrowdHealth only crowdfunds up to two tests per eligible adult per year. Any extra tests are on you.
+Yes. But CrowdHealth only crowdfunds up to two tests per eligible adult. Any extra tests are on you.
 
 ### Does my teenager have to pass too?
 
@@ -70,9 +70,9 @@ No. Only the primary account holder and a spouse, if there is one, take part. De
 
 ## Sources
 
-- [CrowdHealth Longevity Discount Program](https://www.joincrowdhealth.com/longevity-discount-program?referral_code=NORMAL): the three tests, pass levels, crowdfunded amounts, the both-adults rule, and the October 1 to January 31 window.
+- [CrowdHealth Longevity Discount Program](https://www.joincrowdhealth.com/longevity-discount-program?referral_code=NORMAL): the three tests, pass levels, crowdfunded amounts, the both-adults rule, the 2-per-adult crowdfunding limit, the October 1 to January 31 window, and when the discount starts.
 - [CrowdHealth monthly cost history](https://www.joincrowdhealth.com/monthly-cost-insights?referral_code=NORMAL): October 2026 average asks.
-- [CrowdHealth member tools](https://www.joincrowdhealth.com/member-tools-and-services?referral_code=NORMAL): annual wellness and quarterly specials.
+- [CrowdHealth member tools](https://www.joincrowdhealth.com/member-tools-and-services?referral_code=NORMAL): how annual wellness works today.
 
 ---
 

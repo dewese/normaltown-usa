@@ -2,7 +2,9 @@
 
 > CrowdHealth partners with Fold, a separate bitcoin company. If you link a Fold+ account, each month the gap between your crowdfunding maximum and what you were actually asked to give gets swept into it. In October 2026 that gap was about $35 for a single member under 55. It's your own money, not a bonus, and bitcoin's price swings hard.
 
-Every month CrowdHealth asks members to chip in toward other members' bills. That ask has a ceiling. Most months the crowd needs less than the ceiling. So where does the difference go?
+My family of four canceled an expensive insurance plan and joined CrowdHealth in 2022. No regrets. I also buy bitcoin every week. So a program that mixes the two was always going to get a close read from me, the way a dog gets a close read on a dropped sandwich.
+
+Here's how the CrowdHealth part works. Every month CrowdHealth asks members to chip in toward other members' bills. That ask has a ceiling. Most months the crowd needs less than the ceiling. So where does the difference go?
 
 Normally, nowhere. It just stays in your checking account. With this program, it gets moved into bitcoin savings instead.
 
@@ -13,7 +15,7 @@ CrowdHealth's program page lays it out in four steps:
 1. **Link a Fold+ account.** You give CrowdHealth your Fold+ account email, account number, and routing number.
 2. **Give as usual.** Your monthly crowdfunding contributions happen the same way they always do.
 3. **The gap gets swept.** CrowdHealth takes the difference between your crowdfunding maximum and what you actually contributed, and transfers it to your Fold+ account automatically.
-4. **The subscription is covered.** CrowdHealth pays for your Fold+ subscription for as long as you're a member.
+4. **The subscription is on CrowdHealth.** CrowdHealth pays for your Fold+ subscription for as long as you're a member.
 
 Quick note on names. Fold is its own company. CrowdHealth partners with it, but they're two separate businesses with two separate apps and two separate sets of rules.
 
@@ -50,13 +52,13 @@ You budget the maximum every month. Whatever the crowd didn't need goes to savin
 
 ## What I do
 
-I personally buy bitcoin on River, a different company. I have a weekly recurring buy, and auto-withdrawal moves it to my own hardware wallet. That's the do-it-yourself version of the same habit: pick an amount, automate it, and stop staring at the price. I walk through it in [zero-fee recurring buys](/p/zero-fee-recurring-bitcoin-buys/) and [auto-withdrawals](/p/bitcoin-auto-withdrawals/). If you want to try River, here's [my River link](https://river.com/signup?r=EYL3QNCO). It's an affiliate link: we each get the same bonus in bitcoin, up to $100, and it isn't available in every state.
+I personally buy bitcoin on River, a different company. I have a weekly recurring buy, River's ForceField security setting turned on, and auto-withdrawal moving it to my own hardware wallet. That's the do-it-yourself version of the same habit: pick an amount, automate it, and stop staring at the price. I walk through it in [zero-fee recurring buys](/p/zero-fee-recurring-bitcoin-buys/) and [auto-withdrawals](/p/bitcoin-auto-withdrawals/). If you want to try River, here's [my River link](https://river.com/signup?r=EYL3QNCO). It's an affiliate link: we each get the same bonus in bitcoin, up to $100, and it isn't available in every state.
 
 ## Questions I get about this
 
 ### Does the Fold+ program cost extra?
 
-CrowdHealth says it covers your Fold+ subscription while you're a member. The real cost is that you're sending the full maximum out the door every month. Any fees inside Fold for buying or selling are Fold's, so check their terms.
+CrowdHealth says it pays for your Fold+ subscription while you're a member. The real cost is that you're sending the full maximum out the door every month. Any fees inside Fold for buying or selling are Fold's, so check their terms.
 
 ### Does it work on Black Swan?
 
@@ -68,7 +70,7 @@ If you can comfortably budget the maximum and you already want to save some mone
 
 ## Sources
 
-- [CrowdHealth Fold+ Bitcoin Savings Program](https://www.joincrowdhealth.com/fold?referral_code=NORMAL): the four steps, the crowdfunding maximums, and the covered Fold+ subscription.
+- [CrowdHealth Fold+ Bitcoin Savings Program](https://www.joincrowdhealth.com/fold?referral_code=NORMAL): the four steps, the crowdfunding maximums, and the Fold+ subscription CrowdHealth pays for.
 - [CrowdHealth monthly cost history](https://www.joincrowdhealth.com/monthly-cost-insights?referral_code=NORMAL): October 2026 totals and the 2026 range for members under 55.
 - [CrowdHealth 2027 member guide updates](https://www.joincrowdhealth.com/member-guide-updates?referral_code=NORMAL): the advocacy fee moves from $60 to $65 per member starting January 1, 2027.
 - [River Learn: what is dollar-cost averaging](https://river.com/learn/what-is-dollar-cost-averaging/): further reading on buying a set amount on a schedule.

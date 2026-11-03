@@ -9,5 +9,5 @@
 | **Category** | Health |
 
 - **Image:** `two-circles-one-habit.png` — Alt text: `Two overlapping circles labeled bitcoin and CrowdHealth, with the overlap labeled check it yourself.`
-- **Internal links:** /p/not-your-keys-what-it-means/, /p/the-cash-price-secret/, /p/where-the-crowds-money-goes/, /p/proof-of-reserves-explained/, /p/why-i-dont-try-to-time-the-price/, /p/crowdhealth-longevity-discount/, /p/why-my-500-cushion-lives-in-cash/, /p/crowdhealth-fold-bitcoin-savings/, /what-i-earn/
+- **Internal links:** /p/not-your-keys-what-it-means/, /p/bitcoin-scams-and-forcefield/, /p/the-cash-price-secret/, /p/where-the-crowds-money-goes/, /p/proof-of-reserves-explained/, /p/why-i-dont-try-to-time-the-price/, /p/crowdhealth-longevity-discount/, /p/why-my-500-cushion-lives-in-cash/, /p/crowdhealth-fold-bitcoin-savings/, /what-i-earn/
 - **Affiliate:** yes — CrowdHealth referral (code NORMAL), disclosure + limits in body. River pages are linked as sources only (no referral link in this post).

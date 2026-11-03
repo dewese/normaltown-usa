@@ -1856,8 +1856,26 @@ def render_404():
 # Build
 # ----------------------------------------------------------------------------
 
+# Every link to CrowdHealth carries David's referral code (CrowdHealth confirmed the
+# code works on any joincrowdhealth.com page), even if an article forgets it.
+CROWDHEALTH_HREF = re.compile(r'href="(https?://(?:www\.)?joincrowdhealth\.com[^"]*)"')
+
+
+def add_referral_code(html):
+    def fix(m):
+        url = m.group(1)
+        if "referral_code=" in url:
+            return m.group(0)
+        base, hash_, frag = url.partition("#")
+        sep = "&amp;" if "?" in base else "?"
+        return f'href="{base}{sep}referral_code=NORMAL{hash_}{frag}"'
+    return CROWDHEALTH_HREF.sub(fix, html)
+
+
 def write(path, content):
     path.parent.mkdir(parents=True, exist_ok=True)
+    if path.suffix == ".html":
+        content = add_referral_code(content)
     path.write_text(content, encoding="utf-8")
 
 

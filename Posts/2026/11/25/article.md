@@ -1,14 +1,14 @@
 # Hurt Over the Holidays? What to Do First as a CrowdHealth Member
 
-> If it's an emergency, call 911 or go to the ER. Always. CrowdHealth comes after you're safe. Then open a health event in the app, tell your Care Advocate, tell the front desk you're a self-pay patient and ask to be billed after your care, keep every bill, and submit within 6 months. For small stuff, a virtual visit from the couch is often the easiest first stop.
+> If it's an emergency, call 911 or go to the ER. Always. CrowdHealth comes after you're safe. Then open a health event in the app, tell your Care Advocate, tell the front desk you're self-pay and ask for the bill by mail, then submit each bill as soon as it arrives. For small stuff, a virtual visit from the couch is often the easiest first stop.
 
-Holidays mean ladders, carving knives, icy driveways, and a backyard football game that got a little too serious. If somebody in your house gets hurt this week, here's the order I'd do things in. Read it now, while nobody's bleeding.
+Holidays mean ladders, carving knives, icy driveways, and a backyard football game that got a little too serious. My family of four has been on CrowdHealth since 2022, and a house full of family over the holidays is basically a stress test for any health setup. If somebody in your house gets hurt this week, here's the order I'd do things in. Read it now, while nobody's bleeding.
 
 ## Step one: Is it an emergency?
 
 If it might be, **call 911 or go to the nearest ER.** Don't open an app. Don't shop for prices. Don't call anybody first.
 
-CrowdHealth's own member guide agrees. It says your visits should start in the CrowdHealth app, except for unplanned urgent or emergency care. There's no network, so the nearest ER is fine, even if you're at your in-laws' place three states away.
+CrowdHealth's own member guide agrees. It says your visits should start in the CrowdHealth app, except for unplanned urgent or emergency care. You can pick any provider, so the nearest ER is fine, even if you're at your in-laws' place three states away.
 
 ## Not an emergency? Pick the right door
 
@@ -22,11 +22,13 @@ CrowdHealth's own member guide agrees. It says your visits should start in the C
 
 1. **Open a health event in the app.** One per person. If two kids get hurt in the same sledding crash, that's two events and two $500 commitments.
 2. **Tell your Care Advocate as soon as possible.** The member guide asks for this on all unplanned urgent or emergency care.
-3. **Say "self-pay" at the front desk.** The guide says to state you're a self-pay patient and ask to be billed after your care.
-4. **Don't rush to pay a big ER bill.** CrowdHealth says its post-negotiation team can work emergency balances down before you pay, "sometimes up to 95% off." That's their claim, but the advice holds: let your Care Advocate see the bill first.
+3. **Say "self-pay" at the front desk, and ask for the bill by mail.** Don't settle up at the counter. Have them send the bill so you can submit it.
+4. **Don't rush to pay a big ER bill.** CrowdHealth's team negotiates bills over $2,500, and it says it often gets prices 2, 5, even 10 times lower than what was first billed. That's what CrowdHealth says, not a promise, but the advice holds: get the bill to CrowdHealth first. Paying the provider in the end is still on you.
 5. **Keep every bill and receipt.** The ER, the doctor who bills separately, the pharmacy, the follow-up. Scan each one into the app and attach it to the event.
-6. **Submit within 6 months of the date of service.** A Thanksgiving injury has until late May. A Christmas one has until late June. Don't let them sit in a drawer.
+6. **Submit each bill as soon as it arrives.** The hard limit is 6 months from the date of service, so a Thanksgiving injury has until late May and a Christmas one until late June. But sooner means the negotiating can start sooner. Don't let them sit in a drawer.
 7. **Use the discount card for prescriptions.** Show the card in the app, pick the generic if there is one, and submit the receipt.
+
+One thing to know about your Care Advocate: they guide you and explain what to do next. They won't make the phone calls or pay the bills for you. You make the calls, ask for the bills, and pay your providers.
 
 I go deeper on the ER part in [my ER walkthrough](/p/health-sharing-and-the-er/), and one member's story is in [the ER bill and one phone call](/p/the-er-bill-one-phone-call/).
 
@@ -52,11 +54,11 @@ No. Emergency first, always. Open the event and tell your Care Advocate once you
 
 ### What if we're traveling when it happens?
 
-CrowdHealth doesn't use a provider network, so you can go anywhere in the US with a licensed provider. Tell the front desk you're self-pay and loop in your Care Advocate as soon as you can. International air ambulances are not eligible, so plan ahead if you're leaving the country.
+With CrowdHealth you pick any licensed provider in the US. Tell the front desk you're self-pay, ask for the bill by mail, and loop in your Care Advocate as soon as you can. International air ambulances are not eligible, so plan ahead if you're leaving the country.
 
 ### How long do I have to send in the bills?
 
-The member guide says 6 months from the date of service, barring extenuating circumstances. I'd scan them the week they arrive.
+The member guide says 6 months from the date of service, barring extenuating circumstances. I'd submit each one as soon as it arrives.
 
 ## Sources
 

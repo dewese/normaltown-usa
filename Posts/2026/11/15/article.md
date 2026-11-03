@@ -2,19 +2,19 @@
 
 > Your CrowdHealth payment splits two ways. The flat $60 fee goes to CrowdHealth to run the thing. The monthly crowd ask goes to other members' medical bills. In September 2026, injuries were 44.0% of the health events members funded, pregnancy 25.4%, illness 13.9%, wellness 10.7%, and other 6.1%. CrowdHealth reports funding 100% of eligible bills that month, and about 4% of submitted bills were ruled ineligible.
 
-When you pay into a crowd every month, it's fair to ask where the money lands. Is it paying for somebody's yacht? For marketing? For my neighbor's knee?
+My family of four has been on CrowdHealth since 2022, ever since I canceled our expensive insurance plan. When you pay into a crowd every month, it's fair to ask where the money lands. Is it paying for somebody's yacht? For marketing? For my neighbor's knee?
 
 CrowdHealth posts a report every month called the Transparency Files. Here's what the latest one says, in plain English.
 
-## Two pots, two jobs
+## Two payments, two jobs
 
-Think of a road trip gas kitty. Everybody throws in, and that money goes in the tank. Separately, you might pay the driver for driving. Two pots. One fills the tank, one pays the person doing the work.
+Think of a road trip with friends. When the tank runs low, everybody chips in for gas. Separately, you might pay the driver for driving. Two payments. One fills the tank, one pays the person doing the work.
 
 CrowdHealth works the same way.
 
 **The $60 advocacy fee** goes to CrowdHealth. It pays for the company: the app, the people who negotiate bills, and your Care Advocate. It's per member, children included. Starting January 1, 2027, it's $65.
 
-**The monthly crowd ask** goes to other members' bills. In September 2026, the average ask was $95 for members under 55, $190 for ages 55 to 64, and $285 for a family of four or more. That's the gas kitty. CrowdHealth's pricing page describes the fee as the part that goes to CrowdHealth, and the contribution as what you're asked each month to help another member. The company's pay is the flat fee, not a cut of the bills, which is a big part of why I trust the setup.
+**The monthly crowd ask** goes to other members' bills. In September 2026, the average ask was $95 for members under 55, $190 for ages 55 to 64, and $285 for a family of four or more. That's the gas money, and it goes from member to member. CrowdHealth's pricing page describes the fee as the part that goes to CrowdHealth, and the contribution as what you're asked each month to help another member. The company's pay is the flat fee, not a cut of the bills, which is a big part of why I trust the setup.
 
 ## What the crowd paid for in September
 
@@ -40,7 +40,7 @@ CrowdHealth's running total of money crowdfunded was $36,812,938 in the August r
 
 Members turned in 4,041 bills in September. CrowdHealth says 100% of eligible bills were funded. On average, it took 8.29 days from a complete bill to the money landing in the member's account. The median was 7 days.
 
-And a few bills are much bigger than the rest. CrowdHealth's October newsletter mentioned two recent events: one of nearly $3 million and one of $1.3 million.
+And a few bills are much bigger than the rest. CrowdHealth says the largest bill it has funded is a $3 million NICU bill for a member's baby. Another member's ongoing treatment for glioblastoma, a type of brain cancer, has been funded at $1.3 million. Across all months, CrowdHealth says 99.9% of eligible bills have been funded to date.
 
 ## What the crowd didn't pay for
 
@@ -52,7 +52,7 @@ This is the part I always read first. In September, 4.01% of submitted bills wer
 4. The bill was turned in more than 6 months after the date of service.
 5. Dental care outside of annual wellness.
 
-Number one is the big lesson. CrowdHealth is built for new problems, not ones you already had. Number four is the easiest to avoid: turn your bills in fast. I cover more of these traps in [what CrowdHealth doesn't cover](/p/what-crowdhealth-doesnt-cover/).
+Number one is the big lesson. CrowdHealth is built for new problems, not ones you already had. Number four is the easiest to avoid: turn your bills in fast. I go through more of these traps in [what isn't eligible on CrowdHealth](/p/what-crowdhealth-doesnt-cover/).
 
 ## The honest part
 
@@ -76,6 +76,7 @@ Having a baby costs a lot, even at cash prices. On CrowdHealth, a pregnancy has 
 
 ## Sources
 
+- [CrowdHealth crowdfunding results](https://www.joincrowdhealth.com/crowdfunding-results?referral_code=NORMAL): 99.9% of eligible bills funded to date, and every funding request published.
 - [CrowdHealth Transparency Files, September 2026](https://www.joincrowdhealth.com/crowdfunding-results/september-2026?referral_code=NORMAL): bills submitted, event mix, average ask, ineligible bills and reasons, funding time, and the running total.
 - [CrowdHealth Transparency Files, August 2026](https://www.joincrowdhealth.com/crowdfunding-results/august-2026?referral_code=NORMAL): the August event mix and running total.
 - [CrowdHealth pricing calculator](https://www.joincrowdhealth.com/pricing?referral_code=NORMAL): the advocacy fee and the monthly crowd cap.

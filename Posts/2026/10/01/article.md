@@ -106,8 +106,8 @@ Code **NORMAL** gets your first 3 months at $99 a month per member. It's three m
 
 ## Sources
 
-- [CrowdHealth pricing](https://www.joincrowdhealth.com/pricing): the $60 subscription, the crowd contribution caps by age and household, and the $500 member commitment.
-- [CrowdHealth member guide](https://www.joincrowdhealth.com/resources/member-guide): how a health event and the member commitment are defined, and the rules on conditions you already have.
+- [CrowdHealth pricing](https://www.joincrowdhealth.com/pricing?referral_code=NORMAL): the $60 subscription, the crowd contribution caps by age and household, and the $500 member commitment.
+- [CrowdHealth member guide](https://www.joincrowdhealth.com/resources/member-guide?referral_code=NORMAL): how a health event and the member commitment are defined, and the rules on conditions you already have.
 - [CrowdHealth reviews](https://www.trustpilot.com/review/joincrowdhealth.com): the 4.9-star member rating referenced across this site.
 
 ---

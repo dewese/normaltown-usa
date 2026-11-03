@@ -22,12 +22,12 @@ Add the monthly bill times 12 to the deductible. That's roughly what a year with
 
 ## What I compare it to
 
-My family of four has used CrowdHealth since 2022. It's not insurance. It's healthcare crowdfunding: members chip in each month to pay each other's big bills, and you cover the first $500 of each health event yourself.
+I canceled my family's expensive insurance plan, and the four of us have been CrowdHealth members since 2022. No regrets. It's not insurance. It's healthcare crowdfunding: members chip in each month to help fund each other's big bills, and you pay the first $500 of each health event yourself.
 
 The monthly side has three numbers you can see before you join:
 
 - A flat $60 per member per month (it goes to $65 starting January 1, 2027).
-- A monthly crowd ask that moves around but has a hard cap: $140 per person under 55, $280 from 55 to 64, $420 for a family of four or more.
+- A monthly crowd ask that moves around but has a hard cap: $140 per person under 55, $280 from 55 to 64, $420 per family for a family of four or more. Today the most a single member under 55 can pay in a month is $200, fee included.
 - CrowdHealth's own average for October 2026 was $165 a month for a single member under 55 and $555 for a family of four, before a 1% to 3% card or bank fee.
 
 I walk through the full math in [how much CrowdHealth costs](/p/crowdhealth-cost/) and compare it head to head in [health sharing vs. insurance](/p/health-sharing-vs-insurance-honest-trade-offs/).
@@ -37,9 +37,9 @@ I walk through the full math in [how much CrowdHealth costs](/p/crowdhealth-cost
 This is the honest part, and it matters more today than any other day of the year. Here's who I'd tell to stay put:
 
 - **Anyone with an ongoing condition that needs regular, costly care.** Conditions you had before joining generally aren't eligible for crowdfunding.
-- **Anyone who wants a legal guarantee.** CrowdHealth has funded a lot of bills, but it can't promise to pay any of them.
+- **Anyone who wants a legal guarantee.** CrowdHealth says it has funded 99.9% of eligible bills to date, but it can't promise to fund any one of them.
 - **Anyone already pregnant.** For maternity, the due date has to be at least 300 days after your membership starts.
-- **People in California, DC, Massachusetts, New Jersey, Rhode Island, or Vermont** who need coverage that satisfies their state's insurance requirement. CrowdHealth doesn't.
+- **People in California, DC, Massachusetts, New Jersey, Rhode Island, or Vermont** who need to meet their state's health insurance requirement. CrowdHealth doesn't count as insurance under those rules, so you may owe a state penalty. Check your state's guidance or ask a tax adviser.
 - **People whose help on the exchange makes a plan very cheap.** If your monthly bill is close to zero, the math may simply favor insurance.
 - **Daily tobacco users and people over CrowdHealth's weight limits,** who aren't eligible to join.
 
@@ -69,6 +69,7 @@ No. You can join any month. That's handy, but it doesn't change the insurance si
 
 - [HealthCare.gov: dates and deadlines](https://www.healthcare.gov/quick-guide/dates-and-deadlines/): November 1 start, December 15 for January 1 coverage, January 15 end.
 - [CrowdHealth pricing calculator](https://www.joincrowdhealth.com/pricing?referral_code=NORMAL): the $60 fee and the monthly crowd cap for your household.
+- [CrowdHealth crowdfunding results](https://www.joincrowdhealth.com/crowdfunding-results?referral_code=NORMAL): 99.9% of eligible bills funded to date.
 - [CrowdHealth monthly cost history](https://www.joincrowdhealth.com/monthly-cost-insights?referral_code=NORMAL): October 2026 average costs.
 - [CrowdHealth FAQ](https://www.joincrowdhealth.com/resources/faq?referral_code=NORMAL): state insurance requirements and what CrowdHealth is not.
 - [CrowdHealth 2027 member guide updates](https://www.joincrowdhealth.com/member-guide-updates?referral_code=NORMAL): the fee moving to $65 starting January 1, 2027.

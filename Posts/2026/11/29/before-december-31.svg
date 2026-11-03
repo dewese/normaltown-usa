@@ -9,10 +9,10 @@
   <text class="f-ink" x="430" y="533" font-size="38" font-weight="800" letter-spacing="3">USE WELLNESS</text>
   <rect class="s-ink" x="300" y="630" width="80" height="80" fill="none" stroke-width="4"/>
   <path class="s-ac" d="M318 672 L334 690 L364 652" fill="none" stroke-width="7"/>
-  <text class="f-ink" x="430" y="683" font-size="38" font-weight="800" letter-spacing="3">Q4 TESTS</text>
+  <text class="f-ink" x="430" y="683" font-size="38" font-weight="800" letter-spacing="3">LONGEVITY TESTS</text>
   <rect class="s-ink" x="300" y="780" width="80" height="80" fill="none" stroke-width="4"/>
   <path class="s-ac" d="M318 822 L334 840 L364 802" fill="none" stroke-width="7"/>
   <text class="f-ink" x="430" y="833" font-size="38" font-weight="800" letter-spacing="3">BUDGET FOR $65</text>
   <line class="s-ink" x1="300" y1="960" x2="900" y2="960" stroke-width="3" stroke-opacity="0.5"/>
-  <text class="f-ac" x="600" y="1030" text-anchor="middle" font-size="34" font-weight="800" letter-spacing="3">BEFORE DEC 31</text>
+  <text class="f-ac" x="600" y="1030" text-anchor="middle" font-size="34" font-weight="800" letter-spacing="3">YEAR-END LIST</text>
 </svg>

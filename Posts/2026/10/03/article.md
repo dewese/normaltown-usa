@@ -97,7 +97,7 @@ Because it isn't insurance, doesn't guarantee payment, and doesn't fit Maryland'
 
 - [Maryland Insurance Administration consumer advisory on CrowdHealth](https://insurance.maryland.gov/Consumer/Pages/ConsumerAdvisory-MIA-warns-of-risks-involved-in-crowd-funding-healthcare-payment-platform-CrowdHealth.aspx): the March 2026 advisory, and the point that state regulators cannot assist members.
 - [CrowdHealth reviews on Trustpilot](https://www.trustpilot.com/review/joincrowdhealth.com): the 4.9-star rating and the member reviews referenced here.
-- [CrowdHealth member guide](https://www.joincrowdhealth.com/resources/member-guide): the stated limits, eligibility rules, and the fact that funding is not guaranteed.
+- [CrowdHealth member guide](https://www.joincrowdhealth.com/resources/member-guide?referral_code=NORMAL): the stated limits, eligibility rules, and the fact that funding is not guaranteed.
 
 ---
 

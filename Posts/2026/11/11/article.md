@@ -1,8 +1,8 @@
 # Sick Season on CrowdHealth: Colds, Flu, and What You Actually Pay
 
-> For colds and flu on CrowdHealth, most of what you pay is small, and most of it is yours. A video visit through the app can be turned in to the crowd. An in-person urgent care visit is a health event, so you cover the first $500, which is often the whole bill. Prescriptions get cheaper with the discount card in the app. A true emergency is where the crowd matters, and the rule there is simple: go, then call your Care Advocate before you pay.
+> For colds and flu on CrowdHealth, most of what you pay is small, and most of it is yours. A video visit through the app can be turned in to the crowd. An in-person urgent care visit is a health event, so you pay the first $500, which is often the whole bill. Prescriptions get cheaper with the discount card in the app. A true emergency is where the crowd matters, and the rule there is simple: get care first, say you're self-pay, ask for the bill by mail, and send it to CrowdHealth as soon as it arrives.
 
-It's that time of year. Somebody at school sneezes and a week later your whole house sounds like a seal colony. If you're on CrowdHealth, or thinking about it, here's what a sick season actually costs.
+It's that time of year. Somebody at school sneezes and a week later your whole house sounds like a seal colony. My family of four has been on CrowdHealth since 2022, so this is our season too. If you're on CrowdHealth, or thinking about it, here's what a sick season actually costs.
 
 The short version: match the care to the size of the problem. You don't call the fire department for a candle. You don't use a spray bottle on a house fire. Same idea.
 
@@ -14,7 +14,7 @@ The tricky part is knowing when it's more than a cold. That's what step two is f
 
 ## Step two: a video visit from the couch
 
-On the standard CrowdHealth membership, you get unlimited virtual doctor visits through HealthTap in the app. CrowdHealth says those visits are eligible for funding through the community. Members describe paying for the visit and then getting it back after they turn it in.
+On the standard CrowdHealth membership, you get unlimited virtual doctor visits through HealthTap in the app. CrowdHealth says those visits are eligible for funding through the community. Members describe paying for the visit and then having it funded after they turn it in.
 
 This is the best tool for sick season. You don't drag a feverish kid to a waiting room full of other feverish kids. A doctor can tell you whether it's worth going in, and send a prescription to your pharmacy if you need one.
 
@@ -37,13 +37,15 @@ Two tips that save real money:
 
 Flu medicine, antibiotics, an inhaler. The CrowdHealth app has a prescription discount card through MedalistRx. CrowdHealth's FAQ says its pharmacy partner can cut prescription costs by 50% to 60%.
 
+Prescriptions tied to a health event can be eligible for crowdfunding for up to 12 consecutive months. Long-term prescriptions aren't eligible.
+
 Also call the pharmacy and ask the cash price. Sometimes it beats the card. [The cash price secret](/p/the-cash-price-secret/) has the script.
 
 ## Step five: a real emergency
 
 Trouble breathing. A fever in a newborn. Chest pain. Go to the ER. Don't stop to think about money.
 
-The money part comes after. Tell CrowdHealth about the event before you pay the bill. A big ER visit is exactly what the crowd is for, and CrowdHealth's FAQ says its partners can help negotiate an inflated emergency bill over $2,500 before it's paid. [Health sharing and the ER](/p/health-sharing-and-the-er/) walks through it.
+The money part comes after. Tell the front desk you're self-pay and ask them to send the bill by mail. When it arrives, submit it to CrowdHealth right away, before you pay it. A big ER visit is exactly what the crowd is for, and CrowdHealth negotiates bills over $2,500, so an inflated emergency bill can be worked down before it's paid. Your Care Advocate guides you through the steps, but you make the calls and payments yourself. [Health sharing and the ER](/p/health-sharing-and-the-er/) walks through it.
 
 ## The honest part
 
@@ -57,7 +59,7 @@ If your family has someone with asthma or another condition that flares every wi
 
 ### Does CrowdHealth pay for flu shots?
 
-I don't see flu shots on CrowdHealth's list of annual wellness services, which covers things like checkups, well-child visits, and dental and vision exams. Plan to pay for it yourself, and ask the cash price.
+I don't see flu shots on CrowdHealth's list of annual wellness services, which includes things like checkups, well-child visits, and dental and vision exams. Plan to pay for it yourself, and ask the cash price.
 
 ### Is each family member's flu a separate event?
 
@@ -65,7 +67,7 @@ Yes, each person's illness is its own health event, with its own $500. One perso
 
 ### Can I use an HSA for these bills?
 
-If you already have HSA money, CrowdHealth's FAQ says you can use it for bills inside the $500 commitment. You can't use it to pay the monthly membership.
+If you already have HSA money, CrowdHealth's FAQ says you can use it for eligible bills inside the $500 commitment. You can't use it for the monthly membership fee or crowd contributions. And because CrowdHealth isn't HSA-qualified, you can't keep adding new money to an HSA while you rely on it.
 
 ## Sources
 
@@ -73,6 +75,7 @@ If you already have HSA money, CrowdHealth's FAQ says you can use it for bills i
 - [CrowdHealth FAQ](https://www.joincrowdhealth.com/resources/faq?referral_code=NORMAL): emergency bills, prescription discounts, HSAs, and the annual wellness list.
 - [CrowdHealth 2027 member guide updates](https://www.joincrowdhealth.com/member-guide-updates?referral_code=NORMAL): virtual visits up to $129 without the $500, starting January 1, 2027.
 - [CrowdHealth member guides](https://www.joincrowdhealth.com/member-guides?referral_code=NORMAL): the $500 member commitment per health event.
+- [CrowdHealth member guide](https://www.joincrowdhealth.com/resources/member-guide?referral_code=NORMAL): what to do in an emergency, what Care Advocates do, and the 12-month prescription limit.
 
 ---
 

@@ -8,7 +8,7 @@ Because emergency money and savings money are different jobs. Using one tool for
 
 ## The $500 I always keep ready
 
-On CrowdHealth, you pay the first $500 of every health event yourself. A sprained ankle, a kid's stitches, a bad case of the flu that turns into an urgent care visit. The crowd only steps in after that.
+I canceled my family's expensive insurance plan, and the four of us have been CrowdHealth members since 2022. On CrowdHealth, you pay the first $500 of every health event yourself. A sprained ankle, a kid's stitches, a bad case of the flu that turns into an urgent care visit. The crowd is only asked to help fund eligible bills after that.
 
 So I keep a cushion for that $500 sitting in cash. Not invested. Not clever. Just there.
 
@@ -38,7 +38,7 @@ The weekly buy is the part I'm writing about all month. If you want the setup, i
 
 ## The honest part
 
-Some bitcoin fans will tell you dollars lose value, so holding any cash is a mistake. I agree dollars lose value over time. I've written about [the dollar's slow leak](/p/the-dollars-slow-leak/). But a few hundred dollars losing a little value over a year is a small cost. Selling bitcoin in a crash to cover a bill you knew was coming is a big one.
+Some bitcoin fans will tell you dollars lose value, so holding any cash is a mistake. I agree dollars lose value over time. I've written about [the dollar's slow leak](/p/the-dollars-slow-leak/). But a few hundred dollars losing a little value over a year is a small cost. Selling bitcoin in a crash to pay a bill you knew was coming is a big one.
 
 And if you don't have the cash cushion yet, don't buy bitcoin yet. Build the cushion first. That goes double if you're thinking about CrowdHealth. If you can't keep $500 on hand, the $500 commitment will hurt, and [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/) is worth a read before anything else.
 

@@ -104,8 +104,8 @@ Children who become members at birth are excepted from the congenital condition 
 
 ## Sources
 
-- [CrowdHealth member guide](https://www.joincrowdhealth.com/resources/member-guide): the Previously Documented, Diagnosed, or Symptomatic rules, the five-year window, the year one and two ineligibility, the $25,000 annual cap from year three, the example conditions, and the cholesterol and blood pressure exemption.
-- [CrowdHealth FAQ](https://www.joincrowdhealth.com/resources/faq): how membership years are counted and how to ask about a specific condition.
+- [CrowdHealth member guide](https://www.joincrowdhealth.com/resources/member-guide?referral_code=NORMAL): the Previously Documented, Diagnosed, or Symptomatic rules, the five-year window, the year one and two ineligibility, the $25,000 annual cap from year three, the example conditions, and the cholesterol and blood pressure exemption.
+- [CrowdHealth FAQ](https://www.joincrowdhealth.com/resources/faq?referral_code=NORMAL): how membership years are counted and how to ask about a specific condition.
 
 ---
 

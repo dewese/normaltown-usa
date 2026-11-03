@@ -4,19 +4,21 @@
 
 Most people learn about CrowdHealth's member tools the way they learn about their car's spare tire: when they need it. That's backwards. Most of these tools save the most money when you use them before you've had the care, not after.
 
-Here they are, in the order I'd reach for them.
+My family of four canceled an expensive insurance plan and has been on CrowdHealth since 2022. Here are the tools, in the order I'd reach for them.
 
 ## 1. Your Care Advocate, first
 
 CrowdHealth pairs every member with a dedicated Care Advocate, and its member tools page says it's the same person every time. Think of them as your first phone call, not your last.
 
-The member guide is specific about this. Before any scheduled diagnostic, lab, imaging, or other planned test, contact your Care Advocate. They can help you shop and, when one's available, connect you with a discount voucher for the same service nearby. For a scheduled surgery, call in advance so they have time to compare prices.
+The member guide is specific about this. Before any scheduled diagnostic, lab, imaging, or other planned test, contact your Care Advocate. They can help you shop and, when one's available, connect you with a discount voucher for the same service nearby. For a scheduled surgery, call in advance so they have time to help you compare prices.
+
+One thing to be clear on: a Care Advocate guides and teaches. They won't make the calls or payments for you. You ask for the cash price, request the itemized bill, upload it, and pay the provider. Think coach, not caddie.
 
 I explain what that relationship looks like day to day in [what a Care Advocate actually does](/p/what-a-care-advocate-actually-does/).
 
 ## 2. Find a Doc
 
-There's no network, so you can keep your own doctor. If you need a new one, CrowdHealth's Find a Doc service taps a nationwide database of doctors, many vetted by CrowdHealth or recommended by members. A good doctor who's friendly to cash patients can save you more than any coupon.
+You pick any doctor, so you can keep your own. If you need a new one, CrowdHealth's Find a Doc service taps a nationwide database of doctors, many vetted by CrowdHealth or recommended by members. A good doctor who's friendly to cash patients can save you more than any coupon.
 
 ## 3. The cash price, asked out loud
 
@@ -24,7 +26,7 @@ As a CrowdHealth member you're a self-pay patient. The member guide says self-pa
 
 ## 4. The prescription discount card
 
-CrowdHealth partners with MedalistRx, and your discount card lives in the app. For a prescription to be crowdfunded as part of a health event, the guide says you have to use the discount and pick the generic when there is one. More in [how prescriptions work](/p/health-sharing-and-prescriptions/).
+CrowdHealth partners with MedalistRx, and your discount card lives in the app. For a prescription to be crowdfunded as part of a health event, the guide says you have to use the discount and pick the generic when there is one. Prescriptions tied to a health event can be crowdfunded for up to 12 consecutive months. Long-term prescriptions aren't eligible. More in [how prescriptions work](/p/health-sharing-and-prescriptions/).
 
 ## 5. A virtual visit before a waiting room
 
@@ -34,11 +36,11 @@ Unlimited virtual care through HealthTap is in the app. For a cold, a rash, or a
 
 - **Annual wellness:** up to $300, with the $500 commitment waived. In 2026 it's one preventive service. Starting January 1, 2027, it can be several, up to $300 combined.
 - **Quarterly specials:** discounted tests insurance often skips. Past specials included CAC scores, gut health tests, DEXA scans, fasting insulin, and VO2 max. CrowdHealth announces the lineup at year end.
-- **The Longevity Discount:** up to 20% off your monthly contribution for passing approved tests. My breakdown is in [CrowdHealth's Longevity Discount](/p/crowdhealth-longevity-discount/).
+- **The Longevity Discount:** up to 20% off your monthly contribution based on approved tests you complete and pass. Each adult on the account needs at least one of the three tests done and submitted by January 31, 2027. My breakdown is in [CrowdHealth's Longevity Discount](/p/crowdhealth-longevity-discount/).
 
 ## 7. Bill negotiation, after
 
-When a bill does show up, CrowdHealth's negotiators handle the back and forth. Its member tools page says they often get "70%, 80%, even over 90% off" the original charges. That's CrowdHealth's own claim. It's a real tool, but it's cleanup. The cheapest bill is the one you priced before you walked in.
+When a bill does show up, CrowdHealth's team negotiates bills over $2,500. Its member tools page says they often get "70%, 80%, even over 90% off" the original charges. That's what CrowdHealth says, not a promise, and paying the provider is still on you. It's a real tool, but it's cleanup. The cheapest bill is the one you priced before you walked in.
 
 ## Think of it like getting a quote from a mechanic
 
@@ -48,7 +50,7 @@ CrowdHealth's tools are built for the second way.
 
 ## The honest part
 
-**Skipping the call can cost you.** The member guide says if you pick a provider charging more than 120% of the fair market price, your request can get a poor Health Cost Score and a RED rating, which may make other members hesitate to fund it. Failing to notify CrowdHealth before scheduled care can affect your score or eligibility. The call isn't just nice. It protects your funding.
+**Skipping the call can cost you.** The member guide says if you pick a provider charging more than 120% of the fair market price, your request can get a poor Health Cost Score and a RED rating, which may make other members hesitate to fund it. And there's a fair-price allowance: pick a provider priced above it and you may owe the difference yourself. Failing to notify CrowdHealth before scheduled care can affect your score or eligibility. The call isn't just nice. It protects your funding.
 
 **Black Swan members get less.** Annual wellness, maternity, funded virtual care, talk therapy, and quarterly specials aren't part of Black Swan. See [the Black Swan breakdown](/p/crowdhealth-black-swan/).
 
@@ -60,7 +62,7 @@ CrowdHealth's tools are built for the second way.
 
 The member guide says to contact your Care Advocate before any scheduled lab or imaging, even small ones, because the price check applies there too. One member's story about that is in [blood work: $262 last year, $36 this year](/p/blood-work-262-last-year-36-this-year/).
 
-### Is talk therapy still covered?
+### Is talk therapy still eligible?
 
 Through December 31, 2026, unlimited virtual talk therapy through BetterHelp is eligible for crowdfunding. Starting January 1, 2027, it moves under the $300 annual wellness amount, and discounted therapy is still offered.
 
