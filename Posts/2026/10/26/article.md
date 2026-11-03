@@ -50,7 +50,9 @@ Negotiating before surgery only works when there's time. This was a planned oper
 
 In the second story, the member did the hard part. If you hate haggling, know that you may be asked to do some, with a coach in your corner.
 
-And one thing I want to be plain about: a cancer found after you join is treated as a new event. A condition you had symptoms of before joining isn't shared for your first two years.
+And one thing I want to be plain about: a cancer found after you join is treated as a new event (see [one member's cancer, a few months after joining](/p/cancer-a-few-months-after-joining/)). A condition you had symptoms of before joining isn't shared for your first two years, as I explain in [the pre-existing condition rules](/p/crowdhealth-pre-existing-conditions/).
+
+If you'd like a coach in your corner for numbers like these, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 

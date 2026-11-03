@@ -18,13 +18,15 @@ Complete, eligible submissions get funded in about a week on average. That's fas
 
 ## Where your monthly contribution goes
 
-Here's the part that makes it a community and not a company. Each month, the money you contribute isn't disappearing into a corporate account to boost some quarterly profit. It's going directly to fund the actual bills of actual members that month. You can see the requests. You're not paying premiums to a company hoping to pay out less. You're chipping in to catch a neighbor, knowing the same net catches you.
+Here's the part that makes it a community and not a company. Each month, the money you contribute (I priced it out in [what CrowdHealth costs, with the cap](/p/crowdhealth-cost/)) isn't disappearing into a corporate account to boost some quarterly profit. It's going directly to fund the actual bills of actual members that month. You can see the requests. You're not paying premiums to a company hoping to pay out less. You're chipping in to catch a neighbor, knowing the same net catches you.
 
 That's the core difference from insurance, and it's why the incentives feel so different. Nobody in this system gets richer by denying your bill. I unpacked [that incentive flip](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest).
 
 ## The honest limits, as always
 
-It's a system run by people under a set of guidelines, not a legal guarantee, because it is not insurance. Bills outside the guidelines don't get funded, which is why reading them up front matters. But within the rules, the process is clear, orderly, and has funded 53,877 bills. Strong track record, stated limits, both true.
+It's a system run by people under a set of guidelines, not a legal guarantee, because it is not insurance. Bills outside the guidelines don't get funded, which is why reading them up front matters. The [pre-existing condition rules](/p/crowdhealth-pre-existing-conditions/) are the big one. But within the rules, the process is clear, orderly, and has funded 53,877 bills. Strong track record, stated limits, both true.
+
+If that process makes sense to you, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and see how it works from the inside.
 
 ## The takeaway
 

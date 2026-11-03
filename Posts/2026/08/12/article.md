@@ -18,7 +18,7 @@ Say you break your ankle and end up in the ER. Here's what happens.
 
 - **Step 1: The event happens.** Broken ankle, ER visit, X-rays, the works. Scary, and usually expensive on paper.
 - **Step 2: You cover the first $500.** This part is yours. Think of it like the family putting in the first bit before the hat goes around. It keeps the whole thing fair and keeps tiny stuff from bogging down the group.
-- **Step 3: They knock the bill down.** Before the hat even goes around, the bill gets negotiated toward the lower cash price, the same trick I wrote about in [The Cash Price Secret](https://www.normaltownusa.com/p/the-cash-price-secret). A smaller bill is easier on everyone.
+- **Step 3: They knock the bill down.** Before the hat even goes around, the bill gets negotiated toward the lower cash price, the same trick I wrote about in [how to get a cash price](https://www.normaltownusa.com/p/the-cash-price-secret). A smaller bill is easier on everyone.
 - **Step 4: The crowd funds the rest.** Past your $500, your bill becomes a request the community pays into. The hat goes around. The bill gets funded.
 
 That's the whole loop. Small piece from you, big piece from the crowd.

@@ -1,0 +1,6 @@
+/subscribe / 301
+/upgrade / 301
+/publications / 301
+/forms / 301
+/forms/* / 301
+/archive /blog/ 301

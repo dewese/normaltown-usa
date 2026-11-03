@@ -143,6 +143,66 @@ BITCOIN_SLUGS = {
     "what-is-a-bitcoin-wallet", "how-much-is-too-much-sizing-a-small-bet",
 }
 
+# The /crowdhealth/ hub lists every live CrowdHealth post, grouped by the question a
+# reader came with (Search Console brief, Nov 2026). A CrowdHealth post missing from
+# these lists still shows up, under the last heading, so new posts never fall off.
+CH_HUB_GROUPS = [
+    ("What it costs", [
+        "crowdhealth-cost", "the-real-monthly-cost-of-health-sharing", "the-all-in-yearly-cost-side-by-side",
+        "a-healthy-familys-year-on-health-sharing", "the-500-you-pay-vs-the-deductible-you-dont",
+        "high-deductible-plan-vs-health-sharing", "health-sharing-vs-cobra", "health-sharing-for-early-retirees",
+        "health-sharing-for-the-self-employed", "where-the-crowds-money-goes",
+        "why-the-crowdhealth-bill-climbs-at-year-end", "crowdhealth-longevity-discount", "crowdhealth-2027-changes",
+        "crowdhealth-black-swan", "why-my-500-cushion-lives-in-cash", "crowdhealth-fold-bitcoin-savings",
+        "open-enrollment-before-you-auto-renew"]),
+    ("Pre-existing conditions and what's eligible", [
+        "crowdhealth-pre-existing-conditions", "pre-existing-conditions-and-health-sharing",
+        "what-crowdhealth-doesnt-cover", "crowdhealth-dental", "six-routine-visits-one-covered",
+        "the-fine-print-that-catches-new-members", "health-sharing-and-prescriptions",
+        "having-a-baby-on-crowdhealth", "maternity-on-health-sharing"]),
+    ("Real member stories", [
+        "cancer-a-few-months-after-joining", "his-heart-stopped-for-four-minutes", "the-240000-nicu-bill",
+        "one-heart-procedure-three-prices", "toddler-medevac-30000-in-bills", "the-freak-accident",
+        "the-35000-appendix-that-cost-500", "kidney-stones-funded-in-under-two-weeks",
+        "two-hernia-surgeries-two-different-stories", "a-new-hip-for-500", "the-48000-quote-that-became-9190",
+        "the-10000-bill-the-crowd-never-saw", "broken-bones-on-crowdhealth", "torn-knees-and-sprained-ankles",
+        "tonsils-ear-tubes-and-other-kid-surgeries", "the-mri-that-took-two-weeks",
+        "blood-work-262-last-year-36-this-year", "sick-on-a-sunday", "what-a-month-of-member-stories-taught-me"]),
+    ("Bills, negotiation, and collections", [
+        "how-one-health-event-gets-paid", "how-a-big-hospital-bill-gets-paid-without-insurance",
+        "how-members-vote-to-fund-bills", "what-a-care-advocate-actually-does", "health-sharing-and-the-er",
+        "the-er-bill-one-phone-call", "when-the-hospital-wont-negotiate", "the-paperwork-is-real",
+        "when-the-bill-is-under-500", "crowdhealth-member-tools", "sick-season-on-crowdhealth",
+        "hurt-over-the-holidays", "crowdhealth-year-end-checklist"]),
+    ("Is it legit, and is it right for you?", [
+        "is-crowdhealth-legit", "what-the-critics-say-about-crowdhealth", "why-im-a-crowdhealth-fanboy",
+        "what-is-health-sharing", "is-health-sharing-legit", "health-sharing-myths-vs-facts",
+        "health-sharing-vs-insurance-honest-trade-offs", "can-you-trust-health-sharing-with-a-big-bill",
+        "what-if-the-crowd-doesnt-fund-your-bill", "what-the-health-sharing-numbers-say",
+        "switching-to-health-sharing-first-90-days", "why-bitcoiners-like-crowdhealth"]),
+]
+CH_HUB_MARKER = "<!-- crowdhealth-index -->"
+
+
+def is_crowdhealth_post(title, body_md):
+    return (title + body_md).count("CrowdHealth") >= 3
+
+
+def crowdhealth_index_md(posts):
+    """Markdown for the grouped list of every live CrowdHealth post on /crowdhealth/."""
+    by_slug = {p["slug"]: p for p in posts}
+    listed, out = set(), []
+    for i, (heading, slugs) in enumerate(CH_HUB_GROUPS):
+        items = [by_slug[s] for s in slugs if s in by_slug]
+        if i == len(CH_HUB_GROUPS) - 1:
+            items += [p for p in posts if p["is_ch"] and p["slug"] not in listed
+                      and p["slug"] not in {s for _, ss in CH_HUB_GROUPS for s in ss}]
+        if not items:
+            continue
+        listed.update(p["slug"] for p in items)
+        out += [f"### {heading}", ""] + [f"- [{p['title']}](/p/{p['slug']}/)" for p in items] + [""]
+    return "\n".join(out)
+
 # ----------------------------------------------------------------------------
 # Minimal, controlled Markdown -> HTML (only the subset our articles use).
 # ----------------------------------------------------------------------------
@@ -748,6 +808,7 @@ def load_posts(include_future=False):
             "words": words,
             "minutes": max(1, round(words / 220)),
             "links": links,
+            "is_ch": is_crowdhealth_post(title, body_md),
             "category": classify(_row_value(pub, "Category"), title, slug),
         })
     posts.sort(key=lambda p: p["date"], reverse=True)
@@ -799,7 +860,7 @@ body{
 a{color:var(--accent); text-decoration:none}
 a:hover{text-decoration:underline}
 /* links inside running text get an underline so color is not the only cue (WCAG 1.4.1) */
-.body a,.short-answer a,.hero p a,.lede a,.post-cta a,.tile p a,.author-box a,.sources a,.toc a,
+.body a,.short-answer a,.hub-link a,.hero p a,.lede a,.post-cta a,.tile p a,.author-box a,.sources a,.toc a,
 .contact-form .fine a,.foot-sub .fine a,.site-foot .disclaimer a{text-decoration:underline; text-underline-offset:.15em}
 :focus-visible{outline:2px solid var(--accent); outline-offset:2px}
 .sr-only{position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0}
@@ -928,6 +989,7 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .article-head h1{font-size:clamp(1.9rem,4.5vw,2.7rem); line-height:1.12;
   letter-spacing:-.03em; font-weight:800; margin:0 0 .6rem}
 .article-head .subtitle{font-size:1.25rem; color:var(--muted); margin:0}
+.hub-link{max-width:var(--measure); margin:0 auto 1rem; font-size:.95rem; color:var(--muted)}
 .short-answer{max-width:var(--measure); margin:0 auto 2rem; padding:1.2rem 1.4rem;
   border-left:3px solid var(--accent); background:var(--panel); border-radius:0 14px 14px 0}
 .short-answer .label{display:flex; align-items:center; gap:.6rem; font-size:.78rem; font-weight:800;
@@ -1374,6 +1436,8 @@ def render_home(posts):
         first = start_with.get(k)
         start = (f'<p class="start"><span>Start with</span> <a href="/p/{first["slug"]}/">{html.escape(first["title"])}</a></p>'
                  if first else "")
+        if k == "health":
+            start += '<p class="start"><span>Or</span> <a href="/crowdhealth/">every CrowdHealth post, by question</a></p>'
         tile_html.append(f'<div class="tile"><span class="count">{c["name"]} &middot; {counts[k]} posts</span>'
                          f'<h3><a href="/{k}/">{html.escape(c["title"])}</a></h3><p>{html.escape(desc)}</p>{start}</div>')
     feat_html = ""
@@ -1475,6 +1539,10 @@ def render_post(p, posts):
         avatar = (f'<img class="avatar" src="/about/david-dewese-round-96.png{photo_v("home-headshot-96.png")}" alt="" width="36" height="36">'
                   if HOME_HEADSHOT_XS.exists() else "")
         short = f'<div class="short-answer"><span class="label">{avatar}In short</span><p>{_inline(p["short"])}</p></div>'
+    hub_link = ""
+    if p["is_ch"]:
+        hub_link = ('<p class="hub-link">New to CrowdHealth? <a href="/crowdhealth/">Start with my '
+                    'CrowdHealth guide and every post, grouped by question</a>.</p>')
     updated = ""
     if p["modified"] > p["date"]:
         updated = f'<span>Updated <time datetime="{p["modified"].isoformat()}">{fmt_date(p["modified"])}</time></span>'
@@ -1518,6 +1586,7 @@ def render_post(p, posts):
         <h1>{html.escape(p['title'])}</h1>
         {subtitle}
       </div>
+      {hub_link}
       {short}
       {hero_img}
       <div class="body">{p['body_html']}</div>
@@ -1808,6 +1877,17 @@ def render_llms_full(posts):
     return "\n".join(out)
 
 
+# Old beehiiv URLs that Search Console still crawls and reports as 404. Cloudflare's
+# static assets read _redirects; the query string (?page=2 etc.) is carried over.
+REDIRECTS = """/subscribe / 301
+/upgrade / 301
+/publications / 301
+/forms / 301
+/forms/* / 301
+/archive /blog/ 301
+"""
+
+
 HEADERS = """# Cloudflare Pages headers (https://developers.cloudflare.com/pages/configuration/headers/)
 /*
   X-Content-Type-Options: nosniff
@@ -2017,6 +2097,8 @@ def main(preview=False):
         title, body = load_page_md(fname)
         if title is None:
             continue
+        if slug == "crowdhealth":
+            body = body.replace(CH_HUB_MARKER, crowdhealth_index_md(posts))
         figure, og_image = "", None
         page_class = f"page-{slug}" if slug == "resources" else ""
         schema = [website_schema(), org_schema()]
@@ -2091,6 +2173,7 @@ def main(preview=False):
     write(DIST / "llms.txt", render_llms(posts))
     write(DIST / "llms-full.txt", render_llms_full(posts))
     write(DIST / "_headers", HEADERS)
+    write(DIST / "_redirects", REDIRECTS)
     write(DIST / "404.html", render_404())
     indexnow_key = SITE_DIR / "indexnow-key.txt"
     if indexnow_key.exists():   # IndexNow ownership file, see indexnow.py

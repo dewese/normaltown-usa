@@ -34,19 +34,19 @@ Yes. A man who'd lost the insurance he had through work joined CrowdHealth, then
 
 He said his advocate worked between those hospitals for him, and that other members' money got him through surgery and back on his feet. No dollar figures in that one either.
 
-For scale, CrowdHealth's published list of large funded bills includes two heart events, at $180,129 and $122,340. Its public results also show a heart attack request that went out to 224 members.
+For scale, see also [the $240,000 NICU bill](/p/the-240000-nicu-bill/). CrowdHealth's published list of large funded bills includes two heart events, at $180,129 and $122,340. Its public results also show a heart attack request that went out to 224 members.
 
 ## What's the honest part?
 
 Neither of these reviews has a final number, and the first one wasn't finished. "Many bills funded, others in negotiation" is good news. It's not the same as "done."
 
-Heart events also raise the hardest version of the pre-existing question. If you'd been treated for a heart problem in the five years before joining, a later heart event could fall under that rule. High blood pressure and high cholesterol by themselves are exempt, which helps a lot of people my age.
+Heart events also raise the hardest version of the pre-existing question. If you'd been treated for a heart problem in the five years before joining, a later heart event could fall under [the pre-existing rule](/p/crowdhealth-pre-existing-conditions/). High blood pressure and high cholesterol by themselves are exempt, which helps a lot of people my age.
 
 And think about that wife for a second. For weeks, those bills were arriving at her house with her name on them. Nobody had signed a contract promising to pay them. She trusted a track record. It held. I just don't want to make that sound smaller than it was.
 
 ## The takeaway
 
-Two years of paying in. One catastrophic week. A phone call the next morning, and someone saying "take care of him first." That's the moment the whole thing either works or it doesn't. For this couple, by her account, it was working.
+Two years of paying in. One catastrophic week. A phone call the next morning, and someone saying "take care of him first." That's the moment the whole thing either works or it doesn't. For this couple, by her account, it was working. If that's the kind of backup you want, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL), after you read the rules.
 
 ## Questions I get about this
 

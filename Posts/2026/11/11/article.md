@@ -53,7 +53,7 @@ The $500 is per person, per health event. If the flu goes through all four peopl
 
 And a video visit can't do everything. A doctor on a screen can't listen to lungs. If they tell you to go in, go in.
 
-If your family has someone with asthma or another condition that flares every winter, read [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/). Conditions you had before joining generally aren't eligible.
+If your family has someone with asthma or another condition that flares every winter, read [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/). Conditions you had before joining generally aren't eligible. If your family is mostly healthy and sick season is the main worry, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## Questions I get about this
 

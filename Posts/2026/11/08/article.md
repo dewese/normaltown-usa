@@ -12,7 +12,7 @@ Starting January 1, 2027, the monthly advocacy fee goes from $60 to $65 per memb
 
 For a family of four, that's $260 a month in fees instead of $240. Until January 1, the $60 is still the number.
 
-If the monthly crowd caps stay where they are now, the worst possible month becomes $205 for a member under 55 (today it's $200), $345 from 55 to 64, and $680 for a family of four. CrowdHealth hasn't said the caps are changing, but I'll update this if it does.
+If the monthly crowd caps stay where they are now, the worst possible month becomes $205 for a member under 55 (today it's $200), $345 from 55 to 64, and $680 for a family of four. CrowdHealth hasn't said the caps are changing, but I'll update this if it does. The full cap table is in [how much CrowdHealth costs](/p/crowdhealth-cost/).
 
 ## What gets better
 
@@ -35,13 +35,13 @@ If the monthly crowd caps stay where they are now, the worst possible month beco
 - **Open a health event first.** The guide now says it plainly: tell CrowdHealth before scheduled or potentially expensive care. I'd do that anyway. It's how you get price help before the bill.
 - **Cataract surgery** fair prices are based on a standard lens. Fancy lens upgrades don't set the price.
 - **Be decent.** Abusive behavior toward staff, doctors, or other members can end your membership.
-- **Black Swan** members, the ones with the $15,000 commitment, don't get the wellness, virtual care, or therapy pieces.
+- **Black Swan** members, the ones with the $15,000 commitment, don't get the wellness, virtual care, or therapy pieces. More on that in [Black Swan: the $15,000 version](/p/crowdhealth-black-swan/).
 
 ## What I make of it
 
 Think of it like the rules at a city park. Every year the parks department posts a new sign by the gate. Most lines are the same. A couple of new ones change how you play.
 
-For a family that mostly uses checkups and the odd video visit, the wellness and virtual care changes are a small win, and the $5 fee is a small cost. The tighter rules mostly hit people who use a lot of therapy, chiropractic, or ongoing diabetes care.
+For a family that mostly uses checkups and the odd video visit, the wellness and virtual care changes are a small win, and the $5 fee is a small cost. The tighter rules mostly hit people who use a lot of therapy, chiropractic, or ongoing diabetes care. If that sounds like your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The honest part
 

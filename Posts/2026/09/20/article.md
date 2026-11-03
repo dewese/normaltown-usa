@@ -14,7 +14,7 @@ They're on CrowdHealth, the service I use, so their numbers are simple: $60 per 
 
 Four people at $60 each is $240 a month in advocacy fees. Add the monthly crowd contribution, which moves around a bit but stays modest, and call the all-in monthly number somewhere in the low-to-mid hundreds for the family. Let's use a round, honest estimate of about $400 a month all in.
 
-Over twelve months, that's roughly $4,800 for the year in regular costs. Hold that number.
+Over twelve months, that's roughly $4,800 for the year in regular costs. Hold that number. The monthly ceiling is laid out in [how much CrowdHealth costs, with the cap](/p/crowdhealth-cost/).
 
 ## The bumps during the year
 
@@ -36,7 +36,7 @@ Rough full-year total for this healthy family:
 
 Call it somewhere around $5,500 to $6,000 for the whole year, broken arm included.
 
-Now compare that to a traditional family plan, where the premiums alone often run past that number before anyone gets sick, and you'd still owe a big deductible on top when the arm breaks. That's the gap that made me switch. I broke down [the monthly math](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing) further.
+Now compare that to a traditional family plan, where the premiums alone often run past that number before anyone gets sick, and you'd still owe a big deductible on top when the arm breaks. That's the gap that made me switch. I broke down [the monthly math](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing) further. If a year like this sounds like yours, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The honest reminder
 

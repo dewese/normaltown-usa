@@ -34,13 +34,15 @@ Early on, a rep told him he'd be handled the same way any other member would, as
 
 Several things, and they matter.
 
-**He was scared it wouldn't count.** He'd only been a member for a couple of months. And there had been that earlier growth. The story doesn't explain how that sat with the rule about symptoms before joining. It was funded. I can't tell you exactly why the rule didn't block it, and I won't pretend to know.
+**He was scared it wouldn't count.** He'd only been a member for a couple of months. And there had been that earlier growth. The story doesn't explain how that sat with the rule about symptoms before joining, which I cover in [CrowdHealth and pre-existing conditions](/p/crowdhealth-pre-existing-conditions/). It was funded. I can't tell you exactly why the rule didn't block it, and I won't pretend to know.
 
 **His cancer doctor was alarmed** when he said he had no insurance. Expect that reaction. You'll have to explain yourself in a lot of offices.
 
 **Other cancer stories are less tidy.** A husband wrote that the community funded "most" of the costs of his wife's cancer treatment. Most, not all. A woman with a new breast cancer diagnosis said she felt more in control of her treatment, and also that she was doing more legwork getting estimates. Her treatment hadn't started yet.
 
-**Long treatments are the weak spot.** CrowdHealth's guide limits ongoing prescriptions to a 12-month supply and excludes some high-cost drugs. One independent writer who joined pointed out that a condition needing expensive care forever is the real risk in this model. I think he's right.
+**Long treatments are the weak spot.** CrowdHealth's guide limits ongoing prescriptions to a 12-month supply and excludes some high-cost drugs. One independent writer who joined pointed out that a condition needing expensive care forever is the real risk in this model. I think he's right. For another cancer bill and what happened to it, see [the $48,000 surgery quote that became $9,190](/p/the-48000-quote-that-became-9190/).
+
+If you've read the rules and they fit your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 

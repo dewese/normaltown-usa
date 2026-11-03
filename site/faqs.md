@@ -74,7 +74,7 @@ For 2026, in-network costs are capped by law at about $10,600 for one person and
 
 ### How do I get a lower price at the doctor?
 
-Ask for the cash price before you hand over your insurance card. A lot of care has two prices: a high sticker price and a lower price for people who pay directly. Ask "what's the cash price if I don't use insurance?" Then compare it to what you'd owe with insurance and pick the smaller one. Full post: [The Cash Price Secret](/p/the-cash-price-secret/).
+Ask for the cash price before you hand over your insurance card. A lot of care has two prices: a high sticker price and a lower price for people who pay directly. Ask "what's the cash price if I don't use insurance?" Then compare it to what you'd owe with insurance and pick the smaller one. Full post: [How to Get a Cash Price for a Medical Procedure](/p/the-cash-price-secret/).
 
 ### Why does the same blood test cost $30 in one place and $300 in another?
 

@@ -24,11 +24,11 @@ That's not a typo. The far one was about a quarter of the local one.
 
 So they went. Plane tickets, three hotel nights, a driver, meals, and the procedure came to about $30,000 all in. That was more than $50,000 under the local quote, even after paying for the trip.
 
-He paid his $500. CrowdHealth asked 150 members to fund the remaining $29,500. The money was there in three days, before the procedure.
+He paid his $500, which is how [one health event gets paid](/p/how-one-health-event-gets-paid/). CrowdHealth asked 150 members to fund the remaining $29,500. The money was there in three days, before the procedure.
 
 ## What did CrowdHealth actually do?
 
-They did the shopping. They took the quotes, called other hospitals, and found the $22,000 one. They booked the travel and lined up a local person to drive the couple around once they landed. Then they sent the request to the crowd.
+They did the shopping, which is the job of [a care advocate](/p/what-a-care-advocate-actually-does/). They took the quotes, called other hospitals, and found the $22,000 one. They booked the travel and lined up a local person to drive the couple around once they landed. Then they sent the request to the crowd.
 
 This is the part I love. I've never heard of an insurance company calling three hospitals to find a member a better price. Why would they? It isn't their job.
 
@@ -44,7 +44,7 @@ CrowdHealth says being asked to travel for a big procedure is rare. Its founder 
 
 ## The takeaway
 
-Same procedure, $83,655 or $22,000, depending on the building. Prices for the same care can be four times apart, and most of us never find out because nobody shows us the menu. Having someone make those calls is worth a lot.
+Same procedure, $83,655 or $22,000, depending on the building. Prices for the same care can be four times apart, and most of us never find out because nobody shows us the menu. Having someone make those calls is worth a lot. For another big bill that ended at $500, read [the $35,000 appendix](/p/the-35000-appendix-that-cost-500/). If you want someone making those calls for your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## Questions I get about this
 

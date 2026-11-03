@@ -54,6 +54,8 @@ Traditional insurance is the second bill. You pay the premium, and then you stil
 
 This works best if you are relatively healthy, you have $500 set aside for a health event, and you want a lower, more predictable monthly number. It does not work for everyone. It is not insurance, there is no legal guarantee your bill gets funded, and there are real exclusions and rules for pre-existing conditions. I wrote [the honest who-should-skip-this version](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for), and [a plain-English explainer of how the whole thing works](https://www.normaltownusa.com/p/what-is-health-sharing).
 
+If those numbers work for your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
+
 ## The takeaway
 
 Health sharing costs a flat $60 a month per person, plus a modest monthly contribution to the crowd, plus $500 when you have a real health event. No premium black box, no five-figure deductible waiting to ambush you. For a lot of normal families, that is a smaller and calmer number than what they pay now.

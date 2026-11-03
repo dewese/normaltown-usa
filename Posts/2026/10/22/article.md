@@ -18,7 +18,7 @@ CrowdHealth texted him to confirm it was a new injury, then approved it. He pick
 
 Once his bills passed $500, he started getting a check every week for that week's sessions. Nobody capped how many visits he could have.
 
-That part is changing. Starting January 1, 2027, CrowdHealth limits physical therapy, occupational therapy, speech therapy, pelvic floor therapy, and chiropractic care to 15 visits per health event. Needing more doesn't mean an automatic no. It means a clinical review decides.
+That part is changing. Starting January 1, 2027, CrowdHealth limits physical therapy, occupational therapy, speech therapy, pelvic floor therapy, and chiropractic care to 15 visits per health event. Needing more doesn't mean an automatic no. It means a clinical review decides. I list the other changes in [what changes at CrowdHealth on January 1, 2027](/p/crowdhealth-2027-changes/).
 
 **The equipment.** A third member recovering from an ACL injury said the crowd also helped with the small extras, like the equipment needed during recovery.
 
@@ -42,9 +42,11 @@ Confirmed the injury was new, approved it, and then paid steadily as the receipt
 
 **It only works if you keep up with the paperwork.** The ACL member mentioned staying on top of her receipts. If you're the type who lets mail pile up, your money will pile up with it.
 
-**The first weekend can be confusing.** A different member who tore an ACL on a weekend said the start was rocky. They needed answers fast and didn't yet know how to find a provider who takes direct payment. Their suggestion was weekend chat support for new folks. Fair point.
+**The first weekend can be confusing.** (I wrote about [the first confusing day after a break](/p/broken-bones-on-crowdhealth/).) A different member who tore an ACL on a weekend said the start was rocky. They needed answers fast and didn't yet know how to find a provider who takes direct payment. Their suggestion was weekend chat support for new folks. Fair point.
 
-**"Maintenance" care isn't shared.** CrowdHealth's guide excludes ongoing chiropractic visits and massage. Therapy to recover from a specific injury is one thing. A standing weekly adjustment forever is another.
+**"Maintenance" care isn't shared.** CrowdHealth's guide excludes ongoing chiropractic visits and massage. Therapy to recover from a specific injury is one thing. A standing weekly adjustment forever is another. More in [what isn't eligible on CrowdHealth](/p/what-crowdhealth-doesnt-cover/).
+
+If you can front the visits and keep your receipts moving, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 

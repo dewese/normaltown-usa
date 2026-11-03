@@ -6,7 +6,7 @@ I want to compare two numbers that sound similar but aren't. On one side, the $5
 
 ## What a deductible really is
 
-A deductible is the amount you pay out of your own pocket before your insurance starts helping. If your deductible is $8,000, you pay the first $8,000 of your covered care yourself. Every year. And a lot of family plans run even higher than that. I wrote up [the full plain-English version of what a deductible means](https://www.normaltownusa.com/p/what-a-deductible-really-means).
+A deductible is the amount you pay out of your own pocket before your insurance starts helping. If your deductible is $8,000, you pay the first $8,000 of your covered care yourself. Every year. And a lot of family plans run even higher than that. I wrote up [the full plain-English version of what a deductible means](https://www.normaltownusa.com/p/what-a-deductible-really-means), and put the two options head to head in [high-deductible plan vs. health sharing](/p/high-deductible-plan-vs-health-sharing/).
 
 Here's the part that stings. You pay your monthly insurance bill the whole time, and you still owe that whole deductible before the plan pays a dime. You're basically paying twice until you hit the number.
 
@@ -23,7 +23,9 @@ Say your kid breaks an arm. Total bill, after the cash price and the advocates w
 - **On a high-deductible plan** with an $8,000 deductible: you pay the entire $4,000 yourself, because you never even reached your deductible. Your plan pays nothing. You also paid your monthly premium all year for the privilege.
 - **On health sharing:** you pay $500. The community funds the rest of the eligible amount.
 
-Same broken arm. Wildly different number on your side of the table.
+Same broken arm. Wildly different number on your side of the table. Bigger bills follow the same loop, which I walked through in [how one health event gets paid](/p/how-one-health-event-gets-paid/).
+
+If those numbers work for your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and see your own monthly number.
 
 ## The honest asterisk
 

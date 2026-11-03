@@ -40,7 +40,7 @@ The gap moves every month. Earlier in 2026, when the under-55 total was $125, th
 
 You know those apps that round your $4.30 coffee up to $5 and save the 70 cents? This is the same idea, except the round-up goes all the way to your ceiling.
 
-You budget the maximum every month. Whatever the crowd didn't need goes to savings instead of sitting in checking.
+You budget the maximum every month. Whatever the crowd didn't need goes to savings instead of sitting in checking. If you're not a member yet, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and ask your Care Advocate about the sweep.
 
 ## The honest part
 

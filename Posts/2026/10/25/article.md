@@ -28,7 +28,7 @@ So I'll just say this: hundreds of thousands of dollars, at least.
 
 ## What did CrowdHealth actually do?
 
-He took a photo of each bill as it arrived and uploaded it in the app. CrowdHealth negotiated them down and the crowd funded them. The founder called him personally to say they'd take care of him.
+He took a photo of each bill as it arrived and uploaded it in the app. CrowdHealth negotiated them down and the crowd funded them. The steps are laid out in [how a big hospital bill gets paid without insurance](/p/how-a-big-hospital-bill-gets-paid-without-insurance/). The founder called him personally to say they'd take care of him.
 
 There's one detail I can't shake. He was so worried about cost that he thought about taking out his own surgical drains at home to save money. Someone at CrowdHealth talked him out of it and told him to go get proper care.
 
@@ -58,7 +58,9 @@ And no promise was made in writing. He got a phone call from the founder. That's
 
 ## The takeaway
 
-This is the story I'd point to if someone asked, "But what about something really bad?" A man nearly died, three hospitals billed him six figures each, and the crowd handled it. The exact totals are murky. The outcome isn't. He's fishing again.
+This is the story I'd point to if someone asked, "But what about something really bad?" A man nearly died, three hospitals billed him six figures each, and the crowd handled it. The exact totals are murky. For how the track record holds up, read [can you trust health sharing with a big bill](/p/can-you-trust-health-sharing-with-a-big-bill/). The outcome isn't. He's fishing again.
+
+If you want that kind of backup, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Questions I get about this
 

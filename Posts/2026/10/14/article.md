@@ -20,7 +20,7 @@ CrowdHealth sent this member to two doctors. Each consult cost $300. Both doctor
 
 Then they suggested a doctor five hours away.
 
-By the time the review went up, this member had spent $600 on visits, lost two days of pay, waited months on estimates, and still hadn't had the surgery. The review was kind about the advocate. The rep was great, it said, "but his hands are tied."
+By the time the review went up, this member had spent $600 on visits, lost two days of pay, waited months on estimates, and still hadn't had the surgery. The review was kind about the [advocate](/p/what-a-care-advocate-actually-does/). The rep was great, it said, "but his hands are tied."
 
 ## Why the difference?
 
@@ -36,13 +36,15 @@ CrowdHealth replied to this member publicly. They explained the fair pricing, of
 
 Where you live matters a lot. If your area has a few surgery centers competing for patients, you'll probably be the first member. If one hospital system owns your whole region, you could be the second.
 
-There's no way around this from where I sit. The same rule that keeps my monthly cost low is the rule that left that member stuck. Members pay less because the crowd refuses to pay the inflated price. Somebody has to be the one standing in the doctor's office when that refusal happens.
+There's no way around this from where I sit. The same rule that keeps my monthly cost low is the rule that left that member stuck. Members pay less because the crowd refuses to pay the inflated price. Somebody has to be the one standing in the doctor's office when that refusal happens. One member's [hip replacement for $500](/p/a-new-hip-for-500/) worked because he chose a cheaper facility.
+
+If your area has options and the trade-off works for you, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 I'll also say the first review was written the day of surgery. The final bills hadn't come yet.
 
 ## The takeaway
 
-Before you join, find out what your options are near home. Are there independent surgery centers nearby? Do they post cash prices? If the answer is "one big hospital and nothing else," know that you may be asked to drive, or to cover a gap. That's a real cost, and it belongs in your math.
+Before you join, find out what your options are near home. Are there independent surgery centers nearby? Do they post [cash prices](/p/the-cash-price-secret/)? If the answer is "one big hospital and nothing else," know that you may be asked to drive, or to cover a gap. That's a real cost, and it belongs in your math.
 
 ## Questions I get about this
 

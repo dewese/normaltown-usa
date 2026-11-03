@@ -28,11 +28,11 @@ In CrowdHealth's public results, an MRI request is usually small. One went to 17
 
 Two things, and both are simple. They knew where the fair-priced places were, and there was no approval line to wait in.
 
-That second one surprised me. With insurance, a scan often needs sign-off first, and that can take weeks. Here, you and your doctor decide you need a scan, you find a fair price, and you go.
+That second one surprised me. With insurance, a scan often needs sign-off first, and that can take weeks. Here, you and your doctor decide you need a scan, you find a fair price, and you go. The other tools are in [the CrowdHealth member tools that save money before a bill](/p/crowdhealth-member-tools/). If that sounds like what you want, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## What's the honest part?
 
-If your MRI costs less than $500, it's all yours. Plenty of cash-price scans come in under that, so some members pay for imaging entirely out of pocket and the crowd never gets involved. You're still better off at the cash price. Just don't expect a check.
+If your MRI costs less than $500, it's all yours. Plenty of cash-price scans come in under that, so some members pay for imaging entirely out of pocket and the crowd never gets involved. You're still better off at the cash price. Just don't expect a check. I covered that in [when the bill is under $500](/p/when-the-bill-is-under-500/).
 
 One member had a bad time with this exact thing. A testing bill came to $850, and they still paid $500 of it. They said it made them doubt whether a real emergency would go well. CrowdHealth's reply was that on a deductible plan they'd have paid the full $850. That's true, and I also understand why $350 back didn't feel like much.
 
@@ -40,7 +40,7 @@ The imaging also has to be for a new problem. A problem you had before joining c
 
 ## The takeaway
 
-For scans, the win usually isn't the crowd paying. It's finding out the scan costs a third of what you thought, and getting it next week instead of next season. Ask for the cash price at a standalone imaging center. That one habit will save you money on any plan.
+For scans, the win usually isn't the crowd paying. It's finding out the scan costs a third of what you thought, and getting it next week instead of next season. Ask for [the cash price](/p/the-cash-price-secret/) at a standalone imaging center. That one habit will save you money on any plan.
 
 ## Questions I get about this
 

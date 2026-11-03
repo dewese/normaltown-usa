@@ -20,8 +20,8 @@ Strong history is not the same as an ironclad promise. Both things are true, and
 
 Most of the time a bill doesn't get funded, it's not a mystery or a betrayal. It's because it fell outside the guidelines everyone agreed to. The usual reasons:
 
-- It was for something explicitly not eligible, like cosmetic work or certain pre-existing situations.
-- The waiting rules for a pre-existing condition weren't met yet.
+- It was for [something explicitly not eligible](/p/what-crowdhealth-doesnt-cover/), like cosmetic work or certain pre-existing situations.
+- The [waiting rules for a pre-existing condition](/p/crowdhealth-pre-existing-conditions/) weren't met yet.
 - The paperwork was incomplete, so it stalled until it got fixed.
 
 The lesson is boring but powerful: read the guidelines before you join, and you avoid almost all of the surprises. The denials that shock people are usually things the guidelines said plainly all along.
@@ -35,7 +35,7 @@ This is the part I actually do in my own life. You don't just trust and hope. Yo
 - **Know the guidelines** so you're not submitting things that were never eligible.
 - **Use the appeal process** if something gets declined. It's not a dead end.
 
-Do that, and even the bad scenario becomes a bump, not a catastrophe.
+Do that, and even the bad scenario becomes a bump, not a catastrophe. If that feels manageable, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 

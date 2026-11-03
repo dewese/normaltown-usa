@@ -22,7 +22,7 @@ None of these three members shared a dollar amount, so I'm not going to invent o
 
 What I can show you is how common this is. CrowdHealth posts its funding requests each month, with the state and the type of event. Over about two years, I count roughly 60 requests for kidney stones. One was sent to 43 members. Another, for a stone removal, went to 35. An ER visit for stones went to 18.
 
-That tells you something useful. A kidney stone bill is big to one person and small to a crowd. A few dozen people chip in and it's done. It's like splitting the check when one friend's car breaks down. Thirty-five people throwing in is a non-event for each of them.
+That tells you something useful. A kidney stone bill is big to one person and small to a crowd. A few dozen people chip in and it's done. I explain how that works in [how members fund each other's bills](/p/how-members-vote-to-fund-bills/). It's like splitting the check when one friend's car breaks down. Thirty-five people throwing in is a non-event for each of them.
 
 ## What did CrowdHealth actually do?
 
@@ -38,7 +38,9 @@ This is why I keep saying an emergency fund and CrowdHealth go together. I wrote
 
 CrowdHealth says that for bigger bills it can negotiate, and sometimes fund, before you pay. So ask your advocate before you put a large bill on a card.
 
-One more thing. Kidney stones tend to come back. If you had stones or symptoms in the five years before joining, a new stone could be treated as a pre-existing condition and not shared in your first two years. A first-ever stone for a new member is a different story.
+One more thing. Kidney stones tend to come back. If you had stones or symptoms in the five years before joining, a new stone could be treated as a [pre-existing condition](/p/crowdhealth-pre-existing-conditions/) and not shared in your first two years. A first-ever stone for a new member is a different story.
+
+If you can float a bill for a little while, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 

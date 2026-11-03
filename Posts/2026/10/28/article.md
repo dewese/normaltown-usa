@@ -32,11 +32,11 @@ Think of a cover charge at the door. It's $10 whether you stay for one song or d
 
 ## What's the honest part?
 
-If your family's health costs are mostly small things, you'll pay for nearly all of them yourself. In a typical year for a healthy family, the crowd may not pay you a dime. You're paying each month for protection against the big one, and for the cash-price help on the small ones.
+If your family's health costs are mostly small things, you'll pay for nearly all of them yourself. [Sick season on CrowdHealth](/p/sick-season-on-crowdhealth/) is a good example. In a typical year for a healthy family, the crowd may not pay you a dime. You're paying each month for protection against the big one, and for the cash-price help on the small ones.
 
-That means the right comparison isn't "what did the crowd pay me this year?" It's "what did I pay in total, and what would I have paid the other way?"
+That means the right comparison isn't "what did the crowd pay me this year?" It's "what did I pay in total, and what would I have paid the other way?" The monthly side of that is in [how much CrowdHealth costs](/p/crowdhealth-cost/).
 
-For the trampoline dad, the answer was good. He figures his family saves at least $600 a month compared with insurance. A $175 staple bill doesn't dent that.
+For the trampoline dad, the answer was good. He figures his family saves at least $600 a month compared with insurance. A $175 staple bill doesn't dent that. If that math works for your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 For someone with a $500 commitment and four separate $400 events in one year, it's $1,600 out of pocket with nothing shared. That's a real scenario. Each event is its own $500, per person.
 
@@ -44,7 +44,7 @@ This is what a cushion is for. It's the same idea as [the first $1,000 emergency
 
 ## The takeaway
 
-The crowd is for the big bills. For the small ones, your win is the cash price, and it can be a good win: $300 instead of $800, $175 and done. Just don't expect a check for a $400 visit. Plan to cover the small stuff yourself and you'll never be surprised by it.
+The crowd is for the big bills. For the small ones, your win is [the cash price](/p/the-cash-price-secret/), and it can be a good win: $300 instead of $800, $175 and done. Just don't expect a check for a $400 visit. Plan to cover the small stuff yourself and you'll never be surprised by it.
 
 ## Questions I get about this
 

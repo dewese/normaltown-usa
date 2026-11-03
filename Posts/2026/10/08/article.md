@@ -18,7 +18,7 @@ And a fourth, writing on her own blog, was using a birthing center. One of her l
 
 ## What does the bill look like?
 
-Here's how the $3,000 works.
+Here's how the $3,000 works. I broke down the same math in [maternity on health sharing](/p/maternity-on-health-sharing/).
 
 With regular health events, you pay the first $500. Pregnancy is different. It's one big event that includes everything from the first prenatal visit through postpartum, and your share is $3,000 total.
 
@@ -32,13 +32,13 @@ CrowdHealth says it also shares costs for midwives, doulas, lactation help, pelv
 
 There are three rules here that will bite you if you skip them.
 
-**The 300-day rule.** Your due date has to be at least 300 days after your membership starts. If you're already pregnant when you join, that pregnancy isn't shared. This isn't something you sign up for after the test turns positive.
+**The 300-day rule.** Your due date has to be at least 300 days after your membership starts. If you're already pregnant when you join, that pregnancy isn't shared. This isn't something you sign up for after the test turns positive. The clock starts the day you join, so if a baby is in your plans, you can [start with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) well ahead of time. More first-month surprises are in [the fine print that catches new members](/p/the-fine-print-that-catches-new-members/).
 
 **The price went up.** Older reviews talk about having a baby for $500. That was true in 2022. It went to $1,500, and now it's $3,000. If you read an old review, check the date.
 
 **The baby is a separate person.** Routine newborn care is its own event with its own $500. If the baby has complications at birth, that's another separate event. So a rough delivery could mean $3,000 plus $500 plus $500.
 
-And you'll likely pay bills first and get paid back. That's a real cash flow thing to plan for.
+And you'll likely pay bills first and get paid back. That's a real cash flow thing to plan for, and [the paperwork is real](/p/the-paperwork-is-real/) covers what it looks like.
 
 ## The takeaway
 

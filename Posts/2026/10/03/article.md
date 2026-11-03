@@ -40,7 +40,7 @@ CrowdHealth has the money part, and the record above says the money part works. 
 
 That's not a loophole somebody discovered. It's stated plainly in the actual terms, and it's the trade you're making. The cost is lower partly *because* that machinery isn't there.
 
-Maryland's insurance regulator [published a consumer advisory about CrowdHealth](https://insurance.maryland.gov/Consumer/Pages/ConsumerAdvisory-MIA-warns-of-risks-involved-in-crowd-funding-healthcare-payment-platform-CrowdHealth.aspx) in March 2026 making essentially this point. I'd rather you read it yourself than take my summary or the company's.
+Maryland's insurance regulator [published a consumer advisory about CrowdHealth](https://insurance.maryland.gov/Consumer/Pages/ConsumerAdvisory-MIA-warns-of-risks-involved-in-crowd-funding-healthcare-payment-platform-CrowdHealth.aspx) in March 2026 making essentially this point. I'd rather you read it yourself than take my summary or the company's. For the other side of the argument, I also wrote up [what the critics say about CrowdHealth](/p/what-the-critics-say-about-crowdhealth/).
 
 ## It isn't a health sharing ministry either
 
@@ -61,7 +61,7 @@ Don't take my word for any of this. It takes twenty minutes:
 
 ## The honest verdict
 
-For a reasonably healthy household with savings that could absorb a bad month, I think it's a good deal, and my family's money is where my mouth is.
+For a reasonably healthy household with savings that could absorb a bad month, I think it's a good deal, and my family's money is where my mouth is. If that sounds like your household, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL), but read the rules first.
 
 For somebody with an ongoing condition, it mostly isn't, because of [the pre-existing rules](/p/crowdhealth-pre-existing-conditions/). For somebody with no cushion, it's a lower monthly cost bought with risk they can't carry. For somebody who wants a regulator they can call, insurance is the product that sells that, and wanting it is not a character flaw.
 

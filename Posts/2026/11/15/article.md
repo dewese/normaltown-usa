@@ -58,6 +58,8 @@ Number one is the big lesson. CrowdHealth is built for new problems, not ones yo
 
 "100% of eligible bills" is a strong number, but the word eligible is doing real work. If your bill is in that 4%, the crowd doesn't pay it, and you do. And because CrowdHealth isn't insurance, there's no legal promise that even an eligible bill gets funded. The track record is good. A track record isn't a contract.
 
+If you're comfortable with where the money goes, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
+
 For a bigger-picture look at the stats, see [what the health sharing numbers say](/p/what-the-health-sharing-numbers-say/). If a bill doesn't get funded, [here's what happens](/p/what-if-the-crowd-doesnt-fund-your-bill/).
 
 ## Questions I get about this

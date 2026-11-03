@@ -24,7 +24,7 @@ Others filled in the details:
 
 Here's the routine, as members describe it.
 
-**Before care, when you can:** open a health event in the app and tell your advocate. Ask the provider for the cash price in writing.
+**Before care, when you can:** open a health event in the app and tell your advocate ([here's what a care advocate does](/p/what-a-care-advocate-actually-does/)). Ask the provider for the cash price in writing (I wrote [how to negotiate a hospital bill yourself](/p/how-to-negotiate-a-hospital-bill-yourself/)).
 
 **At the visit:** say you're paying directly. Ask for an itemized bill, which lists every charge on its own line.
 
@@ -48,13 +48,13 @@ Insurance has paperwork too. Denials, appeals, surprise bills, letters that say 
 
 Some people will hate that. If you have a spouse who already handles all the family paperwork and is stretched thin, be honest about who's going to do this. If you're in the middle of a health crisis, the last thing you want is homework.
 
-Other people like it. One woman with a new cancer diagnosis said she felt she had more say in her own treatment, even with the extra legwork.
+Other people like it. One woman with a new cancer diagnosis said she felt she had more say in her own treatment, even with the extra legwork. I told [a cancer story from a member who had just joined](/p/cancer-a-few-months-after-joining/) earlier this month.
 
 My take: nobody loves forms, but I do like knowing what things cost.
 
 ## The takeaway
 
-The savings on CrowdHealth aren't free money. You're being paid, in a way, to do some of the work an insurance company's back office would do. For a lot of normal families, that's a great trade. Go in knowing it's a trade.
+The savings on CrowdHealth aren't free money. You're being paid, in a way, to do some of the work an insurance company's back office would do. For a lot of normal families, that's a great trade. Go in knowing it's a trade. If you're fine with the homework, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## Questions I get about this
 

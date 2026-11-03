@@ -12,7 +12,7 @@ The bill showed up several weeks afterward: $4,142.75.
 
 He uploaded it. Within a day or two, someone at CrowdHealth told him the hospital had overcharged and hadn't applied a self-pay discount. So he called the hospital and asked. They took 60% off right there on the phone.
 
-**The $10,000 visit.** A self-employed mom wrote that her family of four dropped insurance this past year. Her husband landed in the ER in January. The visit was $10,000. The crowd paid all of it except their $500.
+**The $10,000 visit.** A self-employed mom wrote that her family of four dropped insurance this past year. Her husband landed in the ER in January. The visit was $10,000. The crowd paid all of it except their $500. I wrote more about [that $10,000 bill the crowd never saw](/p/the-10000-bill-the-crowd-never-saw/).
 
 She also needed follow-up scans after a routine checkup. She figured insurance would have left her with around $4,000. On CrowdHealth, again, $500.
 
@@ -40,7 +40,7 @@ In the overnight story, they coached the member on asking for self-pay discounts
 
 That 60% discount wasn't a hard-fought deal. It was a standard discount the hospital gives anyone paying directly, if they ask. The hospital just didn't offer it. You could get that same discount with no membership in anything.
 
-Which tells you two things. One, always ask. Two, the value here was someone who knew to tell him to ask.
+Which tells you two things. One, always ask. Two, the value here was someone who knew to tell him to ask. If you want to try it alone first, here's [how to negotiate a hospital bill yourself](/p/how-to-negotiate-a-hospital-bill-yourself/).
 
 ER bills also come in pieces. One member noted that the hospital, the doctor, and the lab each send their own, and every one has to be forwarded. A blogger whose husband went in with stomach pain got four separate bills. The small one was funded within days. The big one was still being negotiated when she wrote about it.
 
@@ -48,7 +48,7 @@ And CrowdHealth's founder has a warning I'll pass along. A children's hospital E
 
 ## The takeaway
 
-Three ER visits, three members who paid $500. The pattern I see: the first bill is too high, somebody asks, the bill drops, and the crowd splits what's left. The asking is the magic. Do it on any plan you have.
+Three ER visits, three members who paid $500. The pattern I see: the first bill is too high, somebody asks, the bill drops, and the crowd splits what's left. The asking is the magic. Do it on any plan you have. If you'd like a person in your corner who tells you to ask, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Questions I get about this
 

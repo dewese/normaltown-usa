@@ -2,7 +2,7 @@
 
 > One CrowdHealth member's ER bill took more than six months to negotiate and went to collections after five. Another had a hospital bill sit in collections for about a year before it was paid. Both stayed members. Slow hospital negotiations are a real cost of this model, and you carry the stress while they happen.
 
-Yesterday's ER stories were tidy. Today's aren't. If you're thinking about joining, you need both.
+Yesterday's ER stories, like [the bill that dropped with one phone call](/p/the-er-bill-one-phone-call/), were tidy. Today's aren't. If you're thinking about joining, you need both.
 
 ## What happened?
 
@@ -34,7 +34,7 @@ When CrowdHealth holds firm on price, that helps every member. It's a big reason
 
 I can't check the credit reporting claim for your situation, and rules like that can change. Don't take my word or theirs. Look up the current rules yourself if a bill of yours heads that way.
 
-I'll also say this. In all three stories the bill did get paid. Nobody here got stuck with it. But "it worked out after a year" is a different promise than "it's handled."
+I'll also say this. In all three stories the bill did get paid. Nobody here got stuck with it. But "it worked out after a year" is a different promise than "it's handled." For the other worst case, see [what if the crowd doesn't fund your bill](/p/what-if-the-crowd-doesnt-fund-your-bill/).
 
 ## What would I do?
 
@@ -42,13 +42,13 @@ Three things.
 
 Ask your advocate for an update on a schedule, every two weeks, in writing. Don't wait to hear from them.
 
-Keep every letter and every bill in one folder.
+Keep every letter and every bill in one folder. [The paperwork is real](/p/the-paperwork-is-real/) explains why.
 
 If you get a collections notice, send it to your advocate that day and ask what the plan is.
 
 ## The takeaway
 
-Most bills in CrowdHealth's results fund in about a week. A stubborn hospital can turn that into six months or a year, with collections letters in between. That's the price of having someone refuse to overpay. I think it's worth it. I'd want to know about it before I joined, not after.
+Most bills in CrowdHealth's results fund in about a week. A stubborn hospital can turn that into six months or a year, with collections letters in between. That's the price of having someone refuse to overpay. I think it's worth it. I'd want to know about it before I joined, not after. If you've read this and still want in, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## Questions I get about this
 

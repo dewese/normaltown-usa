@@ -43,9 +43,11 @@ He also said it might not suit people with frequent health problems, or people w
 
 That's the trade in one sentence. You save a pile of money, and in exchange you act like the customer. If you want to hand over a card and never think about it again, a surgery like this will frustrate you.
 
-There's a second catch for joints specifically. Worn-out hips and knees usually hurt for years before surgery. If you had symptoms or treatment in the five years before joining, that joint is a pre-existing condition. It wouldn't be shared for your first two years, and it's capped at $25,000 a year after that. A lot of people looking at CrowdHealth because their knee already hurts will run into this.
+There's a second catch for joints specifically. Worn-out hips and knees usually hurt for years before surgery. If you had symptoms or treatment in the five years before joining, that joint is a pre-existing condition (the details are in [CrowdHealth and pre-existing conditions](/p/crowdhealth-pre-existing-conditions/)). It wouldn't be shared for your first two years, and it's capped at $25,000 a year after that. A lot of people looking at CrowdHealth because their knee already hurts will run into this.
 
-And the knee member drove an hour. Not everyone can.
+And the knee member drove an hour. Not everyone can. Rehab after a joint injury has its own rules, laid out in [torn knees and sprained ankles](/p/torn-knees-and-sprained-ankles/).
+
+If you're planning a surgery and have no symptoms on record yet, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 

@@ -12,13 +12,15 @@ Compare that to a traditional plan, where even after premiums all year you can s
 
 ## The rule you cannot skip
 
-Here's the honest, non-negotiable part. Maternity is only eligible if you conceive after you've been a member for a set waiting period. In plain English: you need to join before you're pregnant for the pregnancy to be shared. If you're already expecting when you sign up, that pregnancy is treated like a pre-existing condition and won't be funded.
+Here's the honest, non-negotiable part. Maternity is only eligible if you conceive after you've been a member for a set waiting period. In plain English: you need to join before you're pregnant for the pregnancy to be shared. If you're already expecting when you sign up, that pregnancy is treated like a pre-existing condition (here are [the real pre-existing condition rules](/p/crowdhealth-pre-existing-conditions/)) and won't be funded.
 
 This trips people up, so I'll say it plainly. Health sharing is something you set up before you're planning a baby, not after you see two lines on the test. Plan ahead and it works beautifully. Show up late and it won't.
 
 ## What the $3,000 actually includes
 
-Once you're eligible, the maternity event is designed to wrap the normal stuff together: prenatal visits, the delivery, and typical newborn care around the birth. Instead of a pile of separate confusing bills, it's handled as one event with one commitment from you. The advocates still work to get fair cash pricing on the care, same as any other event.
+Once you're eligible, the maternity event is designed to wrap the normal stuff together: prenatal visits, the delivery, and typical newborn care around the birth. Instead of a pile of separate confusing bills, it's handled as one event with one commitment from you. The advocates still work to get fair cash pricing on the care, same as any other event. If you want to see how that plays out for a real family, read [having a baby on CrowdHealth](/p/having-a-baby-on-crowdhealth/).
+
+If you're planning ahead, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) before you start trying and get your first 3 months at $99 a month per member.
 
 ## The honest limits
 

@@ -54,6 +54,8 @@ Think of it like the electric bill in a Texas August. You don't know the exact n
 
 **Look at the year, not the month.** A $165 October next to a $125 January averages out. Compare your yearly total to insurance, which I do in [the all-in yearly cost, side by side](/p/the-all-in-yearly-cost-side-by-side/).
 
+If you can live with a number that moves under a ceiling, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
+
 ## The honest part
 
 Two Januaries is not a law of nature. The ask could stay high. It could go higher. The crowd ask is a share of real members' bills, and nobody knows next month's bills in advance.

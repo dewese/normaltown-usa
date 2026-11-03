@@ -14,7 +14,7 @@ On the track record: CrowdHealth's community has funded 53,877 bills for a commu
 
 Now the honest half. Health sharing is **not insurance.** There is no legal contract promising a company will pay your bills. Instead, a community agrees to fund eligible bills, and it has done so reliably, but "reliably" is not the same as "guaranteed." Members are ultimately responsible for their own bills.
 
-There are also real limits. Pre-existing conditions have waiting rules. Some things are simply not eligible, like most dental, vision, and cosmetic care. If you need an ironclad guarantee for an ongoing, expensive condition, this is not your tool. I laid out [who should skip it entirely](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+There are also real limits. [Pre-existing conditions have waiting rules](/p/crowdhealth-pre-existing-conditions/). Some things are simply not eligible, like most dental, vision, and cosmetic care. If you need an ironclad guarantee for an ongoing, expensive condition, this is not your tool. I laid out [who should skip it entirely](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## Why the model earns trust in the first place
 
@@ -24,7 +24,7 @@ Health sharing flips that. CrowdHealth makes its money on a flat $60 monthly fee
 
 ## How to test the trust yourself
 
-Do not take my word or theirs. Read the member reviews on Trustpilot, both the glowing ones and the critical ones. The critical ones usually say a complex bill took longer than expected, not that it went unpaid. Then read the actual guidelines on what is eligible before you join, so there are no surprises. Trust that survives your skepticism is the only kind worth having.
+Do not take my word or theirs. Read the member reviews on Trustpilot, both the glowing ones and the critical ones. The critical ones usually say a complex bill took longer than expected, not that it went unpaid. Then read the actual guidelines on what is eligible before you join, so there are no surprises. Trust that survives your skepticism is the only kind worth having. If it still looks right after that, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 

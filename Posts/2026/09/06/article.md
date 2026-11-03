@@ -15,7 +15,7 @@ Think of it like having a friend who happens to know exactly how hospital billin
 Here's the stuff that happens behind the scenes when you have a health event:
 
 - **They find you fair-priced care.** If you need a scan or a procedure, they help you find a place that won't charge triple for the same thing.
-- **They help get the bill down.** This is the big one. Hospitals have a sticker price and a real price, and they're rarely the same number. Your advocate coaches you to ask for the cash price, and CrowdHealth's team negotiates bills over $2,500 lower still. Members commonly see 25 to 85 percent knocked off the list price.
+- **They help get the bill down.** This is the big one. Hospitals have a sticker price and a real price, and they're rarely the same number. Your advocate coaches you to ask for [the cash price](/p/the-cash-price-secret/), and CrowdHealth's team negotiates bills over $2,500 lower still. Members commonly see 25 to 85 percent knocked off the list price.
 - **They coach you through the back-and-forth.** The phone calls, the itemized bills, the "we'll resubmit that" runaround. You make the calls and pay the providers yourself, but they tell you exactly what to ask for.
 - **They walk you through the process.** You always know what to do next, instead of guessing and hoping.
 
@@ -27,7 +27,7 @@ A care advocate flips that. Now somebody whose actual job is shrinking your bill
 
 ## The honest limits
 
-I'm not going to oversell it. An advocate is a person helping you, not a magic wand. They can't force a hospital to do anything, and because health sharing is not insurance, there's no legal guarantee on what gets funded. What they can do is help you get better prices and make the fight a lot less lonely, which is a lot. I laid out [the full picture of who this model fits and who should skip it](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+I'm not going to oversell it. An advocate is a person helping you, not a magic wand. They can't force a hospital to do anything, and because health sharing is not insurance, there's no legal guarantee on what gets funded. What they can do is help you get better prices and make the fight a lot less lonely, which is a lot. If having a real person in your corner sounds worth it, you can [start with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL). I laid out [the full picture of who this model fits and who should skip it](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## The takeaway
 

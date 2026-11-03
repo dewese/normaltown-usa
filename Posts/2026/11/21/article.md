@@ -2,7 +2,7 @@
 
 > Black Swan is CrowdHealth's second product. You pay the first $15,000 of each health event yourself, and only the bills above that go to the crowd. In exchange, the monthly crowdfunding request is much lower: $25 for a member under 55, against up to $140 on the Original membership. There's no wellness, maternity, funded virtual care, talk therapy, or quarterly specials. It fits people with a big cash cushion and no baby plans.
 
-My family of four canceled an expensive insurance plan and has been with CrowdHealth since 2022. Most of what I write about is the Original membership, the one with the $500 member commitment. But when you open the pricing calculator, there's a second button that says $15,000. That's Black Swan.
+My family of four canceled an expensive insurance plan and has been with CrowdHealth since 2022. Most of what I write about is the Original membership, the one with the $500 member commitment, which I priced out in [how much CrowdHealth costs](/p/crowdhealth-cost/). But when you open the pricing calculator, there's a second button that says $15,000. That's Black Swan.
 
 The name comes from the idea of a "black swan" event: rare, huge, and hard to see coming. That's the only thing this version is built for.
 
@@ -55,7 +55,7 @@ So it's a fit if:
 - You're healthy, rarely see a doctor, and are fine paying cash for the small stuff.
 - You aren't planning a pregnancy.
 
-It's a poor fit if a $15,000 bill would sink you, if you'd use the wellness and virtual care features, or if a baby might be in your future. And like Original, it's healthcare crowdfunding, not insurance. There's no legal promise a bill gets funded.
+It's a poor fit if a $15,000 bill would sink you, if you'd use the wellness and virtual care features, or if [a baby might be in your future](/p/having-a-baby-on-crowdhealth/). And like Original, it's healthcare crowdfunding, not insurance. There's no legal promise a bill gets funded.
 
 ## Questions I get about this
 

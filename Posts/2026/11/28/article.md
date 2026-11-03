@@ -12,7 +12,7 @@ CrowdHealth pairs every member with a dedicated Care Advocate, and its member to
 
 The member guide is specific about this. Before any scheduled diagnostic, lab, imaging, or other planned test, contact your Care Advocate. They can help you shop and, when one's available, connect you with a discount voucher for the same service nearby. For a scheduled surgery, call in advance so they have time to help you compare prices.
 
-One thing to be clear on: a Care Advocate guides and teaches. They won't make the calls or payments for you. You ask for the cash price, request the itemized bill, upload it, and pay the provider. Think coach, not caddie.
+One thing to be clear on: a Care Advocate guides and teaches. They won't make the calls or payments for you. You ask for the cash price, request the itemized bill, upload it, and pay the provider. Think coach, not caddie. If you want that coach on your side, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 I explain what that relationship looks like day to day in [what a Care Advocate actually does](/p/what-a-care-advocate-actually-does/).
 

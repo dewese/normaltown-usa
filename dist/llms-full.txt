@@ -134,7 +134,7 @@ The monthly side has three numbers you can see before you join:
 - A monthly crowd ask that moves around but has a hard cap: $140 per person under 55, $280 from 55 to 64, $420 per family for a family of four or more. Today the most a single member under 55 can pay in a month is $200, fee included.
 - CrowdHealth's own average for October 2026 was $165 a month for a single member under 55 and $555 for a family of four, before a 1% to 3% card or bank fee.
 
-I walk through the full math in [how much CrowdHealth costs](https://www.normaltownusa.com/p/crowdhealth-cost/) and compare it head to head in [health sharing vs. insurance](https://www.normaltownusa.com/p/health-sharing-vs-insurance-honest-trade-offs/).
+I walk through the full math in [how much CrowdHealth costs](https://www.normaltownusa.com/p/crowdhealth-cost/) and compare it head to head in [health sharing vs. insurance](https://www.normaltownusa.com/p/health-sharing-vs-insurance-honest-trade-offs/). If those numbers beat your renewal, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Who should keep insurance
 
@@ -198,7 +198,7 @@ Author: David Dewese
 
 **In short:** After a month of real CrowdHealth member stories, the pattern is clear. Sudden, new health events went well: $500 from the member, the rest negotiated and shared, usually within a week or two. Trouble came from conditions that existed before joining, hospitals that wouldn't negotiate, routine care, and paperwork. It's built for the big surprise, not for everything.
 
-For most of October I've told one kind of story a day. A toddler on a medevac. A $35,000 appendix. A hernia surgery that went great and one that went nowhere. Today I'm stepping back to look at all of them at once.
+For most of October I've told one kind of story a day. A toddler on a medevac. [A $35,000 appendix](https://www.normaltownusa.com/p/the-35000-appendix-that-cost-500/). A hernia surgery that went great and one that went nowhere. Today I'm stepping back to look at all of them at once.
 
 ## What went right, over and over?
 
@@ -212,15 +212,15 @@ For most of October I've told one kind of story a day. A toddler on a medevac. A
 
 ## What went wrong, over and over?
 
-**Old problems.** A $10,000 bill denied over a symptom from before the member joined. This rule catches people, and it reaches further than most expect.
+**Old problems.** A $10,000 bill denied over a symptom from before the member joined. This rule catches people, and it reaches further than most expect. Here are [the CrowdHealth pre-existing condition rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/).
 
 **Stubborn hospitals.** Bills that took six months or a year and went to collections along the way.
 
 **Fair price gaps.** A member offered $8,000 toward a surgery quoted at $12,000 to $15,000, and pointed to a doctor five hours away.
 
-**Routine care.** Six routine visits, one shared.
+**Routine care.** [Six routine visits, one shared](https://www.normaltownusa.com/p/six-routine-visits-one-covered/).
 
-**Paperwork.** Two separate members called it a part-time job.
+**Paperwork.** Two separate members called it [a part-time job](https://www.normaltownusa.com/p/the-paperwork-is-real/).
 
 **Surprises.** A newborn's two-week wait. Requests approved by default. An intro price that's per person.
 
@@ -263,7 +263,7 @@ That's what being a fanboy means to me. Not that it's perfect. That I looked har
 
 ## The takeaway
 
-CrowdHealth is very good at one job: turning a big, sudden medical bill into $500 and a week or two of waiting. It isn't built for old conditions, routine care, or people who need a guarantee. If you're in the first group, I think it's worth a real look. If you're in the second, I'd tell you to pass, and I'd mean it.
+CrowdHealth is very good at one job: turning a big, sudden medical bill into $500 and a week or two of waiting. It isn't built for old conditions, routine care, or people who need a guarantee. If you're in the first group, I think it's worth a real look, and you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) when you're ready. If you're in the second, I'd tell you to pass, and I'd mean it.
 
 Thanks for reading along all month.
 
@@ -328,13 +328,13 @@ I pulled these from national magazines, a business magazine, a regional newspape
 
 ## Where do I think they're right?
 
-**The guarantee.** They're right. Nobody is legally required to pay my bill. I've said that in every post this month. The track record is strong. A track record isn't a contract.
+**The guarantee.** They're right. Nobody is legally required to pay my bill. I've said that in every post this month. The track record is strong. A track record isn't a contract. I covered [what happens if the crowd doesn't fund your bill](https://www.normaltownusa.com/p/what-if-the-crowd-doesnt-fund-your-bill/).
 
 **No regulator.** Right again. If CrowdHealth denied a bill of mine and I thought they were wrong, there's no state office to call. I'd be relying on their own review and their reputation.
 
-**The long-term illness gap.** This is the one I take most seriously. A sudden event, even a huge one, is what the crowd handles well. A lifelong condition needing costly medicine every month is where it's thin. Read the member guide's section on prescriptions before you rely on it.
+**The long-term illness gap.** This is the one I take most seriously. A sudden event, even a huge one, is what the crowd handles well. A lifelong condition needing costly medicine every month is where it's thin. Read the member guide's section on prescriptions before you rely on it, and my post on [pre-existing conditions](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/).
 
-**The fuzzy statistic.** Fair. "99% of eligible bills" depends a lot on the word "eligible." That's why I've tried to give you the other numbers too: 3% to 5% of submitted bills ruled ineligible each month, and a small number of flagged requests left unfunded or partly funded.
+**The fuzzy statistic.** Fair. "99% of eligible bills" depends a lot on the word "eligible." That's why I've tried to give you the other numbers too: 3% to 5% of submitted bills ruled ineligible each month, and a small number of flagged requests left unfunded or partly funded. The full set is in [what the health sharing numbers actually say](https://www.normaltownusa.com/p/what-the-health-sharing-numbers-say/).
 
 ## Where do I push back?
 
@@ -345,6 +345,8 @@ I pulled these from national magazines, a business magazine, a regional newspape
 **The transparency.** Monthly results, a list of denied bills with reasons, and a public complaints log. I haven't seen an insurer publish that. It doesn't make the risk go away. It does let me watch it.
 
 Here's my analogy. Insurance is a contract with a company that's motivated to say no. CrowdHealth is a handshake with a company that's motivated to say yes. I'd rather have a good handshake than a bad contract. But I know it's a handshake.
+
+If you've weighed all of that and it still fits your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 
@@ -413,7 +415,7 @@ I can't tell you who's right about the phone calls. I can tell you the rules.
 
 **4. The intro price is per member.** The $99 a month for three months is per person. Two people is $198. Three is $297. CrowdHealth's log shows one new member who expected $35 total and cancelled when it wasn't.
 
-**5. The monthly cost moves.** One member was upset to be charged $250 to $400 in a month. Another said it made budgeting hard. The amount changes each month up to a ceiling. For a family of four, that ceiling is $660 all in.
+**5. The monthly cost moves.** One member was upset to be charged $250 to $400 in a month. Another said it made budgeting hard. The amount changes each month up to a ceiling. For a family of four, that ceiling is $660 all in. I break down the ceilings in [how much CrowdHealth costs](https://www.normaltownusa.com/p/crowdhealth-cost/).
 
 **6. Declining to help others can hurt you.** CrowdHealth tracks how often you fund requests. Fall below 90% and your own bills can be flagged, which makes them less likely to be fully funded.
 
@@ -437,11 +439,11 @@ A few of these complaints come down to what a salesperson said on a call versus 
 
 So don't rely on a phone call. Don't rely on me either. Read the member guide. It's long, and it's the actual rulebook.
 
-And notice what I'm doing here. I earn a referral bonus if you join. I'd still rather you read this list and walk away than join confused and write the next two-star review.
+And notice what I'm doing here. I earn a referral bonus if you join. I'd still rather you read this list and walk away than join confused and write the next two-star review. If you've read the rules and still want in, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member. That's $99 per person.
 
 ## The takeaway
 
-Almost nobody in the angry reviews was cheated. They were surprised. Read the guide, decide how you want requests handled, know that $99 is per person, and plan pregnancies around the 300-day rule. Ten minutes of reading takes care of most of it.
+Almost nobody in the angry reviews was cheated. They were surprised. Read the guide, decide how you want requests handled, know that $99 is per person, and plan pregnancies around the 300-day rule, which [having a baby on CrowdHealth](https://www.normaltownusa.com/p/having-a-baby-on-crowdhealth/) explains in more detail. Ten minutes of reading takes care of most of it.
 
 ## Questions I get about this
 
@@ -515,11 +517,11 @@ Think of a cover charge at the door. It's $10 whether you stay for one song or d
 
 ## What's the honest part?
 
-If your family's health costs are mostly small things, you'll pay for nearly all of them yourself. In a typical year for a healthy family, the crowd may not pay you a dime. You're paying each month for protection against the big one, and for the cash-price help on the small ones.
+If your family's health costs are mostly small things, you'll pay for nearly all of them yourself. [Sick season on CrowdHealth](https://www.normaltownusa.com/p/sick-season-on-crowdhealth/) is a good example. In a typical year for a healthy family, the crowd may not pay you a dime. You're paying each month for protection against the big one, and for the cash-price help on the small ones.
 
-That means the right comparison isn't "what did the crowd pay me this year?" It's "what did I pay in total, and what would I have paid the other way?"
+That means the right comparison isn't "what did the crowd pay me this year?" It's "what did I pay in total, and what would I have paid the other way?" The monthly side of that is in [how much CrowdHealth costs](https://www.normaltownusa.com/p/crowdhealth-cost/).
 
-For the trampoline dad, the answer was good. He figures his family saves at least $600 a month compared with insurance. A $175 staple bill doesn't dent that.
+For the trampoline dad, the answer was good. He figures his family saves at least $600 a month compared with insurance. A $175 staple bill doesn't dent that. If that math works for your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 For someone with a $500 commitment and four separate $400 events in one year, it's $1,600 out of pocket with nothing shared. That's a real scenario. Each event is its own $500, per person.
 
@@ -527,7 +529,7 @@ This is what a cushion is for. It's the same idea as [the first $1,000 emergency
 
 ## The takeaway
 
-The crowd is for the big bills. For the small ones, your win is the cash price, and it can be a good win: $300 instead of $800, $175 and done. Just don't expect a check for a $400 visit. Plan to cover the small stuff yourself and you'll never be surprised by it.
+The crowd is for the big bills. For the small ones, your win is [the cash price](https://www.normaltownusa.com/p/the-cash-price-secret/), and it can be a good win: $300 instead of $800, $175 and done. Just don't expect a check for a $400 visit. Plan to cover the small stuff yourself and you'll never be surprised by it.
 
 ## Questions I get about this
 
@@ -592,7 +594,7 @@ Others filled in the details:
 
 Here's the routine, as members describe it.
 
-**Before care, when you can:** open a health event in the app and tell your advocate. Ask the provider for the cash price in writing.
+**Before care, when you can:** open a health event in the app and tell your advocate ([here's what a care advocate does](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does/)). Ask the provider for the cash price in writing (I wrote [how to negotiate a hospital bill yourself](https://www.normaltownusa.com/p/how-to-negotiate-a-hospital-bill-yourself/)).
 
 **At the visit:** say you're paying directly. Ask for an itemized bill, which lists every charge on its own line.
 
@@ -616,13 +618,13 @@ Insurance has paperwork too. Denials, appeals, surprise bills, letters that say 
 
 Some people will hate that. If you have a spouse who already handles all the family paperwork and is stretched thin, be honest about who's going to do this. If you're in the middle of a health crisis, the last thing you want is homework.
 
-Other people like it. One woman with a new cancer diagnosis said she felt she had more say in her own treatment, even with the extra legwork.
+Other people like it. One woman with a new cancer diagnosis said she felt she had more say in her own treatment, even with the extra legwork. I told [a cancer story from a member who had just joined](https://www.normaltownusa.com/p/cancer-a-few-months-after-joining/) earlier this month.
 
 My take: nobody loves forms, but I do like knowing what things cost.
 
 ## The takeaway
 
-The savings on CrowdHealth aren't free money. You're being paid, in a way, to do some of the work an insurance company's back office would do. For a lot of normal families, that's a great trade. Go in knowing it's a trade.
+The savings on CrowdHealth aren't free money. You're being paid, in a way, to do some of the work an insurance company's back office would do. For a lot of normal families, that's a great trade. Go in knowing it's a trade. If you're fine with the homework, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## Questions I get about this
 
@@ -713,7 +715,9 @@ Negotiating before surgery only works when there's time. This was a planned oper
 
 In the second story, the member did the hard part. If you hate haggling, know that you may be asked to do some, with a coach in your corner.
 
-And one thing I want to be plain about: a cancer found after you join is treated as a new event. A condition you had symptoms of before joining isn't shared for your first two years.
+And one thing I want to be plain about: a cancer found after you join is treated as a new event (see [one member's cancer, a few months after joining](https://www.normaltownusa.com/p/cancer-a-few-months-after-joining/)). A condition you had symptoms of before joining isn't shared for your first two years, as I explain in [the pre-existing condition rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/).
+
+If you'd like a coach in your corner for numbers like these, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 
@@ -785,7 +789,7 @@ So I'll just say this: hundreds of thousands of dollars, at least.
 
 ## What did CrowdHealth actually do?
 
-He took a photo of each bill as it arrived and uploaded it in the app. CrowdHealth negotiated them down and the crowd funded them. The founder called him personally to say they'd take care of him.
+He took a photo of each bill as it arrived and uploaded it in the app. CrowdHealth negotiated them down and the crowd funded them. The steps are laid out in [how a big hospital bill gets paid without insurance](https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance/). The founder called him personally to say they'd take care of him.
 
 There's one detail I can't shake. He was so worried about cost that he thought about taking out his own surgical drains at home to save money. Someone at CrowdHealth talked him out of it and told him to go get proper care.
 
@@ -815,7 +819,9 @@ And no promise was made in writing. He got a phone call from the founder. That's
 
 ## The takeaway
 
-This is the story I'd point to if someone asked, "But what about something really bad?" A man nearly died, three hospitals billed him six figures each, and the crowd handled it. The exact totals are murky. The outcome isn't. He's fishing again.
+This is the story I'd point to if someone asked, "But what about something really bad?" A man nearly died, three hospitals billed him six figures each, and the crowd handled it. The exact totals are murky. For how the track record holds up, read [can you trust health sharing with a big bill](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill/). The outcome isn't. He's fishing again.
+
+If you want that kind of backup, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Questions I get about this
 
@@ -880,7 +886,7 @@ The parent was fair about it. They said it wasn't really CrowdHealth's fault, th
 
 CrowdHealth's public results list funded requests for exactly these: ear infections with ear tubes, sent to 78 members, and a tonsillectomy, sent to 19.
 
-Kid surgeries are a lot like getting your brakes done. It's a standard job that shops do all day. The price should be easy to get up front. When a place won't tell you the price before the work, that tells you something about the place.
+Kid surgeries are a lot like getting your brakes done. It's a standard job that shops do all day. The price should be easy to get up front. When a place won't tell you the price before the work, that tells you something about the place. [The cash price secret](https://www.normaltownusa.com/p/the-cash-price-secret/) has the question to ask.
 
 ## What did CrowdHealth actually do?
 
@@ -890,11 +896,11 @@ For the tonsils, the normal thing: funded the bills above $500. For the scope, t
 
 That scope story is the real lesson. CrowdHealth runs on prices. If a hospital refuses to put a price in writing, the whole process jams. And in a town with one hospital system, you can't just go across the street.
 
-So before you join, ask yourself what's near you. Is there an independent surgery center? An ear, nose, and throat doctor who posts cash prices? If the answer is no, planned surgeries get harder.
+So before you join, ask yourself what's near you. Is there an independent surgery center? An ear, nose, and throat doctor who posts cash prices? If the answer is no, planned surgeries get harder. If your area looks good, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 Each surgery is also its own $500, per child, when they're separate problems. Two kids with two different surgeries in one year is $1,000 from you.
 
-And well-child checkups are mostly on you. One wellness visit a year per child is shared, up to $300. Little kids have a lot more than one. Starting in 2027 that $300 can be spread across several visits, but it's still $300. One dad who joined with three kids counted those extra visits as a real out-of-pocket cost when he ran his numbers.
+And well-child checkups are mostly on you. One wellness visit a year per child is shared, up to $300. Little kids have a lot more than one. Starting in 2027 that $300 can be spread across several visits, but it's still $300. One dad who joined with three kids counted those extra visits as a real out-of-pocket cost when he ran his numbers. [Six routine visits, one shared](https://www.normaltownusa.com/p/six-routine-visits-one-covered/) shows how that adds up.
 
 CrowdHealth's founder also warns members off children's hospital ERs for small things like stitches and fevers, because the prices can be several times higher.
 
@@ -963,7 +969,7 @@ On the standard membership, each person gets one wellness event a year. The crow
 
 One. Per person. Per year.
 
-There's a change coming that helps a little. Starting January 1, 2027, you can turn in more than one preventive visit in a year, up to the same combined $300. So two $150 cleanings could both count. The ceiling doesn't move. Talk therapy sessions will count toward that same $300 too.
+There's a change coming that helps a little. Starting January 1, 2027, you can turn in more than one preventive visit in a year, up to the same combined $300. So two $150 cleanings could both count. The ceiling doesn't move. Talk therapy sessions will count toward that same $300 too. I list the rest in [what changes on January 1, 2027](https://www.normaltownusa.com/p/crowdhealth-2027-changes/).
 
 Everything else that's routine is yours to pay, at whatever cash price you can find.
 
@@ -981,7 +987,7 @@ One woman had a worse time. She'd paid for a women's health checkup that include
 
 ## What's the honest part?
 
-If your family goes to the doctor a lot for routine things, add up what that costs in cash before you switch. Two cleanings a year for four people. Well visits. Blood work. Glasses. It's real money, and almost none of it will be shared.
+If your family goes to the doctor a lot for routine things, add up what that costs in cash before you switch. Two cleanings a year for four people. Well visits. Blood work. Glasses. I wrote about [dental and vision without insurance](https://www.normaltownusa.com/p/dental-and-vision-without-insurance/) if that's your family. It's real money, and almost none of it will be shared.
 
 I think of routine care as a regular monthly bill, like groceries. I wrote about [budgeting when you're self-insured](https://www.normaltownusa.com/p/budgeting-when-youre-self-insured/) for exactly this reason.
 
@@ -991,7 +997,7 @@ And if you choose the cheaper membership with the $15,000 commitment, there's no
 
 ## The takeaway
 
-CrowdHealth is for the wreck, not the oil change. You get one shared wellness visit a year and good cash prices on the rest. If you count on routine care being paid for, you'll be disappointed, and that two-star review will be yours. If you're fine paying for routine care yourself, the math can still work out well ahead.
+CrowdHealth is for the wreck, not the oil change. You get one shared wellness visit a year and good cash prices on the rest. If you count on routine care being paid for, you'll be disappointed, and that two-star review will be yours. If you're fine paying for routine care yourself, the math can still work out well ahead. If that's you, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## Questions I get about this
 
@@ -1050,7 +1056,7 @@ CrowdHealth texted him to confirm it was a new injury, then approved it. He pick
 
 Once his bills passed $500, he started getting a check every week for that week's sessions. Nobody capped how many visits he could have.
 
-That part is changing. Starting January 1, 2027, CrowdHealth limits physical therapy, occupational therapy, speech therapy, pelvic floor therapy, and chiropractic care to 15 visits per health event. Needing more doesn't mean an automatic no. It means a clinical review decides.
+That part is changing. Starting January 1, 2027, CrowdHealth limits physical therapy, occupational therapy, speech therapy, pelvic floor therapy, and chiropractic care to 15 visits per health event. Needing more doesn't mean an automatic no. It means a clinical review decides. I list the other changes in [what changes at CrowdHealth on January 1, 2027](https://www.normaltownusa.com/p/crowdhealth-2027-changes/).
 
 **The equipment.** A third member recovering from an ACL injury said the crowd also helped with the small extras, like the equipment needed during recovery.
 
@@ -1074,9 +1080,11 @@ Confirmed the injury was new, approved it, and then paid steadily as the receipt
 
 **It only works if you keep up with the paperwork.** The ACL member mentioned staying on top of her receipts. If you're the type who lets mail pile up, your money will pile up with it.
 
-**The first weekend can be confusing.** A different member who tore an ACL on a weekend said the start was rocky. They needed answers fast and didn't yet know how to find a provider who takes direct payment. Their suggestion was weekend chat support for new folks. Fair point.
+**The first weekend can be confusing.** (I wrote about [the first confusing day after a break](https://www.normaltownusa.com/p/broken-bones-on-crowdhealth/).) A different member who tore an ACL on a weekend said the start was rocky. They needed answers fast and didn't yet know how to find a provider who takes direct payment. Their suggestion was weekend chat support for new folks. Fair point.
 
-**"Maintenance" care isn't shared.** CrowdHealth's guide excludes ongoing chiropractic visits and massage. Therapy to recover from a specific injury is one thing. A standing weekly adjustment forever is another.
+**"Maintenance" care isn't shared.** CrowdHealth's guide excludes ongoing chiropractic visits and massage. Therapy to recover from a specific injury is one thing. A standing weekly adjustment forever is another. More in [what isn't eligible on CrowdHealth](https://www.normaltownusa.com/p/what-crowdhealth-doesnt-cover/).
+
+If you can front the visits and keep your receipts moving, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 
@@ -1164,9 +1172,11 @@ He also said it might not suit people with frequent health problems, or people w
 
 That's the trade in one sentence. You save a pile of money, and in exchange you act like the customer. If you want to hand over a card and never think about it again, a surgery like this will frustrate you.
 
-There's a second catch for joints specifically. Worn-out hips and knees usually hurt for years before surgery. If you had symptoms or treatment in the five years before joining, that joint is a pre-existing condition. It wouldn't be shared for your first two years, and it's capped at $25,000 a year after that. A lot of people looking at CrowdHealth because their knee already hurts will run into this.
+There's a second catch for joints specifically. Worn-out hips and knees usually hurt for years before surgery. If you had symptoms or treatment in the five years before joining, that joint is a pre-existing condition (the details are in [CrowdHealth and pre-existing conditions](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/)). It wouldn't be shared for your first two years, and it's capped at $25,000 a year after that. A lot of people looking at CrowdHealth because their knee already hurts will run into this.
 
-And the knee member drove an hour. Not everyone can.
+And the knee member drove an hour. Not everyone can. Rehab after a joint injury has its own rules, laid out in [torn knees and sprained ankles](https://www.normaltownusa.com/p/torn-knees-and-sprained-ankles/).
+
+If you're planning a surgery and have no symptoms on record yet, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 
@@ -1213,7 +1223,7 @@ Author: David Dewese
 
 **In short:** One CrowdHealth member's ER bill took more than six months to negotiate and went to collections after five. Another had a hospital bill sit in collections for about a year before it was paid. Both stayed members. Slow hospital negotiations are a real cost of this model, and you carry the stress while they happen.
 
-Yesterday's ER stories were tidy. Today's aren't. If you're thinking about joining, you need both.
+Yesterday's ER stories, like [the bill that dropped with one phone call](https://www.normaltownusa.com/p/the-er-bill-one-phone-call/), were tidy. Today's aren't. If you're thinking about joining, you need both.
 
 ## What happened?
 
@@ -1245,7 +1255,7 @@ When CrowdHealth holds firm on price, that helps every member. It's a big reason
 
 I can't check the credit reporting claim for your situation, and rules like that can change. Don't take my word or theirs. Look up the current rules yourself if a bill of yours heads that way.
 
-I'll also say this. In all three stories the bill did get paid. Nobody here got stuck with it. But "it worked out after a year" is a different promise than "it's handled."
+I'll also say this. In all three stories the bill did get paid. Nobody here got stuck with it. But "it worked out after a year" is a different promise than "it's handled." For the other worst case, see [what if the crowd doesn't fund your bill](https://www.normaltownusa.com/p/what-if-the-crowd-doesnt-fund-your-bill/).
 
 ## What would I do?
 
@@ -1253,13 +1263,13 @@ Three things.
 
 Ask your advocate for an update on a schedule, every two weeks, in writing. Don't wait to hear from them.
 
-Keep every letter and every bill in one folder.
+Keep every letter and every bill in one folder. [The paperwork is real](https://www.normaltownusa.com/p/the-paperwork-is-real/) explains why.
 
 If you get a collections notice, send it to your advocate that day and ask what the plan is.
 
 ## The takeaway
 
-Most bills in CrowdHealth's results fund in about a week. A stubborn hospital can turn that into six months or a year, with collections letters in between. That's the price of having someone refuse to overpay. I think it's worth it. I'd want to know about it before I joined, not after.
+Most bills in CrowdHealth's results fund in about a week. A stubborn hospital can turn that into six months or a year, with collections letters in between. That's the price of having someone refuse to overpay. I think it's worth it. I'd want to know about it before I joined, not after. If you've read this and still want in, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## Questions I get about this
 
@@ -1311,7 +1321,7 @@ The bill showed up several weeks afterward: $4,142.75.
 
 He uploaded it. Within a day or two, someone at CrowdHealth told him the hospital had overcharged and hadn't applied a self-pay discount. So he called the hospital and asked. They took 60% off right there on the phone.
 
-**The $10,000 visit.** A self-employed mom wrote that her family of four dropped insurance this past year. Her husband landed in the ER in January. The visit was $10,000. The crowd paid all of it except their $500.
+**The $10,000 visit.** A self-employed mom wrote that her family of four dropped insurance this past year. Her husband landed in the ER in January. The visit was $10,000. The crowd paid all of it except their $500. I wrote more about [that $10,000 bill the crowd never saw](https://www.normaltownusa.com/p/the-10000-bill-the-crowd-never-saw/).
 
 She also needed follow-up scans after a routine checkup. She figured insurance would have left her with around $4,000. On CrowdHealth, again, $500.
 
@@ -1339,7 +1349,7 @@ In the overnight story, they coached the member on asking for self-pay discounts
 
 That 60% discount wasn't a hard-fought deal. It was a standard discount the hospital gives anyone paying directly, if they ask. The hospital just didn't offer it. You could get that same discount with no membership in anything.
 
-Which tells you two things. One, always ask. Two, the value here was someone who knew to tell him to ask.
+Which tells you two things. One, always ask. Two, the value here was someone who knew to tell him to ask. If you want to try it alone first, here's [how to negotiate a hospital bill yourself](https://www.normaltownusa.com/p/how-to-negotiate-a-hospital-bill-yourself/).
 
 ER bills also come in pieces. One member noted that the hospital, the doctor, and the lab each send their own, and every one has to be forwarded. A blogger whose husband went in with stomach pain got four separate bills. The small one was funded within days. The big one was still being negotiated when she wrote about it.
 
@@ -1347,7 +1357,7 @@ And CrowdHealth's founder has a warning I'll pass along. A children's hospital E
 
 ## The takeaway
 
-Three ER visits, three members who paid $500. The pattern I see: the first bill is too high, somebody asks, the bill drops, and the crowd splits what's left. The asking is the magic. Do it on any plan you have.
+Three ER visits, three members who paid $500. The pattern I see: the first bill is too high, somebody asks, the bill drops, and the crowd splits what's left. The asking is the magic. Do it on any plan you have. If you'd like a person in your corner who tells you to ask, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Questions I get about this
 
@@ -1424,7 +1434,7 @@ It's like the price on a concert ticket versus the price after the fees. Somehow
 
 ## What did CrowdHealth actually do?
 
-Put a doctor in the app and a discount card in the member's pocket. That's it. No negotiating, no crowd, no forms.
+Put a doctor in the app and a discount card in the member's pocket. That's it. No negotiating, no crowd, no forms. More of these are in [the member tools that save money before a bill](https://www.normaltownusa.com/p/crowdhealth-member-tools/).
 
 ## What's the honest part?
 
@@ -1432,9 +1442,11 @@ A video visit can't do everything. A doctor on a screen can't listen to your lun
 
 The prescription rules are tight too. CrowdHealth doesn't share brand-name drugs when a generic exists. Ongoing medications are limited to a 12-month supply. And prescriptions have to be bought with CrowdHealth's discount tool to count. If you take an expensive medicine every month for the long haul, read [health sharing and prescriptions](https://www.normaltownusa.com/p/health-sharing-and-prescriptions/) before anything else.
 
-Also, the cheaper membership option with the $15,000 commitment doesn't include funded virtual visits. This applies to the standard one.
+Also, [the cheaper membership option with the $15,000 commitment](https://www.normaltownusa.com/p/crowdhealth-black-swan/) doesn't include funded virtual visits. This applies to the standard one.
 
 One more caution. That first review is from 2022, and the service may work differently now. I can't promise you 2 minutes and 22 seconds.
+
+If a doctor in your pocket sounds useful, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 
@@ -1507,9 +1519,11 @@ It's like a hotel minibar. The candy bar is $9 in the room and $1.50 at the gas 
 
 ## What did CrowdHealth actually do?
 
-They gave these members a way to buy labs at the low price. You get an order from a doctor, CrowdHealth issues a voucher, and you take it to the lab.
+They gave these members a way to buy labs at the low price. Another small win like this is [the MRI that took two weeks](https://www.normaltownusa.com/p/the-mri-that-took-two-weeks/). You get an order from a doctor, CrowdHealth issues a voucher, and you take it to the lab.
 
-That's it. No crowd funding involved. A $36 lab bill is way under the $500 mark, so this is just you paying a fair price.
+That's it. No crowd funding involved. A $36 lab bill is way under the $500 mark, so this is just you paying a fair price. The bigger-ticket version of that idea is [the cash price secret](https://www.normaltownusa.com/p/the-cash-price-secret/).
+
+If lower prices on everyday care appeal to you, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## What's the honest part?
 
@@ -1591,11 +1605,11 @@ In CrowdHealth's public results, an MRI request is usually small. One went to 17
 
 Two things, and both are simple. They knew where the fair-priced places were, and there was no approval line to wait in.
 
-That second one surprised me. With insurance, a scan often needs sign-off first, and that can take weeks. Here, you and your doctor decide you need a scan, you find a fair price, and you go.
+That second one surprised me. With insurance, a scan often needs sign-off first, and that can take weeks. Here, you and your doctor decide you need a scan, you find a fair price, and you go. The other tools are in [the CrowdHealth member tools that save money before a bill](https://www.normaltownusa.com/p/crowdhealth-member-tools/). If that sounds like what you want, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## What's the honest part?
 
-If your MRI costs less than $500, it's all yours. Plenty of cash-price scans come in under that, so some members pay for imaging entirely out of pocket and the crowd never gets involved. You're still better off at the cash price. Just don't expect a check.
+If your MRI costs less than $500, it's all yours. Plenty of cash-price scans come in under that, so some members pay for imaging entirely out of pocket and the crowd never gets involved. You're still better off at the cash price. Just don't expect a check. I covered that in [when the bill is under $500](https://www.normaltownusa.com/p/when-the-bill-is-under-500/).
 
 One member had a bad time with this exact thing. A testing bill came to $850, and they still paid $500 of it. They said it made them doubt whether a real emergency would go well. CrowdHealth's reply was that on a deductible plan they'd have paid the full $850. That's true, and I also understand why $350 back didn't feel like much.
 
@@ -1603,7 +1617,7 @@ The imaging also has to be for a new problem. A problem you had before joining c
 
 ## The takeaway
 
-For scans, the win usually isn't the crowd paying. It's finding out the scan costs a third of what you thought, and getting it next week instead of next season. Ask for the cash price at a standalone imaging center. That one habit will save you money on any plan.
+For scans, the win usually isn't the crowd paying. It's finding out the scan costs a third of what you thought, and getting it next week instead of next season. Ask for [the cash price](https://www.normaltownusa.com/p/the-cash-price-secret/) at a standalone imaging center. That one habit will save you money on any plan.
 
 ## Questions I get about this
 
@@ -1678,19 +1692,19 @@ Yes. A man who'd lost the insurance he had through work joined CrowdHealth, then
 
 He said his advocate worked between those hospitals for him, and that other members' money got him through surgery and back on his feet. No dollar figures in that one either.
 
-For scale, CrowdHealth's published list of large funded bills includes two heart events, at $180,129 and $122,340. Its public results also show a heart attack request that went out to 224 members.
+For scale, see also [the $240,000 NICU bill](https://www.normaltownusa.com/p/the-240000-nicu-bill/). CrowdHealth's published list of large funded bills includes two heart events, at $180,129 and $122,340. Its public results also show a heart attack request that went out to 224 members.
 
 ## What's the honest part?
 
 Neither of these reviews has a final number, and the first one wasn't finished. "Many bills funded, others in negotiation" is good news. It's not the same as "done."
 
-Heart events also raise the hardest version of the pre-existing question. If you'd been treated for a heart problem in the five years before joining, a later heart event could fall under that rule. High blood pressure and high cholesterol by themselves are exempt, which helps a lot of people my age.
+Heart events also raise the hardest version of the pre-existing question. If you'd been treated for a heart problem in the five years before joining, a later heart event could fall under [the pre-existing rule](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/). High blood pressure and high cholesterol by themselves are exempt, which helps a lot of people my age.
 
 And think about that wife for a second. For weeks, those bills were arriving at her house with her name on them. Nobody had signed a contract promising to pay them. She trusted a track record. It held. I just don't want to make that sound smaller than it was.
 
 ## The takeaway
 
-Two years of paying in. One catastrophic week. A phone call the next morning, and someone saying "take care of him first." That's the moment the whole thing either works or it doesn't. For this couple, by her account, it was working.
+Two years of paying in. One catastrophic week. A phone call the next morning, and someone saying "take care of him first." That's the moment the whole thing either works or it doesn't. For this couple, by her account, it was working. If that's the kind of backup you want, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL), after you read the rules.
 
 ## Questions I get about this
 
@@ -1751,7 +1765,7 @@ CrowdHealth sent this member to two doctors. Each consult cost $300. Both doctor
 
 Then they suggested a doctor five hours away.
 
-By the time the review went up, this member had spent $600 on visits, lost two days of pay, waited months on estimates, and still hadn't had the surgery. The review was kind about the advocate. The rep was great, it said, "but his hands are tied."
+By the time the review went up, this member had spent $600 on visits, lost two days of pay, waited months on estimates, and still hadn't had the surgery. The review was kind about the [advocate](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does/). The rep was great, it said, "but his hands are tied."
 
 ## Why the difference?
 
@@ -1767,13 +1781,15 @@ CrowdHealth replied to this member publicly. They explained the fair pricing, of
 
 Where you live matters a lot. If your area has a few surgery centers competing for patients, you'll probably be the first member. If one hospital system owns your whole region, you could be the second.
 
-There's no way around this from where I sit. The same rule that keeps my monthly cost low is the rule that left that member stuck. Members pay less because the crowd refuses to pay the inflated price. Somebody has to be the one standing in the doctor's office when that refusal happens.
+There's no way around this from where I sit. The same rule that keeps my monthly cost low is the rule that left that member stuck. Members pay less because the crowd refuses to pay the inflated price. Somebody has to be the one standing in the doctor's office when that refusal happens. One member's [hip replacement for $500](https://www.normaltownusa.com/p/a-new-hip-for-500/) worked because he chose a cheaper facility.
+
+If your area has options and the trade-off works for you, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 I'll also say the first review was written the day of surgery. The final bills hadn't come yet.
 
 ## The takeaway
 
-Before you join, find out what your options are near home. Are there independent surgery centers nearby? Do they post cash prices? If the answer is "one big hospital and nothing else," know that you may be asked to drive, or to cover a gap. That's a real cost, and it belongs in your math.
+Before you join, find out what your options are near home. Are there independent surgery centers nearby? Do they post [cash prices](https://www.normaltownusa.com/p/the-cash-price-secret/)? If the answer is "one big hospital and nothing else," know that you may be asked to drive, or to cover a gap. That's a real cost, and it belongs in your math.
 
 ## Questions I get about this
 
@@ -1848,13 +1864,15 @@ Early on, a rep told him he'd be handled the same way any other member would, as
 
 Several things, and they matter.
 
-**He was scared it wouldn't count.** He'd only been a member for a couple of months. And there had been that earlier growth. The story doesn't explain how that sat with the rule about symptoms before joining. It was funded. I can't tell you exactly why the rule didn't block it, and I won't pretend to know.
+**He was scared it wouldn't count.** He'd only been a member for a couple of months. And there had been that earlier growth. The story doesn't explain how that sat with the rule about symptoms before joining, which I cover in [CrowdHealth and pre-existing conditions](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/). It was funded. I can't tell you exactly why the rule didn't block it, and I won't pretend to know.
 
 **His cancer doctor was alarmed** when he said he had no insurance. Expect that reaction. You'll have to explain yourself in a lot of offices.
 
 **Other cancer stories are less tidy.** A husband wrote that the community funded "most" of the costs of his wife's cancer treatment. Most, not all. A woman with a new breast cancer diagnosis said she felt more in control of her treatment, and also that she was doing more legwork getting estimates. Her treatment hadn't started yet.
 
-**Long treatments are the weak spot.** CrowdHealth's guide limits ongoing prescriptions to a 12-month supply and excludes some high-cost drugs. One independent writer who joined pointed out that a condition needing expensive care forever is the real risk in this model. I think he's right.
+**Long treatments are the weak spot.** CrowdHealth's guide limits ongoing prescriptions to a 12-month supply and excludes some high-cost drugs. One independent writer who joined pointed out that a condition needing expensive care forever is the real risk in this model. I think he's right. For another cancer bill and what happened to it, see [the $48,000 surgery quote that became $9,190](https://www.normaltownusa.com/p/the-48000-quote-that-became-9190/).
+
+If you've read the rules and they fit your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 
@@ -1915,7 +1933,7 @@ The bill was denied. They appealed. The appeal was denied too. The bill was neve
 
 Here is the rule, as plainly as I can put it.
 
-If you had a condition in the five years before joining, it isn't shared during your first two years. In year three and after, it's shared up to $25,000 a year.
+If you had a condition in the five years before joining, it isn't shared during your first two years. In year three and after, it's shared up to $25,000 a year. The full rules are in [CrowdHealth and pre-existing conditions](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/).
 
 The part people miss is what "had a condition" means. It isn't only a diagnosis. It also includes symptoms, things a doctor suspected, and anything you were treated for. So a symptom that got looked at and never got a name can still count.
 
@@ -1925,7 +1943,7 @@ Think of it like buying a used car "as is." Anything already rattling when you d
 
 ## How often does this happen?
 
-More than I expected, and CrowdHealth publishes it. Each month, about 3% to 5% of submitted bills are ruled not eligible. In August 2026 it was 4.94%.
+More than I expected, and CrowdHealth publishes it. Other [fine print that catches new members](https://www.normaltownusa.com/p/the-fine-print-that-catches-new-members/) is worth a read too. Each month, about 3% to 5% of submitted bills are ruled not eligible. In August 2026 it was 4.94%.
 
 Their results list the reasons, and some are brutal in how small they are. One note says a member's symptoms started three days before their start date. Another says one month before. Another says medical records showed three weeks of symptoms before joining.
 
@@ -1937,13 +1955,13 @@ I think the rule itself is fair. A crowd can't work if people join the week afte
 
 But fair and painless aren't the same thing. This couple thought the bill would be shared and found out otherwise holding a $10,000 bill. Whether they misread the rule or it wasn't explained well, the result was the same for them.
 
-To her credit, the reviewer added that CrowdHealth might still be a good fit for a pregnancy or a sudden emergency. That's about right. This is built for new things, not old things.
+To her credit, the reviewer added that CrowdHealth might still be a good fit for a pregnancy or a sudden emergency. That's about right. This is built for new things, not old things. For a brand-new illness, see [cancer, a few months after joining](https://www.normaltownusa.com/p/cancer-a-few-months-after-joining/).
 
 There are two exceptions worth knowing. High blood pressure and high cholesterol are exempt from the rule. And brand-new accidents and new illnesses are eligible from day one.
 
 ## The takeaway
 
-Before you join, sit down and list every doctor visit and every nagging symptom from the last five years. Assume anything on that list is on you for two years. If that list has something expensive on it, CrowdHealth may not be your tool right now, and I'd tell you that to your face.
+Before you join, sit down and list every doctor visit and every nagging symptom from the last five years. Assume anything on that list is on you for two years. If that list has something expensive on it, CrowdHealth may not be your tool right now, and I'd tell you that to your face. If the list is clean, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Questions I get about this
 
@@ -2004,7 +2022,7 @@ They were honest that the first day or two was rough. They didn't know what to d
 
 Bigger than you'd guess. Most of these reviews don't give totals, but CrowdHealth's public results do show which requests topped $10,000. Among them: a broken wrist from a scooter crash that went to 72 members, a fractured elbow that went to 46, a double broken wrist that went to 42, and a broken ankle that went to 33.
 
-A broken bone that needs surgery is a five-figure bill pretty often. Your share is $500.
+A broken bone that needs surgery is a five-figure bill pretty often. Your share is $500, and I explain [how one health event gets paid](https://www.normaltownusa.com/p/how-one-health-event-gets-paid/) in a separate post.
 
 Here's how I think about that $500. It's like the deposit on a rental truck. It's enough that you'll take care, and small enough that it won't wreck your month.
 
@@ -2014,15 +2032,15 @@ Found a surgeon, taught the member what to ask, and paid before the surgery. For
 
 ## What's the honest part?
 
-That first-day confusion is real, and I've seen it in more than one review. Another member who tore a knee ligament on a weekend said the same thing: it would have been easier to learn the process on something small. There's no card to hand the front desk. You have to know to say "I'm paying directly, what's your cash price?"
+That first-day confusion is real, and I've seen it in more than one review. Another member who tore a knee ligament on a weekend (I covered [how rehab for torn knees and sprained ankles gets paid](https://www.normaltownusa.com/p/torn-knees-and-sprained-ankles/)) said the same thing: it would have been easier to learn the process on something small. There's no card to hand the front desk. You have to know to say "I'm paying directly, what's your cash price?"
 
 So learn the steps before you need them. Save your advocate's contact info in your phone the day you join.
 
-Also know the fine print on risky hobbies. CrowdHealth's guide excludes injuries from a list of hazardous activities, like motorcycle racing and skydiving, and injuries that happen while under the influence. Ordinary bike wrecks show up in the funded results. Skydiving is on the excluded list.
+Also know the fine print on risky hobbies, and read [what isn't eligible on CrowdHealth](https://www.normaltownusa.com/p/what-crowdhealth-doesnt-cover/). CrowdHealth's guide excludes injuries from a list of hazardous activities, like motorcycle racing and skydiving, and injuries that happen while under the influence. Ordinary bike wrecks show up in the funded results. Skydiving is on the excluded list.
 
 ## The takeaway
 
-Broken bones are the bread and butter of what this crowd pays for, and the stories are steady: you pay $500, the crowd handles the rest, and sometimes the surgery is funded before you roll in. The weak spot is the first 48 hours for a first-timer. That's fixable with ten minutes of homework.
+Broken bones are the bread and butter of what this crowd pays for, and the stories are steady: you pay $500, the crowd handles the rest, and sometimes the surgery is funded before you roll in. The weak spot is the first 48 hours for a first-timer. That's fixable with ten minutes of homework. If you want to have the steps ready before a fall, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Questions I get about this
 
@@ -2085,7 +2103,7 @@ None of these three members shared a dollar amount, so I'm not going to invent o
 
 What I can show you is how common this is. CrowdHealth posts its funding requests each month, with the state and the type of event. Over about two years, I count roughly 60 requests for kidney stones. One was sent to 43 members. Another, for a stone removal, went to 35. An ER visit for stones went to 18.
 
-That tells you something useful. A kidney stone bill is big to one person and small to a crowd. A few dozen people chip in and it's done. It's like splitting the check when one friend's car breaks down. Thirty-five people throwing in is a non-event for each of them.
+That tells you something useful. A kidney stone bill is big to one person and small to a crowd. A few dozen people chip in and it's done. I explain how that works in [how members fund each other's bills](https://www.normaltownusa.com/p/how-members-vote-to-fund-bills/). It's like splitting the check when one friend's car breaks down. Thirty-five people throwing in is a non-event for each of them.
 
 ## What did CrowdHealth actually do?
 
@@ -2101,7 +2119,9 @@ This is why I keep saying an emergency fund and CrowdHealth go together. I wrote
 
 CrowdHealth says that for bigger bills it can negotiate, and sometimes fund, before you pay. So ask your advocate before you put a large bill on a card.
 
-One more thing. Kidney stones tend to come back. If you had stones or symptoms in the five years before joining, a new stone could be treated as a pre-existing condition and not shared in your first two years. A first-ever stone for a new member is a different story.
+One more thing. Kidney stones tend to come back. If you had stones or symptoms in the five years before joining, a new stone could be treated as a [pre-existing condition](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/) and not shared in your first two years. A first-ever stone for a new member is a different story.
+
+If you can float a bill for a little while, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 
@@ -2172,7 +2192,11 @@ There's a part I didn't expect. After the bills were paid, CrowdHealth kept nego
 
 Three things: told a scared dad what to do next, negotiated a quarter-million-dollar bill, and split what was left across a whole lot of members so no one person felt it.
 
-That last part is the heart of it. A $240,000 bill would flatten one family. Split into small pieces across a big crowd, nobody gets flattened. It's like a barn raising. One family can't lift a barn wall. Forty neighbors can do it before lunch.
+That last part is the heart of it. A $240,000 bill would flatten one family. Split into small pieces across a big crowd, nobody gets flattened. I walk through the steps in [how a big hospital bill gets paid without insurance](https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance/). It's like a barn raising. One family can't lift a barn wall. Forty neighbors can do it before lunch.
+
+If a baby is in your plans, [having a baby on CrowdHealth](https://www.normaltownusa.com/p/having-a-baby-on-crowdhealth/) explains the $3,000 commitment, and [the pre-existing condition rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/) explain the timing that matters.
+
+If that sounds like the backup you want, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## What's the honest part?
 
@@ -2243,7 +2267,7 @@ And a fourth, writing on her own blog, was using a birthing center. One of her l
 
 ## What does the bill look like?
 
-Here's how the $3,000 works.
+Here's how the $3,000 works. I broke down the same math in [maternity on health sharing](https://www.normaltownusa.com/p/maternity-on-health-sharing/).
 
 With regular health events, you pay the first $500. Pregnancy is different. It's one big event that includes everything from the first prenatal visit through postpartum, and your share is $3,000 total.
 
@@ -2257,13 +2281,13 @@ CrowdHealth says it also shares costs for midwives, doulas, lactation help, pelv
 
 There are three rules here that will bite you if you skip them.
 
-**The 300-day rule.** Your due date has to be at least 300 days after your membership starts. If you're already pregnant when you join, that pregnancy isn't shared. This isn't something you sign up for after the test turns positive.
+**The 300-day rule.** Your due date has to be at least 300 days after your membership starts. If you're already pregnant when you join, that pregnancy isn't shared. This isn't something you sign up for after the test turns positive. The clock starts the day you join, so if a baby is in your plans, you can [start with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) well ahead of time. More first-month surprises are in [the fine print that catches new members](https://www.normaltownusa.com/p/the-fine-print-that-catches-new-members/).
 
 **The price went up.** Older reviews talk about having a baby for $500. That was true in 2022. It went to $1,500, and now it's $3,000. If you read an old review, check the date.
 
 **The baby is a separate person.** Routine newborn care is its own event with its own $500. If the baby has complications at birth, that's another separate event. So a rough delivery could mean $3,000 plus $500 plus $500.
 
-And you'll likely pay bills first and get paid back. That's a real cash flow thing to plan for.
+And you'll likely pay bills first and get paid back. That's a real cash flow thing to plan for, and [the paperwork is real](https://www.normaltownusa.com/p/the-paperwork-is-real/) covers what it looks like.
 
 ## The takeaway
 
@@ -2332,11 +2356,11 @@ That's not a typo. The far one was about a quarter of the local one.
 
 So they went. Plane tickets, three hotel nights, a driver, meals, and the procedure came to about $30,000 all in. That was more than $50,000 under the local quote, even after paying for the trip.
 
-He paid his $500. CrowdHealth asked 150 members to fund the remaining $29,500. The money was there in three days, before the procedure.
+He paid his $500, which is how [one health event gets paid](https://www.normaltownusa.com/p/how-one-health-event-gets-paid/). CrowdHealth asked 150 members to fund the remaining $29,500. The money was there in three days, before the procedure.
 
 ## What did CrowdHealth actually do?
 
-They did the shopping. They took the quotes, called other hospitals, and found the $22,000 one. They booked the travel and lined up a local person to drive the couple around once they landed. Then they sent the request to the crowd.
+They did the shopping, which is the job of [a care advocate](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does/). They took the quotes, called other hospitals, and found the $22,000 one. They booked the travel and lined up a local person to drive the couple around once they landed. Then they sent the request to the crowd.
 
 This is the part I love. I've never heard of an insurance company calling three hospitals to find a member a better price. Why would they? It isn't their job.
 
@@ -2352,7 +2376,7 @@ CrowdHealth says being asked to travel for a big procedure is rare. Its founder 
 
 ## The takeaway
 
-Same procedure, $83,655 or $22,000, depending on the building. Prices for the same care can be four times apart, and most of us never find out because nobody shows us the menu. Having someone make those calls is worth a lot.
+Same procedure, $83,655 or $22,000, depending on the building. Prices for the same care can be four times apart, and most of us never find out because nobody shows us the menu. Having someone make those calls is worth a lot. For another big bill that ended at $500, read [the $35,000 appendix](https://www.normaltownusa.com/p/the-35000-appendix-that-cost-500/). If you want someone making those calls for your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## Questions I get about this
 
@@ -2420,13 +2444,13 @@ A second member's public review backs it up. This one was a physician. They desc
 
 And CrowdHealth's own list of big funded bills includes one for appendicitis that reached $333,943. The list doesn't say what made that one so large.
 
-So the same body part can run $10,600 or $333,000 depending on how it goes and who's asking. That range is the whole reason I want somebody on my side.
+So the same body part can run $10,600 or $333,000 depending on how it goes and who's asking. That range is the whole reason I want somebody on my side. Another member's [$48,000 surgery quote that became $9,190](https://www.normaltownusa.com/p/the-48000-quote-that-became-9190/) follows the same pattern.
 
 ## What did CrowdHealth actually do?
 
-In the first story, they got the price cut from $35,000 to $10,600 using self-pay pricing. Self-pay just means you're paying directly instead of through an insurance company. Hospitals will often take far less from a direct payer, because they get paid faster and skip the paperwork fight.
+In the first story, they got the price cut from $35,000 to $10,600 using [self-pay pricing](https://www.normaltownusa.com/p/the-cash-price-secret/). Self-pay just means you're paying directly instead of through an insurance company. Hospitals will often take far less from a direct payer, because they get paid faster and skip the paperwork fight.
 
-Then the crowd funded everything above the member's $500.
+Then the crowd funded everything above the member's $500. I laid out [how a big hospital bill gets paid, step by step](https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance/).
 
 The couple also said the advocates later pointed them to a doctor who only takes self-pay patients, and they liked him a lot.
 
@@ -2437,6 +2461,8 @@ You don't get the discount at the front desk. In an emergency you get the care, 
 The second story left out the ending. A doctor saying CrowdHealth took care of them is encouraging. It isn't a receipt.
 
 And this first story was chosen and published by CrowdHealth. They pick the good ones. Keep that in mind, the same way you would with any company's testimonials.
+
+If you'd like someone asking for the real price on your side, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 
@@ -2522,13 +2548,15 @@ It wasn't finished. A couple of bills were still being worked on two months late
 
 You are the one holding the bills while that happens. Your name is on them, not CrowdHealth's.
 
-And his situation fit the rules. A sudden illness in a healthy kid is exactly what this is built for. He listed the limits in his own review: conditions you already had aren't shared for the first two years, you have to join before a pregnancy, and people 65 and up or who use tobacco can't join.
+And his situation fit the rules. A sudden illness in a healthy kid is exactly what this is built for. He listed the limits in his own review: conditions you already had aren't shared for the first two years (see [the pre-existing condition rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/)), you have to join before a pregnancy, and people 65 and up or who use tobacco can't join.
 
 ## Why this one sticks with me
 
 His old insurance plan cost about $500 a month just for him, with a $4,000 deductible. He figured a family plan would have run about $1,500 a month with a $12,000 deductible. A deductible is the amount you pay yourself before insurance pays a dime. So on that plan, this same night could have cost him $12,000 on top of the monthly bill.
 
-Instead it was $500. That's the whole pitch, in one bad night.
+Instead it was $500. That's the whole pitch, in one bad night. Another member's emergency surgery went the same way in [the $35,000 appendix that cost $500](https://www.normaltownusa.com/p/the-35000-appendix-that-cost-500/), and the monthly price is broken down in [how much CrowdHealth costs](https://www.normaltownusa.com/p/crowdhealth-cost/).
+
+If you want that kind of backup for your own family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 
@@ -2583,7 +2611,7 @@ But me liking something isn't proof of anything. So this month I'm doing it diff
 
 Three reasons, and none of them are fancy.
 
-**I can explain it.** I pay $60 a month per person to CrowdHealth for the help: the advocate, the bill negotiating, the app. (That fee goes to $65 in January 2027.) On top of that I chip in toward other members' bills each month. That part moves around, and it has a ceiling. If something happens to one of us, we pay the first $500 of that health event. The crowd shares the rest.
+**I can explain it.** I pay $60 a month per person to CrowdHealth for the help: the advocate, the bill negotiating, the app. (That fee goes to $65 in January 2027.) On top of that I chip in toward other members' bills each month. That part moves around, and it has a ceiling, which I lay out in [how much CrowdHealth costs](https://www.normaltownusa.com/p/crowdhealth-cost/). If something happens to one of us, we pay the first $500 of that health event. The crowd shares the rest.
 
 **The money goes to people.** When I chip in, it goes to another member with a real bill. Not to a building with a fountain in the lobby.
 
@@ -2607,9 +2635,9 @@ One more honest note. I can't verify a stranger's review. When a story comes fro
 
 CrowdHealth is not insurance. Nobody is legally required to pay your bill. Members are responsible for their own bills in the end, and CrowdHealth says 99.9% of eligible bills have been funded to date.
 
-"Eligible" is doing real work in that sentence. Conditions you had symptoms of in the five years before joining aren't shared for your first two years, and they're capped at $25,000 a year after that. Dental work, most mental health care, and ongoing brand-name prescriptions aren't shared. You can't join at 65 or older, or if you use tobacco. I wrote up [who health sharing is wrong for](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/) if you want that list first.
+"Eligible" is doing real work in that sentence. Conditions you had symptoms of in the five years before joining aren't shared for your first two years, and they're capped at $25,000 a year after that. The details are in [CrowdHealth and pre-existing conditions](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/). Dental work, most mental health care, and ongoing brand-name prescriptions aren't shared. You can't join at 65 or older, or if you use tobacco. I wrote up [who health sharing is wrong for](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/) if you want that list first.
 
-One word note. CrowdHealth calls itself healthcare crowdfunding, not health sharing, and it isn't a ministry. I checked the company out in [is CrowdHealth legit](https://www.normaltownusa.com/p/is-crowdhealth-legit/).
+One word note. CrowdHealth calls itself healthcare crowdfunding, not health sharing, and it isn't a ministry. I checked the company out in [is CrowdHealth legit](https://www.normaltownusa.com/p/is-crowdhealth-legit/). If you'd like to try it, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 
@@ -2695,7 +2723,7 @@ CrowdHealth has the money part, and the record above says the money part works. 
 
 That's not a loophole somebody discovered. It's stated plainly in the actual terms, and it's the trade you're making. The cost is lower partly *because* that machinery isn't there.
 
-Maryland's insurance regulator [published a consumer advisory about CrowdHealth](https://insurance.maryland.gov/Consumer/Pages/ConsumerAdvisory-MIA-warns-of-risks-involved-in-crowd-funding-healthcare-payment-platform-CrowdHealth.aspx) in March 2026 making essentially this point. I'd rather you read it yourself than take my summary or the company's.
+Maryland's insurance regulator [published a consumer advisory about CrowdHealth](https://insurance.maryland.gov/Consumer/Pages/ConsumerAdvisory-MIA-warns-of-risks-involved-in-crowd-funding-healthcare-payment-platform-CrowdHealth.aspx) in March 2026 making essentially this point. I'd rather you read it yourself than take my summary or the company's. For the other side of the argument, I also wrote up [what the critics say about CrowdHealth](https://www.normaltownusa.com/p/what-the-critics-say-about-crowdhealth/).
 
 ## It isn't a health sharing ministry either
 
@@ -2716,7 +2744,7 @@ Don't take my word for any of this. It takes twenty minutes:
 
 ## The honest verdict
 
-For a reasonably healthy household with savings that could absorb a bad month, I think it's a good deal, and my family's money is where my mouth is.
+For a reasonably healthy household with savings that could absorb a bad month, I think it's a good deal, and my family's money is where my mouth is. If that sounds like your household, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL), but read the rules first.
 
 For somebody with an ongoing condition, it mostly isn't, because of [the pre-existing rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/). For somebody with no cushion, it's a lower monthly cost bought with risk they can't carry. For somebody who wants a regulator they can call, insurance is the product that sells that, and wanting it is not a character flaw.
 
@@ -2829,7 +2857,7 @@ Be honest with yourself here:
 
 - **Anyone with a chronic condition needing ongoing treatment.** Two years of nothing, then a $25,000 annual ceiling, is not dependable funding for diabetes or a heart condition. It's a partial subsidy starting two years from now.
 - **Anyone in the middle of a workup.** If you're currently being investigated for something, it's symptomatic or suspected now, which puts it in the window.
-- **Anyone who'd be gambling.** If you're hoping the rule won't be applied to you, don't join. It'll be applied.
+- **Anyone who'd be gambling.** If you're hoping the rule won't be applied to you, don't join. It'll be applied. I wrote about [a $10,000 bill the crowd never saw](https://www.normaltownusa.com/p/the-10000-bill-the-crowd-never-saw/) for exactly this reason.
 
 If that's you, the honest answer is a real insurance plan, and I'd rather say so than take the referral. There's more in [who health sharing is wrong for](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
 
@@ -2838,7 +2866,9 @@ If that's you, the honest answer is a real insurance plan, and I'd rather say so
 - Reasonably healthy people whose charts are boring.
 - People managing **only** cholesterol or blood pressure, per the exemption above.
 - People whose past issue is more than five years back and has stayed quiet.
-- Anything genuinely new that happens **after** you join. That's the main event, and it's funded normally.
+- Anything genuinely new that happens **after** you join. That's the main event, and it's funded normally. One member's story of [a cancer diagnosis a few months after joining](https://www.normaltownusa.com/p/cancer-a-few-months-after-joining/) shows what that looks like.
+
+If you've read your records and you're in the clear, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The part I have to say
 
@@ -2943,7 +2973,7 @@ Now price a bronze marketplace plan for a 35-year-old without a subsidy. The pre
 
 **A family of four, two adults under 55.** $240 subscription. Worst month $660. Worst year $7,920, before any $500 commitments.
 
-Compare that to a family plan with a $1,500 monthly premium and a $12,000 deductible, which is $18,000 before the plan pays for anything. That comparison is why we switched.
+Compare that to a family plan with a $1,500 monthly premium and a $12,000 deductible, which is $18,000 before the plan pays for anything. That comparison is why we switched. If your numbers look like that, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Where the savings actually come from
 
@@ -3104,7 +3134,7 @@ So we'll do two versions of the year: a healthy year where little happens, and a
 - Routine cash-pay visits: a few hundred
 - **All-in: roughly $5,000 to $5,500**
 
-Even in a boring, healthy year, the gap is thousands of dollars, mostly because you're not paying premiums into a plan you barely touched. I broke down [the monthly piece](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing/).
+Even in a boring, healthy year, the gap is thousands of dollars, mostly because you're not paying premiums into a plan you barely touched. I broke down [the monthly piece](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing/), and the caps behind these numbers are in [how much CrowdHealth costs](https://www.normaltownusa.com/p/crowdhealth-cost/).
 
 ## The rough year (one real health event)
 
@@ -3120,11 +3150,11 @@ Now add a $6,000 health event, like a surgery or a bad break, after negotiation.
 - The event: your $500 commitment, community shares the rest of the eligible amount
 - **All-in: roughly $5,500 to $6,000**
 
-The rougher the year, the wider the gap gets, because your exposure per event is capped at $500 instead of a five-figure deductible.
+The rougher the year, the wider the gap gets, because your exposure per event is capped at $500 instead of a five-figure deductible. I compared the two directly in [the $500 you pay vs. the deductible you don't](https://www.normaltownusa.com/p/the-500-you-pay-vs-the-deductible-you-dont/).
 
 ## The honest asterisk on these numbers
 
-Two things keep this fair. First, your real numbers will differ, so run your own with your actual premium and deductible. Second, and most important: the traditional plan's higher cost buys a legal guarantee, and health sharing has none, because it is not insurance. That guarantee is worth something, especially if you have an active condition. For most healthy families the savings clearly win, but you're the one who weighs it. Here is my [who-should-skip-this post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
+Two things keep this fair. First, your real numbers will differ, so run your own with your actual premium and deductible. Second, and most important: the traditional plan's higher cost buys a legal guarantee, and health sharing has none, because it is not insurance. That guarantee is worth something, especially if you have an active condition. For most healthy families the savings clearly win, but you're the one who weighs it. Here is my [who-should-skip-this post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/). If your own numbers look like these, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 
@@ -3246,7 +3276,7 @@ Nobody, insured or not, should be gambling with a heart attack or a bad accident
 Once you're safe and stable, a real emergency is treated as a health event, the same as any other. Here's the flow:
 
 - You'll pay your **$500 member commitment** for the event.
-- **CrowdHealth goes to work** on the ER and hospital bills, negotiating them down to the cash price and lower. ER bills are notoriously inflated, so this step often saves a lot. I wrote about [what advocates do](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does/).
+- **CrowdHealth goes to work** on the ER and hospital bills, negotiating them down to the cash price and lower. ER bills are notoriously inflated, so this step often saves a lot. I wrote about [what advocates do](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does/), and about [an ER bill that dropped from $4,142 to $1,657 with one phone call](https://www.normaltownusa.com/p/the-er-bill-one-phone-call/).
 - The **community shares the rest** of the eligible cost, usually funding a complete submission in about a week.
 
 So the scary ER bill gets attacked and shrunk, then shared, just like a broken arm or an appendix. The emergency being an emergency doesn't change the basic machinery.
@@ -3258,7 +3288,7 @@ Two things that make the aftermath smoother:
 - **Keep your $500 liquid,** always, so the event commitment is never a scramble.
 - **Save every document.** The itemized bills, the discharge papers, everything. Complete submissions get funded fastest, so good paperwork is your friend.
 
-That's really it. Get care, keep your cushion ready, save the paperwork, let CrowdHealth negotiate the bill.
+That's really it. Get care, keep your cushion ready, save the paperwork, let CrowdHealth negotiate the bill. If you'd rather have that set up before you need it, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The honest limits
 
@@ -3374,7 +3404,7 @@ A few figures that tell the real story:
 - **A single $3 million NICU bill funded.** That matters, because the whole fear is "sure, but what about a truly catastrophic bill?" Big bills get funded, not just the little ones.
 - **About a week to fund a complete, eligible submission, on average.** Faster than plenty of insurance reimbursements I've personally waited on.
 - **Cash-pay discounts commonly 25 to 85 percent** off the sticker price, thanks to the advocates negotiating before anything is shared.
-- **A flat $60 per person per month** advocacy fee, plus a modest monthly crowd contribution. The base number doesn't change with your age.
+- **A flat $60 per person per month** advocacy fee, plus a modest monthly crowd contribution. The base number doesn't change with your age. I broke down [what it costs, with the monthly cap](https://www.normaltownusa.com/p/crowdhealth-cost/).
 
 ## What these numbers actually prove
 
@@ -3384,11 +3414,13 @@ The "it won't be there when I need it" fear? Fifty-three thousand funded bills, 
 
 ## What the numbers honestly do not prove
 
-Here's where I stay straight with you. A strong track record is not a legal guarantee, because health sharing is not insurance. "53,877 bills funded" describes what has happened, not a contractual promise about your specific future bill. Those are different things, and an honest reading of the numbers holds both. The history is genuinely reassuring. It is not a signed guarantee, and I won't dress it up as one. I dug into [that exact trust question](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill/).
+Here's where I stay straight with you. A strong track record is not a legal guarantee, because health sharing is not insurance. "53,877 bills funded" describes what has happened, not a contractual promise about your specific future bill. Those are different things, and an honest reading of the numbers holds both. The history is genuinely reassuring. It is not a signed guarantee, and I won't dress it up as one. I also wrote about [what happens if the crowd doesn't fund your bill](https://www.normaltownusa.com/p/what-if-the-crowd-doesnt-fund-your-bill/). I dug into [that exact trust question](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill/).
 
 ## How to use numbers like these
 
 Whenever you're weighing anything with your money, do this. Ask for the track record, not just the promise. Ask how big and how fast, not just yes or no. And always ask what the numbers don't say. A model that shows you real figures and is honest about their limits is one you can actually evaluate. A pitch that only gives you feelings is one you can't.
+
+If these numbers fit what you were hoping to see, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 
@@ -3458,6 +3490,8 @@ But if you're healthy and just need a bridge to your next job or plan, COBRA's p
 - **You get real human help with bills** through a care advocate, which I wrote about in [what a care advocate actually does](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does/).
 
 For a healthy person between jobs, paying COBRA prices can feel like lighting money on fire.
+
+If you're healthy and bridging a gap, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The honest deciding factor
 
@@ -3590,11 +3624,11 @@ Not every organization is equal, so here's how I'd vet one:
 - **Is there a real track record?** Look for the number of bills funded and independent member reviews.
 - **Is the pricing transparent?** No mystery math, no bait and switch.
 
-CrowdHealth checks these boxes, which is why I use it. But apply this checklist to anyone, including them.
+CrowdHealth checks these boxes, which is why I use it, and I went through it in more detail in [is CrowdHealth legit](https://www.normaltownusa.com/p/is-crowdhealth-legit/). But apply this checklist to anyone, including them. If it checks out for you too, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The honest limits, one more time
 
-Being legit doesn't erase the limits. It is not insurance, so there's no legal guarantee. There are exclusions and pre-existing rules. Those are real, and I've written about them plainly, including [who should skip health sharing entirely](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/). A legit model with honest limits beats a slick pitch that hides them, every time.
+Being legit doesn't erase the limits. It is not insurance, so there's no legal guarantee. There are [exclusions](https://www.normaltownusa.com/p/what-crowdhealth-doesnt-cover/) and [pre-existing rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/). Those are real, and I've written about them plainly, including [who should skip health sharing entirely](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/). A legit model with honest limits beats a slick pitch that hides them, every time.
 
 ## The takeaway
 
@@ -3709,7 +3743,7 @@ They're on CrowdHealth, the service I use, so their numbers are simple: $60 per 
 
 Four people at $60 each is $240 a month in advocacy fees. Add the monthly crowd contribution, which moves around a bit but stays modest, and call the all-in monthly number somewhere in the low-to-mid hundreds for the family. Let's use a round, honest estimate of about $400 a month all in.
 
-Over twelve months, that's roughly $4,800 for the year in regular costs. Hold that number.
+Over twelve months, that's roughly $4,800 for the year in regular costs. Hold that number. The monthly ceiling is laid out in [how much CrowdHealth costs, with the cap](https://www.normaltownusa.com/p/crowdhealth-cost/).
 
 ## The bumps during the year
 
@@ -3731,7 +3765,7 @@ Rough full-year total for this healthy family:
 
 Call it somewhere around $5,500 to $6,000 for the whole year, broken arm included.
 
-Now compare that to a traditional family plan, where the premiums alone often run past that number before anyone gets sick, and you'd still owe a big deductible on top when the arm breaks. That's the gap that made me switch. I broke down [the monthly math](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing/) further.
+Now compare that to a traditional family plan, where the premiums alone often run past that number before anyone gets sick, and you'd still owe a big deductible on top when the arm breaks. That's the gap that made me switch. I broke down [the monthly math](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing/) further. If a year like this sounds like yours, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The honest reminder
 
@@ -3792,13 +3826,15 @@ Complete, eligible submissions get funded in about a week on average. That's fas
 
 ## Where your monthly contribution goes
 
-Here's the part that makes it a community and not a company. Each month, the money you contribute isn't disappearing into a corporate account to boost some quarterly profit. It's going directly to fund the actual bills of actual members that month. You can see the requests. You're not paying premiums to a company hoping to pay out less. You're chipping in to catch a neighbor, knowing the same net catches you.
+Here's the part that makes it a community and not a company. Each month, the money you contribute (I priced it out in [what CrowdHealth costs, with the cap](https://www.normaltownusa.com/p/crowdhealth-cost/)) isn't disappearing into a corporate account to boost some quarterly profit. It's going directly to fund the actual bills of actual members that month. You can see the requests. You're not paying premiums to a company hoping to pay out less. You're chipping in to catch a neighbor, knowing the same net catches you.
 
 That's the core difference from insurance, and it's why the incentives feel so different. Nobody in this system gets richer by denying your bill. I unpacked [that incentive flip](https://www.normaltownusa.com/p/health-insurances-conflict-of-interest/).
 
 ## The honest limits, as always
 
-It's a system run by people under a set of guidelines, not a legal guarantee, because it is not insurance. Bills outside the guidelines don't get funded, which is why reading them up front matters. But within the rules, the process is clear, orderly, and has funded 53,877 bills. Strong track record, stated limits, both true.
+It's a system run by people under a set of guidelines, not a legal guarantee, because it is not insurance. Bills outside the guidelines don't get funded, which is why reading them up front matters. The [pre-existing condition rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/) are the big one. But within the rules, the process is clear, orderly, and has funded 53,877 bills. Strong track record, stated limits, both true.
+
+If that process makes sense to you, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and see how it works from the inside.
 
 ## The takeaway
 
@@ -3866,6 +3902,8 @@ The good news is that each gap has a simple, cheap workaround:
 - **Pre-existing conditions:** know your waiting-period rules going in, and keep the right coverage if you have an active one.
 - **The predictable stuff in general:** budget for it with a small sinking fund, the same way you'd budget for car maintenance.
 
+If you can plan for those gaps, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
+
 ## The takeaway
 
 Routine dental and vision, cosmetic work, expensive ongoing meds, and pre-existing conditions before their waiting periods aren't eligible on CrowdHealth. That's not fine print, it's the design, and it's exactly why the monthly cost stays low. Know the gaps, plan the cheap workarounds, and you get the best of it: a strong, affordable backstop for the big stuff, with no nasty surprises.
@@ -3917,7 +3955,7 @@ For a couple, that can be a soul-crushing number, big enough to make you wonder 
 
 A few reasons it's a natural fit for the pre-Medicare years:
 
-- **The cost climbs with age, but nothing like premiums do.** I want to be careful here, because this is the one place I could accidentally oversell it. With CrowdHealth, the service I use, the $60 per person base fee really is the same at 60 as it is at 30. The crowd contribution on top of it is not. The most the crowd can ask you for in a month is $140 up to age 54, and $280 from 55 to 64. So crossing 55 moves your worst possible month from $200 to $340. That's a real jump and I'm not going to pretend it isn't. Now put it next to an individual premium in your early 60s, which can run well past a thousand dollars a month before the deductible does anything for you. The gap is still enormous.
+- **The cost climbs with age, but nothing like premiums do.** I want to be careful here, because this is the one place I could accidentally oversell it. With CrowdHealth, the service I use, the $60 per person base fee really is the same at 60 as it is at 30. The crowd contribution on top of it is not. The most the crowd can ask you for in a month is $140 up to age 54, and $280 from 55 to 64. So crossing 55 moves your worst possible month from $200 to $340. That's a real jump and I'm not going to pretend it isn't. Now put it next to an individual premium in your early 60s, which can run well past a thousand dollars a month before the deductible does anything for you. The gap is still enormous. I show the caps in detail in [how much CrowdHealth costs](https://www.normaltownusa.com/p/crowdhealth-cost/).
 - **It's built for exactly this situation.** You're bridging a known number of years until a guaranteed program starts. A lower-cost backstop for that stretch is precisely the job.
 - **You likely have savings to self-insure the small stuff.** Early retirees usually have an emergency fund, which means the $500 per event and cash prices are very manageable.
 
@@ -3927,7 +3965,7 @@ I have to be extra straight with this audience, because health matters more as y
 
 First, pre-existing conditions. By your late 50s, many people have something, and health sharing has real waiting-period rules for that. Read them carefully for your situation, which I explained in [pre-existing conditions and health sharing](https://www.normaltownusa.com/p/pre-existing-conditions-and-health-sharing/).
 
-Second, it is not insurance and has no legal guarantee. If you have an active condition needing ongoing care, weigh that hard. My honest [who-should-skip-this list](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/) applies double in that situation.
+Second, it is not insurance and has no legal guarantee. If you have an active condition needing ongoing care, weigh that hard. My honest [who-should-skip-this list](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/) applies double in that situation. If you've read both and the numbers still work, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 
@@ -4043,7 +4081,7 @@ In plain terms: the longer you're a healthy member without needing care for that
 
 ## Read the actual guidelines, not a summary
 
-I can give you the shape of it, but your specific condition deserves the specific rule. The guidelines spell out exactly how each type of situation is handled and how long the waiting periods run. Read them before you join. This is the single most important homework assignment in the whole decision, and skipping it is how people get an unwelcome surprise later. That's also why I keep pointing people to [my honest who-should-skip-this post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
+I can give you the shape of it, but your specific condition deserves the specific rule. The guidelines spell out exactly how each type of situation is handled and how long the waiting periods run. Read them before you join. This is the single most important homework assignment in the whole decision, and skipping it is how people get an unwelcome surprise later. For the CrowdHealth version, see [CrowdHealth and pre-existing conditions: the real rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/). That's also why I keep pointing people to [my honest who-should-skip-this post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
 
 ## When health sharing is the wrong tool
 
@@ -4051,7 +4089,9 @@ Let me be blunt, because you deserve it. If you have a serious, active condition
 
 ## When it can still work
 
-On the other hand, if your "pre-existing condition" is something minor, well-controlled, or years behind you, it may matter far less than you fear, especially after the waiting period. Plenty of people with a manageable history use health sharing happily for everything else life throws at them. The only way to know your case is to read the rule for your specific condition.
+On the other hand, if your "pre-existing condition" is something minor, well-controlled, or years behind you, it may matter far less than you fear, especially after the waiting period. Plenty of people with a manageable history use health sharing happily for everything else life throws at them. The only way to know your case is to read the rule for your specific condition. For an example of what a big bill looks like, I wrote about [a member who got cancer a few months after joining](https://www.normaltownusa.com/p/cancer-a-few-months-after-joining/).
+
+If your history is minor and you've read the guidelines, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 
@@ -4104,7 +4144,7 @@ That's a brutal number to cover out of your own revenue. So the search for somet
 
 A few reasons it lines up well with working for yourself:
 
-- **A flat, predictable cost.** With CrowdHealth, the service I use, it's $60 per person per month plus a modest crowd contribution. When your income is lumpy, a flat, low base cost is a gift.
+- **A flat, predictable cost.** With CrowdHealth, the service I use, it's $60 per person per month plus a modest crowd contribution ([the real monthly cost, month by month](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing/)). When your income is lumpy, a flat, low base cost is a gift.
 - **It's not tied to a job.** It's yours. It moves with you through good months and slow months, new clients and dropped ones.
 - **You're already the type it's built for.** Self-employed people are usually comfortable managing a bit of risk to keep costs sane. That's the health sharing mindset exactly.
 - **A human helps with the bills.** When you don't have an HR department, having a care advocate guide you, and a team that negotiates big bills down, is worth a lot. I wrote about [what care advocates do](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does/).
@@ -4115,7 +4155,9 @@ One quick, honest note. Traditional self-employed health insurance premiums can 
 
 ## Where to be careful
 
-Same honest limits as always. It is not insurance, there's no legal guarantee, and there are real exclusions and pre-existing rules. If you have an ongoing condition or need guaranteed coverage, weigh that seriously. Here is my [who-should-skip-this list](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
+Same honest limits as always. It is not insurance, there's no legal guarantee, and there are real exclusions and [pre-existing rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/). If you have an ongoing condition or need guaranteed coverage, weigh that seriously. Here is my [who-should-skip-this list](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
+
+If the flat monthly number works for your business, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 
@@ -4166,13 +4208,15 @@ Compare that to a traditional plan, where even after premiums all year you can s
 
 ## The rule you cannot skip
 
-Here's the honest, non-negotiable part. Maternity is only eligible if you conceive after you've been a member for a set waiting period. In plain English: you need to join before you're pregnant for the pregnancy to be shared. If you're already expecting when you sign up, that pregnancy is treated like a pre-existing condition and won't be funded.
+Here's the honest, non-negotiable part. Maternity is only eligible if you conceive after you've been a member for a set waiting period. In plain English: you need to join before you're pregnant for the pregnancy to be shared. If you're already expecting when you sign up, that pregnancy is treated like a pre-existing condition (here are [the real pre-existing condition rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/)) and won't be funded.
 
 This trips people up, so I'll say it plainly. Health sharing is something you set up before you're planning a baby, not after you see two lines on the test. Plan ahead and it works beautifully. Show up late and it won't.
 
 ## What the $3,000 actually includes
 
-Once you're eligible, the maternity event is designed to wrap the normal stuff together: prenatal visits, the delivery, and typical newborn care around the birth. Instead of a pile of separate confusing bills, it's handled as one event with one commitment from you. The advocates still work to get fair cash pricing on the care, same as any other event.
+Once you're eligible, the maternity event is designed to wrap the normal stuff together: prenatal visits, the delivery, and typical newborn care around the birth. Instead of a pile of separate confusing bills, it's handled as one event with one commitment from you. The advocates still work to get fair cash pricing on the care, same as any other event. If you want to see how that plays out for a real family, read [having a baby on CrowdHealth](https://www.normaltownusa.com/p/having-a-baby-on-crowdhealth/).
+
+If you're planning ahead, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) before you start trying and get your first 3 months at $99 a month per member.
 
 ## The honest limits
 
@@ -4294,8 +4338,8 @@ Strong history is not the same as an ironclad promise. Both things are true, and
 
 Most of the time a bill doesn't get funded, it's not a mystery or a betrayal. It's because it fell outside the guidelines everyone agreed to. The usual reasons:
 
-- It was for something explicitly not eligible, like cosmetic work or certain pre-existing situations.
-- The waiting rules for a pre-existing condition weren't met yet.
+- It was for [something explicitly not eligible](https://www.normaltownusa.com/p/what-crowdhealth-doesnt-cover/), like cosmetic work or certain pre-existing situations.
+- The [waiting rules for a pre-existing condition](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/) weren't met yet.
 - The paperwork was incomplete, so it stalled until it got fixed.
 
 The lesson is boring but powerful: read the guidelines before you join, and you avoid almost all of the surprises. The denials that shock people are usually things the guidelines said plainly all along.
@@ -4309,7 +4353,7 @@ This is the part I actually do in my own life. You don't just trust and hope. Yo
 - **Know the guidelines** so you're not submitting things that were never eligible.
 - **Use the appeal process** if something gets declined. It's not a dead end.
 
-Do that, and even the bad scenario becomes a bump, not a catastrophe.
+Do that, and even the bad scenario becomes a bump, not a catastrophe. If that feels manageable, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 
@@ -4362,7 +4406,7 @@ This is where people get fooled by the word "coverage."
 
 On a high-deductible plan, when a health event hits, you pay the full cost yourself until you reach your deductible, which is often $7,000 to $15,000 for a family. Only after you climb that wall does the plan start paying. You've been paying premiums the whole time, and you still eat the first several thousand dollars.
 
-On health sharing, you pay $500 for the event, and the community funds the rest of the eligible bill after the advocates negotiate it down. No annual wall to climb first.
+On health sharing, you pay $500 for the event, and the community funds the rest of the eligible bill after the advocates negotiate it down. No annual wall to climb first. I compared the two in more detail in [the $500 you pay vs. the deductible you don't](https://www.normaltownusa.com/p/the-500-you-pay-vs-the-deductible-you-dont/).
 
 ## The math on a real year
 
@@ -4370,6 +4414,8 @@ Say a family has one solid health event, a $6,000 bill after discounts.
 
 - **High-deductible plan:** monthly premiums all year, plus the full $6,000 because you likely never cleared the deductible. Easily well over ten grand out of pocket.
 - **Health sharing:** the flat fees for the year, plus $500 for the event. A dramatically smaller total.
+
+If that gap looks like your family's, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Where the high-deductible plan wins
 
@@ -4418,7 +4464,7 @@ I want to compare two numbers that sound similar but aren't. On one side, the $5
 
 ## What a deductible really is
 
-A deductible is the amount you pay out of your own pocket before your insurance starts helping. If your deductible is $8,000, you pay the first $8,000 of your covered care yourself. Every year. And a lot of family plans run even higher than that. I wrote up [the full plain-English version of what a deductible means](https://www.normaltownusa.com/p/what-a-deductible-really-means/).
+A deductible is the amount you pay out of your own pocket before your insurance starts helping. If your deductible is $8,000, you pay the first $8,000 of your covered care yourself. Every year. And a lot of family plans run even higher than that. I wrote up [the full plain-English version of what a deductible means](https://www.normaltownusa.com/p/what-a-deductible-really-means/), and put the two options head to head in [high-deductible plan vs. health sharing](https://www.normaltownusa.com/p/high-deductible-plan-vs-health-sharing/).
 
 Here's the part that stings. You pay your monthly insurance bill the whole time, and you still owe that whole deductible before the plan pays a dime. You're basically paying twice until you hit the number.
 
@@ -4435,7 +4481,9 @@ Say your kid breaks an arm. Total bill, after the cash price and the advocates w
 - **On a high-deductible plan** with an $8,000 deductible: you pay the entire $4,000 yourself, because you never even reached your deductible. Your plan pays nothing. You also paid your monthly premium all year for the privilege.
 - **On health sharing:** you pay $500. The community funds the rest of the eligible amount.
 
-Same broken arm. Wildly different number on your side of the table.
+Same broken arm. Wildly different number on your side of the table. Bigger bills follow the same loop, which I walked through in [how one health event gets paid](https://www.normaltownusa.com/p/how-one-health-event-gets-paid/).
+
+If those numbers work for your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and see your own monthly number.
 
 ## The honest asterisk
 
@@ -4498,11 +4546,13 @@ If you have a health event, say you break your ankle and need pain medication an
 
 Here's the part I won't sugarcoat. If you take an expensive, ongoing, brand-name medication every single month, health sharing is probably not your best fit for that. Sharing models are built for unexpected events, not for funding a predictable high monthly drug cost forever. That's a maintenance expense, and it doesn't match how the crowd funds things.
 
-If that's you, read [my honest who-should-skip-this breakdown](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/) before you switch. I'd rather you know now than get surprised later.
+If that's you, read [my honest who-should-skip-this breakdown](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/) before you switch. I'd rather you know now than get surprised later. The full list of [what isn't eligible on CrowdHealth](https://www.normaltownusa.com/p/what-crowdhealth-doesnt-cover/) is short, and worth a read.
 
 ## A quick gut check
 
-Ask yourself two questions. Are my regular prescriptions cheap generics? And do I have any pricey, must-have-monthly brand-name drug? If your answers are "yes" and "no," prescriptions probably won't be a problem for you. If you've got an expensive ongoing med, factor that cost in with clear eyes.
+Ask yourself two questions. Are my regular prescriptions cheap generics? And do I have any pricey, must-have-monthly brand-name drug? If your answers are "yes" and "no," prescriptions probably won't be a problem for you. If you've got an expensive ongoing med, factor that cost in with clear eyes. The monthly price itself is laid out in [how much CrowdHealth costs](https://www.normaltownusa.com/p/crowdhealth-cost/).
+
+If your prescriptions are the cheap kind, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 
@@ -4625,7 +4675,7 @@ Think of it like having a friend who happens to know exactly how hospital billin
 Here's the stuff that happens behind the scenes when you have a health event:
 
 - **They find you fair-priced care.** If you need a scan or a procedure, they help you find a place that won't charge triple for the same thing.
-- **They help get the bill down.** This is the big one. Hospitals have a sticker price and a real price, and they're rarely the same number. Your advocate coaches you to ask for the cash price, and CrowdHealth's team negotiates bills over $2,500 lower still. Members commonly see 25 to 85 percent knocked off the list price.
+- **They help get the bill down.** This is the big one. Hospitals have a sticker price and a real price, and they're rarely the same number. Your advocate coaches you to ask for [the cash price](https://www.normaltownusa.com/p/the-cash-price-secret/), and CrowdHealth's team negotiates bills over $2,500 lower still. Members commonly see 25 to 85 percent knocked off the list price.
 - **They coach you through the back-and-forth.** The phone calls, the itemized bills, the "we'll resubmit that" runaround. You make the calls and pay the providers yourself, but they tell you exactly what to ask for.
 - **They walk you through the process.** You always know what to do next, instead of guessing and hoping.
 
@@ -4637,7 +4687,7 @@ A care advocate flips that. Now somebody whose actual job is shrinking your bill
 
 ## The honest limits
 
-I'm not going to oversell it. An advocate is a person helping you, not a magic wand. They can't force a hospital to do anything, and because health sharing is not insurance, there's no legal guarantee on what gets funded. What they can do is help you get better prices and make the fight a lot less lonely, which is a lot. I laid out [the full picture of who this model fits and who should skip it](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
+I'm not going to oversell it. An advocate is a person helping you, not a magic wand. They can't force a hospital to do anything, and because health sharing is not insurance, there's no legal guarantee on what gets funded. What they can do is help you get better prices and make the fight a lot less lonely, which is a lot. If having a real person in your corner sounds worth it, you can [start with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL). I laid out [the full picture of who this model fits and who should skip it](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
 
 ## The takeaway
 
@@ -4688,11 +4738,11 @@ Fact: the community has funded 53,877 bills, including a single $3 million NICU 
 
 ## Myth: "There's a catch in the fine print."
 
-Fact: there are limits, and they are not hidden, they are just real. Pre-existing conditions have waiting rules. Dental, vision, cosmetic work, and a handful of other things are not eligible. If you want the model to work, you read the guidelines first. That is not a catch, that is doing your homework, same as you would with anything you sign up for.
+Fact: there are limits, and they are not hidden, they are just real. [Pre-existing conditions have waiting rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/). Dental, vision, cosmetic work, and a handful of other things are not eligible. If you want the model to work, you read the guidelines first. That is not a catch, that is doing your homework, same as you would with anything you sign up for.
 
 ## Myth: "It's only for young, healthy singles."
 
-Fact: families use it, and so do self-employed people and early retirees who are not yet on Medicare. What actually matters is not your age, it is whether you are relatively healthy, can keep $500 on hand for an event, and do not need guaranteed coverage for an ongoing condition. I wrote [the honest fit test](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
+Fact: families use it, and so do self-employed people and early retirees who are not yet on Medicare. What actually matters is not your age, it is whether you are relatively healthy, can keep $500 on hand for an event, and do not need guaranteed coverage for an ongoing condition. I wrote [the honest fit test](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/). If that sounds like your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## Myth: "If I get sick, I'm on my own with the hospital."
 
@@ -4767,6 +4817,8 @@ By day 90 most people have stopped thinking about it, which is exactly what you 
 
 Switching is not right for everyone. If you have an ongoing, expensive condition that needs guaranteed coverage, or you cannot keep $500 on hand, this is probably not your move. I keep [the honest who-should-skip-it post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/) up so nobody switches into the wrong thing.
 
+If you've read the rules and the $500 is ready, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and start your first 90 days.
+
 ## The takeaway
 
 The first 90 days of health sharing are: set aside your $500, read the rules, sign up (overlap your old coverage briefly), meet your care advocate and learn the app, then settle into a quiet monthly rhythm. It is a smaller change than the fear makes it feel.
@@ -4832,6 +4884,8 @@ Because this is a community and not an insurance contract, there is no legal gua
 
 With a high-deductible insurance plan, that same big event could cost you the full deductible, often five figures, before the plan helps at all. With health sharing, your fixed exposure for the event is $500, and a team is actively working to shrink the bill instead of a claims department working to deny it. Same emergency, very different math and very different feeling.
 
+If that math looks better to you, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
+
 ## The takeaway
 
 A big hospital bill on health sharing goes like this: you pay the first $500, negotiators cut the bill down hard, and the community funds the rest, usually within about a week. The crowd has done this for a bill as large as $3 million. It is not insurance and it is not guaranteed, but the mechanism is real, it is fast, and it has a public track record.
@@ -4881,7 +4935,7 @@ On the track record: CrowdHealth's community has funded 53,877 bills for a commu
 
 Now the honest half. Health sharing is **not insurance.** There is no legal contract promising a company will pay your bills. Instead, a community agrees to fund eligible bills, and it has done so reliably, but "reliably" is not the same as "guaranteed." Members are ultimately responsible for their own bills.
 
-There are also real limits. Pre-existing conditions have waiting rules. Some things are simply not eligible, like most dental, vision, and cosmetic care. If you need an ironclad guarantee for an ongoing, expensive condition, this is not your tool. I laid out [who should skip it entirely](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
+There are also real limits. [Pre-existing conditions have waiting rules](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/). Some things are simply not eligible, like most dental, vision, and cosmetic care. If you need an ironclad guarantee for an ongoing, expensive condition, this is not your tool. I laid out [who should skip it entirely](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/).
 
 ## Why the model earns trust in the first place
 
@@ -4891,7 +4945,7 @@ Health sharing flips that. CrowdHealth makes its money on a flat $60 monthly fee
 
 ## How to test the trust yourself
 
-Do not take my word or theirs. Read the member reviews on Trustpilot, both the glowing ones and the critical ones. The critical ones usually say a complex bill took longer than expected, not that it went unpaid. Then read the actual guidelines on what is eligible before you join, so there are no surprises. Trust that survives your skepticism is the only kind worth having.
+Do not take my word or theirs. Read the member reviews on Trustpilot, both the glowing ones and the critical ones. The critical ones usually say a complex bill took longer than expected, not that it went unpaid. Then read the actual guidelines on what is eligible before you join, so there are no surprises. Trust that survives your skepticism is the only kind worth having. If it still looks right after that, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 
@@ -4985,6 +5039,8 @@ Traditional insurance is the second bill. You pay the premium, and then you stil
 ## Who this math works for
 
 This works best if you are relatively healthy, you have $500 set aside for a health event, and you want a lower, more predictable monthly number. It does not work for everyone. It is not insurance, there is no legal guarantee your bill gets funded, and there are real exclusions and rules for pre-existing conditions. I wrote [the honest who-should-skip-this version](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/), and [a plain-English explainer of how the whole thing works](https://www.normaltownusa.com/p/what-is-health-sharing/).
+
+If those numbers work for your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 
@@ -6204,7 +6260,7 @@ Say you break your ankle and end up in the ER. Here's what happens.
 
 - **Step 1: The event happens.** Broken ankle, ER visit, X-rays, the works. Scary, and usually expensive on paper.
 - **Step 2: You cover the first $500.** This part is yours. Think of it like the family putting in the first bit before the hat goes around. It keeps the whole thing fair and keeps tiny stuff from bogging down the group.
-- **Step 3: They knock the bill down.** Before the hat even goes around, the bill gets negotiated toward the lower cash price, the same trick I wrote about in [The Cash Price Secret](https://www.normaltownusa.com/p/the-cash-price-secret/). A smaller bill is easier on everyone.
+- **Step 3: They knock the bill down.** Before the hat even goes around, the bill gets negotiated toward the lower cash price, the same trick I wrote about in [how to get a cash price](https://www.normaltownusa.com/p/the-cash-price-secret/). A smaller bill is easier on everyone.
 - **Step 4: The crowd funds the rest.** Past your $500, your bill becomes a request the community pays into. The hat goes around. The bill gets funded.
 
 That's the whole loop. Small piece from you, big piece from the crowd.
@@ -6370,7 +6426,7 @@ No. Plenty of scarce things are worthless because nobody wants them. Scarcity is
 
 ---
 
-# Why the Same Blood Test Costs $30 or $300
+# Why the Same Blood Test Costs $30 at a Lab and $300 at a Hospital
 
 URL: https://www.normaltownusa.com/p/why-the-same-blood-test-costs-different/
 Published: 2026-08-09
@@ -6382,9 +6438,9 @@ Author: David Dewese
 
 **In short:** The same blood test costs $30 in one place and $300 in another because there's no single real price in medical care, just a menu. Hospitals set sky-high sticker prices for haggling with insurers, a hospital lab charges far more than a standalone lab, and cash often beats insurance. Ask the price first and pick the cheaper chair.
 
-The same simple blood test can cost you thirty dollars in one place and three hundred in another. Not a better test. Not a fancier needle. The exact same thing, at ten times the price.
+The same blood test costs different amounts because there's no single price in medical care. Hospital labs bill from inflated sticker prices built for haggling with insurance, while a standalone lab paid in cash often charges a tenth as much.
 
-That sounds insane, so let's make sense of it with something you already know.
+So the same simple blood test can cost you thirty dollars in one place and three hundred in another. Not a better test. Not a fancier needle. The exact same thing, at ten times the price. Let's make sense of it with something you already know.
 
 ## Two people, same plane, different fares
 
@@ -6796,7 +6852,7 @@ Name your three biggest fixed monthly costs. That's where real money hides. Then
 
 ---
 
-# The Cash Price Secret Hospitals Don't Advertise
+# How to Get a Cash Price for a Medical Procedure (and What to Say When You Call)
 
 URL: https://www.normaltownusa.com/p/the-cash-price-secret/
 Published: 2026-07-21
@@ -6806,13 +6862,13 @@ Author: David Dewese
 
 *For a lot of everyday care, there are two prices. Here are the exact words that get you the cheaper one.*
 
-**In short:** A lot of medical care has two prices: a high sticker price built for insurance haggling, and a lower cash price for people who pay directly. Ask "What's the cash price if I don't use insurance?" before your visit, compare it to what you'd owe with insurance, and pay the smaller one. Cash paid usually doesn't count toward your deductible.
+**In short:** To get a cash price for a medical procedure, call before you book and ask: "What's the cash price if I don't use insurance?" A lot of care has two prices: a high sticker price built for insurance haggling, and a lower cash price for people who pay directly. Get the cash price estimate in writing, compare it to what you'd owe with insurance, and pay the smaller one. Cash paid usually doesn't count toward your deductible.
 
-Here's a secret that can save you real money at the doctor: for a lot of care, there are two prices, and the cheaper one is often the price you pay when you *don't* run it through insurance. It's called the cash price, and most people never think to ask for it.
+To get a cash price for a medical procedure, a scan, or a lab, you call before you book and ask for the self-pay price. That's it. For a lot of care there are two prices, and the cheaper one is often the cash price you pay when you *don't* run it through insurance. Most people never think to ask for it.
 
 That sounds backward. Insurance is supposed to make things cheaper, not more expensive. So let's clear it up fast.
 
-## The sticker price nobody actually pays
+## Why the cash price is lower than the sticker price
 
 Think about buying a car. There's the sticker price on the window, the big number that looks official. And then there's the price people actually pay after a little back and forth, which is often thousands lower. The sticker is mostly for show.
 
@@ -6826,13 +6882,13 @@ First, billing insurance is expensive and slow for the provider. Paperwork, codi
 
 Second, that big list price was never really meant for you. It's an opening number in a negotiation between the hospital and the insurer. If you walk in as a cash payer, you can sometimes step out of that game entirely.
 
-## How to actually ask (the part that saves you money)
+## What to say when you call for a cash price
 
 This is the whole point, so here are the exact words to use. No confrontation needed. You're just asking a normal question.
 
 - Before a visit, test, or procedure, ask: **"What's the cash price if I don't use insurance?"**
 - If they seem unsure, try: **"Is there a self-pay or prompt-pay discount?"** Those are the magic words at a lot of front desks.
-- For anything planned, like a scan or a lab, **call and ask first.** Prices swing wildly between places, and five minutes on the phone can save you a few hundred dollars.
+- For anything planned, like a scan, a lab, or a procedure, **call and ask first.** Ask for a written cash price estimate that includes the facility, the doctor, and anesthesia if there is any. Prices swing wildly between places, and five minutes on the phone can save you a few hundred dollars.
 - Always ask before, not after. Once it's billed through insurance, the cash price is usually off the table.
 
 That's it. You're not being difficult. Front desks hear these questions every day.
@@ -6904,7 +6960,7 @@ Nobody signed a contract. Nobody profits. It's just neighbors agreeing that one 
 
 Here's the plain mechanics, with a real example so it's not hand-wavy. I'll use CrowdHealth, since I'm a member and know it firsthand. (Full honesty up front: I'll earn a small referral if you ever join through [my link](https://www.joincrowdhealth.com/?referral_code=NORMAL). No pressure either way, and everything below is the honest version, warts included.)
 
-- **You pay a flat monthly amount.** With CrowdHealth it's about $60 a month for one adult. That fee runs the operation. It is not a pot of money betting on your health.
+- **You pay a flat monthly amount.** With CrowdHealth it's about $60 a month for one adult (I break down [the full monthly cost](https://www.normaltownusa.com/p/the-real-monthly-cost-of-health-sharing/) separately). That fee runs the operation. It is not a pot of money betting on your health.
 - **When something big happens, you cover the first $500.** A broken arm, a surgery, a scary trip to the ER. The first $500 of that event is yours to handle.
 - **The crowd funds the rest.** Past that first $500, your bill becomes a request the community funds. The barn goes back up.
 - **They fight the bill first.** Before anyone chips in, they push for the cash price, which is very often far lower than the "insurance" price for the exact same care. A smaller bill is easier on everyone.
@@ -6925,7 +6981,7 @@ If I stopped here, I'd be doing the exact bait-and-switch this brand promised ne
 
 **Health sharing is not insurance.** Say that twice. There is no legal contract promising your bill gets paid. It is a group of people agreeing to help, and agreements are not guarantees. In practice these groups have strong track records of paying, but "strong track record" is not the same word as "guaranteed," and you deserve to know the difference.
 
-**It has rules and things it won't fund.** Most groups have waiting periods before they'll help with certain costs, and they may not share bills for a condition you already had when you joined. Read that list before you sign, not after.
+**It has rules and things it won't fund.** Most groups have waiting periods before they'll help with certain costs, and they may not share bills for [a condition you already had when you joined](https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/). Read that list before you sign, not after.
 
 **Routine stuff works differently.** This is built for the big, unexpected bills, not for handing over a $20 copay at every checkup. Many members simply pay cash for small visits, which is often cheaper anyway. But if you love the feeling of a copay card, this will feel strange at first.
 
@@ -7056,11 +7112,13 @@ And the nice thing about plumbing is that it can be re-routed.
 
 If the real problem is how the money flows, then the fix is a setup where the company makes its money one honest way, a flat fee, and has no reason to deny you or run up your bill.
 
-That's the idea behind something called health sharing. Instead of an insurance company, a big group of regular people agree to chip in for each other's large medical bills. One of these, called CrowdHealth, charges a flat $60 a month, plus your share of other members' bills as they come up. Because they make their money from that flat fee, and not from a cut of your bills, they have no reason to want your bills to grow. (Full honesty here. I'm a member, and I'll earn a small referral if you ever join through my link at the bottom. No pressure either way.)
+That's the idea behind something called [health sharing](https://www.normaltownusa.com/p/what-is-health-sharing/). Instead of an insurance company, a big group of regular people agree to chip in for each other's large medical bills. One of these, called CrowdHealth, charges a flat $60 a month, plus your share of other members' bills as they come up. Because they make their money from that flat fee, and not from a cut of your bills, they have no reason to want your bills to grow. (Full honesty here. I'm a member, and I'll earn a small referral if you ever join through my link at the bottom. No pressure either way.)
+
+If you want to see how it works before deciding, you can [look at CrowdHealth with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 Now the honest other half, because this brand doesn't do bait-and-switch.
 
-Health sharing is not insurance. There's no legal promise that your bill gets paid. It has rules, and things it won't fund. And it's a poor fit for some folks, like anyone managing an expensive ongoing condition who needs guaranteed coverage. It's a real tool, not a magic wand. I'll write a full, fair breakdown of exactly who it's right and wrong for in a future piece.
+Health sharing is not insurance. There's no legal promise that your bill gets paid. It has rules, and things it won't fund. And it's a poor fit for some folks, like anyone managing an expensive ongoing condition who needs guaranteed coverage. It's a real tool, not a magic wand. I'll write a full, fair breakdown of [exactly who it's right and wrong for](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for/) in a future piece.
 
 The point today isn't "go do this." The point is simpler and bigger. Once you see the incentive, you can't unsee it. And you can start asking sharper questions.
 
@@ -7068,7 +7126,7 @@ The point today isn't "go do this." The point is simpler and bigger. Once you se
 
 You don't have to blow up your life to push back on backward incentives. Start small.
 
-- Next routine visit or lab, ask one question. "What's the cash price?" You'll be surprised how often it's lower than the price with insurance run through it.
+- Next routine visit or lab, ask one question. "What's the [cash price](https://www.normaltownusa.com/p/the-cash-price-secret/)?" You'll be surprised how often it's lower than the price with insurance run through it.
 - Before any test, ask. "What will this change about my treatment?" If the honest answer is "nothing," you may have found a piece you don't need.
 - Treat your own health as the one thing in this system that's truly on your side. Because it is. The cheapest medical bill is the one you never get.
 

@@ -33,7 +33,7 @@ Got a surgery, scan, or specialist visit on the calendar for January? Open the h
 
 ## 5. Budget for the $65 fee
 
-Starting January 1, 2027, the advocacy fee goes from $60 to $65 per member. For my family of four, that's $260 a month instead of $240, or $240 more a year. If the crowd caps stay the same, the worst case for a single member under 55 becomes $205 a month.
+Starting January 1, 2027, the advocacy fee goes from $60 to $65 per member. For my family of four, that's $260 a month instead of $240, or $240 more a year. If the crowd caps stay the same, the worst case for a single member under 55 becomes $205 a month. If you're not a member yet and those numbers work for you, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 Also expect the monthly ask to stay high through December. CrowdHealth's own history shows it climbing late in the year and dropping back each January so far. That's a pattern, not a promise. I walk through it in [why the bill climbs toward year end](/p/why-the-crowdhealth-bill-climbs-at-year-end/).
 

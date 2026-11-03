@@ -42,6 +42,8 @@ Some bitcoin fans will tell you dollars lose value, so holding any cash is a mis
 
 And if you don't have the cash cushion yet, don't buy bitcoin yet. Build the cushion first. That goes double if you're thinking about CrowdHealth. If you can't keep $500 on hand, the $500 commitment will hurt, and [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/) is worth a read before anything else.
 
+Once the cushion is set, you can [join CrowdHealth with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
+
 ## Questions I get about this
 
 ### How much cash should I keep for CrowdHealth?

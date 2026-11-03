@@ -15,7 +15,7 @@ Nobody, insured or not, should be gambling with a heart attack or a bad accident
 Once you're safe and stable, a real emergency is treated as a health event, the same as any other. Here's the flow:
 
 - You'll pay your **$500 member commitment** for the event.
-- **CrowdHealth goes to work** on the ER and hospital bills, negotiating them down to the cash price and lower. ER bills are notoriously inflated, so this step often saves a lot. I wrote about [what advocates do](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does).
+- **CrowdHealth goes to work** on the ER and hospital bills, negotiating them down to the cash price and lower. ER bills are notoriously inflated, so this step often saves a lot. I wrote about [what advocates do](https://www.normaltownusa.com/p/what-a-care-advocate-actually-does), and about [an ER bill that dropped from $4,142 to $1,657 with one phone call](/p/the-er-bill-one-phone-call/).
 - The **community shares the rest** of the eligible cost, usually funding a complete submission in about a week.
 
 So the scary ER bill gets attacked and shrunk, then shared, just like a broken arm or an appendix. The emergency being an emergency doesn't change the basic machinery.
@@ -27,7 +27,7 @@ Two things that make the aftermath smoother:
 - **Keep your $500 liquid,** always, so the event commitment is never a scramble.
 - **Save every document.** The itemized bills, the discharge papers, everything. Complete submissions get funded fastest, so good paperwork is your friend.
 
-That's really it. Get care, keep your cushion ready, save the paperwork, let CrowdHealth negotiate the bill.
+That's really it. Get care, keep your cushion ready, save the paperwork, let CrowdHealth negotiate the bill. If you'd rather have that set up before you need it, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The honest limits
 

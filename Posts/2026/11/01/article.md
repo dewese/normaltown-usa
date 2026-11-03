@@ -30,7 +30,7 @@ The monthly side has three numbers you can see before you join:
 - A monthly crowd ask that moves around but has a hard cap: $140 per person under 55, $280 from 55 to 64, $420 per family for a family of four or more. Today the most a single member under 55 can pay in a month is $200, fee included.
 - CrowdHealth's own average for October 2026 was $165 a month for a single member under 55 and $555 for a family of four, before a 1% to 3% card or bank fee.
 
-I walk through the full math in [how much CrowdHealth costs](/p/crowdhealth-cost/) and compare it head to head in [health sharing vs. insurance](/p/health-sharing-vs-insurance-honest-trade-offs/).
+I walk through the full math in [how much CrowdHealth costs](/p/crowdhealth-cost/) and compare it head to head in [health sharing vs. insurance](/p/health-sharing-vs-insurance-honest-trade-offs/). If those numbers beat your renewal, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Who should keep insurance
 

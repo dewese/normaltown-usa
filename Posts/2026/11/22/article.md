@@ -36,7 +36,7 @@ Bitcoin savers buy a little at a time and leave it alone. I don't try to time th
 
 CrowdHealth leans the same direction with your health. There's an annual wellness feature, quarterly specials on tests like DEXA scans and fasting insulin, and a new [Longevity Discount](/p/crowdhealth-longevity-discount/) of up to 20% off the monthly contribution for passing certain health tests. And CrowdHealth makes its money from the flat advocacy fee, not a cut of the bills, so it isn't rewarded when you're sick.
 
-Both reward patience over the quick fix.
+Both reward patience over the quick fix. If the CrowdHealth side appeals to you, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The honest part
 

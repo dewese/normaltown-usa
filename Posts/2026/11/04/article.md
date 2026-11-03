@@ -48,7 +48,7 @@ For a family, the crowd part is bigger, so the dollars are bigger. CrowdHealth's
 
 CrowdHealth says it straight: these numbers are tough on purpose. A fasting insulin below 5 is a hard bar for a lot of healthy-looking adults. Most people won't pass all three, and plenty won't pass any.
 
-So don't join CrowdHealth because of this discount. Join because the rest of it fits your family. Treat the discount as a bonus that might show up later.
+So don't join CrowdHealth because of this discount. Join because the rest of it fits your family. Treat the discount as a bonus that might show up later. If it does fit, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 And if you have an ongoing condition, this program isn't the thing to focus on. Start with [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/).
 

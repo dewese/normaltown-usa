@@ -50,7 +50,7 @@ Now price a bronze marketplace plan for a 35-year-old without a subsidy. The pre
 
 **A family of four, two adults under 55.** $240 subscription. Worst month $660. Worst year $7,920, before any $500 commitments.
 
-Compare that to a family plan with a $1,500 monthly premium and a $12,000 deductible, which is $18,000 before the plan pays for anything. That comparison is why we switched.
+Compare that to a family plan with a $1,500 monthly premium and a $12,000 deductible, which is $18,000 before the plan pays for anything. That comparison is why we switched. If your numbers look like that, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Where the savings actually come from
 

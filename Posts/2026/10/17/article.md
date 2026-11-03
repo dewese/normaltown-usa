@@ -28,9 +28,11 @@ It's like a hotel minibar. The candy bar is $9 in the room and $1.50 at the gas 
 
 ## What did CrowdHealth actually do?
 
-They gave these members a way to buy labs at the low price. You get an order from a doctor, CrowdHealth issues a voucher, and you take it to the lab.
+They gave these members a way to buy labs at the low price. Another small win like this is [the MRI that took two weeks](/p/the-mri-that-took-two-weeks/). You get an order from a doctor, CrowdHealth issues a voucher, and you take it to the lab.
 
-That's it. No crowd funding involved. A $36 lab bill is way under the $500 mark, so this is just you paying a fair price.
+That's it. No crowd funding involved. A $36 lab bill is way under the $500 mark, so this is just you paying a fair price. The bigger-ticket version of that idea is [the cash price secret](/p/the-cash-price-secret/).
+
+If lower prices on everyday care appeal to you, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## What's the honest part?
 

@@ -46,6 +46,8 @@ This post is the quiet Tuesday. Screenshot the checklist. Know where your Care A
 
 **It isn't insurance.** CrowdHealth is healthcare crowdfunding. There's no legal guarantee a bill gets funded, and you're ultimately responsible for your bills. Keep some cash on hand for that $500.
 
+If you want this set up before the next holiday, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
+
 ## Questions I get about this
 
 ### Do I have to open a health event before I go to the ER?

@@ -18,7 +18,7 @@ In plain terms: the longer you're a healthy member without needing care for that
 
 ## Read the actual guidelines, not a summary
 
-I can give you the shape of it, but your specific condition deserves the specific rule. The guidelines spell out exactly how each type of situation is handled and how long the waiting periods run. Read them before you join. This is the single most important homework assignment in the whole decision, and skipping it is how people get an unwelcome surprise later. That's also why I keep pointing people to [my honest who-should-skip-this post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+I can give you the shape of it, but your specific condition deserves the specific rule. The guidelines spell out exactly how each type of situation is handled and how long the waiting periods run. Read them before you join. This is the single most important homework assignment in the whole decision, and skipping it is how people get an unwelcome surprise later. For the CrowdHealth version, see [CrowdHealth and pre-existing conditions: the real rules](/p/crowdhealth-pre-existing-conditions/). That's also why I keep pointing people to [my honest who-should-skip-this post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
 
 ## When health sharing is the wrong tool
 
@@ -26,7 +26,9 @@ Let me be blunt, because you deserve it. If you have a serious, active condition
 
 ## When it can still work
 
-On the other hand, if your "pre-existing condition" is something minor, well-controlled, or years behind you, it may matter far less than you fear, especially after the waiting period. Plenty of people with a manageable history use health sharing happily for everything else life throws at them. The only way to know your case is to read the rule for your specific condition.
+On the other hand, if your "pre-existing condition" is something minor, well-controlled, or years behind you, it may matter far less than you fear, especially after the waiting period. Plenty of people with a manageable history use health sharing happily for everything else life throws at them. The only way to know your case is to read the rule for your specific condition. For an example of what a big bill looks like, I wrote about [a member who got cancer a few months after joining](/p/cancer-a-few-months-after-joining/).
+
+If your history is minor and you've read the guidelines, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 

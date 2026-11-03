@@ -10,7 +10,7 @@ But me liking something isn't proof of anything. So this month I'm doing it diff
 
 Three reasons, and none of them are fancy.
 
-**I can explain it.** I pay $60 a month per person to CrowdHealth for the help: the advocate, the bill negotiating, the app. (That fee goes to $65 in January 2027.) On top of that I chip in toward other members' bills each month. That part moves around, and it has a ceiling. If something happens to one of us, we pay the first $500 of that health event. The crowd shares the rest.
+**I can explain it.** I pay $60 a month per person to CrowdHealth for the help: the advocate, the bill negotiating, the app. (That fee goes to $65 in January 2027.) On top of that I chip in toward other members' bills each month. That part moves around, and it has a ceiling, which I lay out in [how much CrowdHealth costs](/p/crowdhealth-cost/). If something happens to one of us, we pay the first $500 of that health event. The crowd shares the rest.
 
 **The money goes to people.** When I chip in, it goes to another member with a real bill. Not to a building with a fountain in the lobby.
 
@@ -34,9 +34,9 @@ One more honest note. I can't verify a stranger's review. When a story comes fro
 
 CrowdHealth is not insurance. Nobody is legally required to pay your bill. Members are responsible for their own bills in the end, and CrowdHealth says 99.9% of eligible bills have been funded to date.
 
-"Eligible" is doing real work in that sentence. Conditions you had symptoms of in the five years before joining aren't shared for your first two years, and they're capped at $25,000 a year after that. Dental work, most mental health care, and ongoing brand-name prescriptions aren't shared. You can't join at 65 or older, or if you use tobacco. I wrote up [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/) if you want that list first.
+"Eligible" is doing real work in that sentence. Conditions you had symptoms of in the five years before joining aren't shared for your first two years, and they're capped at $25,000 a year after that. The details are in [CrowdHealth and pre-existing conditions](/p/crowdhealth-pre-existing-conditions/). Dental work, most mental health care, and ongoing brand-name prescriptions aren't shared. You can't join at 65 or older, or if you use tobacco. I wrote up [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/) if you want that list first.
 
-One word note. CrowdHealth calls itself healthcare crowdfunding, not health sharing, and it isn't a ministry. I checked the company out in [is CrowdHealth legit](/p/is-crowdhealth-legit/).
+One word note. CrowdHealth calls itself healthcare crowdfunding, not health sharing, and it isn't a ministry. I checked the company out in [is CrowdHealth legit](/p/is-crowdhealth-legit/). If you'd like to try it, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 

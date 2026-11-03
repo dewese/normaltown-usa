@@ -22,13 +22,13 @@ I pulled these from national magazines, a business magazine, a regional newspape
 
 ## Where do I think they're right?
 
-**The guarantee.** They're right. Nobody is legally required to pay my bill. I've said that in every post this month. The track record is strong. A track record isn't a contract.
+**The guarantee.** They're right. Nobody is legally required to pay my bill. I've said that in every post this month. The track record is strong. A track record isn't a contract. I covered [what happens if the crowd doesn't fund your bill](/p/what-if-the-crowd-doesnt-fund-your-bill/).
 
 **No regulator.** Right again. If CrowdHealth denied a bill of mine and I thought they were wrong, there's no state office to call. I'd be relying on their own review and their reputation.
 
-**The long-term illness gap.** This is the one I take most seriously. A sudden event, even a huge one, is what the crowd handles well. A lifelong condition needing costly medicine every month is where it's thin. Read the member guide's section on prescriptions before you rely on it.
+**The long-term illness gap.** This is the one I take most seriously. A sudden event, even a huge one, is what the crowd handles well. A lifelong condition needing costly medicine every month is where it's thin. Read the member guide's section on prescriptions before you rely on it, and my post on [pre-existing conditions](/p/crowdhealth-pre-existing-conditions/).
 
-**The fuzzy statistic.** Fair. "99% of eligible bills" depends a lot on the word "eligible." That's why I've tried to give you the other numbers too: 3% to 5% of submitted bills ruled ineligible each month, and a small number of flagged requests left unfunded or partly funded.
+**The fuzzy statistic.** Fair. "99% of eligible bills" depends a lot on the word "eligible." That's why I've tried to give you the other numbers too: 3% to 5% of submitted bills ruled ineligible each month, and a small number of flagged requests left unfunded or partly funded. The full set is in [what the health sharing numbers actually say](/p/what-the-health-sharing-numbers-say/).
 
 ## Where do I push back?
 
@@ -39,6 +39,8 @@ I pulled these from national magazines, a business magazine, a regional newspape
 **The transparency.** Monthly results, a list of denied bills with reasons, and a public complaints log. I haven't seen an insurer publish that. It doesn't make the risk go away. It does let me watch it.
 
 Here's my analogy. Insurance is a contract with a company that's motivated to say no. CrowdHealth is a handshake with a company that's motivated to say yes. I'd rather have a good handshake than a bad contract. But I know it's a handshake.
+
+If you've weighed all of that and it still fits your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 

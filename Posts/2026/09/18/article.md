@@ -31,6 +31,8 @@ The good news is that each gap has a simple, cheap workaround:
 - **Pre-existing conditions:** know your waiting-period rules going in, and keep the right coverage if you have an active one.
 - **The predictable stuff in general:** budget for it with a small sinking fund, the same way you'd budget for car maintenance.
 
+If you can plan for those gaps, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
+
 ## The takeaway
 
 Routine dental and vision, cosmetic work, expensive ongoing meds, and pre-existing conditions before their waiting periods aren't eligible on CrowdHealth. That's not fine print, it's the design, and it's exactly why the monthly cost stays low. Know the gaps, plan the cheap workarounds, and you get the best of it: a strong, affordable backstop for the big stuff, with no nasty surprises.

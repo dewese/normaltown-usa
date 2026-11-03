@@ -14,7 +14,7 @@ For a couple, that can be a soul-crushing number, big enough to make you wonder 
 
 A few reasons it's a natural fit for the pre-Medicare years:
 
-- **The cost climbs with age, but nothing like premiums do.** I want to be careful here, because this is the one place I could accidentally oversell it. With CrowdHealth, the service I use, the $60 per person base fee really is the same at 60 as it is at 30. The crowd contribution on top of it is not. The most the crowd can ask you for in a month is $140 up to age 54, and $280 from 55 to 64. So crossing 55 moves your worst possible month from $200 to $340. That's a real jump and I'm not going to pretend it isn't. Now put it next to an individual premium in your early 60s, which can run well past a thousand dollars a month before the deductible does anything for you. The gap is still enormous.
+- **The cost climbs with age, but nothing like premiums do.** I want to be careful here, because this is the one place I could accidentally oversell it. With CrowdHealth, the service I use, the $60 per person base fee really is the same at 60 as it is at 30. The crowd contribution on top of it is not. The most the crowd can ask you for in a month is $140 up to age 54, and $280 from 55 to 64. So crossing 55 moves your worst possible month from $200 to $340. That's a real jump and I'm not going to pretend it isn't. Now put it next to an individual premium in your early 60s, which can run well past a thousand dollars a month before the deductible does anything for you. The gap is still enormous. I show the caps in detail in [how much CrowdHealth costs](/p/crowdhealth-cost/).
 - **It's built for exactly this situation.** You're bridging a known number of years until a guaranteed program starts. A lower-cost backstop for that stretch is precisely the job.
 - **You likely have savings to self-insure the small stuff.** Early retirees usually have an emergency fund, which means the $500 per event and cash prices are very manageable.
 
@@ -24,7 +24,7 @@ I have to be extra straight with this audience, because health matters more as y
 
 First, pre-existing conditions. By your late 50s, many people have something, and health sharing has real waiting-period rules for that. Read them carefully for your situation, which I explained in [pre-existing conditions and health sharing](https://www.normaltownusa.com/p/pre-existing-conditions-and-health-sharing).
 
-Second, it is not insurance and has no legal guarantee. If you have an active condition needing ongoing care, weigh that hard. My honest [who-should-skip-this list](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for) applies double in that situation.
+Second, it is not insurance and has no legal guarantee. If you have an active condition needing ongoing care, weigh that hard. My honest [who-should-skip-this list](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for) applies double in that situation. If you've read both and the numbers still work, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 

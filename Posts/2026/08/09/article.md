@@ -1,10 +1,10 @@
-# Why the Same Blood Test Costs $30 or $300
+# Why the Same Blood Test Costs $30 at a Lab and $300 at a Hospital
 
 > The same blood test costs $30 in one place and $300 in another because there's no single real price in medical care, just a menu. Hospitals set sky-high sticker prices for haggling with insurers, a hospital lab charges far more than a standalone lab, and cash often beats insurance. Ask the price first and pick the cheaper chair.
 
-The same simple blood test can cost you thirty dollars in one place and three hundred in another. Not a better test. Not a fancier needle. The exact same thing, at ten times the price.
+The same blood test costs different amounts because there's no single price in medical care. Hospital labs bill from inflated sticker prices built for haggling with insurance, while a standalone lab paid in cash often charges a tenth as much.
 
-That sounds insane, so let's make sense of it with something you already know.
+So the same simple blood test can cost you thirty dollars in one place and three hundred in another. Not a better test. Not a fancier needle. The exact same thing, at ten times the price. Let's make sense of it with something you already know.
 
 ## Two people, same plane, different fares
 

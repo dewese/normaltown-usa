@@ -13,7 +13,7 @@ A few figures that tell the real story:
 - **A single $3 million NICU bill funded.** That matters, because the whole fear is "sure, but what about a truly catastrophic bill?" Big bills get funded, not just the little ones.
 - **About a week to fund a complete, eligible submission, on average.** Faster than plenty of insurance reimbursements I've personally waited on.
 - **Cash-pay discounts commonly 25 to 85 percent** off the sticker price, thanks to the advocates negotiating before anything is shared.
-- **A flat $60 per person per month** advocacy fee, plus a modest monthly crowd contribution. The base number doesn't change with your age.
+- **A flat $60 per person per month** advocacy fee, plus a modest monthly crowd contribution. The base number doesn't change with your age. I broke down [what it costs, with the monthly cap](/p/crowdhealth-cost/).
 
 ## What these numbers actually prove
 
@@ -23,11 +23,13 @@ The "it won't be there when I need it" fear? Fifty-three thousand funded bills, 
 
 ## What the numbers honestly do not prove
 
-Here's where I stay straight with you. A strong track record is not a legal guarantee, because health sharing is not insurance. "53,877 bills funded" describes what has happened, not a contractual promise about your specific future bill. Those are different things, and an honest reading of the numbers holds both. The history is genuinely reassuring. It is not a signed guarantee, and I won't dress it up as one. I dug into [that exact trust question](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill).
+Here's where I stay straight with you. A strong track record is not a legal guarantee, because health sharing is not insurance. "53,877 bills funded" describes what has happened, not a contractual promise about your specific future bill. Those are different things, and an honest reading of the numbers holds both. The history is genuinely reassuring. It is not a signed guarantee, and I won't dress it up as one. I also wrote about [what happens if the crowd doesn't fund your bill](/p/what-if-the-crowd-doesnt-fund-your-bill/). I dug into [that exact trust question](https://www.normaltownusa.com/p/can-you-trust-health-sharing-with-a-big-bill).
 
 ## How to use numbers like these
 
 Whenever you're weighing anything with your money, do this. Ask for the track record, not just the promise. Ask how big and how fast, not just yes or no. And always ask what the numbers don't say. A model that shows you real figures and is honest about their limits is one you can actually evaluate. A pitch that only gives you feelings is one you can't.
+
+If these numbers fit what you were hoping to see, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 

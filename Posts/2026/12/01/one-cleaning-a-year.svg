@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<path class="s-ink" fill="none" stroke-width="10" stroke-linejoin="round" d="M200 330 C200 250 270 210 340 230 C380 242 400 255 420 255 C440 255 460 242 500 230 C570 210 640 250 640 330 C640 420 610 470 595 560 C580 650 570 760 525 760 C480 760 480 610 420 610 C360 610 360 760 315 760 C270 760 260 650 245 560 C230 470 200 420 200 330 Z"/>
+<circle class="f-ac" cx="420" cy="430" r="78"/>
+<path class="s-bg" fill="none" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" d="M382 432 L410 462 L462 400"/>
+<text class="f-ac" x="420" y="880" font-size="64" font-weight="800" text-anchor="middle">up to $300</text>
+<text class="f-ink" x="420" y="945" font-size="30" font-weight="800" text-anchor="middle" letter-spacing="2">ONE CLEANING A YEAR</text>
+<g class="f-ink" fill-opacity="0.6" font-size="40" font-weight="800">
+<text x="740" y="340">Fillings</text>
+<text x="740" y="440">Crowns</text>
+<text x="740" y="540">Root canals</text>
+<text x="740" y="640">Implants</text>
+<text x="740" y="740">Wisdom teeth</text>
+</g>
+<g class="s-ink" stroke-width="5">
+<line x1="730" y1="326" x2="900" y2="326"/>
+<line x1="730" y1="426" x2="890" y2="426"/>
+<line x1="730" y1="526" x2="970" y2="526"/>
+<line x1="730" y1="626" x2="925" y2="626"/>
+<line x1="730" y1="726" x2="1010" y2="726"/>
+</g>
+<text class="f-ink" x="740" y="880" font-size="30" font-weight="800" letter-spacing="2">YOURS TO PAY</text>
+</svg>

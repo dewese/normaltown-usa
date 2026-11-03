@@ -22,11 +22,13 @@ If you have a health event, say you break your ankle and need pain medication an
 
 Here's the part I won't sugarcoat. If you take an expensive, ongoing, brand-name medication every single month, health sharing is probably not your best fit for that. Sharing models are built for unexpected events, not for funding a predictable high monthly drug cost forever. That's a maintenance expense, and it doesn't match how the crowd funds things.
 
-If that's you, read [my honest who-should-skip-this breakdown](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for) before you switch. I'd rather you know now than get surprised later.
+If that's you, read [my honest who-should-skip-this breakdown](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for) before you switch. I'd rather you know now than get surprised later. The full list of [what isn't eligible on CrowdHealth](/p/what-crowdhealth-doesnt-cover/) is short, and worth a read.
 
 ## A quick gut check
 
-Ask yourself two questions. Are my regular prescriptions cheap generics? And do I have any pricey, must-have-monthly brand-name drug? If your answers are "yes" and "no," prescriptions probably won't be a problem for you. If you've got an expensive ongoing med, factor that cost in with clear eyes.
+Ask yourself two questions. Are my regular prescriptions cheap generics? And do I have any pricey, must-have-monthly brand-name drug? If your answers are "yes" and "no," prescriptions probably won't be a problem for you. If you've got an expensive ongoing med, factor that cost in with clear eyes. The monthly price itself is laid out in [how much CrowdHealth costs](/p/crowdhealth-cost/).
+
+If your prescriptions are the cheap kind, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 

@@ -14,11 +14,11 @@ Fact: the community has funded 53,877 bills, including a single $3 million NICU 
 
 ## Myth: "There's a catch in the fine print."
 
-Fact: there are limits, and they are not hidden, they are just real. Pre-existing conditions have waiting rules. Dental, vision, cosmetic work, and a handful of other things are not eligible. If you want the model to work, you read the guidelines first. That is not a catch, that is doing your homework, same as you would with anything you sign up for.
+Fact: there are limits, and they are not hidden, they are just real. [Pre-existing conditions have waiting rules](/p/crowdhealth-pre-existing-conditions/). Dental, vision, cosmetic work, and a handful of other things are not eligible. If you want the model to work, you read the guidelines first. That is not a catch, that is doing your homework, same as you would with anything you sign up for.
 
 ## Myth: "It's only for young, healthy singles."
 
-Fact: families use it, and so do self-employed people and early retirees who are not yet on Medicare. What actually matters is not your age, it is whether you are relatively healthy, can keep $500 on hand for an event, and do not need guaranteed coverage for an ongoing condition. I wrote [the honest fit test](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for).
+Fact: families use it, and so do self-employed people and early retirees who are not yet on Medicare. What actually matters is not your age, it is whether you are relatively healthy, can keep $500 on hand for an event, and do not need guaranteed coverage for an ongoing condition. I wrote [the honest fit test](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for). If that sounds like your family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## Myth: "If I get sick, I'm on my own with the hospital."
 

@@ -24,7 +24,7 @@ I can't tell you who's right about the phone calls. I can tell you the rules.
 
 **4. The intro price is per member.** The $99 a month for three months is per person. Two people is $198. Three is $297. CrowdHealth's log shows one new member who expected $35 total and cancelled when it wasn't.
 
-**5. The monthly cost moves.** One member was upset to be charged $250 to $400 in a month. Another said it made budgeting hard. The amount changes each month up to a ceiling. For a family of four, that ceiling is $660 all in.
+**5. The monthly cost moves.** One member was upset to be charged $250 to $400 in a month. Another said it made budgeting hard. The amount changes each month up to a ceiling. For a family of four, that ceiling is $660 all in. I break down the ceilings in [how much CrowdHealth costs](/p/crowdhealth-cost/).
 
 **6. Declining to help others can hurt you.** CrowdHealth tracks how often you fund requests. Fall below 90% and your own bills can be flagged, which makes them less likely to be fully funded.
 
@@ -48,11 +48,11 @@ A few of these complaints come down to what a salesperson said on a call versus 
 
 So don't rely on a phone call. Don't rely on me either. Read the member guide. It's long, and it's the actual rulebook.
 
-And notice what I'm doing here. I earn a referral bonus if you join. I'd still rather you read this list and walk away than join confused and write the next two-star review.
+And notice what I'm doing here. I earn a referral bonus if you join. I'd still rather you read this list and walk away than join confused and write the next two-star review. If you've read the rules and still want in, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member. That's $99 per person.
 
 ## The takeaway
 
-Almost nobody in the angry reviews was cheated. They were surprised. Read the guide, decide how you want requests handled, know that $99 is per person, and plan pregnancies around the 300-day rule. Ten minutes of reading takes care of most of it.
+Almost nobody in the angry reviews was cheated. They were surprised. Read the guide, decide how you want requests handled, know that $99 is per person, and plan pregnancies around the 300-day rule, which [having a baby on CrowdHealth](/p/having-a-baby-on-crowdhealth/) explains in more detail. Ten minutes of reading takes care of most of it.
 
 ## Questions I get about this
 

@@ -59,7 +59,7 @@ Be honest with yourself here:
 
 - **Anyone with a chronic condition needing ongoing treatment.** Two years of nothing, then a $25,000 annual ceiling, is not dependable funding for diabetes or a heart condition. It's a partial subsidy starting two years from now.
 - **Anyone in the middle of a workup.** If you're currently being investigated for something, it's symptomatic or suspected now, which puts it in the window.
-- **Anyone who'd be gambling.** If you're hoping the rule won't be applied to you, don't join. It'll be applied.
+- **Anyone who'd be gambling.** If you're hoping the rule won't be applied to you, don't join. It'll be applied. I wrote about [a $10,000 bill the crowd never saw](/p/the-10000-bill-the-crowd-never-saw/) for exactly this reason.
 
 If that's you, the honest answer is a real insurance plan, and I'd rather say so than take the referral. There's more in [who health sharing is wrong for](/p/who-health-sharing-is-wrong-for/).
 
@@ -68,7 +68,9 @@ If that's you, the honest answer is a real insurance plan, and I'd rather say so
 - Reasonably healthy people whose charts are boring.
 - People managing **only** cholesterol or blood pressure, per the exemption above.
 - People whose past issue is more than five years back and has stayed quiet.
-- Anything genuinely new that happens **after** you join. That's the main event, and it's funded normally.
+- Anything genuinely new that happens **after** you join. That's the main event, and it's funded normally. One member's story of [a cancer diagnosis a few months after joining](/p/cancer-a-few-months-after-joining/) shows what that looks like.
+
+If you've read your records and you're in the clear, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The part I have to say
 

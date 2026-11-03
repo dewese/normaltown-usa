@@ -22,7 +22,7 @@ On the standard membership, each person gets one wellness event a year. The crow
 
 One. Per person. Per year.
 
-There's a change coming that helps a little. Starting January 1, 2027, you can turn in more than one preventive visit in a year, up to the same combined $300. So two $150 cleanings could both count. The ceiling doesn't move. Talk therapy sessions will count toward that same $300 too.
+There's a change coming that helps a little. Starting January 1, 2027, you can turn in more than one preventive visit in a year, up to the same combined $300. So two $150 cleanings could both count. The ceiling doesn't move. Talk therapy sessions will count toward that same $300 too. I list the rest in [what changes on January 1, 2027](/p/crowdhealth-2027-changes/).
 
 Everything else that's routine is yours to pay, at whatever cash price you can find.
 
@@ -40,7 +40,7 @@ One woman had a worse time. She'd paid for a women's health checkup that include
 
 ## What's the honest part?
 
-If your family goes to the doctor a lot for routine things, add up what that costs in cash before you switch. Two cleanings a year for four people. Well visits. Blood work. Glasses. It's real money, and almost none of it will be shared.
+If your family goes to the doctor a lot for routine things, add up what that costs in cash before you switch. Two cleanings a year for four people. Well visits. Blood work. Glasses. I wrote about [dental and vision without insurance](/p/dental-and-vision-without-insurance/) if that's your family. It's real money, and almost none of it will be shared.
 
 I think of routine care as a regular monthly bill, like groceries. I wrote about [budgeting when you're self-insured](/p/budgeting-when-youre-self-insured/) for exactly this reason.
 
@@ -50,7 +50,7 @@ And if you choose the cheaper membership with the $15,000 commitment, there's no
 
 ## The takeaway
 
-CrowdHealth is for the wreck, not the oil change. You get one shared wellness visit a year and good cash prices on the rest. If you count on routine care being paid for, you'll be disappointed, and that two-star review will be yours. If you're fine paying for routine care yourself, the math can still work out well ahead.
+CrowdHealth is for the wreck, not the oil change. You get one shared wellness visit a year and good cash prices on the rest. If you count on routine care being paid for, you'll be disappointed, and that two-star review will be yours. If you're fine paying for routine care yourself, the math can still work out well ahead. If that's you, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## Questions I get about this
 

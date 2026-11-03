@@ -16,7 +16,7 @@ The bill was denied. They appealed. The appeal was denied too. The bill was neve
 
 Here is the rule, as plainly as I can put it.
 
-If you had a condition in the five years before joining, it isn't shared during your first two years. In year three and after, it's shared up to $25,000 a year.
+If you had a condition in the five years before joining, it isn't shared during your first two years. In year three and after, it's shared up to $25,000 a year. The full rules are in [CrowdHealth and pre-existing conditions](/p/crowdhealth-pre-existing-conditions/).
 
 The part people miss is what "had a condition" means. It isn't only a diagnosis. It also includes symptoms, things a doctor suspected, and anything you were treated for. So a symptom that got looked at and never got a name can still count.
 
@@ -26,7 +26,7 @@ Think of it like buying a used car "as is." Anything already rattling when you d
 
 ## How often does this happen?
 
-More than I expected, and CrowdHealth publishes it. Each month, about 3% to 5% of submitted bills are ruled not eligible. In August 2026 it was 4.94%.
+More than I expected, and CrowdHealth publishes it. Other [fine print that catches new members](/p/the-fine-print-that-catches-new-members/) is worth a read too. Each month, about 3% to 5% of submitted bills are ruled not eligible. In August 2026 it was 4.94%.
 
 Their results list the reasons, and some are brutal in how small they are. One note says a member's symptoms started three days before their start date. Another says one month before. Another says medical records showed three weeks of symptoms before joining.
 
@@ -38,13 +38,13 @@ I think the rule itself is fair. A crowd can't work if people join the week afte
 
 But fair and painless aren't the same thing. This couple thought the bill would be shared and found out otherwise holding a $10,000 bill. Whether they misread the rule or it wasn't explained well, the result was the same for them.
 
-To her credit, the reviewer added that CrowdHealth might still be a good fit for a pregnancy or a sudden emergency. That's about right. This is built for new things, not old things.
+To her credit, the reviewer added that CrowdHealth might still be a good fit for a pregnancy or a sudden emergency. That's about right. This is built for new things, not old things. For a brand-new illness, see [cancer, a few months after joining](/p/cancer-a-few-months-after-joining/).
 
 There are two exceptions worth knowing. High blood pressure and high cholesterol are exempt from the rule. And brand-new accidents and new illnesses are eligible from day one.
 
 ## The takeaway
 
-Before you join, sit down and list every doctor visit and every nagging symptom from the last five years. Assume anything on that list is on you for two years. If that list has something expensive on it, CrowdHealth may not be your tool right now, and I'd tell you that to your face.
+Before you join, sit down and list every doctor visit and every nagging symptom from the last five years. Assume anything on that list is on you for two years. If that list has something expensive on it, CrowdHealth may not be your tool right now, and I'd tell you that to your face. If the list is clean, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Questions I get about this
 

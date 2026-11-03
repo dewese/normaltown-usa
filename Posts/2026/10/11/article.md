@@ -20,7 +20,7 @@ They were honest that the first day or two was rough. They didn't know what to d
 
 Bigger than you'd guess. Most of these reviews don't give totals, but CrowdHealth's public results do show which requests topped $10,000. Among them: a broken wrist from a scooter crash that went to 72 members, a fractured elbow that went to 46, a double broken wrist that went to 42, and a broken ankle that went to 33.
 
-A broken bone that needs surgery is a five-figure bill pretty often. Your share is $500.
+A broken bone that needs surgery is a five-figure bill pretty often. Your share is $500, and I explain [how one health event gets paid](/p/how-one-health-event-gets-paid/) in a separate post.
 
 Here's how I think about that $500. It's like the deposit on a rental truck. It's enough that you'll take care, and small enough that it won't wreck your month.
 
@@ -30,15 +30,15 @@ Found a surgeon, taught the member what to ask, and paid before the surgery. For
 
 ## What's the honest part?
 
-That first-day confusion is real, and I've seen it in more than one review. Another member who tore a knee ligament on a weekend said the same thing: it would have been easier to learn the process on something small. There's no card to hand the front desk. You have to know to say "I'm paying directly, what's your cash price?"
+That first-day confusion is real, and I've seen it in more than one review. Another member who tore a knee ligament on a weekend (I covered [how rehab for torn knees and sprained ankles gets paid](/p/torn-knees-and-sprained-ankles/)) said the same thing: it would have been easier to learn the process on something small. There's no card to hand the front desk. You have to know to say "I'm paying directly, what's your cash price?"
 
 So learn the steps before you need them. Save your advocate's contact info in your phone the day you join.
 
-Also know the fine print on risky hobbies. CrowdHealth's guide excludes injuries from a list of hazardous activities, like motorcycle racing and skydiving, and injuries that happen while under the influence. Ordinary bike wrecks show up in the funded results. Skydiving is on the excluded list.
+Also know the fine print on risky hobbies, and read [what isn't eligible on CrowdHealth](/p/what-crowdhealth-doesnt-cover/). CrowdHealth's guide excludes injuries from a list of hazardous activities, like motorcycle racing and skydiving, and injuries that happen while under the influence. Ordinary bike wrecks show up in the funded results. Skydiving is on the excluded list.
 
 ## The takeaway
 
-Broken bones are the bread and butter of what this crowd pays for, and the stories are steady: you pay $500, the crowd handles the rest, and sometimes the surgery is funded before you roll in. The weak spot is the first 48 hours for a first-timer. That's fixable with ten minutes of homework.
+Broken bones are the bread and butter of what this crowd pays for, and the stories are steady: you pay $500, the crowd handles the rest, and sometimes the surgery is funded before you roll in. The weak spot is the first 48 hours for a first-timer. That's fixable with ten minutes of homework. If you want to have the steps ready before a fall, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Questions I get about this
 

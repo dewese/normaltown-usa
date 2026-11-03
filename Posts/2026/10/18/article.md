@@ -36,7 +36,7 @@ It's like the price on a concert ticket versus the price after the fees. Somehow
 
 ## What did CrowdHealth actually do?
 
-Put a doctor in the app and a discount card in the member's pocket. That's it. No negotiating, no crowd, no forms.
+Put a doctor in the app and a discount card in the member's pocket. That's it. No negotiating, no crowd, no forms. More of these are in [the member tools that save money before a bill](/p/crowdhealth-member-tools/).
 
 ## What's the honest part?
 
@@ -44,9 +44,11 @@ A video visit can't do everything. A doctor on a screen can't listen to your lun
 
 The prescription rules are tight too. CrowdHealth doesn't share brand-name drugs when a generic exists. Ongoing medications are limited to a 12-month supply. And prescriptions have to be bought with CrowdHealth's discount tool to count. If you take an expensive medicine every month for the long haul, read [health sharing and prescriptions](/p/health-sharing-and-prescriptions/) before anything else.
 
-Also, the cheaper membership option with the $15,000 commitment doesn't include funded virtual visits. This applies to the standard one.
+Also, [the cheaper membership option with the $15,000 commitment](/p/crowdhealth-black-swan/) doesn't include funded virtual visits. This applies to the standard one.
 
 One more caution. That first review is from 2022, and the service may work differently now. I can't promise you 2 minutes and 22 seconds.
+
+If a doctor in your pocket sounds useful, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 

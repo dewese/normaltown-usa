@@ -26,7 +26,11 @@ There's a part I didn't expect. After the bills were paid, CrowdHealth kept nego
 
 Three things: told a scared dad what to do next, negotiated a quarter-million-dollar bill, and split what was left across a whole lot of members so no one person felt it.
 
-That last part is the heart of it. A $240,000 bill would flatten one family. Split into small pieces across a big crowd, nobody gets flattened. It's like a barn raising. One family can't lift a barn wall. Forty neighbors can do it before lunch.
+That last part is the heart of it. A $240,000 bill would flatten one family. Split into small pieces across a big crowd, nobody gets flattened. I walk through the steps in [how a big hospital bill gets paid without insurance](/p/how-a-big-hospital-bill-gets-paid-without-insurance/). It's like a barn raising. One family can't lift a barn wall. Forty neighbors can do it before lunch.
+
+If a baby is in your plans, [having a baby on CrowdHealth](/p/having-a-baby-on-crowdhealth/) explains the $3,000 commitment, and [the pre-existing condition rules](/p/crowdhealth-pre-existing-conditions/) explain the timing that matters.
+
+If that sounds like the backup you want, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## What's the honest part?
 

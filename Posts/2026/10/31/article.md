@@ -2,7 +2,7 @@
 
 > After a month of real CrowdHealth member stories, the pattern is clear. Sudden, new health events went well: $500 from the member, the rest negotiated and shared, usually within a week or two. Trouble came from conditions that existed before joining, hospitals that wouldn't negotiate, routine care, and paperwork. It's built for the big surprise, not for everything.
 
-For most of October I've told one kind of story a day. A toddler on a medevac. A $35,000 appendix. A hernia surgery that went great and one that went nowhere. Today I'm stepping back to look at all of them at once.
+For most of October I've told one kind of story a day. A toddler on a medevac. [A $35,000 appendix](/p/the-35000-appendix-that-cost-500/). A hernia surgery that went great and one that went nowhere. Today I'm stepping back to look at all of them at once.
 
 ## What went right, over and over?
 
@@ -16,15 +16,15 @@ For most of October I've told one kind of story a day. A toddler on a medevac. A
 
 ## What went wrong, over and over?
 
-**Old problems.** A $10,000 bill denied over a symptom from before the member joined. This rule catches people, and it reaches further than most expect.
+**Old problems.** A $10,000 bill denied over a symptom from before the member joined. This rule catches people, and it reaches further than most expect. Here are [the CrowdHealth pre-existing condition rules](/p/crowdhealth-pre-existing-conditions/).
 
 **Stubborn hospitals.** Bills that took six months or a year and went to collections along the way.
 
 **Fair price gaps.** A member offered $8,000 toward a surgery quoted at $12,000 to $15,000, and pointed to a doctor five hours away.
 
-**Routine care.** Six routine visits, one shared.
+**Routine care.** [Six routine visits, one shared](/p/six-routine-visits-one-covered/).
 
-**Paperwork.** Two separate members called it a part-time job.
+**Paperwork.** Two separate members called it [a part-time job](/p/the-paperwork-is-real/).
 
 **Surprises.** A newborn's two-week wait. Requests approved by default. An intro price that's per person.
 
@@ -67,7 +67,7 @@ That's what being a fanboy means to me. Not that it's perfect. That I looked har
 
 ## The takeaway
 
-CrowdHealth is very good at one job: turning a big, sudden medical bill into $500 and a week or two of waiting. It isn't built for old conditions, routine care, or people who need a guarantee. If you're in the first group, I think it's worth a real look. If you're in the second, I'd tell you to pass, and I'd mean it.
+CrowdHealth is very good at one job: turning a big, sudden medical bill into $500 and a week or two of waiting. It isn't built for old conditions, routine care, or people who need a guarantee. If you're in the first group, I think it's worth a real look, and you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) when you're ready. If you're in the second, I'd tell you to pass, and I'd mean it.
 
 Thanks for reading along all month.
 

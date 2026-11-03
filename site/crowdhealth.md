@@ -137,14 +137,11 @@ Reasonably healthy people who can absorb a bad month, especially:
 - **Early retirees** bridging the gap to Medicare at 65. [More here](/p/health-sharing-for-early-retirees/), including the honest note that your cap doubles at 55.
 - **Families** who are healthy and paying a premium that keeps climbing.
 
-## Read next
+## Every CrowdHealth post, by question
 
-- [What health sharing actually costs each month](/p/the-real-monthly-cost-of-health-sharing/)
-- [Can you trust health sharing with a big bill?](/p/can-you-trust-health-sharing-with-a-big-bill/)
-- [What if the crowd doesn't fund your bill?](/p/what-if-the-crowd-doesnt-fund-your-bill/)
-- [Health sharing vs. insurance: the honest trade-offs](/p/health-sharing-vs-insurance-honest-trade-offs/)
-- [Switching: what the first 90 days look like](/p/switching-to-health-sharing-first-90-days/)
-- [Is health sharing legit?](/p/is-health-sharing-legit/)
+Everything I've written about CrowdHealth, sorted by the question you probably came with. New posts land here automatically.
+
+<!-- crowdhealth-index -->
 
 ## Questions I get about this
 

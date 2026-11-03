@@ -31,7 +31,7 @@ Three things, all in plain English. Here's where to start on each one.
 
 - [Nobody Gets Paid to Make You Well](/p/nobody-gets-paid-to-make-you-well/)
 - [Why You Got a Big Bill With Insurance](/p/why-you-got-a-big-bill-with-insurance/)
-- [The Cash Price Secret Hospitals Don't Advertise](/p/the-cash-price-secret/)
+- [How to Get a Cash Price for a Medical Procedure](/p/the-cash-price-secret/)
 - [What Is Health Sharing? An Honest Plain-English Guide](/p/what-is-health-sharing/)
 
 **[Saving in something that lasts](/bitcoin/).** A calm look at why the dollar loses value and where bitcoin fits, as savings, not gambling.

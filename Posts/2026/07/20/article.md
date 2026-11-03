@@ -18,7 +18,7 @@ Nobody signed a contract. Nobody profits. It's just neighbors agreeing that one 
 
 Here's the plain mechanics, with a real example so it's not hand-wavy. I'll use CrowdHealth, since I'm a member and know it firsthand. (Full honesty up front: I'll earn a small referral if you ever join through [my link](https://www.joincrowdhealth.com/?referral_code=NORMAL). No pressure either way, and everything below is the honest version, warts included.)
 
-- **You pay a flat monthly amount.** With CrowdHealth it's about $60 a month for one adult. That fee runs the operation. It is not a pot of money betting on your health.
+- **You pay a flat monthly amount.** With CrowdHealth it's about $60 a month for one adult (I break down [the full monthly cost](/p/the-real-monthly-cost-of-health-sharing/) separately). That fee runs the operation. It is not a pot of money betting on your health.
 - **When something big happens, you cover the first $500.** A broken arm, a surgery, a scary trip to the ER. The first $500 of that event is yours to handle.
 - **The crowd funds the rest.** Past that first $500, your bill becomes a request the community funds. The barn goes back up.
 - **They fight the bill first.** Before anyone chips in, they push for the cash price, which is very often far lower than the "insurance" price for the exact same care. A smaller bill is easier on everyone.
@@ -39,7 +39,7 @@ If I stopped here, I'd be doing the exact bait-and-switch this brand promised ne
 
 **Health sharing is not insurance.** Say that twice. There is no legal contract promising your bill gets paid. It is a group of people agreeing to help, and agreements are not guarantees. In practice these groups have strong track records of paying, but "strong track record" is not the same word as "guaranteed," and you deserve to know the difference.
 
-**It has rules and things it won't fund.** Most groups have waiting periods before they'll help with certain costs, and they may not share bills for a condition you already had when you joined. Read that list before you sign, not after.
+**It has rules and things it won't fund.** Most groups have waiting periods before they'll help with certain costs, and they may not share bills for [a condition you already had when you joined](/p/crowdhealth-pre-existing-conditions/). Read that list before you sign, not after.
 
 **Routine stuff works differently.** This is built for the big, unexpected bills, not for handing over a $20 copay at every checkup. Many members simply pay cash for small visits, which is often cheaper anyway. But if you love the feeling of a copay card, this will feel strange at first.
 

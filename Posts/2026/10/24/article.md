@@ -24,7 +24,7 @@ The parent was fair about it. They said it wasn't really CrowdHealth's fault, th
 
 CrowdHealth's public results list funded requests for exactly these: ear infections with ear tubes, sent to 78 members, and a tonsillectomy, sent to 19.
 
-Kid surgeries are a lot like getting your brakes done. It's a standard job that shops do all day. The price should be easy to get up front. When a place won't tell you the price before the work, that tells you something about the place.
+Kid surgeries are a lot like getting your brakes done. It's a standard job that shops do all day. The price should be easy to get up front. When a place won't tell you the price before the work, that tells you something about the place. [The cash price secret](/p/the-cash-price-secret/) has the question to ask.
 
 ## What did CrowdHealth actually do?
 
@@ -34,11 +34,11 @@ For the tonsils, the normal thing: funded the bills above $500. For the scope, t
 
 That scope story is the real lesson. CrowdHealth runs on prices. If a hospital refuses to put a price in writing, the whole process jams. And in a town with one hospital system, you can't just go across the street.
 
-So before you join, ask yourself what's near you. Is there an independent surgery center? An ear, nose, and throat doctor who posts cash prices? If the answer is no, planned surgeries get harder.
+So before you join, ask yourself what's near you. Is there an independent surgery center? An ear, nose, and throat doctor who posts cash prices? If the answer is no, planned surgeries get harder. If your area looks good, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 Each surgery is also its own $500, per child, when they're separate problems. Two kids with two different surgeries in one year is $1,000 from you.
 
-And well-child checkups are mostly on you. One wellness visit a year per child is shared, up to $300. Little kids have a lot more than one. Starting in 2027 that $300 can be spread across several visits, but it's still $300. One dad who joined with three kids counted those extra visits as a real out-of-pocket cost when he ran his numbers.
+And well-child checkups are mostly on you. One wellness visit a year per child is shared, up to $300. Little kids have a lot more than one. Starting in 2027 that $300 can be spread across several visits, but it's still $300. One dad who joined with three kids counted those extra visits as a real out-of-pocket cost when he ran his numbers. [Six routine visits, one shared](/p/six-routine-visits-one-covered/) shows how that adds up.
 
 CrowdHealth's founder also warns members off children's hospital ERs for small things like stitches and fevers, because the prices can be several times higher.
 

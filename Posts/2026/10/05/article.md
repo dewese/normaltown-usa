@@ -41,13 +41,15 @@ It wasn't finished. A couple of bills were still being worked on two months late
 
 You are the one holding the bills while that happens. Your name is on them, not CrowdHealth's.
 
-And his situation fit the rules. A sudden illness in a healthy kid is exactly what this is built for. He listed the limits in his own review: conditions you already had aren't shared for the first two years, you have to join before a pregnancy, and people 65 and up or who use tobacco can't join.
+And his situation fit the rules. A sudden illness in a healthy kid is exactly what this is built for. He listed the limits in his own review: conditions you already had aren't shared for the first two years (see [the pre-existing condition rules](/p/crowdhealth-pre-existing-conditions/)), you have to join before a pregnancy, and people 65 and up or who use tobacco can't join.
 
 ## Why this one sticks with me
 
 His old insurance plan cost about $500 a month just for him, with a $4,000 deductible. He figured a family plan would have run about $1,500 a month with a $12,000 deductible. A deductible is the amount you pay yourself before insurance pays a dime. So on that plan, this same night could have cost him $12,000 on top of the monthly bill.
 
-Instead it was $500. That's the whole pitch, in one bad night.
+Instead it was $500. That's the whole pitch, in one bad night. Another member's emergency surgery went the same way in [the $35,000 appendix that cost $500](/p/the-35000-appendix-that-cost-500/), and the monthly price is broken down in [how much CrowdHealth costs](/p/crowdhealth-cost/).
+
+If you want that kind of backup for your own family, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## The takeaway
 

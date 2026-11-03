@@ -30,6 +30,8 @@ By day 90 most people have stopped thinking about it, which is exactly what you 
 
 Switching is not right for everyone. If you have an ongoing, expensive condition that needs guaranteed coverage, or you cannot keep $500 on hand, this is probably not your move. I keep [the honest who-should-skip-it post](https://www.normaltownusa.com/p/who-health-sharing-is-wrong-for) up so nobody switches into the wrong thing.
 
+If you've read the rules and the $500 is ready, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and start your first 90 days.
+
 ## The takeaway
 
 The first 90 days of health sharing are: set aside your $500, read the rules, sign up (overlap your old coverage briefly), meet your care advocate and learn the app, then settle into a quiet monthly rhythm. It is a smaller change than the fear makes it feel.

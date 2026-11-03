@@ -1,12 +1,12 @@
-# The Cash Price Secret Hospitals Don't Advertise
+# How to Get a Cash Price for a Medical Procedure (and What to Say When You Call)
 
-> A lot of medical care has two prices: a high sticker price built for insurance haggling, and a lower cash price for people who pay directly. Ask "What's the cash price if I don't use insurance?" before your visit, compare it to what you'd owe with insurance, and pay the smaller one. Cash paid usually doesn't count toward your deductible.
+> To get a cash price for a medical procedure, call before you book and ask: "What's the cash price if I don't use insurance?" A lot of care has two prices: a high sticker price built for insurance haggling, and a lower cash price for people who pay directly. Get the cash price estimate in writing, compare it to what you'd owe with insurance, and pay the smaller one. Cash paid usually doesn't count toward your deductible.
 
-Here's a secret that can save you real money at the doctor: for a lot of care, there are two prices, and the cheaper one is often the price you pay when you *don't* run it through insurance. It's called the cash price, and most people never think to ask for it.
+To get a cash price for a medical procedure, a scan, or a lab, you call before you book and ask for the self-pay price. That's it. For a lot of care there are two prices, and the cheaper one is often the cash price you pay when you *don't* run it through insurance. Most people never think to ask for it.
 
 That sounds backward. Insurance is supposed to make things cheaper, not more expensive. So let's clear it up fast.
 
-## The sticker price nobody actually pays
+## Why the cash price is lower than the sticker price
 
 Think about buying a car. There's the sticker price on the window, the big number that looks official. And then there's the price people actually pay after a little back and forth, which is often thousands lower. The sticker is mostly for show.
 
@@ -20,13 +20,13 @@ First, billing insurance is expensive and slow for the provider. Paperwork, codi
 
 Second, that big list price was never really meant for you. It's an opening number in a negotiation between the hospital and the insurer. If you walk in as a cash payer, you can sometimes step out of that game entirely.
 
-## How to actually ask (the part that saves you money)
+## What to say when you call for a cash price
 
 This is the whole point, so here are the exact words to use. No confrontation needed. You're just asking a normal question.
 
 - Before a visit, test, or procedure, ask: **"What's the cash price if I don't use insurance?"**
 - If they seem unsure, try: **"Is there a self-pay or prompt-pay discount?"** Those are the magic words at a lot of front desks.
-- For anything planned, like a scan or a lab, **call and ask first.** Prices swing wildly between places, and five minutes on the phone can save you a few hundred dollars.
+- For anything planned, like a scan, a lab, or a procedure, **call and ask first.** Ask for a written cash price estimate that includes the facility, the doctor, and anesthesia if there is any. Prices swing wildly between places, and five minutes on the phone can save you a few hundred dollars.
 - Always ask before, not after. Once it's billed through insurance, the cash price is usually off the table.
 
 That's it. You're not being difficult. Front desks hear these questions every day.

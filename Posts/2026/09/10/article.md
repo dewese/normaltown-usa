@@ -16,7 +16,7 @@ This is where people get fooled by the word "coverage."
 
 On a high-deductible plan, when a health event hits, you pay the full cost yourself until you reach your deductible, which is often $7,000 to $15,000 for a family. Only after you climb that wall does the plan start paying. You've been paying premiums the whole time, and you still eat the first several thousand dollars.
 
-On health sharing, you pay $500 for the event, and the community funds the rest of the eligible bill after the advocates negotiate it down. No annual wall to climb first.
+On health sharing, you pay $500 for the event, and the community funds the rest of the eligible bill after the advocates negotiate it down. No annual wall to climb first. I compared the two in more detail in [the $500 you pay vs. the deductible you don't](/p/the-500-you-pay-vs-the-deductible-you-dont/).
 
 ## The math on a real year
 
@@ -24,6 +24,8 @@ Say a family has one solid health event, a $6,000 bill after discounts.
 
 - **High-deductible plan:** monthly premiums all year, plus the full $6,000 because you likely never cleared the deductible. Easily well over ten grand out of pocket.
 - **Health sharing:** the flat fees for the year, plus $500 for the event. A dramatically smaller total.
+
+If that gap looks like your family's, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
 
 ## Where the high-deductible plan wins
 

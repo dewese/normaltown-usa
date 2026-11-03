@@ -43,5 +43,5 @@ These cost nothing and always will.
 - [Start Here](/start-here/). The short tour: who this is for, and the three posts to read first.
 - [FAQ](/faq/). Quick answers to the questions I get most, from surprise medical bills to buying your first bit of bitcoin.
 - [The First $1,000: Your Family's Shock Absorber](/p/the-first-1000-emergency-fund/). The one savings step that stops small problems from turning into debt.
-- [The Cash Price Secret Hospitals Don't Advertise](/p/the-cash-price-secret/). What to ask before a procedure, and why the cash price is often lower than the insured one.
+- [How to Get a Cash Price for a Medical Procedure](/p/the-cash-price-secret/). What to ask before a procedure, and why the cash price is often lower than the insured one.
 - [Saving vs. Gambling: Where Bitcoin Actually Fits](/p/is-bitcoin-saving-or-gambling/). A calm take on the loudest topic in money.

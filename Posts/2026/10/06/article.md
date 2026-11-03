@@ -27,13 +27,13 @@ A second member's public review backs it up. This one was a physician. They desc
 
 And CrowdHealth's own list of big funded bills includes one for appendicitis that reached $333,943. The list doesn't say what made that one so large.
 
-So the same body part can run $10,600 or $333,000 depending on how it goes and who's asking. That range is the whole reason I want somebody on my side.
+So the same body part can run $10,600 or $333,000 depending on how it goes and who's asking. That range is the whole reason I want somebody on my side. Another member's [$48,000 surgery quote that became $9,190](/p/the-48000-quote-that-became-9190/) follows the same pattern.
 
 ## What did CrowdHealth actually do?
 
-In the first story, they got the price cut from $35,000 to $10,600 using self-pay pricing. Self-pay just means you're paying directly instead of through an insurance company. Hospitals will often take far less from a direct payer, because they get paid faster and skip the paperwork fight.
+In the first story, they got the price cut from $35,000 to $10,600 using [self-pay pricing](/p/the-cash-price-secret/). Self-pay just means you're paying directly instead of through an insurance company. Hospitals will often take far less from a direct payer, because they get paid faster and skip the paperwork fight.
 
-Then the crowd funded everything above the member's $500.
+Then the crowd funded everything above the member's $500. I laid out [how a big hospital bill gets paid, step by step](/p/how-a-big-hospital-bill-gets-paid-without-insurance/).
 
 The couple also said the advocates later pointed them to a doctor who only takes self-pay patients, and they liked him a lot.
 
@@ -44,6 +44,8 @@ You don't get the discount at the front desk. In an emergency you get the care, 
 The second story left out the ending. A doctor saying CrowdHealth took care of them is encouraging. It isn't a receipt.
 
 And this first story was chosen and published by CrowdHealth. They pick the good ones. Keep that in mind, the same way you would with any company's testimonials.
+
+If you'd like someone asking for the real price on your side, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL).
 
 ## The takeaway
 

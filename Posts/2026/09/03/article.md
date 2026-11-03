@@ -28,6 +28,8 @@ Because this is a community and not an insurance contract, there is no legal gua
 
 With a high-deductible insurance plan, that same big event could cost you the full deductible, often five figures, before the plan helps at all. With health sharing, your fixed exposure for the event is $500, and a team is actively working to shrink the bill instead of a claims department working to deny it. Same emergency, very different math and very different feeling.
 
+If that math looks better to you, you can [join with my code NORMAL](https://www.joincrowdhealth.com/?referral_code=NORMAL) and get your first 3 months at $99 a month per member.
+
 ## The takeaway
 
 A big hospital bill on health sharing goes like this: you pay the first $500, negotiators cut the bill down hard, and the community funds the rest, usually within about a week. The crowd has done this for a bill as large as $3 million. It is not insurance and it is not guaranteed, but the mechanism is real, it is fast, and it has a public track record.
