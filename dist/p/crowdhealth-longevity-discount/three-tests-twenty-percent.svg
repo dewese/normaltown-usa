@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<circle class="f-ac" cx="330" cy="520" r="120"/>
+<circle class="f-ac" cx="600" cy="520" r="120"/>
+<circle class="s-ink" cx="870" cy="520" r="120" fill="none" stroke-width="5"/>
+<text class="f-ink" x="330" y="700" font-size="30" font-weight="800" text-anchor="middle" letter-spacing="2">INSULIN</text>
+<text class="f-ink" x="600" y="700" font-size="30" font-weight="800" text-anchor="middle" letter-spacing="2">HS-CRP</text>
+<text class="f-ink" x="870" y="700" font-size="30" font-weight="800" text-anchor="middle" letter-spacing="2" fill-opacity="0.6">DEXA</text>
+<text class="f-bg" x="330" y="538" font-size="48" font-weight="800" text-anchor="middle">10%</text>
+<text class="f-bg" x="600" y="538" font-size="48" font-weight="800" text-anchor="middle">10%</text>
+<line class="s-ink" x1="210" y1="800" x2="720" y2="800" stroke-width="4"/>
+<text class="f-ac" x="465" y="900" font-size="64" font-weight="800" text-anchor="middle">20% off</text>
+<text class="f-ink" x="600" y="1010" font-size="26" font-weight="700" text-anchor="middle" fill-opacity="0.7">Pass two. Every adult on the account.</text>
+</svg>
