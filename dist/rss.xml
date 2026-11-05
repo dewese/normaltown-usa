@@ -5,8 +5,49 @@
     <atom:link href="https://www.normaltownusa.com/rss.xml" rel="self" type="application/rss+xml"/>
     <description>Plain-English help with money, medical bills, health insurance, health sharing, and saving in bitcoin. Written by a regular guy with a family of four, for regular people. No jargon, no hype.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:00:00 -0400</lastBuildDate>
     <item>
+      <title>Zero-Fee Recurring Buys: Bitcoin Savings on Autopilot</title>
+      <link>https://www.normaltownusa.com/p/zero-fee-recurring-bitcoin-buys/</link>
+      <guid isPermaLink="true">https://www.normaltownusa.com/p/zero-fee-recurring-bitcoin-buys/</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 -0400</pubDate>
+      <dc:creator>David Dewese</dc:creator>
+      <category>Bitcoin</category>
+      <description>How River&#x27;s recurring bitcoin buys work, the 0% fee after the first 7 days (as of October 2026), the math on $25 a week, and the honest risks.</description>
+      <content:encoded><![CDATA[<p><strong>In short:</strong> A recurring buy is an automatic purchase of the same dollar amount of bitcoin on a schedule you pick, like every week. As of October 2026, River charges no fee on recurring buys after the first 7 days, while a one-time buy costs 1.00%. It's how I buy bitcoin: set it once, then leave it alone.</p><p>This is the exact setup I use. Every week, River buys the same dollar amount of bitcoin for me automatically. I don't pick the day. I don't check the price first. It just happens, and as of October 2026, it happens without a fee.</p>
+<h2 id="what-a-recurring-buy-is">What a recurring buy is</h2>
+<p>A recurring buy is a standing order. You tell River three things: how much, how often, and where the money comes from. Then it repeats until you cancel it.</p>
+<p>As of October 2026, River lets you pick hourly, daily, weekly, every two weeks, the 1st and 15th of the month, or monthly. The money can come from a linked bank account or from cash you keep in your River account.</p>
+<p>You can change the amount or the payment method any time. If you want a different schedule, you cancel the old one and start a new one.</p>
+<h2 id="where-the-zero-fee-comes-in">Where the zero fee comes in</h2>
+<p>As of October 2026, a regular one-time buy on River costs 1.00% (on amounts up to $1 million). Recurring buys cost 0% after the first 7 days.</p>
+<p>Here's how River explains the first week. On a weekly, every-two-weeks, 1st and 15th, or monthly schedule, your very first order pays the normal fee and every order after that is free. On a daily or hourly schedule, buys are free starting on day 8.</p>
+<p>Let's do the math on a $25 weekly buy, using the October 2026 numbers:</p>
+<ul><li><strong>One-time buys, every week by hand:</strong> 1.00% of $25 is 25 cents. Fifty-two weeks of that is $13 a year in fees.</li><li><strong>A recurring buy:</strong> the first week pays 25 cents. The other 51 weeks pay nothing.</li></ul>
+<p>Thirteen dollars isn't life-changing. But it's thirteen dollars of bitcoin you keep instead of handing over, every year, for doing the lazy thing.</p>
+<p>One fine-print item worth knowing. River says its quoted prices include a spread, which is a small markup built into the price itself. As of October 2026, River says that's typically about 0.25% on buys. So "zero fee" means no fee line on top. It doesn't mean the price has no markup at all.</p>
+<h2 id="the-sprinkler-timer">The sprinkler timer</h2>
+<p>Think about watering a lawn. You could stand out there with a hose every evening, deciding whether today looks dry enough. Or you could set the sprinkler timer once and go inside.</p>
+<p>The timer doesn't care if it rained yesterday. It doesn't get nervous. It just waters on schedule, and over a summer the lawn gets what it needs.</p>
+<p>A recurring buy is a sprinkler timer for your savings. It takes your mood out of it. That matters more than people think, because the moment you start deciding each week, you start guessing. I explained why I quit guessing in <a href="https://www.normaltownusa.com/p/why-i-dont-try-to-time-the-price/">why I don't try to time the price</a>.</p>
+<p>Buying the same amount on a schedule has a name, dollar-cost averaging. I wrote the plain version in <a href="https://www.normaltownusa.com/p/a-little-each-week-beats-betting-it-all/">a little each week beats betting it all</a>, and River Learn has a lesson on it too.</p>
+<h2 id="one-detail-on-daily-buys">One detail on daily buys</h2>
+<p>If you choose daily or hourly, River doesn't pull money from your bank every single day. As of October 2026, it pulls once a week to cover the week ahead. So a $10 daily buy takes $70 from your bank each week. Make sure that money is sitting there.</p>
+<h2 id="the-honest-part">The honest part</h2>
+<p>Automatic doesn't mean safe. A recurring buy keeps buying when the price is falling, and bitcoin has fallen hard before and stayed down for years. A steady schedule protects you from bad timing. It doesn't protect you from the price going down.</p>
+<p>So pick an amount you'd never miss. If losing it would change your week, it's too big. And keep your <a href="https://www.normaltownusa.com/p/the-first-1000-emergency-fund/">emergency fund</a> in plain cash first.</p>
+<p>River is also a company, with its own risks, and it changes its fees and products from time to time. The numbers here are as of October 2026.</p>
+<h2 id="questions-i-get-about-this">Questions I get about this</h2>
+<h3 id="is-river-s-recurring-buy-really-free">Is River's recurring buy really free?</h3>
+<p>As of October 2026, River charges a 0% fee on recurring buys after the first 7 days. On weekly, every-two-weeks, 1st and 15th, or monthly schedules, the first order pays the normal fee. River's prices include a small spread, so check the quoted price when you set it up.</p>
+<h3 id="how-often-should-my-recurring-buy-run">How often should my recurring buy run?</h3>
+<p>There's no magic answer. Weekly is simple and it's what I do. The schedule matters less than picking an amount you can keep going without stress.</p>
+<h3 id="can-i-stop-a-recurring-buy">Can I stop a recurring buy?</h3>
+<p>Yes. It runs until you cancel it, and you can cancel any time. You can also change the amount without starting over.</p>
+<hr class="rule">
+<p>Want to set up your own sprinkler timer? <a href="https://river.com/signup?r=EYL3QNCO" target="_blank" rel="noopener nofollow sponsored">Open a River account with my link<span class="sr-only"> (opens in a new tab)</span></a>. It's an affiliate link: when you buy your first $100, we each get $5 in bitcoin, then $15 more each at $1,000 and $80 more each at $10,000, up to $100 apiece. River isn't available in every state.</p>
+<p><em>Bitcoin's price swings hard and can stay down for years, so only use money you can leave alone. I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>. Nothing here is financial, tax, or legal advice. I'm a regular guy who did the homework, sharing what I learned. You make your own calls.</em></p>]]></content:encoded>
+    </item><item>
       <title>CrowdHealth&#x27;s Longevity Discount: Up to 20% Off for Three Blood and Body Tests</title>
       <link>https://www.normaltownusa.com/p/crowdhealth-longevity-discount/</link>
       <guid isPermaLink="true">https://www.normaltownusa.com/p/crowdhealth-longevity-discount/</guid>
@@ -79,7 +120,7 @@
 <h3 id="how-many-sats-are-in-one-bitcoin">How many sats are in one bitcoin?</h3>
 <p>100 million. Written out, that's 100,000,000. One sat is 0.00000001 bitcoin, the smallest amount the system tracks.</p>
 <h3 id="can-i-really-buy-just-10-of-bitcoin">Can I really buy just $10 of bitcoin?</h3>
-<p>Yes. Most bitcoin apps let you buy small dollar amounts and they just give you the matching number of sats. On River, you can also set up a small automatic buy each week, which I'll cover in zero-fee recurring buys.</p>
+<p>Yes. Most bitcoin apps let you buy small dollar amounts and they just give you the matching number of sats. On River, you can also set up a small automatic buy each week, which I'll cover in <a href="https://www.normaltownusa.com/p/zero-fee-recurring-bitcoin-buys/">zero-fee recurring buys</a>.</p>
 <h3 id="is-a-sat-worth-less-than-a-penny">Is a sat worth less than a penny?</h3>
 <p>Right now, yes. A sat's value is just the price of one bitcoin divided by 100 million, so it moves up and down with bitcoin's price.</p>
 <hr class="rule">
@@ -109,7 +150,7 @@
 <p>Bitcoin works the same way. It looks like a wall of strange words from the outside. Take it one chord at a time, though, and it stops being scary. By the end of November you'll know more than most people who own it.</p>
 <h2 id="what-s-coming-this-month">What's coming this month</h2>
 <p>Here's a taste of the bitcoin side of the calendar:</p>
-<ul><li><a href="https://www.normaltownusa.com/p/sats-you-dont-need-a-whole-bitcoin/">You don't need a whole bitcoin</a>, the tiny units called sats.</li><li>Zero-fee recurring buys, or how I buy on autopilot.</li><li>What happened in 1971, and why your grocery bill remembers.</li><li>How to check that River really holds the bitcoin.</li><li>Your seed phrase, the master key to your own wallet.</li></ul>
+<ul><li><a href="https://www.normaltownusa.com/p/sats-you-dont-need-a-whole-bitcoin/">You don't need a whole bitcoin</a>, the tiny units called sats.</li><li><a href="https://www.normaltownusa.com/p/zero-fee-recurring-bitcoin-buys/">Zero-fee recurring buys</a>, or how I buy on autopilot.</li><li>What happened in 1971, and why your grocery bill remembers.</li><li>How to check that River really holds the bitcoin.</li><li>Your seed phrase, the master key to your own wallet.</li></ul>
 <p>Links light up as each post goes live.</p>
 <h2 id="the-honest-part">The honest part</h2>
 <p>River Learn is free and well made. It's also run by a company that sells bitcoin, so it's upbeat about bitcoin. Some of the lessons read like a pitch. I'll keep pointing you to them because the explanations are good, but I'll keep telling you the other half too.</p>
@@ -1224,48 +1265,6 @@
 <hr class="rule">
 <p>Want to see what your family would pay each month? Use my code <strong>NORMAL</strong>: <a href="https://www.joincrowdhealth.com/pricing?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">check CrowdHealth's pricing<span class="sr-only"> (opens in a new tab)</span></a>. New members get their first 3 months at $99 a month per member.</p>
 <p><em>About this story: it's a member story CrowdHealth published on its own website in 2022, so remember they chose it. I retold it in my own words, kept the details general, and left out names on purpose.</em></p>
-<p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>, and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
-    </item><item>
-      <title>The $35,000 Appendix That Cost $500</title>
-      <link>https://www.normaltownusa.com/p/the-35000-appendix-that-cost-500/</link>
-      <guid isPermaLink="true">https://www.normaltownusa.com/p/the-35000-appendix-that-cost-500/</guid>
-      <pubDate>Tue, 06 Oct 2026 09:00:00 -0400</pubDate>
-      <dc:creator>David Dewese</dc:creator>
-      <category>Health</category>
-      <description>A CrowdHealth member&#x27;s emergency appendectomy was quoted at $35,000, reduced to $10,600, and cost him $500. What that says about hospital sticker prices.</description>
-      <content:encoded><![CDATA[<p><strong>In short:</strong> One member's emergency appendectomy was first quoted at $35,000. CrowdHealth got it reduced to $10,600, he paid his $500, and other members shared the rest. Another member, a doctor, was billed about $50,000 for nine hours in the ER and operating room. Appendix bills are a great lesson in how far apart the sticker price and the real price can be.</p><p>Your appendix doesn't schedule anything. It just goes. That makes it a good test of how you pay for health care, because you can't shop around while you're doubled over.</p>
-<h2 id="what-happened">What happened?</h2>
-<p>CrowdHealth published the story of a married couple who had waited six or seven months before deciding to join. They'd been paying about $450 a month for insurance they rarely used.</p>
-<p>Then the husband needed an emergency appendectomy. That's the surgery to take out an appendix before it bursts.</p>
-<h2 id="what-did-the-bill-look-like">What did the bill look like?</h2>
-<p>Here are the numbers from their story:</p>
-<ul><li><strong>First quote:</strong> $35,000</li><li><strong>After it was reduced:</strong> $10,600</li><li><strong>What he paid:</strong> $500</li><li><strong>The rest:</strong> shared by other members</li></ul>
-<p>That first number isn't a lie exactly. It's a starting bid. Think of a rug at a street market with a $900 tag on it. The seller knows nobody pays $900. The tag is there for whoever doesn't ask.</p>
-<h2 id="is-that-kind-of-bill-normal">Is that kind of bill normal?</h2>
-<p>A second member's public review backs it up. This one was a physician. They described nine hours total, from the ER to the operating room to home, and a bill of about $50,000. They said CrowdHealth took care of them. They didn't say what they paid or what the bill came down to, so I won't guess.</p>
-<p>And CrowdHealth's own list of big funded bills includes one for appendicitis that reached $333,943. The list doesn't say what made that one so large.</p>
-<p>So the same body part can run $10,600 or $333,000 depending on how it goes and who's asking. That range is the whole reason I want somebody on my side. Another member's <a href="https://www.normaltownusa.com/p/the-48000-quote-that-became-9190/">$48,000 surgery quote that became $9,190</a> follows the same pattern.</p>
-<h2 id="what-did-crowdhealth-actually-do">What did CrowdHealth actually do?</h2>
-<p>In the first story, they got the price cut from $35,000 to $10,600 using <a href="https://www.normaltownusa.com/p/the-cash-price-secret/">self-pay pricing</a>. Self-pay just means you're paying directly instead of through an insurance company. Hospitals will often take far less from a direct payer, because they get paid faster and skip the paperwork fight.</p>
-<p>Then the crowd funded everything above the member's $500. I laid out <a href="https://www.normaltownusa.com/p/how-a-big-hospital-bill-gets-paid-without-insurance/">how a big hospital bill gets paid, step by step</a>.</p>
-<p>The couple also said the advocates later pointed them to a doctor who only takes self-pay patients, and they liked him a lot.</p>
-<h2 id="what-s-the-honest-part">What's the honest part?</h2>
-<p>You don't get the discount at the front desk. In an emergency you get the care, and the negotiating happens afterward, with the bill in your name. That takes some nerve the first time. I'd be lying if I said opening a $35,000 envelope feels fine just because you know the plan.</p>
-<p>The second story left out the ending. A doctor saying CrowdHealth took care of them is encouraging. It isn't a receipt.</p>
-<p>And this first story was chosen and published by CrowdHealth. They pick the good ones. Keep that in mind, the same way you would with any company's testimonials.</p>
-<p>If you'd like someone asking for the real price on your side, you can <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">join with my code NORMAL<span class="sr-only"> (opens in a new tab)</span></a>.</p>
-<h2 id="the-takeaway">The takeaway</h2>
-<p>A $35,000 quote became $10,600, and the member paid $500. The lesson isn't that surgery is cheap. It's that the first price is rarely the real one, and it helps to have someone whose job is to ask.</p>
-<h2 id="questions-i-get-about-this">Questions I get about this</h2>
-<h3 id="how-much-does-an-appendectomy-cost-without-insurance">How much does an appendectomy cost without insurance?</h3>
-<p>It varies wildly. In the member stories I found, one was quoted $35,000 and reduced to $10,600, another was billed about $50,000, and the largest appendicitis bill on CrowdHealth's published list reached $333,943. The first quote is a starting point, which is why I always <a href="https://www.normaltownusa.com/p/the-cash-price-secret/">ask for the cash price</a>.</p>
-<h3 id="what-do-i-pay-if-i-have-an-emergency-surgery-on-crowdhealth">What do I pay if I have an emergency surgery on CrowdHealth?</h3>
-<p>On the standard membership, you pay the first $500 of an eligible health event. The surgery, the ER visit, the scans, and the follow-ups for that same problem all count as one event. Anything above $500 goes to the crowd after the bill is negotiated.</p>
-<h3 id="who-negotiates-the-hospital-bill">Who negotiates the hospital bill?</h3>
-<p>CrowdHealth's team does for larger bills, and your care advocate walks you through it. I wrote about that job in <a href="https://www.normaltownusa.com/p/what-a-care-advocate-actually-does/">what a care advocate actually does</a>. You can also do it yourself with <a href="https://www.normaltownusa.com/p/how-to-negotiate-a-hospital-bill-yourself/">my hospital bill script</a>.</p>
-<hr class="rule">
-<p>Curious how a surprise surgery gets handled? Use my code <strong>NORMAL</strong>: <a href="https://www.joincrowdhealth.com/how-it-works?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">see how CrowdHealth works<span class="sr-only"> (opens in a new tab)</span></a>. New members get their first 3 months at $99 a month per member.</p>
-<p><em>About these stories: the first is a member story CrowdHealth published on its own website, so remember they chose it. The second is a public member review on Trustpilot. The $333,943 bill is from CrowdHealth's published list of large funded bills. I retold everything in my own words and left out names on purpose.</em></p>
 <p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>, and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
     </item>
 </channel></rss>
