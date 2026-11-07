@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+<rect class="f-bg" width="1200" height="1200"/>
+<line class="s-ac" x1="150" y1="420" x2="1050" y2="420" stroke-width="8" stroke-linecap="round"/>
+<text class="f-ac" x="150" y="360" font-size="34" font-weight="800" letter-spacing="2">THE $500: CASH</text>
+<text class="f-ink" x="1050" y="480" font-size="24" font-weight="700" text-anchor="end" fill-opacity="0.7">steady, ready today</text>
+<polyline class="s-ink" points="150,800 230,750 300,790 380,700 450,750 520,670 590,730 660,900 730,820 800,860 870,740 940,790 1050,760" fill="none" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<text class="f-ink" x="150" y="600" font-size="34" font-weight="800" letter-spacing="2">LONG-TERM: BITCOIN</text>
+<text class="f-ink" x="1050" y="960" font-size="24" font-weight="700" text-anchor="end" fill-opacity="0.7">swings hard, measured in years</text>
+</svg>
