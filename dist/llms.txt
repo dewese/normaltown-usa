@@ -117,6 +117,7 @@ Hub: https://www.normaltownusa.com/health/
 
 Hub: https://www.normaltownusa.com/bitcoin/
 
+- [Earning Bitcoin on Your Cash: River's 3.50% Interest, Explained](https://www.normaltownusa.com/p/bitcoin-interest-on-cash/): River pays a variable 3.50% APY on cash as of October 2026, paid in bitcoin. How it works, where the cash sits, what FDIC covers, and what it doesn't.
 - [What Happened in 1971, and Why Your Grocery Bill Remembers](https://www.normaltownusa.com/p/what-happened-in-1971/): On August 15, 1971, the dollar's last official link to gold ended. What changed, why prices kept climbing, and where bitcoin's fixed supply fits.
 - [Zero-Fee Recurring Buys: Bitcoin Savings on Autopilot](https://www.normaltownusa.com/p/zero-fee-recurring-bitcoin-buys/): How River's recurring bitcoin buys work, the 0% fee after the first 7 days (as of October 2026), the math on $25 a week, and the honest risks.
 - [You Don't Need a Whole Bitcoin: Sats, Explained](https://www.normaltownusa.com/p/sats-you-dont-need-a-whole-bitcoin/): One bitcoin splits into 100 million satoshis, or sats. Here's why you never need a whole coin, and how $10 buys real bitcoin. Plain English.
