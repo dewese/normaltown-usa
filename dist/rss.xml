@@ -5,8 +5,50 @@
     <atom:link href="https://www.normaltownusa.com/rss.xml" rel="self" type="application/rss+xml"/>
     <description>Plain-English help with money, medical bills, health insurance, health sharing, and saving in bitcoin. Written by a regular guy with a family of four, for regular people. No jargon, no hype.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:00:00 -0400</lastBuildDate>
     <item>
+      <title>Don&#x27;t Trust, Check: How to See That River Really Holds the Bitcoin</title>
+      <link>https://www.normaltownusa.com/p/proof-of-reserves-explained/</link>
+      <guid isPermaLink="true">https://www.normaltownusa.com/p/proof-of-reserves-explained/</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 -0400</pubDate>
+      <dc:creator>David Dewese</dc:creator>
+      <category>Bitcoin</category>
+      <description>A proof of reserves shows a company holds as much bitcoin as it owes customers. How River&#x27;s monthly proof works, how to check your balance, and its limits.</description>
+      <content:encoded><![CDATA[<p><strong>In short:</strong> A proof of reserves is a company showing, in public, that it holds at least as much bitcoin as it owes its customers. River publishes one every month: the bitcoin it holds, which anyone can see on bitcoin's public record, next to an anonymized list of every customer balance. You can look up your own account on that list. It's a snapshot, not a guarantee, so River's financial statements matter too.</p><p>When you leave bitcoin with a company, you're trusting them to actually have it. Some companies in the past didn't, and their customers found out the hard way. A proof of reserves is a way to check instead of just trust. Here's how River's works.</p>
+<h2 id="the-short-answer">The short answer</h2>
+<p>As of October 2026, River publishes a proof of reserves every month. It has two halves:</p>
+<ul><li><strong>Assets:</strong> the bitcoin River holds in its cold storage. Cold storage just means wallets kept offline. Because bitcoin runs on a public record, anyone can look those wallets up on a free website called a block explorer, like mempool.space.</li><li><strong>Liabilities:</strong> what River owes customers. River publishes an anonymized list of every client's bitcoin balance. "Anonymized" means no names, just account IDs and amounts.</li></ul>
+<p>If assets are bigger than liabilities, River holds more bitcoin than it owes. That comparison is called the reserve ratio, and over 100% is what you want to see.</p>
+<h2 id="the-club-treasurer">The club treasurer</h2>
+<p>Picture the treasurer of a neighborhood club. Every member has paid dues, and the treasurer says the money's all in the bank.</p>
+<p>A treasurer you can trust doesn't just say "it's fine." They hold up the bank statement for everyone to see. Then they post a list of every member's balance, with ID numbers instead of names. You find your number, check that your amount is right, and compare the bank total to the list total.</p>
+<p>That's a proof of reserves. The bank statement is the bitcoin anyone can see on the public record. The list is the liabilities. And you are the member checking your own line.</p>
+<h2 id="what-river-s-october-proof-showed">What River's October proof showed</h2>
+<p>River's proof dated October 6, 2026 listed:</p>
+<ul><li><strong>Assets:</strong> 33,404.73 bitcoin</li><li><strong>Liabilities:</strong> 33,332.42 bitcoin</li><li><strong>Reserve ratio:</strong> above 100%</li></ul>
+<p>As of October 2026, River's monthly history going back to November 2025 shows a ratio above 100% every month.</p>
+<p>River also has to prove it actually controls those wallets, not just that the wallets exist. It does that by sending a small transaction for an amount set ahead of time. Only someone holding the keys could do that.</p>
+<h2 id="how-to-check-your-own-balance">How to check your own balance</h2>
+<p>Find your River account ID in your account. Then search for it on River's published list of liabilities. If your balance shows up with the right amount, you know you were counted. That's the part that makes this different from a company just posting a big number.</p>
+<h2 id="why-the-financials-page-matters-too">Why the financials page matters too</h2>
+<p>River Learn's own lesson is upfront about this, and I appreciate that. A proof of reserves is a snapshot. It shows one moment in time. It also only covers bitcoin. It doesn't show every debt a company has, like loans or bills it owes to other businesses.</p>
+<p>That's why River also publishes a company financials page. As of October 2026, River says it's profitable with zero debt, and that it had a $68.1 million corporate treasury at the end of 2025. It says an independent accounting firm audits it every year, and you can download its 2025 statements. River also says it doesn't lend out client bitcoin.</p>
+<p>The two pages work together. Reserves say "we hold your bitcoin." Financials say "and we're not drowning somewhere else."</p>
+<h2 id="the-honest-part">The honest part</h2>
+<p>A proof of reserves lowers your risk. It doesn't erase it. It's a monthly snapshot, River is still a company with its own risks, and a company could have problems between snapshots.</p>
+<p>For what it's worth, my own weekly buys don't sit on River for long. River sends them to my own hardware wallet once they reach an amount I picked. I'll explain how in auto-withdrawals, and the idea behind it is in <a href="https://www.normaltownusa.com/p/not-your-keys-what-it-means/">not your keys, what it means</a>.</p>
+<p>And none of this changes the price risk. Bitcoin swings hard and can stay down for years. Only use money you can leave alone.</p>
+<h2 id="questions-i-get-about-this">Questions I get about this</h2>
+<h3 id="what-is-a-proof-of-reserves">What is a proof of reserves?</h3>
+<p>It's a public check that a company holds at least as much of an asset as it owes customers. For bitcoin, the company shows its wallets on bitcoin's public record and publishes a list of customer balances, so anyone can compare.</p>
+<h3 id="how-often-does-river-publish-proof-of-reserves">How often does River publish proof of reserves?</h3>
+<p>Monthly, as of October 2026. Its proof dated October 6, 2026 showed 33,404.73 bitcoin in assets against 33,332.42 bitcoin in customer balances.</p>
+<h3 id="does-a-proof-of-reserves-mean-my-bitcoin-is-100-safe">Does a proof of reserves mean my bitcoin is 100% safe?</h3>
+<p>No. It's a snapshot in time and it doesn't show every debt a company has. It's a good sign, and pairing it with audited financials is better, but holding your own keys is the only way to take the company out of the picture.</p>
+<hr class="rule">
+<p>Want an account you can check for yourself? <a href="https://river.com/signup?r=EYL3QNCO" target="_blank" rel="noopener nofollow sponsored">Open a River account with my link<span class="sr-only"> (opens in a new tab)</span></a>. It's an affiliate link: when you buy your first $100, we each get $5 in bitcoin, then $15 more each at $1,000 and $80 more each at $10,000, up to $100 apiece. River isn't available in every state.</p>
+<p><em>Bitcoin's price swings hard and can stay down for years, so only use money you can leave alone. I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>. Nothing here is financial, tax, or legal advice. I'm a regular guy who did the homework, sharing what I learned. You make your own calls.</em></p>]]></content:encoded>
+    </item><item>
       <title>Earning Bitcoin on Your Cash: River&#x27;s 3.50% Interest, Explained</title>
       <link>https://www.normaltownusa.com/p/bitcoin-interest-on-cash/</link>
       <guid isPermaLink="true">https://www.normaltownusa.com/p/bitcoin-interest-on-cash/</guid>
@@ -307,7 +349,7 @@
 <p>Bitcoin works the same way. It looks like a wall of strange words from the outside. Take it one chord at a time, though, and it stops being scary. By the end of November you'll know more than most people who own it.</p>
 <h2 id="what-s-coming-this-month">What's coming this month</h2>
 <p>Here's a taste of the bitcoin side of the calendar:</p>
-<ul><li><a href="https://www.normaltownusa.com/p/sats-you-dont-need-a-whole-bitcoin/">You don't need a whole bitcoin</a>, the tiny units called sats.</li><li><a href="https://www.normaltownusa.com/p/zero-fee-recurring-bitcoin-buys/">Zero-fee recurring buys</a>, or how I buy on autopilot.</li><li><a href="https://www.normaltownusa.com/p/what-happened-in-1971/">What happened in 1971</a>, and why your grocery bill remembers.</li><li>How to check that River really holds the bitcoin.</li><li>Your seed phrase, the master key to your own wallet.</li></ul>
+<ul><li><a href="https://www.normaltownusa.com/p/sats-you-dont-need-a-whole-bitcoin/">You don't need a whole bitcoin</a>, the tiny units called sats.</li><li><a href="https://www.normaltownusa.com/p/zero-fee-recurring-bitcoin-buys/">Zero-fee recurring buys</a>, or how I buy on autopilot.</li><li><a href="https://www.normaltownusa.com/p/what-happened-in-1971/">What happened in 1971</a>, and why your grocery bill remembers.</li><li><a href="https://www.normaltownusa.com/p/proof-of-reserves-explained/">How to check that River really holds the bitcoin</a>.</li><li>Your seed phrase, the master key to your own wallet.</li></ul>
 <p>Links light up as each post goes live.</p>
 <h2 id="the-honest-part">The honest part</h2>
 <p>River Learn is free and well made. It's also run by a company that sells bitcoin, so it's upbeat about bitcoin. Some of the lessons read like a pitch. I'll keep pointing you to them because the explanations are good, but I'll keep telling you the other half too.</p>
@@ -1223,44 +1265,6 @@
 <hr class="rule">
 <p>Read the rule yourself before you decide. Use my code <strong>NORMAL</strong>: <a href="https://www.joincrowdhealth.com/resources/faq?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">see CrowdHealth's FAQ<span class="sr-only"> (opens in a new tab)</span></a>. New members get their first 3 months at $99 a month per member.</p>
 <p><em>About this story: it comes from a public one-star member review on Trustpilot and the company's public reply to it. The monthly percentages and denial reasons come from CrowdHealth's published results. I retold everything in my own words, kept the details general, and left out names on purpose.</em></p>
-<p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>, and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
-    </item><item>
-      <title>Broken Bones: The Ankle, the Elbow, and the First Confusing Day</title>
-      <link>https://www.normaltownusa.com/p/broken-bones-on-crowdhealth/</link>
-      <guid isPermaLink="true">https://www.normaltownusa.com/p/broken-bones-on-crowdhealth/</guid>
-      <pubDate>Sun, 11 Oct 2026 09:00:00 -0400</pubDate>
-      <dc:creator>David Dewese</dc:creator>
-      <category>Health</category>
-      <description>Injuries were 44% of CrowdHealth health events in September 2026. One broken ankle surgery was funded ahead of time. One family learned the hard way.</description>
-      <content:encoded><![CDATA[<p><strong>In short:</strong> A member broke an ankle less than a month after joining CrowdHealth and needed surgery. Staff helped find a surgeon who takes direct-pay patients and funded the surgery ahead of time. Another family's son broke his elbow, and their first day or two was confusing until one phone call. Injuries are the biggest share of what the crowd funds, 44% in September 2026.</p><p>Nobody plans a broken bone. Injuries made up 44% of the health events in CrowdHealth's September 2026 results, and 48.9% the month before. So if you join, this is the kind of thing you're most likely to use it for.</p>
-<h2 id="what-happened">What happened?</h2>
-<p><strong>The ankle.</strong> A brand-new member, less than a month in, broke an ankle badly enough to need surgery. Two people at CrowdHealth helped find a doctor who works with patients paying directly. They also coached the member on exactly what to ask for in the price estimate.</p>
-<p>Then they did the thing I find most reassuring. They funded the surgery before it happened. The member didn't have to pay thousands and wait.</p>
-<p><strong>The elbow.</strong> A couple who'd been raised to never, ever go without insurance joined with a lot of hesitation. Then their son broke his elbow. They went to the ER, and a follow-up showed he'd need surgery. The cash estimate was, in their word, "staggering."</p>
-<p>They were honest that the first day or two was rough. They didn't know what to do, and the app wasn't much help in the moment. One phone call with their advocate cleared it up. They finished the review saying they felt at ease.</p>
-<p><strong>The quick ones.</strong> A member who broke an arm right after joining said every penny past the commitment was funded. A couple of two years said the husband's broken wrist cost them less than it would have on insurance. And one member with a broken ankle got a meal gift card and a mug in the mail that said "I do my own stunts."</p>
-<h2 id="what-do-the-bills-look-like">What do the bills look like?</h2>
-<p>Bigger than you'd guess. Most of these reviews don't give totals, but CrowdHealth's public results do show which requests topped $10,000. Among them: a broken wrist from a scooter crash that went to 72 members, a fractured elbow that went to 46, a double broken wrist that went to 42, and a broken ankle that went to 33.</p>
-<p>A broken bone that needs surgery is a five-figure bill pretty often. Your share is $500, and I explain <a href="https://www.normaltownusa.com/p/how-one-health-event-gets-paid/">how one health event gets paid</a> in a separate post.</p>
-<p>Here's how I think about that $500. It's like the deposit on a rental truck. It's enough that you'll take care, and small enough that it won't wreck your month.</p>
-<h2 id="what-did-crowdhealth-actually-do">What did CrowdHealth actually do?</h2>
-<p>Found a surgeon, taught the member what to ask, and paid before the surgery. For the elbow family, it was mostly one clear phone call that turned panic into a to-do list.</p>
-<h2 id="what-s-the-honest-part">What's the honest part?</h2>
-<p>That first-day confusion is real, and I've seen it in more than one review. Another member who tore a knee ligament on a weekend (I covered <a href="https://www.normaltownusa.com/p/torn-knees-and-sprained-ankles/">how rehab for torn knees and sprained ankles gets paid</a>) said the same thing: it would have been easier to learn the process on something small. There's no card to hand the front desk. You have to know to say "I'm paying directly, what's your cash price?"</p>
-<p>So learn the steps before you need them. Save your advocate's contact info in your phone the day you join.</p>
-<p>Also know the fine print on risky hobbies, and read <a href="https://www.normaltownusa.com/p/what-crowdhealth-doesnt-cover/">what isn't eligible on CrowdHealth</a>. CrowdHealth's guide excludes injuries from a list of hazardous activities, like motorcycle racing and skydiving, and injuries that happen while under the influence. Ordinary bike wrecks show up in the funded results. Skydiving is on the excluded list.</p>
-<h2 id="the-takeaway">The takeaway</h2>
-<p>Broken bones are the bread and butter of what this crowd pays for, and the stories are steady: you pay $500, the crowd handles the rest, and sometimes the surgery is funded before you roll in. The weak spot is the first 48 hours for a first-timer. That's fixable with ten minutes of homework. If you want to have the steps ready before a fall, you can <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">join with my code NORMAL<span class="sr-only"> (opens in a new tab)</span></a> and get your first 3 months at $99 a month per member.</p>
-<h2 id="questions-i-get-about-this">Questions I get about this</h2>
-<h3 id="what-do-i-do-first-if-my-kid-breaks-a-bone">What do I do first if my kid breaks a bone?</h3>
-<p>Get care. Then open a health event in the app or message your advocate, and tell the provider you're self-pay and ask them to send the bill by mail. Ask for itemized bills. I laid out the steps in <a href="https://www.normaltownusa.com/p/health-sharing-and-the-er/">health sharing and the ER</a>.</p>
-<h3 id="will-crowdhealth-pay-for-surgery-before-it-happens">Will CrowdHealth pay for surgery before it happens?</h3>
-<p>It can. One member's ankle surgery was funded ahead of time using an estimate from the surgeon. CrowdHealth says planned, larger procedures can be negotiated and funded before the date, so you aren't floating the whole bill.</p>
-<h3 id="are-sports-injuries-eligible">Are sports injuries eligible?</h3>
-<p>Ordinary ones, yes. Public results show funded requests for football and basketball concussions, bike wrecks, and broken wrists. The exclusions are for a specific list of hazardous activities and for injuries while impaired. Check the list in <a href="https://www.normaltownusa.com/p/what-crowdhealth-doesnt-cover/">what isn't eligible on CrowdHealth</a>.</p>
-<hr class="rule">
-<p>Want to learn the steps before you need them? Use my code <strong>NORMAL</strong>: <a href="https://www.joincrowdhealth.com/member-guides?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">read CrowdHealth's member guide<span class="sr-only"> (opens in a new tab)</span></a>. New members get their first 3 months at $99 a month per member.</p>
-<p><em>About these stories: they come from public member reviews on Trustpilot. The request counts and the injury percentages come from CrowdHealth's published monthly results and its October 2026 member newsletter. I retold everything in my own words, kept the details general, and left out names on purpose. I can't independently verify a stranger's review.</em></p>
 <p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>, and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
     </item>
 </channel></rss>
