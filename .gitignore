@@ -19,3 +19,6 @@ pipeline/research-private/
 
 # CrowdHealth referral-community materials (private, never publish)
 crowdhealth shareable assets/
+
+# Monitoring data: traffic numbers, reports, credentials. Never publish (public repo).
+monitor/private/
