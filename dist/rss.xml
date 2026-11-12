@@ -5,8 +5,48 @@
     <atom:link href="https://www.normaltownusa.com/rss.xml" rel="self" type="application/rss+xml"/>
     <description>Plain-English help with money, medical bills, health insurance, health sharing, and saving in bitcoin. Written by a regular guy with a family of four, for regular people. No jargon, no hype.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:00:00 -0400</lastBuildDate>
     <item>
+      <title>Buying the Dip Without Watching the Chart</title>
+      <link>https://www.normaltownusa.com/p/buying-the-dip-without-watching-the-chart/</link>
+      <guid isPermaLink="true">https://www.normaltownusa.com/p/buying-the-dip-without-watching-the-chart/</guid>
+      <pubDate>Thu, 12 Nov 2026 09:00:00 -0400</pubDate>
+      <dc:creator>David Dewese</dc:creator>
+      <category>Bitcoin</category>
+      <description>River&#x27;s supercharged recurring buys spend extra when bitcoin dips below its recent average. Target Price Orders wait for a price. How each works.</description>
+      <content:encoded><![CDATA[<p><strong>In short:</strong> River has two tools for people who want to buy more when bitcoin's price drops, without staring at a screen. A supercharged recurring buy automatically spends extra on your regular buy day when the price is below its recent average. A Target Price Order buys once if the price hits a number you set. The first one keeps your schedule. The second one is a guess, and the price may never get there.</p><p>"Buy the dip" is one of those phrases that sounds smart and usually means staring at a price chart on your phone during dinner. A dip is just a stretch when the price falls. The trouble is nobody knows if a dip is the bottom or just the start of a bigger drop.</p>
+<p>River has two tools that handle the watching for you. Here's how they work, and why I think one is much calmer than the other.</p>
+<h2 id="tool-one-the-supercharged-recurring-buy">Tool one: the supercharged recurring buy</h2>
+<p>A recurring buy is an automatic purchase of the same dollar amount on a schedule. I covered those in <a href="https://www.normaltownusa.com/p/zero-fee-recurring-bitcoin-buys/">zero-fee recurring buys</a>.</p>
+<p>Supercharge is an optional add-on. As of October 2026, here's how River describes it. When your scheduled buy comes around, River checks the price against a moving average. A moving average is just the average price over the last several days, updated as each new day comes in. If the price is at least about 1% below that average, your buy gets bigger automatically.</p>
+<p>You pick how much bigger: 25%, 50%, 100%, or 200%. So a $10 weekly buy with a 100% supercharge buys $20 on a dip week. On a normal week, it buys the usual $10.</p>
+<p>The average River uses depends on your schedule, as of October 2026:</p>
+<ul><li><strong>Hourly, daily, or weekly buys:</strong> the last 7 days.</li><li><strong>Every two weeks, or the 1st and 15th:</strong> the last 14 days.</li><li><strong>Monthly:</strong> the last 30 days.</li></ul>
+<p>River doesn't charge extra for it. It's still a recurring buy.</p>
+<h2 id="the-grocery-sale">The grocery sale</h2>
+<p>Think about how you shop for coffee. You buy one bag every week, no matter what. But when the store runs a sale, you grab two.</p>
+<p>You didn't stand in the aisle every day waiting for a sale. You just went on your normal shopping day and reacted to the price on the shelf. That's a supercharged recurring buy. Same day, same habit, a little extra when the price is lower than usual.</p>
+<h2 id="tool-two-the-target-price-order">Tool two: the Target Price Order</h2>
+<p>A Target Price Order is different. You pick a price, and if bitcoin reaches it, River buys automatically. There's also a Target Sell that works the same way in the other direction.</p>
+<p>As of October 2026, the minimum is $10. The cash for the order is set aside until the order fills or you cancel it, so you can't spend it on anything else in the meantime. And because it's a one-time buy, the normal one-time fee applies, which is 1.00% as of October 2026.</p>
+<h2 id="why-i-d-lean-on-the-first-one">Why I'd lean on the first one</h2>
+<p>A Target Price Order is a prediction. You're betting the price will drop to a certain number. Maybe it does. Maybe it never gets there and your cash sits waiting for months. Maybe it blows right past your number and keeps falling.</p>
+<p>A recurring buy, supercharged or not, doesn't depend on guessing. It shows up on schedule either way. I wrote about why I stopped trying to guess in <a href="https://www.normaltownusa.com/p/why-i-dont-try-to-time-the-price/">why I don't try to time the price</a>.</p>
+<h2 id="the-honest-part">The honest part</h2>
+<p>Supercharge spends more money on dip weeks. That means your total spending each month isn't fixed anymore. If you set a 200% supercharge on a $50 weekly buy, a dip week takes $150. Make sure the cash is there, and size it so the biggest possible week still doesn't hurt.</p>
+<p>A dip can also keep dipping. Buying more on the way down feels smart until the price keeps sliding for a year. Bitcoin has fallen hard before and stayed down for years. Neither tool changes that, and nothing here promises a return.</p>
+<p>River is also a company with its own risks, and its products and terms change. The details above are as of October 2026.</p>
+<h2 id="questions-i-get-about-this">Questions I get about this</h2>
+<h3 id="what-is-a-supercharged-recurring-buy-on-river">What is a supercharged recurring buy on River?</h3>
+<p>An optional add-on to a recurring buy. As of October 2026, if the price at your scheduled time is at least about 1% below a recent moving average, River buys extra, by 25%, 50%, 100% or 200%, at no added fee.</p>
+<h3 id="does-a-target-price-order-cost-anything">Does a Target Price Order cost anything?</h3>
+<p>As of October 2026, it's charged like a normal one-time buy, at 1.00%. The minimum order is $10, and your cash is held aside until it fills or you cancel.</p>
+<h3 id="is-buying-the-dip-a-good-strategy">Is buying the dip a good strategy?</h3>
+<p>Nobody can tell you whether a dip is the bottom. A steady recurring buy avoids having to guess. If you add supercharge, think of it as "a little extra on sale weeks," not as a way to beat the market.</p>
+<hr class="rule">
+<p>Want to set up a calm buy that handles sale weeks for you? <a href="https://river.com/signup?r=EYL3QNCO" target="_blank" rel="noopener nofollow sponsored">Open a River account with my link<span class="sr-only"> (opens in a new tab)</span></a>. It's an affiliate link: when you buy your first $100, we each get $5 in bitcoin, then $15 more each at $1,000 and $80 more each at $10,000, up to $100 apiece. River isn't available in every state.</p>
+<p><em>Bitcoin's price swings hard and can stay down for years, so only use money you can leave alone. I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>. Nothing here is financial, tax, or legal advice. I'm a regular guy who did the homework, sharing what I learned. You make your own calls.</em></p>]]></content:encoded>
+    </item><item>
       <title>Sick Season on CrowdHealth: Colds, Flu, and What You Actually Pay</title>
       <link>https://www.normaltownusa.com/p/sick-season-on-crowdhealth/</link>
       <guid isPermaLink="true">https://www.normaltownusa.com/p/sick-season-on-crowdhealth/</guid>
@@ -1226,48 +1266,6 @@
 <hr class="rule">
 <p>Want to see how the pricing and funding steps work? Use my code <strong>NORMAL</strong>: <a href="https://www.joincrowdhealth.com/how-it-works?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">see how CrowdHealth works<span class="sr-only"> (opens in a new tab)</span></a>. New members get their first 3 months at $99 a month per member.</p>
 <p><em>About these stories: both come from public member reviews on Trustpilot, one five-star and one two-star, plus the company's public replies. I retold them in my own words, kept the details general, and left out names on purpose. I can't independently verify a stranger's review.</em></p>
-<p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>, and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
-    </item><item>
-      <title>Cancer, a Few Months After Joining</title>
-      <link>https://www.normaltownusa.com/p/cancer-a-few-months-after-joining/</link>
-      <guid isPermaLink="true">https://www.normaltownusa.com/p/cancer-a-few-months-after-joining/</guid>
-      <pubDate>Tue, 13 Oct 2026 09:00:00 -0400</pubDate>
-      <dc:creator>David Dewese</dc:creator>
-      <category>Health</category>
-      <description>A CrowdHealth member was diagnosed with stage 4 melanoma months after joining, facing $100,000 treatments. What was funded, and the honest limits.</description>
-      <content:encoded><![CDATA[<p><strong>In short:</strong> A dad joined CrowdHealth and was diagnosed with stage 4 melanoma two or three months later. He was told each treatment cost over $100,000, every three weeks. He says a surgery of about $17,000 was funded right after it was done, and a later biopsy was funded before it happened. Scans afterward showed no sign of cancer.</p><p>This is the question I get most. "Fine, it works for a broken arm. What about cancer?" So here's a cancer story, with the parts that should give you comfort and the parts that shouldn't.</p>
-<h2 id="what-happened">What happened?</h2>
-<p>A married dad with a family of four left a job that had given his family cheap insurance. When he priced a plan on his own, it was about $2,200 a month with $120 copays. His doctor's cash price for a visit was $95. He joined CrowdHealth instead.</p>
-<p>Two or three months later, a growth on his head that had been removed and tested as fine came back. This time it grew fast and hurt. He got three different answers from three rounds of testing. The last one, after a second opinion, was melanoma, a serious skin cancer. He says stage 4.</p>
-<p>Treatment was planned for every three weeks, for up to two years.</p>
-<p>Then came surgery to take out what was left of the tumor and two lymph nodes. The nodes were clear. A scan a couple of months later showed no evidence of cancer.</p>
-<h2 id="what-did-the-bill-look-like">What did the bill look like?</h2>
-<p>The first number he heard from his cancer doctor was $20,000 per treatment. Then a nurse corrected it: more than $100,000 per treatment. Every three weeks.</p>
-<p>The surgery was about $17,000 by his memory.</p>
-<p>He didn't give totals for what was negotiated or funded, so I can't tell you those. CrowdHealth's list of its largest funded bills does include a stage 4 melanoma case at $272,972. I can't confirm that's him.</p>
-<h2 id="what-did-crowdhealth-actually-do">What did CrowdHealth actually do?</h2>
-<p>For the surgery, they had him get a written estimate ahead of time and send it in. They funded from that. He says the surgery was funded right after it was done. A later lung biopsy was funded before it even happened.</p>
-<p>He also said nothing had to wait on an approval, and nobody rationed his scans.</p>
-<p>Early on, a rep told him he'd be handled the same way any other member would, as long as it met the rules.</p>
-<h2 id="what-s-the-honest-part">What's the honest part?</h2>
-<p>Several things, and they matter.</p>
-<p><strong>He was scared it wouldn't count.</strong> He'd only been a member for a couple of months. And there had been that earlier growth. The story doesn't explain how that sat with the rule about symptoms before joining, which I cover in <a href="https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/">CrowdHealth and pre-existing conditions</a>. It was funded. I can't tell you exactly why the rule didn't block it, and I won't pretend to know.</p>
-<p><strong>His cancer doctor was alarmed</strong> when he said he had no insurance. Expect that reaction. You'll have to explain yourself in a lot of offices.</p>
-<p><strong>Other cancer stories are less tidy.</strong> A husband wrote that the community funded "most" of the costs of his wife's cancer treatment. Most, not all. A woman with a new breast cancer diagnosis said she felt more in control of her treatment, and also that she was doing more legwork getting estimates. Her treatment hadn't started yet.</p>
-<p><strong>Long treatments are the weak spot.</strong> CrowdHealth's guide limits ongoing prescriptions to a 12-month supply and excludes some high-cost drugs. One independent writer who joined pointed out that a condition needing expensive care forever is the real risk in this model. I think he's right. For another cancer bill and what happened to it, see <a href="https://www.normaltownusa.com/p/the-48000-quote-that-became-9190/">the $48,000 surgery quote that became $9,190</a>.</p>
-<p>If you've read the rules and they fit your family, you can <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">join with my code NORMAL<span class="sr-only"> (opens in a new tab)</span></a> and get your first 3 months at $99 a month per member.</p>
-<h2 id="the-takeaway">The takeaway</h2>
-<p>A man got a terrifying diagnosis a few months after joining, and by his account the crowd came through on six-figure treatments. That's the best evidence I've found that this works for the big stuff. It's also one person's story, chosen by the company, with questions I can't answer. For cancer in particular, I'd read the member guide twice and ask hard questions before betting my family on it.</p>
-<h2 id="questions-i-get-about-this">Questions I get about this</h2>
-<h3 id="is-cancer-treatment-eligible-on-crowdhealth">Is cancer treatment eligible on CrowdHealth?</h3>
-<p>A new cancer found after you join is an eligible health event, and CrowdHealth's published list of large funded bills includes several cancers from $143,000 to $272,000. Funding isn't guaranteed, and there are limits on long-term prescriptions and experimental treatment. Read the guide before relying on it.</p>
-<h3 id="what-if-i-m-diagnosed-right-after-joining">What if I'm diagnosed right after joining?</h3>
-<p>New conditions are eligible from day one. But if you had symptoms in the five years before joining, the pre-existing rule can apply even without a diagnosis. That's the gray area. See <a href="https://www.normaltownusa.com/p/pre-existing-conditions-and-health-sharing/">pre-existing conditions and health sharing</a>.</p>
-<h3 id="do-i-pay-500-for-every-treatment">Do I pay $500 for every treatment?</h3>
-<p>No. Everything tied to one condition is one health event, so you pay $500 once for that cancer, not per visit and not per year. That's very different from a deductible that starts over every January. I compare them in <a href="https://www.normaltownusa.com/p/the-500-you-pay-vs-the-deductible-you-dont/">the $500 you pay vs the deductible you don't</a>.</p>
-<hr class="rule">
-<p>Want to see the largest bills the crowd has funded? Use my code <strong>NORMAL</strong>: <a href="https://www.joincrowdhealth.com/crowdfunding-results?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">see CrowdHealth's funding results<span class="sr-only"> (opens in a new tab)</span></a>. New members get their first 3 months at $99 a month per member.</p>
-<p><em>About these stories: the main one is a member video CrowdHealth published, so remember they chose it, and the dollar figures are what he said from memory. The two shorter ones are public member reviews on Trustpilot. The point about long-term care comes from an independent member's blog. I retold everything in my own words and left out names on purpose.</em></p>
 <p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>, and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
     </item>
 </channel></rss>
