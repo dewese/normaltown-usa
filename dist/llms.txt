@@ -118,6 +118,7 @@ Hub: https://www.normaltownusa.com/health/
 
 Hub: https://www.normaltownusa.com/bitcoin/
 
+- [Bitcoin vs. Crypto: Why Bitcoin Is the One That Matters](https://www.normaltownusa.com/p/bitcoin-vs-crypto/): Crypto is thousands of coins. Bitcoin is the one with a fixed 21 million supply and no company in charge. Why I keep it simple and buy on a bitcoin-only app.
 - [Buying the Dip Without Watching the Chart](https://www.normaltownusa.com/p/buying-the-dip-without-watching-the-chart/): River's supercharged recurring buys spend extra when bitcoin dips below its recent average. Target Price Orders wait for a price. How each works.
 - [Don't Trust, Check: How to See That River Really Holds the Bitcoin](https://www.normaltownusa.com/p/proof-of-reserves-explained/): A proof of reserves shows a company holds as much bitcoin as it owes customers. How River's monthly proof works, how to check your balance, and its limits.
 - [Earning Bitcoin on Your Cash: River's 3.50% Interest, Explained](https://www.normaltownusa.com/p/bitcoin-interest-on-cash/): River pays a variable 3.50% APY on cash as of October 2026, paid in bitcoin. How it works, where the cash sits, what FDIC covers, and what it doesn't.
