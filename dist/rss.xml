@@ -5,8 +5,47 @@
     <atom:link href="https://www.normaltownusa.com/rss.xml" rel="self" type="application/rss+xml"/>
     <description>Plain-English help with money, medical bills, health insurance, health sharing, and saving in bitcoin. Written by a regular guy with a family of four, for regular people. No jargon, no hype.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 09:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:00:00 -0400</lastBuildDate>
     <item>
+      <title>Your Seed Phrase Is the Master Key. Treat It That Way</title>
+      <link>https://www.normaltownusa.com/p/what-is-a-seed-phrase/</link>
+      <guid isPermaLink="true">https://www.normaltownusa.com/p/what-is-a-seed-phrase/</guid>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 -0400</pubDate>
+      <dc:creator>David Dewese</dc:creator>
+      <category>Bitcoin</category>
+      <description>A seed phrase is 12 to 24 words that can rebuild your bitcoin wallet. Why it matters, how to store it offline, and why no real company will ever ask for it.</description>
+      <content:encoded><![CDATA[<p><strong>In short:</strong> A seed phrase is a list of 12 to 24 ordinary words that can rebuild your bitcoin wallet from scratch. If your device breaks or gets lost, those words bring your bitcoin back. If anyone else gets them, they can take everything. Write it down on paper, keep it somewhere safe and offline, and never type it into a website or tell it to anyone who asks.</p><p>If you ever move bitcoin to a wallet you control yourself, the setup will show you a list of words and tell you to write them down. That list is the single most important thing in the whole process. Here's what it is and how to treat it.</p>
+<h2 id="the-short-answer">The short answer</h2>
+<p>A seed phrase, also called a recovery phrase, is a list of 12 to 24 common words in a specific order. Something like "river, table, orange, candle" and so on, though yours will be random.</p>
+<p>Those words hold all the information needed to rebuild your wallet. Remember from <a href="https://www.normaltownusa.com/p/what-is-a-bitcoin-wallet/">what a bitcoin wallet actually is</a> that a wallet doesn't hold coins. It holds keys, the secret codes that prove which bitcoin on the public record belongs to you. The seed phrase is the source those keys are made from. Have the words, and you have the keys.</p>
+<h2 id="the-key-code-for-your-truck">The key code for your truck</h2>
+<p>Most cars and trucks have a key code. It's a short number from the factory. If you lose every key you own, a dealer can use that code to cut you a brand new one that starts the truck.</p>
+<p>Now imagine a stranger found that code. They could cut their own key, walk out to your driveway, and drive off. Nothing about the truck would look different until it was gone.</p>
+<p>A seed phrase is the key code for your bitcoin. Lose your hardware wallet in a flood, and the words let you rebuild it on a new device, even one from a different brand. Let a stranger see the words, and they can rebuild your wallet on their device and empty it.</p>
+<h2 id="why-it-matters-so-much">Why it matters so much</h2>
+<p>With a wallet you control yourself, there's no customer service. No "forgot password" button. No bank to call. That's the trade for being in full control, which I explained in <a href="https://www.normaltownusa.com/p/not-your-keys-what-it-means/">not your keys, what it means</a>.</p>
+<p>The seed phrase is your only backup. River Learn's lesson cites an estimate that around 20% of all bitcoin is considered lost, often because people lost access to their wallets. That's a lot of bitcoin nobody can ever move again.</p>
+<h2 id="how-to-treat-it">How to treat it</h2>
+<p>These are the basics River Learn and most wallet makers agree on:</p>
+<ul><li><strong>Write it on paper.</strong> Use the card that came with your device, or a notebook.</li><li><strong>Never store it online.</strong> No photos, no notes app, no email to yourself, no cloud drive. Anything online can be found by someone else.</li><li><strong>Keep it somewhere safe.</strong> Somewhere protected from fire, water, and curious visitors.</li><li><strong>Never give it to anyone.</strong> No real company will ever ask for your seed phrase. Not River, not a wallet maker, not "support." Anyone who asks is trying to rob you.</li></ul>
+<p>That last one is where most theft happens. People don't get hacked so much as tricked. I'll cover that in bitcoin scams and the lock I use.</p>
+<h2 id="do-you-even-need-one-yet">Do you even need one yet?</h2>
+<p>If your bitcoin sits on River, River holds the keys for you. As of October 2026, River says all client bitcoin is kept in multisig cold storage, which means offline wallets that need more than one key to move anything. You don't get a seed phrase for that, and you don't need one.</p>
+<p>You only get a seed phrase when you set up a wallet of your own. I use a hardware wallet, a small device built to hold keys offline, and River automatically sends my weekly buys there once they reach an amount I picked. More on that in auto-withdrawals. For a beginner with a small amount, there's no rush. Learn this part first.</p>
+<h2 id="the-honest-part">The honest part</h2>
+<p>Holding your own keys moves the risk from a company to you. If you lose the device and the words, the bitcoin is gone for good. If someone else gets the words, same result. Be honest with yourself about whether you're ready for that job.</p>
+<p>And none of this protects you from the price. Bitcoin swings hard and has stayed down for years at a time. Only use money you can leave alone.</p>
+<h2 id="questions-i-get-about-this">Questions I get about this</h2>
+<h3 id="what-is-a-seed-phrase-in-bitcoin">What is a seed phrase in bitcoin?</h3>
+<p>A list of 12 to 24 words, in order, that can rebuild a bitcoin wallet. It's the master backup for a wallet you control yourself.</p>
+<h3 id="can-i-store-my-seed-phrase-on-my-phone">Can I store my seed phrase on my phone?</h3>
+<p>Most guidance, including River Learn's, says no. Keep it offline, on paper or another physical backup. Anything stored online or on a connected device can be found by someone else.</p>
+<h3 id="what-happens-if-i-lose-my-seed-phrase">What happens if I lose my seed phrase?</h3>
+<p>If you still have your working wallet, you can usually move your bitcoin to a new wallet with a new phrase and write that one down. If you lose both the device and the words, the bitcoin can't be recovered.</p>
+<hr class="rule">
+<p>Want a place to start before you hold your own keys? <a href="https://river.com/signup?r=EYL3QNCO" target="_blank" rel="noopener nofollow sponsored">Open a River account with my link<span class="sr-only"> (opens in a new tab)</span></a>. It's an affiliate link: when you buy your first $100, we each get $5 in bitcoin, then $15 more each at $1,000 and $80 more each at $10,000, up to $100 apiece. River isn't available in every state.</p>
+<p><em>Bitcoin's price swings hard and can stay down for years, so only use money you can leave alone. I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>. Nothing here is financial, tax, or legal advice. I'm a regular guy who did the homework, sharing what I learned. You make your own calls.</em></p>]]></content:encoded>
+    </item><item>
       <title>Where the Crowd&#x27;s Money Actually Goes</title>
       <link>https://www.normaltownusa.com/p/where-the-crowds-money-goes/</link>
       <guid isPermaLink="true">https://www.normaltownusa.com/p/where-the-crowds-money-goes/</guid>
@@ -553,7 +592,7 @@
 <p>Bitcoin works the same way. It looks like a wall of strange words from the outside. Take it one chord at a time, though, and it stops being scary. By the end of November you'll know more than most people who own it.</p>
 <h2 id="what-s-coming-this-month">What's coming this month</h2>
 <p>Here's a taste of the bitcoin side of the calendar:</p>
-<ul><li><a href="https://www.normaltownusa.com/p/sats-you-dont-need-a-whole-bitcoin/">You don't need a whole bitcoin</a>, the tiny units called sats.</li><li><a href="https://www.normaltownusa.com/p/zero-fee-recurring-bitcoin-buys/">Zero-fee recurring buys</a>, or how I buy on autopilot.</li><li><a href="https://www.normaltownusa.com/p/what-happened-in-1971/">What happened in 1971</a>, and why your grocery bill remembers.</li><li><a href="https://www.normaltownusa.com/p/proof-of-reserves-explained/">How to check that River really holds the bitcoin</a>.</li><li>Your seed phrase, the master key to your own wallet.</li></ul>
+<ul><li><a href="https://www.normaltownusa.com/p/sats-you-dont-need-a-whole-bitcoin/">You don't need a whole bitcoin</a>, the tiny units called sats.</li><li><a href="https://www.normaltownusa.com/p/zero-fee-recurring-bitcoin-buys/">Zero-fee recurring buys</a>, or how I buy on autopilot.</li><li><a href="https://www.normaltownusa.com/p/what-happened-in-1971/">What happened in 1971</a>, and why your grocery bill remembers.</li><li><a href="https://www.normaltownusa.com/p/proof-of-reserves-explained/">How to check that River really holds the bitcoin</a>.</li><li><a href="https://www.normaltownusa.com/p/what-is-a-seed-phrase/">Your seed phrase</a>, the master key to your own wallet.</li></ul>
 <p>Links light up as each post goes live.</p>
 <h2 id="the-honest-part">The honest part</h2>
 <p>River Learn is free and well made. It's also run by a company that sells bitcoin, so it's upbeat about bitcoin. Some of the lessons read like a pitch. I'll keep pointing you to them because the explanations are good, but I'll keep telling you the other half too.</p>
@@ -1222,48 +1261,6 @@
 <hr class="rule">
 <p>Want to see what's included day to day? Use my code <strong>NORMAL</strong>: <a href="https://www.joincrowdhealth.com/member-tools-and-services?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">see CrowdHealth's member tools<span class="sr-only"> (opens in a new tab)</span></a>. New members get their first 3 months at $99 a month per member.</p>
 <p><em>About these stories: the Sunday story is a member review that appears on Trustpilot and on CrowdHealth's own reviews page. The others come from a public Trustpilot review, two members' own blogs, and a short video CrowdHealth posted. I retold everything in my own words and left out names on purpose.</em></p>
-<p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>, and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
-    </item><item>
-      <title>Blood Work: $262 Last Year, $36 This Year</title>
-      <link>https://www.normaltownusa.com/p/blood-work-262-last-year-36-this-year/</link>
-      <guid isPermaLink="true">https://www.normaltownusa.com/p/blood-work-262-last-year-36-this-year/</guid>
-      <pubDate>Sat, 17 Oct 2026 09:00:00 -0400</pubDate>
-      <dc:creator>David Dewese</dc:creator>
-      <category>Health</category>
-      <description>A CrowdHealth member paid $262.13 for labs through insurance, then $36 the next year with a cash-price voucher. Why lab prices differ so much.</description>
-      <content:encoded><![CDATA[<p><strong>In short:</strong> A CrowdHealth member paid $262.13 for lab work under their old insurance. The next year, using CrowdHealth's lab pricing, the same kind of blood work cost $36. Another member went from $300 or more to $60. Lab work is the easiest place to see how far cash prices sit below insured prices, with a couple of catches.</p><p>This one isn't dramatic. Nobody got flown anywhere. But I think it's the story most people will actually live, because everybody gets blood drawn sooner or later.</p>
-<h2 id="what-happened">What happened?</h2>
-<p>A member wrote this spring about a simple before and after. Under their old big-name insurance plan, their labs cost $262.13. That was their share, with insurance.</p>
-<p>This year on CrowdHealth, they paid $36.</p>
-<p>They also said their doctor's exam was repaid within five days.</p>
-<p>A second member told nearly the same story. They used to pay more than $300 out of pocket for labs. Using CrowdHealth's lab help, it was $60. That member gave four stars, not five, because the process was confusing at first and the app kept logging them out.</p>
-<p>A third used two lab vouchers at a big national lab chain and said everything went smoothly.</p>
-<h2 id="why-is-the-gap-so-big">Why is the gap so big?</h2>
-<p>Blood tests are cheap to run. The machine doesn't know who's paying. What changes is the price list.</p>
-<p>When a lab bills through insurance, it often starts from a high sticker price. Your share gets figured from that, and if you haven't met your deductible, you pay most of it.</p>
-<p>When you pay cash through a discount program, you get a price closer to what the test costs to run. I wrote a whole post on <a href="https://www.normaltownusa.com/p/why-the-same-blood-test-costs-different/">why the same blood test costs different amounts</a>.</p>
-<p>It's like a hotel minibar. The candy bar is $9 in the room and $1.50 at the gas station across the street. Same candy bar. One price counts on you not walking across the street.</p>
-<h2 id="what-did-crowdhealth-actually-do">What did CrowdHealth actually do?</h2>
-<p>They gave these members a way to buy labs at the low price. Another small win like this is <a href="https://www.normaltownusa.com/p/the-mri-that-took-two-weeks/">the MRI that took two weeks</a>. You get an order from a doctor, CrowdHealth issues a voucher, and you take it to the lab.</p>
-<p>That's it. No crowd funding involved. A $36 lab bill is way under the $500 mark, so this is just you paying a fair price. The bigger-ticket version of that idea is <a href="https://www.normaltownusa.com/p/the-cash-price-secret/">the cash price secret</a>.</p>
-<p>If lower prices on everyday care appeal to you, you can <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">join with my code NORMAL<span class="sr-only"> (opens in a new tab)</span></a> and get your first 3 months at $99 a month per member.</p>
-<h2 id="what-s-the-honest-part">What's the honest part?</h2>
-<p>Two catches, both from real reviews.</p>
-<p><strong>You need a doctor's order first.</strong> One member wanted routine blood work. They were told to do a telehealth visit to get the order. That doctor wouldn't write it. CrowdHealth couldn't issue the voucher without it. So the member needed a second appointment, and called the whole thing a runaround. CrowdHealth replied that this wasn't how it was supposed to go and said they'd look into it.</p>
-<p><strong>It doesn't work everywhere.</strong> A member in New York wrote that the lab vouchers don't apply in that state. If you live there, ask before you count on it.</p>
-<p>And one more thing I want to be straight about. Paying $36 instead of $262 is great. It isn't the crowd paying for your labs. Routine blood work is on you, at a good price. If you want all your routine care paid for by someone else, this isn't that.</p>
-<h2 id="the-takeaway">The takeaway</h2>
-<p>I get more excited about this story than the helicopter ones, honestly. A $226 difference on a basic blood draw, with nobody negotiating anything, tells you how padded the normal prices are. You don't even have to join anything to use the lesson. Ask what the cash price is. Every time.</p>
-<h2 id="questions-i-get-about-this">Questions I get about this</h2>
-<h3 id="how-much-does-blood-work-cost-without-insurance">How much does blood work cost without insurance?</h3>
-<p>Often far less than you'd think. One member paid $36 for labs that cost $262.13 through insurance the year before. Another paid $60 instead of $300 or more. Prices depend on the tests and the lab, so ask for the cash price up front.</p>
-<h3 id="does-crowdhealth-pay-for-routine-lab-work">Does CrowdHealth pay for routine lab work?</h3>
-<p>Not usually. Routine labs fall under your own costs, though you can use the yearly wellness allowance of up to $300 toward a checkup that includes them. What CrowdHealth gives you is access to low cash prices through lab vouchers.</p>
-<h3 id="do-lab-vouchers-work-in-every-state">Do lab vouchers work in every state?</h3>
-<p>No. A member in New York reported that the vouchers aren't available there. You also need an order from a doctor before a voucher can be issued. Ask your advocate how it works where you live before you rely on it.</p>
-<hr class="rule">
-<p>Want to see the tools members use for labs and prescriptions? Use my code <strong>NORMAL</strong>: <a href="https://www.joincrowdhealth.com/member-tools-and-services?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">see CrowdHealth's member tools<span class="sr-only"> (opens in a new tab)</span></a>. New members get their first 3 months at $99 a month per member.</p>
-<p><em>About these stories: all of them come from public member reviews on Trustpilot, including a three-star and a two-star review, plus the company's public reply to one. I retold them in my own words, kept the details general, and left out names on purpose. I can't independently verify a stranger's review.</em></p>
 <p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>, and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
     </item>
 </channel></rss>
