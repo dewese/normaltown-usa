@@ -1474,7 +1474,7 @@ def render_home(posts):
     hero = f"""<section class="home-hero"><div class="wrap">
       <div class="home-copy">
       <p class="hello">Hi, I&rsquo;m David.</p>
-      <h1>I do the homework on <span class="accent">money and medical bills</span>, so your family doesn&rsquo;t have to.</h1>
+      <h1>Keep more of your paycheck, and <span class="accent">pay less for health care</span>.</h1>
       <p>I&rsquo;m a normal guy with a full-time job, a wife, and two little girls. Before we started a family, I spent twenty-five years making music and chasing creative work, and I learned how to thrive on an artist&rsquo;s income. Here I share the tips and tricks that still work. I&rsquo;m not a financial advisor.</p>
       <p class="home-actions"><a class="btn-soft" href="/start-here/">Start here</a> <a class="quiet" href="/about/">More about me</a></p>
       </div>
