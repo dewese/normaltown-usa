@@ -12,7 +12,7 @@ You don't need a finance degree, and you don't need more guilt. You just want so
 
 ## Who I am
 
-I'm David. I spent 25 years in web design and marketing, and 25 years making music and touring. My wife and I have two little girls, and somewhere along the way I got tired of being confused by my own money and my own medical bills. So I did the homework, and I write down what I find. More on the [About page](/about/).
+I'm David. I spent 25 years in web design and marketing, and 25 years making music and touring. That's a lot of years living on an artist's income, and I learned how to make it go further than it should. Then my wife and I had two little girls, and I got tired of being confused by my own money and my own medical bills. So I did the homework, and I write down what I find. More on the [About page](/about/).
 
 I'm not a financial advisor. I'm a guy who takes good notes. You make your own calls.
 
