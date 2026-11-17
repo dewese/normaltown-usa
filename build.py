@@ -879,7 +879,7 @@ img{max-width:100%; height:auto; display:block}
 /* Headline serif. A geometric sans in every slot reads like a product; a warm serif on
    the headlines reads like a person wrote it, which is the whole positioning. */
 .hero h1,.page h1,.article-head h1,.body h2,.body h3,.post-card h2,.post-card h3,
-.tile h2,.tile h3,.post-cta h2,.contact-form h2{
+.tile h2,.tile h3,.topic h3,.post-cta h2,.contact-form h2{
   font-family:var(--serif); font-weight:600; font-variation-settings:"SOFT" 8,"WONK" 1}
 .hero h1,.page h1,.article-head h1{font-weight:700}
 nav.main{display:flex; gap:1.3rem; font-size:.95rem; font-weight:600; flex-wrap:wrap}
@@ -944,6 +944,16 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .tile .start a{color:var(--ink); font-weight:700}
 .tile .start a:hover{color:var(--accent); text-decoration:none}
 @media (max-width:720px){.tiles{grid-template-columns:1fr}}
+.topics-title{font-size:1.15rem; font-weight:600; color:var(--ink); margin:0 0 1rem; letter-spacing:-.01em}
+.topics{display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1rem; margin:0 0 1rem}
+.topic{padding:1.1rem 1.3rem 1.2rem; border-radius:14px; background:var(--panel); border-top:3px solid var(--accent)}
+.topic h3{margin:0 0 .45rem; font-size:1.12rem; font-weight:800; letter-spacing:-.01em; line-height:1.3}
+.topic h3 a{color:var(--ink)}
+.topic h3 a:hover{color:var(--accent); text-decoration:none}
+.topic p{margin:0; color:var(--muted); font-size:.92rem; line-height:1.5}
+.topic p a{color:var(--ink); font-weight:600; text-decoration:underline; text-underline-offset:.18em; text-decoration-color:var(--accent)}
+.topic p a:hover{color:var(--accent)}
+@media (max-width:720px){.topics{grid-template-columns:1fr}}
 
 /* post list */
 .list{padding:2rem 0 4rem}
@@ -1426,23 +1436,18 @@ def render_home(posts):
       </div>
       {photo}
     </div></section>"""
-    # One topic tile per category, each with a "Start with" link to that topic's
-    # cornerstone post (the START_HERE_SLUGS, one per category).
+    # One slim card per category: the hub link (keyword anchor text) and that topic's
+    # cornerstone post (START_HERE_SLUGS). The longer blurbs live on the hub pages.
     start_with = {lookup[s]["category"]: lookup[s] for s in START_HERE_SLUGS if s in lookup}
-    counts = {k: sum(1 for p in posts if p["category"] == k) for k in CATEGORIES}
     tile_html = []
     for k, c in CATEGORIES.items():
-        desc = c.get("blurb") or c["description"]
         first = start_with.get(k)
-        start = (f'<p class="start"><span>Start with</span> <a href="/p/{first["slug"]}/">{html.escape(first["title"])}</a></p>'
+        start = (f'<p>Start with <a href="/p/{first["slug"]}/">{html.escape(first["title"])}</a></p>'
                  if first else "")
-        if k == "health":
-            start += '<p class="start"><span>Or</span> <a href="/crowdhealth/">every CrowdHealth post, by question</a></p>'
-        tile_html.append(f'<div class="tile"><span class="count">{c["name"]} &middot; {counts[k]} posts</span>'
-                         f'<h3><a href="/{k}/">{html.escape(c["title"])}</a></h3><p>{html.escape(desc)}</p>{start}</div>')
+        tile_html.append(f'<div class="topic"><h3><a href="/{k}/">{html.escape(c["title"])}</a></h3>{start}</div>')
     feat_html = ""
-    tiles = ('<section class="featured"><div class="wrap"><h2 class="section-title">New here? Pick a topic</h2>'
-             '<div class="tiles">' + "".join(tile_html) + '</div></div></section>')
+    tiles = ('<section class="featured"><div class="wrap"><h2 class="topics-title">New here? Pick whatever&rsquo;s on your mind.</h2>'
+             '<div class="topics">' + "".join(tile_html) + '</div></div></section>')
     cards = "\n".join(post_card(p, heading="h3") for p in posts[:10])
     more = f'<p class="more"><a href="/blog/">See all {len(posts)} posts</a></p>' if len(posts) > 10 else ""
     body = hero + feat_html + tiles + f'<section class="list"><div class="wrap"><h2 class="section-title">Latest posts</h2>{cards}{more}</div></section>'
