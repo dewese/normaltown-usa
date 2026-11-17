@@ -955,6 +955,48 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .topic p a:hover{color:var(--accent)}
 @media (max-width:720px){.topics{grid-template-columns:1fr}}
 
+/* homepage: warm, personal first visit */
+.home-hero{padding:3.5rem 0 3rem}
+.home-hero .wrap{display:grid; grid-template-columns:minmax(0,1fr) 22rem; gap:3.5rem; align-items:center}
+.home-hero .hello{font-family:var(--serif); font-style:italic; font-size:1.35rem; color:var(--warm); margin:0 0 .5rem}
+.home-hero h1{font-family:var(--serif); font-weight:600; font-variation-settings:"SOFT" 50,"WONK" 1;
+  font-size:clamp(1.9rem,4.6vw,2.9rem); line-height:1.12; letter-spacing:-.02em; margin:0 0 1.1rem; max-width:20ch; text-wrap:balance}
+.home-hero h1 .accent{color:var(--accent)}
+.home-hero p{font-size:1.15rem; color:var(--muted); margin:0 0 1.6rem; max-width:44ch}
+.home-actions{display:flex; gap:1.4rem; align-items:center; flex-wrap:wrap}
+.btn-soft{display:inline-block; font-weight:700; color:var(--accent); border:1.5px solid var(--accent);
+  border-radius:999px; padding:.7rem 1.5rem; line-height:1.2}
+.btn-soft:hover{background:var(--accent); color:var(--accent-ink); text-decoration:none}
+.home-actions .quiet{color:var(--ink); font-weight:600; text-decoration:underline; text-underline-offset:.2em;
+  text-decoration-color:var(--faint)}
+.home-photo{margin:0; justify-self:end; width:22rem}
+.home-photo img{border-radius:22px; transform:rotate(1.5deg); box-shadow:0 18px 40px -18px rgba(60,40,20,.45)}
+.home-photo figcaption{font-family:var(--serif); font-style:italic; color:var(--muted); font-size:1rem;
+  margin:1.1rem 0 0; text-align:center}
+.home .featured{padding:1rem 0 1.5rem}
+.home .topic{border-top:0; border-radius:18px}
+.home-latest{padding:1.5rem 0 4rem}
+.home-card{display:grid; grid-template-columns:7rem minmax(0,1fr); gap:1.4rem; align-items:center;
+  padding:1.1rem; margin:0 -1.1rem; border-radius:18px; color:var(--ink)}
+.home-card:hover{background:var(--panel); text-decoration:none}
+.home-card .thumb{width:7rem; height:7rem; border-radius:14px; background:var(--panel); border:1px solid var(--faint)}
+.home-card h3{font-family:var(--serif); font-weight:600; font-size:1.3rem; line-height:1.25; margin:0 0 .3rem}
+.home-card p{margin:0 0 .35rem; color:var(--muted); font-size:.98rem; line-height:1.55; max-width:60ch}
+.home-card .when{font-size:.85rem; color:var(--muted)}
+.home-more{margin:1.5rem 0 0}
+.home-more a{font-weight:700; text-decoration:underline; text-underline-offset:.2em}
+@media (max-width:820px){
+  .home-hero{padding:2rem 0 2rem}
+  .home-hero .wrap{grid-template-columns:1fr; gap:2rem}
+  .home-photo{width:100%; max-width:26rem; justify-self:start; order:-1}
+  .home-photo img{aspect-ratio:4/3; object-fit:cover; object-position:50% 45%; transform:none}
+  .home-photo figcaption{text-align:left; margin-top:.7rem; font-size:.92rem}
+  .home-card{grid-template-columns:4.5rem minmax(0,1fr); gap:1rem; align-items:start}
+  .home-card .thumb{width:4.5rem; height:4.5rem}
+  .home-card h3{font-size:1.12rem}
+  .home-card p{display:none}
+}
+
 /* post list */
 .list{padding:2rem 0 4rem}
 .post-card{display:block; padding:1.6rem 0; border-bottom:1px solid var(--faint);
@@ -1421,18 +1463,20 @@ START_HERE_SLUGS = ["nobody-gets-paid-to-make-you-well", "why-you-feel-broke-on-
 def render_home(posts):
     lookup = by_slug(posts)
     photo = ""
-    if HOME_HERO.exists():
-        hv, hv_sm = photo_v("home-hero.jpg"), photo_v("home-hero-400.jpg")
-        srcset = f"/about/david-dewese-hero.jpg{hv} 659w"
-        if HOME_HERO_SM.exists():
-            srcset = f"/about/david-dewese-hero-400.jpg{hv_sm} 400w, " + srcset
-        photo = f"""<figure class="hero-photo"><img src="/about/david-dewese-hero-400.jpg{hv_sm}" srcset="{srcset}"
-        sizes="(max-width:820px) 11rem, 16rem" alt="{html.escape(HOME_HEADSHOT_ALT, quote=True)}" width="659" height="850" fetchpriority="high">
-        <figcaption>{html.escape(HOME_HEADSHOT_CAPTION)}</figcaption></figure>"""
-    hero = f"""<section class="hero{' has-photo' if photo else ''}"><div class="wrap">
-      <div class="hero-copy">
-      <h1>Money &amp; health insurance, <span class="accent">explained in plain English</span>.</h1>
-      <p>Why you feel broke on a good income, how to beat the rising cost of health insurance, and how to save in something that holds its value. Written by a normal family guy with a regular job, for normal people with regular jobs. One idea per post, short enough to read with your coffee.</p>
+    if ABOUT_PHOTO.exists():
+        fv, fv_sm = photo_v("about-family.jpg"), photo_v("about-family-700.jpg")
+        srcset = f"/about/family.jpg{fv} 1400w"
+        if ABOUT_PHOTO_SM.exists():
+            srcset = f"/about/family-700.jpg{fv_sm} 700w, " + srcset
+        photo = f"""<figure class="home-photo"><img src="/about/family-700.jpg{fv_sm}" srcset="{srcset}"
+        sizes="(max-width:820px) 90vw, 22rem" alt="{html.escape(ABOUT_PHOTO_ALT, quote=True)}" width="1400" height="1750" fetchpriority="high">
+        <figcaption>{html.escape(ABOUT_PHOTO_CAPTION)}</figcaption></figure>"""
+    hero = f"""<section class="home-hero"><div class="wrap">
+      <div class="home-copy">
+      <p class="hello">Hi, I&rsquo;m David.</p>
+      <h1>I do the homework on <span class="accent">money and medical bills</span>, so your family doesn&rsquo;t have to.</h1>
+      <p>I&rsquo;m a dad of two with a regular job, not a financial advisor. Each post is one plain-English idea you can read with your coffee and use the same day.</p>
+      <p class="home-actions"><a class="btn-soft" href="/start-here/">Start here</a> <a class="quiet" href="/about/">More about me</a></p>
       </div>
       {photo}
     </div></section>"""
@@ -1448,9 +1492,17 @@ def render_home(posts):
     feat_html = ""
     tiles = ('<section class="featured"><div class="wrap"><h2 class="topics-title">New here? Pick whatever&rsquo;s on your mind.</h2>'
              '<div class="topics">' + "".join(tile_html) + '</div></div></section>')
-    cards = "\n".join(post_card(p, heading="h3") for p in posts[:10])
-    more = f'<p class="more"><a href="/blog/">See all {len(posts)} posts</a></p>' if len(posts) > 10 else ""
-    body = hero + feat_html + tiles + f'<section class="list"><div class="wrap"><h2 class="section-title">Latest posts</h2>{cards}{more}</div></section>'
+    def home_card(p):
+        thumb = ""
+        if p["svg_name"] or p["png_name"]:
+            thumb = (f'<img class="thumb" src="/p/{p["slug"]}/{p["svg_name"] or p["png_name"]}" alt="" '
+                     f'width="1200" height="1200" loading="lazy">')
+        return (f'<a class="home-card" href="/p/{p["slug"]}/">{thumb}<div>'
+                f'<h3>{html.escape(p["title"])}</h3><p>{html.escape(p["meta"] or "")}</p>'
+                f'<span class="when">{CATEGORIES[p["category"]]["name"]} &middot; {fmt_date(p["date"])}</span></div></a>')
+    cards = "\n".join(home_card(p) for p in posts[:5])
+    more = f'<p class="home-more"><a href="/blog/">See all {len(posts)} posts</a></p>'
+    body = hero + feat_html + tiles + f'<section class="home-latest"><div class="wrap"><h2 class="topics-title">Fresh off the kitchen table</h2>{cards}{more}</div></section>'
     schema = [website_schema(), org_schema(), person_schema(),
               {"@type": "CollectionPage", "@id": f"{SITE_URL}/#home", "url": SITE_URL + "/",
                "name": HOME_TITLE, "description": HOME_DESC,
@@ -1458,7 +1510,7 @@ def render_home(posts):
                "hasPart": [{"@type": "BlogPosting", "headline": p["title"], "url": p["url"],
                             "datePublished": p["date"].isoformat()} for p in posts[:20]]}]
     return layout(SITE_NAME, HOME_DESC, body, SITE_URL + "/", og_type="website",
-                  schema=schema, current="/", page_title=HOME_TITLE)
+                  schema=schema, current="/", page_title=HOME_TITLE, body_class="home")
 
 
 BLOG_TITLE = "All Posts: Plain-English Money, Medical Bills, Health Sharing, and Bitcoin"
