@@ -120,6 +120,7 @@ Hub: https://www.normaltownusa.com/health/
 
 Hub: https://www.normaltownusa.com/bitcoin/
 
+- [Auto-Withdrawals: How My Bitcoin Moves Itself to My Own Wallet](https://www.normaltownusa.com/p/bitcoin-auto-withdrawals/): How River's auto-withdrawals send your bitcoin to your own wallet once it hits an amount you pick, and the honest risks of holding your own keys.
 - [Your Seed Phrase Is the Master Key. Treat It That Way](https://www.normaltownusa.com/p/what-is-a-seed-phrase/): A seed phrase is 12 to 24 words that can rebuild your bitcoin wallet. Why it matters, how to store it offline, and why no real company will ever ask for it.
 - [Bitcoin vs. Crypto: Why Bitcoin Is the One That Matters](https://www.normaltownusa.com/p/bitcoin-vs-crypto/): Crypto is thousands of coins. Bitcoin is the one with a fixed 21 million supply and no company in charge. Why I keep it simple and buy on a bitcoin-only app.
 - [Buying the Dip Without Watching the Chart](https://www.normaltownusa.com/p/buying-the-dip-without-watching-the-chart/): River's supercharged recurring buys spend extra when bitcoin dips below its recent average. Target Price Orders wait for a price. How each works.
