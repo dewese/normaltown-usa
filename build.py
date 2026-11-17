@@ -962,7 +962,7 @@ nav.main a:hover,nav.main a[aria-current]{color:var(--ink); text-decoration:none
 .home-hero h1{font-family:var(--serif); font-weight:600; font-variation-settings:"SOFT" 50,"WONK" 1;
   font-size:clamp(1.9rem,4.6vw,2.9rem); line-height:1.12; letter-spacing:-.02em; margin:0 0 1.1rem; max-width:20ch; text-wrap:balance}
 .home-hero h1 .accent{color:var(--accent)}
-.home-hero p{font-size:1.15rem; color:var(--muted); margin:0 0 1.6rem; max-width:44ch}
+.home-hero p{font-size:1.1rem; color:var(--muted); margin:0 0 1.6rem; max-width:46ch}
 .home-actions{display:flex; gap:1.4rem; align-items:center; flex-wrap:wrap}
 .btn-soft{display:inline-block; font-weight:700; color:var(--accent); border:1.5px solid var(--accent);
   border-radius:999px; padding:.7rem 1.5rem; line-height:1.2}
@@ -1475,7 +1475,7 @@ def render_home(posts):
       <div class="home-copy">
       <p class="hello">Hi, I&rsquo;m David.</p>
       <h1>I do the homework on <span class="accent">money and medical bills</span>, so your family doesn&rsquo;t have to.</h1>
-      <p>I&rsquo;m a dad of two with a regular job, not a financial advisor. Each post is one plain-English idea you can read with your coffee and use the same day.</p>
+      <p>I&rsquo;m a normal guy with a full-time job, a wife, and two little girls. Before we started a family, I spent twenty-five years making music and chasing creative work, and I learned how to thrive on an artist&rsquo;s income. Here I share the tips and tricks that still work. I&rsquo;m not a financial advisor.</p>
       <p class="home-actions"><a class="btn-soft" href="/start-here/">Start here</a> <a class="quiet" href="/about/">More about me</a></p>
       </div>
       {photo}
