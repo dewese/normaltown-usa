@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+  <rect class="f-bg" width="1200" height="1200"/>
+  <rect class="s-ink" x="150" y="520" width="900" height="160" fill="none" stroke-width="4"/>
+  <rect class="f-ink" x="150" y="520" width="675" height="160" fill-opacity="0.12"/>
+  <rect class="f-ac" x="825" y="520" width="225" height="160"/>
+  <line class="s-ink" x1="150" y1="470" x2="1050" y2="470" stroke-width="3"/>
+  <line class="s-ink" x1="150" y1="455" x2="150" y2="485" stroke-width="3"/>
+  <line class="s-ink" x1="1050" y1="455" x2="1050" y2="485" stroke-width="3"/>
+  <text class="f-ink" x="600" y="430" text-anchor="middle" font-size="34" font-weight="800" letter-spacing="3">MAX $140</text>
+  <text class="f-ink" x="487" y="750" text-anchor="middle" font-size="32" font-weight="700" letter-spacing="3">ASKED $105</text>
+  <text class="f-ac" x="937" y="750" text-anchor="middle" font-size="32" font-weight="800" letter-spacing="3">SWEPT $35</text>
+  <path class="s-ac" d="M937 790 L937 880" stroke-width="4"/>
+  <path class="s-ac" d="M917 860 L937 885 L957 860" fill="none" stroke-width="4"/>
+  <circle class="s-ac" cx="937" cy="940" r="36" fill="none" stroke-width="4"/>
+  <text class="f-ink" x="937" y="1010" text-anchor="middle" font-size="26" font-weight="700" letter-spacing="3" fill-opacity="0.8">BITCOIN</text>
+</svg>
