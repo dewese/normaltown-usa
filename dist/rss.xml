@@ -5,8 +5,50 @@
     <atom:link href="https://www.normaltownusa.com/rss.xml" rel="self" type="application/rss+xml"/>
     <description>Keep more of your paycheck and pay less for health care. Plain-English help with money, medical bills, health insurance, health sharing, and bitcoin.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:00:00 -0400</lastBuildDate>
     <item>
+      <title>Your Paycheck, Straight Into Bitcoin (and Who Shouldn&#x27;t Do It)</title>
+      <link>https://www.normaltownusa.com/p/paycheck-into-bitcoin/</link>
+      <guid isPermaLink="true">https://www.normaltownusa.com/p/paycheck-into-bitcoin/</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 -0400</pubDate>
+      <dc:creator>David Dewese</dc:creator>
+      <category>Bitcoin</category>
+      <description>River lets your paycheck land by direct deposit and split into bitcoin and cash. How it works, what it costs, and who should skip it for now.</description>
+      <content:encoded><![CDATA[<p><strong>In short:</strong> River lets you send your paycheck there by direct deposit and pick how much turns into bitcoin automatically, with the rest staying in dollars. As of October 2026, that conversion is free up to $30,000 a month and the cash side earns 3.50% interest (a variable rate), paid in bitcoin. It's a neat tool for someone who already has a cushion and a steady budget. If you're living paycheck to paycheck, it's not for you yet.</p><p>Some people love the idea of getting paid in bitcoin. I get the appeal. But the honest answer starts with who should skip this, so that's where I'll start too.</p>
+<h2 id="who-shouldn-t-do-it">Who shouldn't do it</h2>
+<p>Skip this, for now, if any of these are true:</p>
+<ul><li><strong>You don't have an emergency fund.</strong> If the car breaks down and your bitcoin is down 30% that week, you'll be forced to sell at a bad time. Build <a href="https://www.normaltownusa.com/p/the-first-1000-emergency-fund/">the first $1,000</a> first.</li><li><strong>You carry credit card debt.</strong> Every dollar you pay down stops that interest for sure. Bitcoin promises nothing. I did the math in <a href="https://www.normaltownusa.com/p/real-cost-of-a-credit-card-balance/">the real cost of a credit card balance</a>.</li><li><strong>Your bills eat the whole check.</strong> Bitcoin is for money you can leave alone for years. If there's nothing left over, there's nothing to leave alone.</li></ul>
+<p>If that's you, there's no shame in it. Most of us have been there. Come back to this later.</p>
+<h2 id="the-faucet-splitter">The faucet splitter</h2>
+<p>Now, for everyone else, here's the idea.</p>
+<p>You know those splitters you screw onto an outdoor faucet? One spout, two hoses. You turn a little lever on each side to decide how much water goes to the garden and how much goes to the kiddie pool.</p>
+<p>Direct deposit to River is that splitter for your paycheck. The water is your pay. One hose fills your dollar balance for bills. The other hose fills your bitcoin savings. You set the levers once and it runs every payday.</p>
+<h2 id="how-river-s-version-works">How River's version works</h2>
+<p>Here's what River offers, as of October 2026.</p>
+<p><strong>Direct deposit.</strong> Your employer sends your pay to a River account number instead of a bank. River says you can get paid up to two days early. You choose how much converts to bitcoin automatically and how much stays as cash.</p>
+<p><strong>Free conversion.</strong> Turning your paycheck into bitcoin is free up to $30,000 per account per month.</p>
+<p><strong>Interest on the cash.</strong> The dollars you keep earn 3.50% APY, as of the rate set on 10/03/2026. APY just means the yearly rate with interest added on interest. It's variable, so it can change. The interest is paid in bitcoin unless you choose dollars. The cash is held at Lead Bank, and it's covered by FDIC insurance up to $250,000. That protects you if Lead Bank fails. It doesn't cover River itself failing, theft, or fraud. And bitcoin is never FDIC insured.</p>
+<p><strong>Bill pay.</strong> You can pay rent, bills, and credit cards from River, using cash or bitcoin. There's an account and routing number.</p>
+<p><strong>What's missing.</strong> As of October 2026, River's FAQ says there's no debit card, no credit card, and no checks. So for most folks, this sits next to a regular bank, not in place of one.</p>
+<h2 id="how-this-compares-to-my-setup">How this compares to my setup</h2>
+<p>What I've written about here is my weekly recurring buy on River. River auto-withdraws to my own hardware wallet once it hits an amount I picked. You can read about that in <a href="https://www.normaltownusa.com/p/zero-fee-recurring-bitcoin-buys/">Zero-Fee Recurring Buys</a> and <a href="https://www.normaltownusa.com/p/bitcoin-auto-withdrawals/">Auto-Withdrawals</a>.</p>
+<p>Direct deposit is the same idea, a little each payday, just one step earlier in the pipe. The lesson River Learn teaches on this is dollar-cost averaging: buying a fixed amount on a schedule instead of trying to guess the right day. I explained why I like that in <a href="https://www.normaltownusa.com/p/a-little-each-week-beats-betting-it-all/">A Little Each Week Beats Betting It All</a>.</p>
+<h2 id="the-honest-part">The honest part</h2>
+<p>Bitcoin's price swings hard. It can fall by half and stay down for years. If the bitcoin side of the splitter is set too high, you might need that money before it recovers.</p>
+<p>Paying a bill by selling bitcoin may be a taxable event. That means you might owe tax on any gain. Keep it simple: pay bills from the cash side.</p>
+<p>River is a company. Putting your paycheck there means trusting it with more of your money life. The interest rate can drop. The rules can change.</p>
+<p>Start small. Set the bitcoin side to an amount you'd never miss. You can always turn the lever up later.</p>
+<h2 id="questions-i-get-about-this">Questions I get about this</h2>
+<h3 id="do-i-have-to-put-my-whole-paycheck-in-river">Do I have to put my whole paycheck in River?</h3>
+<p>No. Most payroll systems let you split direct deposit between accounts. You could send a small slice to River and keep the rest at your bank.</p>
+<h3 id="is-the-cash-in-river-fdic-insured">Is the cash in River FDIC insured?</h3>
+<p>As of October 2026, River says cash is held at Lead Bank, Member FDIC, with pass-through insurance up to $250,000. That covers a Lead Bank failure. It doesn't cover River failing, and bitcoin isn't covered at all.</p>
+<h3 id="is-the-interest-taxable">Is the interest taxable?</h3>
+<p>Generally, yes, interest is income. Talk to a tax pro about your situation.</p>
+<hr class="rule">
+<p>Want to try a small paycheck split yourself? <a href="https://river.com/signup?r=EYL3QNCO" target="_blank" rel="noopener nofollow sponsored">Open a River account with my link<span class="sr-only"> (opens in a new tab)</span></a>. It's an affiliate link: when you buy your first $100, we each get $5 in bitcoin, then $15 more each at $1,000 and $80 more each at $10,000, up to $100 apiece. River isn't available in every state.</p>
+<p><em>Bitcoin's price swings hard and can stay down for years, so only use money you can leave alone. I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>. Nothing here is financial, tax, or legal advice. I'm a regular guy who did the homework, sharing what I learned. You make your own calls.</em></p>]]></content:encoded>
+    </item><item>
       <title>Most Bitcoin Is Stolen by Scams, Not Hackers. Here&#x27;s the Lock I Use</title>
       <link>https://www.normaltownusa.com/p/bitcoin-scams-and-forcefield/</link>
       <guid isPermaLink="true">https://www.normaltownusa.com/p/bitcoin-scams-and-forcefield/</guid>
@@ -1209,50 +1251,6 @@
 <hr class="rule">
 <p>Want to see what counts as one health event? Use my code <strong>NORMAL</strong>: <a href="https://www.joincrowdhealth.com/member-guides?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">read CrowdHealth's member guide<span class="sr-only"> (opens in a new tab)</span></a>. New members get their first 3 months at $99 a month per member.</p>
 <p><em>About these stories: the ACL stories come from public member reviews on Trustpilot. The ankle story comes from a member's own blog (he earns a referral bonus, like I do). The surgery price comparison is from a podcast interview with CrowdHealth's founder. I retold everything in my own words and left out names on purpose.</em></p>
-<p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>, and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
-    </item><item>
-      <title>A New Hip for $500 (and Why It Took Some Work)</title>
-      <link>https://www.normaltownusa.com/p/a-new-hip-for-500/</link>
-      <guid isPermaLink="true">https://www.normaltownusa.com/p/a-new-hip-for-500/</guid>
-      <pubDate>Wed, 21 Oct 2026 09:00:00 -0400</pubDate>
-      <dc:creator>David Dewese</dc:creator>
-      <category>Health</category>
-      <description>A CrowdHealth member&#x27;s hip replacement cost him $500. The outpatient facility charge was a third of the hospital&#x27;s. He says it took real effort.</description>
-      <content:encoded><![CDATA[<p><strong>In short:</strong> A self-employed CrowdHealth member needed a hip replacement. By having it done at an outpatient surgery center instead of a hospital, the facility charge was one third of the hospital price, and he paid $500. He also turned down the first surgeon suggested and says his own effort was key. It isn't a magic fix, and he says so.</p><p>Joint replacements are planned. You see them coming for months. That makes them the best case for this model, because there's time to shop.</p>
-<h2 id="what-happened">What happened?</h2>
-<p>CrowdHealth published the story of a self-employed man who'd started several businesses. He needed a new hip. It was his first big health event as a member.</p>
-<p>It didn't go in a straight line. Getting an X-ray order from his regular doctor turned into a hassle. Then CrowdHealth suggested a surgery center in another city, and that first surgeon didn't meet his standards. So he pushed back.</p>
-<p>They kept working at it together. They found a hip specialist from a well-regarded local group who operates at an outpatient surgery center near his home. That's a place built for same-day surgeries, separate from a hospital.</p>
-<h2 id="what-did-the-bill-look-like">What did the bill look like?</h2>
-<p>The story doesn't give the total. It gives the two numbers that matter:</p>
-<ul><li><strong>Facility charge at the surgery center:</strong> one third of the hospital price</li><li><strong>What he paid:</strong> $500</li></ul>
-<p>Same new hip. One third the building cost.</p>
-<p>A hospital is like a full-service hotel. You're paying for the lobby, the ballroom, and the 24-hour everything, whether you use them or not. An outpatient center is the clean roadside motel. You get the bed and the hot shower, and you don't pay for the ballroom.</p>
-<h2 id="is-there-a-second-story">Is there a second story?</h2>
-<p>Yes, and it isn't from CrowdHealth's own site. A member posted on an independent review site about a knee replacement. They paid $500, on top of a regular monthly cost of $176. CrowdHealth found a private surgery clinic about an hour from home. Physical therapy afterward was paid back in full. The second knee was already scheduled.</p>
-<p>CrowdHealth's public results also show a hip replacement request that went out to 132 members.</p>
-<h2 id="what-did-crowdhealth-actually-do">What did CrowdHealth actually do?</h2>
-<p>Found the fair price for the surgery, suggested surgeons, and kept looking when the first one wasn't a fit. Then the crowd funded everything over $500.</p>
-<h2 id="what-s-the-honest-part">What's the honest part?</h2>
-<p>This member was blunt about it, and CrowdHealth printed it anyway, which I give them credit for. The piece says outright that CrowdHealth "isn't a magic fix."</p>
-<p>He said his own effort made the difference. He asked questions. He turned down a surgeon. He kept pushing until the plan was right.</p>
-<p>He also said it might not suit people with frequent health problems, or people who'd rather be passive about their care.</p>
-<p>That's the trade in one sentence. You save a pile of money, and in exchange you act like the customer. If you want to hand over a card and never think about it again, a surgery like this will frustrate you.</p>
-<p>There's a second catch for joints specifically. Worn-out hips and knees usually hurt for years before surgery. If you had symptoms or treatment in the five years before joining, that joint is a pre-existing condition (the details are in <a href="https://www.normaltownusa.com/p/crowdhealth-pre-existing-conditions/">CrowdHealth and pre-existing conditions</a>). It wouldn't be shared for your first two years, and it's capped at $25,000 a year after that. A lot of people looking at CrowdHealth because their knee already hurts will run into this.</p>
-<p>And the knee member drove an hour. Not everyone can. Rehab after a joint injury has its own rules, laid out in <a href="https://www.normaltownusa.com/p/torn-knees-and-sprained-ankles/">torn knees and sprained ankles</a>.</p>
-<p>If you're planning a surgery and have no symptoms on record yet, you can <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">join with my code NORMAL<span class="sr-only"> (opens in a new tab)</span></a> and get your first 3 months at $99 a month per member.</p>
-<h2 id="the-takeaway">The takeaway</h2>
-<p>A new hip for $500 is real. So is the work behind it. For a planned surgery, the money is in where it's done, and an outpatient center can cost a fraction of a hospital. Bring your questions and your patience, and don't be afraid to say "not that surgeon."</p>
-<h2 id="questions-i-get-about-this">Questions I get about this</h2>
-<h3 id="is-hip-or-knee-replacement-eligible-on-crowdhealth">Is hip or knee replacement eligible on CrowdHealth?</h3>
-<p>If the joint problem is new since you joined, yes. Members have reported paying $500 for a hip replacement and $500 for a knee replacement. If you had symptoms or treatment in the five years before joining, the pre-existing rule applies.</p>
-<h3 id="why-is-an-outpatient-surgery-center-cheaper-than-a-hospital">Why is an outpatient surgery center cheaper than a hospital?</h3>
-<p>Lower overhead. A surgery center does one kind of work and doesn't carry the cost of an ER or intensive care. One member's facility charge there was a third of the hospital's. The same idea is behind <a href="https://www.normaltownusa.com/p/why-cash-prices-beat-insured-prices/">why cash prices beat insured prices</a>.</p>
-<h3 id="can-i-say-no-to-the-surgeon-crowdhealth-suggests">Can I say no to the surgeon CrowdHealth suggests?</h3>
-<p>Yes. You can see any doctor, so you choose. One member turned down the first suggestion and worked with CrowdHealth to find another. The price still has to be near a fair local rate for the crowd to fund all of it.</p>
-<hr class="rule">
-<p>Planning a surgery and want to see how it's funded? Use my code <strong>NORMAL</strong>: <a href="https://www.joincrowdhealth.com/how-it-works?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">see how CrowdHealth works<span class="sr-only"> (opens in a new tab)</span></a>. New members get their first 3 months at $99 a month per member.</p>
-<p><em>About these stories: the hip story is a member story CrowdHealth published on its own website, so remember they chose it. The knee story is a member's review on an independent health sharing review site. I retold both in my own words, kept the details general, and left out names on purpose.</em></p>
 <p><em>My family of four uses CrowdHealth and I really believe in the model. If you join through <a href="https://www.joincrowdhealth.com/?referral_code=NORMAL" target="_blank" rel="noopener nofollow sponsored">my discount link<span class="sr-only"> (opens in a new tab)</span></a> (code <strong>NORMAL</strong>), you get your first 3 months at $99 a month per member, and Normaltown USA earns a referral bonus if you stick around. It costs you nothing extra, I publish <a href="https://www.normaltownusa.com/what-i-earn/">exactly what I earn</a>, and I only refer you to things I would tell a friend about. CrowdHealth is not insurance, and nothing here is medical, tax, or financial advice.</em></p>]]></content:encoded>
     </item>
 </channel></rss>

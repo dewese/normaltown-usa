@@ -121,6 +121,7 @@ Hub: https://www.normaltownusa.com/health/
 
 Hub: https://www.normaltownusa.com/bitcoin/
 
+- [Your Paycheck, Straight Into Bitcoin (and Who Shouldn't Do It)](https://www.normaltownusa.com/p/paycheck-into-bitcoin/): River lets your paycheck land by direct deposit and split into bitcoin and cash. How it works, what it costs, and who should skip it for now.
 - [Most Bitcoin Is Stolen by Scams, Not Hackers. Here's the Lock I Use](https://www.normaltownusa.com/p/bitcoin-scams-and-forcefield/): Most bitcoin theft is scams, not hacks. How common scams work, and how River's ForceField weekly limit and 5-day delay protect your account.
 - [Auto-Withdrawals: How My Bitcoin Moves Itself to My Own Wallet](https://www.normaltownusa.com/p/bitcoin-auto-withdrawals/): How River's auto-withdrawals send your bitcoin to your own wallet once it hits an amount you pick, and the honest risks of holding your own keys.
 - [Your Seed Phrase Is the Master Key. Treat It That Way](https://www.normaltownusa.com/p/what-is-a-seed-phrase/): A seed phrase is 12 to 24 words that can rebuild your bitcoin wallet. Why it matters, how to store it offline, and why no real company will ever ask for it.
