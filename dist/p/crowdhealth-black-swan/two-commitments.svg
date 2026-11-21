@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+  <rect class="f-bg" width="1200" height="1200"/>
+  <rect class="s-ink" x="170" y="700" width="80" height="80" fill="none" stroke-width="4"/>
+  <rect class="f-ac" x="430" y="280" width="500" height="500"/>
+  <line class="s-ink" x1="120" y1="780" x2="1080" y2="780" stroke-width="3"/>
+  <text class="f-ink" x="210" y="860" text-anchor="middle" font-size="40" font-weight="800">$500</text>
+  <text class="f-ink" x="210" y="905" text-anchor="middle" font-size="24" font-weight="700" letter-spacing="3" fill-opacity="0.8">ORIGINAL</text>
+  <text class="f-ac" x="680" y="860" text-anchor="middle" font-size="40" font-weight="800">$15,000</text>
+  <text class="f-ink" x="680" y="905" text-anchor="middle" font-size="24" font-weight="700" letter-spacing="3" fill-opacity="0.8">BLACK SWAN</text>
+  <text class="f-ink" x="600" y="1040" text-anchor="middle" font-size="28" font-weight="700" letter-spacing="3">YOU PAY FIRST, PER EVENT</text>
+</svg>
