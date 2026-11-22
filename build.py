@@ -65,6 +65,7 @@ AFFILIATE_PARTNERS = (("joincrowdhealth.com", "CrowdHealth", "https://www.joincr
 AFFILIATE_HOSTS = tuple(h for h, _, _ in AFFILIATE_PARTNERS)
 CONTACT_EMAIL = "normaltownusa@gmail.com"
 GA_ID = "G-8MJ82YYL8M"   # Google Analytics 4 measurement ID; set to "" to drop the tag
+KEAK_ID = "3464"         # Keak A/B testing + conversion pixel (keak.com); set to "" to drop it
 
 # Footer newsletter signup, on every page: beehiiv's inline embed (Subscribers > Subscribe
 # forms > the form > Get embed code). The loader script renders the form in an iframe and
@@ -1310,15 +1311,27 @@ def website_schema():
     }
 
 
+def keak_tag():
+    """Keak pixel (A/B tests and conversion tracking), as Keak supplies it, before </head>."""
+    if not KEAK_ID:
+        return ""
+    return (f'<script id="keak-script" src="https://script.keak.com/v1/{KEAK_ID}" '
+            f'type="text/javascript" data-domain="{KEAK_ID}"></script>\n')
+
+
 def ga_tag():
     """Google Analytics 4. Loads on every page; only reports from the real hostname so
-    local previews don't show up as visits."""
+    local previews don't show up as visits. Devices that opened /not-me/ carry a
+    localStorage flag (nt_notrack) and never load the tag at all, so David's own
+    computers and phone don't count as visits."""
     if not GA_ID:
         return ""
-    return ('<script async src="https://www.googletagmanager.com/gtag/js?id=' + GA_ID + '"></script>\n'
-            "<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}"
-            "gtag('js',new Date());if(!/^(localhost|127\\.0\\.0\\.1)$/.test(location.hostname))"
-            "gtag('config','" + GA_ID + "');</script>\n")
+    return ("<script>(function(){var off=false;try{off=localStorage.getItem('nt_notrack')==='1';}catch(e){}"
+            "if(off||/^(localhost|127\\.0\\.0\\.1)$/.test(location.hostname)||location.pathname.indexOf('/not-me/')===0)return;"
+            "var s=document.createElement('script');s.async=true;"
+            "s.src='https://www.googletagmanager.com/gtag/js?id=" + GA_ID + "';document.head.appendChild(s);"
+            "window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};"
+            "gtag('js',new Date());gtag('config','" + GA_ID + "');})();</script>\n")
 
 
 def footer_signup():
@@ -1400,7 +1413,7 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/styles.css?v={CSS_VERSION}">
 {json_ld(graph) if graph else ""}
-</head>
+{keak_tag()}</head>
 <body{BODY_CLASS}>
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head"><div class="wrap">
@@ -1976,6 +1989,33 @@ def render_404():
                   extra_head='<meta name="robots" content="noindex">\n')
 
 
+def render_not_me():
+    """Private switch at /not-me/: opening it on a device turns Google Analytics off for
+    that browser (localStorage flag read by ga_tag). Not linked anywhere, noindex,
+    left out of the sitemap."""
+    body = """<section class="page"><div class="wrap"><div>
+      <h1>Analytics on this device</h1>
+      <div class="body">
+      <p id="nt-status" role="status">Checking&hellip;</p>
+      <p>This only affects this browser on this device. Private windows, other browsers,
+      and clearing site data start counting again, so open this page there too.</p>
+      <p><button type="button" class="btn" id="nt-off">Don't count my visits</button>
+      <button type="button" class="btn" id="nt-on">Count my visits again</button></p>
+      </div>
+    </div></div></section>
+<script>(function(){var st=document.getElementById('nt-status');
+function show(){var off=false;try{off=localStorage.getItem('nt_notrack')==='1';}catch(e){st.textContent='This browser is blocking site storage, so the switch can\\'t be saved here.';return;}
+st.textContent=off?'Your visits from this browser are NOT counted in Google Analytics.':'Your visits from this browser ARE counted in Google Analytics.';}
+function set(v){try{localStorage.setItem('nt_notrack',v?'1':'0');}catch(e){}show();}
+document.getElementById('nt-off').onclick=function(){set(true);};
+document.getElementById('nt-on').onclick=function(){set(false);};
+try{if(localStorage.getItem('nt_notrack')===null)localStorage.setItem('nt_notrack','1');}catch(e){}
+show();})();</script>"""
+    return layout("Analytics on this device", "Private switch for the site owner.",
+                  body, SITE_URL + "/not-me/", og_type="website",
+                  extra_head='<meta name="robots" content="noindex, nofollow">\n')
+
+
 # ----------------------------------------------------------------------------
 # Build
 # ----------------------------------------------------------------------------
@@ -2222,6 +2262,7 @@ def main(preview=False):
     write(DIST / "_headers", HEADERS)
     write(DIST / "_redirects", REDIRECTS)
     write(DIST / "404.html", render_404())
+    write(DIST / "not-me" / "index.html", render_not_me())
     indexnow_key = SITE_DIR / "indexnow-key.txt"
     if indexnow_key.exists():   # IndexNow ownership file, see indexnow.py
         k = indexnow_key.read_text(encoding="utf-8").strip()
