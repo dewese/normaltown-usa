@@ -19,14 +19,8 @@ Normaltown USA targets [WCAG 2.1 Level AA](https://www.w3.org/TR/WCAG21/), the s
 - Contact form fields have real labels, and required fields are called out.
 - If you've asked your device to reduce motion, the site honors that.
 
-## The known gap
-
-The email signup box in the footer is an embedded form from beehiiv, a third-party service, so I don't control its markup. Its text and background contrast is set correctly, and I add a name to the frame so screen readers announce it properly. What I can't add is a permanent visible label on the email field itself: beehiiv doesn't offer labels on a one-field form, so that field carries placeholder text instead, which disappears once you start typing. The instruction next to the form stays put and is read out with it.
-
-If that form gives you trouble for any reason, [send me a message](/contact/) with your email address and I'll add you myself.
-
 ## Tell me if something's broken
 
 If any part of this site doesn't work for you, I want to know, and I'll fix it. Use the [contact form](/contact/) and say what page you were on and what went wrong. I read every message myself and I'll write back.
 
-This statement was last reviewed in September 2026.
+This statement was last reviewed in November 2026.

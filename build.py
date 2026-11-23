@@ -67,15 +67,6 @@ CONTACT_EMAIL = "normaltownusa@gmail.com"
 GA_ID = "G-8MJ82YYL8M"   # Google Analytics 4 measurement ID; set to "" to drop the tag
 KEAK_ID = "3464"         # Keak A/B testing + conversion pixel (keak.com); set to "" to drop it
 
-# Footer newsletter signup, on every page: beehiiv's inline embed (Subscribers > Subscribe
-# forms > the form > Get embed code). The loader script renders the form in an iframe and
-# already handles UTM/referrer attribution, so beehiiv's separate attribution.js is not
-# needed. The label and fine print around it are ours, so only the field and button need
-# styling inside beehiiv's builder. Set this to "" to fall back to a plain FormSubmit form
-# that emails each signup to CONTACT_EMAIL.
-NEWSLETTER_EMBED = ('<script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" '
-                    'data-beehiiv-form="27669cbb-d776-41db-adde-6dad6f4d127a"></script>')
-
 # "Updated" dates: a commit that touches more than this many articles at once is a
 # site-wide edit (a template or wording pass), not a content update, and is ignored.
 MASS_EDIT_FILES = 3
@@ -861,7 +852,7 @@ a{color:var(--accent); text-decoration:none}
 a:hover{text-decoration:underline}
 /* links inside running text get an underline so color is not the only cue (WCAG 1.4.1) */
 .body a,.short-answer a,.hub-link a,.hero p a,.lede a,.post-cta a,.tile p a,.author-box a,.sources a,.toc a,
-.contact-form .fine a,.foot-sub .fine a,.site-foot .disclaimer a{text-decoration:underline; text-underline-offset:.15em}
+.contact-form .fine a,.site-foot .disclaimer a{text-decoration:underline; text-underline-offset:.15em}
 :focus-visible{outline:2px solid var(--accent); outline-offset:2px}
 .sr-only{position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0}
 img{max-width:100%; height:auto; display:block}
@@ -1201,21 +1192,6 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .site-foot a{color:var(--muted)}
 .site-foot a:hover{color:var(--ink)}
 .site-foot .disclaimer{width:100%; font-size:.82rem}
-.foot-sub{width:100%; margin:0 0 1.4rem; padding:0 0 1.6rem; border-bottom:1px solid var(--faint)}
-.foot-sub .label{display:block; font-weight:800; color:var(--ink); font-size:1rem; margin:0 0 .6rem}
-.foot-sub .row{display:flex; gap:.5rem; max-width:26rem}
-.foot-sub .embed{max-width:26rem; min-height:3rem}
-/* color-scheme:light matches beehiiv's document; a mismatch (our dark mode) makes the
-   browser paint an opaque white backdrop behind the otherwise transparent iframe */
-.foot-sub .embed iframe{display:block; width:100%; border:0; background:transparent; color-scheme:light}
-.foot-sub input[type=email]{flex:1; min-width:0; font:inherit; color:var(--ink); background:var(--canvas);
-  border:1px solid var(--faint); border-radius:999px; padding:.6rem 1rem}
-.foot-sub input[type=email]:focus{outline:2px solid var(--accent); outline-offset:2px; border-color:var(--accent)}
-.foot-sub button{font:inherit; font-weight:800; color:var(--accent-ink); background:var(--accent); border:none;
-  border-radius:999px; padding:.6rem 1.1rem; cursor:pointer; white-space:nowrap}
-.foot-sub button:hover{filter:brightness(1.08)}
-.foot-sub .fine{margin:.5rem 0 0; font-size:.8rem}
-.foot-sub .hp{position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden}
 
 @media (max-width:640px){
   body{font-size:17px}
@@ -1338,32 +1314,6 @@ def ga_tag():
             "gtag('js',new Date());gtag('config','" + GA_ID + "');})();</script>\n")
 
 
-def footer_signup():
-    """Minimal email signup for the site footer. Uses the beehiiv embed when
-    NEWSLETTER_EMBED is set; otherwise a FormSubmit form that emails each signup to
-    CONTACT_EMAIL (same free endpoint as the contact form) and lands on /subscribed/."""
-    if NEWSLETTER_EMBED.strip():
-        return f"""<div class="foot-sub">
-    <span class="label" id="s-label">New posts by email</span>
-    <div class="embed" role="group" aria-labelledby="s-label" aria-describedby="s-hint">{NEWSLETTER_EMBED}</div>
-    <p class="fine" id="s-hint">Enter your email address above. No spam, no selling your address. Leave anytime.</p>
-  </div>
-  <script>(function(){{var e=document.querySelector('.foot-sub .embed');if(!e)return;function t(){{var f=e.querySelector('iframe');if(f&&!f.title)f.title='Email signup form';}}t();new MutationObserver(t).observe(e,{{childList:true,subtree:true}});}})();</script>"""
-    import base64
-    target = base64.b64encode(f"https://formsubmit.co/{CONTACT_EMAIL}".encode()).decode()
-    return f"""<form class="foot-sub" method="POST" data-t="{target}">
-    <input type="hidden" name="_subject" value="Normaltown USA: new email signup">
-    <input type="hidden" name="_template" value="table">
-    <input type="hidden" name="_captcha" value="false">
-    <input type="hidden" name="_next" value="{SITE_URL}/subscribed/">
-    <div class="hp" aria-hidden="true"><label for="s-honey">Leave this empty</label><input type="text" id="s-honey" name="_honey" tabindex="-1" autocomplete="off"></div>
-    <label class="label" for="s-email">New posts by email</label>
-    <div class="row"><input type="email" id="s-email" name="email" required autocomplete="email" placeholder="you@example.com"><button type="submit">Sign up</button></div>
-    <p class="fine">No spam, no selling your address. Leave anytime.</p>
-  </form>
-  <script>(function(){{var f=document.querySelector('form.foot-sub');if(f)f.action=atob(f.getAttribute('data-t'));}})();</script>"""
-
-
 BRAND_LOGO = inline_svg(LOGO_DIR / "normaltown-logo.svg", cls="brand-logo",
                         label=SITE_NAME) if (LOGO_DIR / "normaltown-logo.svg").exists() else SITE_NAME
 
@@ -1372,7 +1322,7 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
            schema=None, current=None, extra_head="", og_size=None, page_title=None,
            section=None, body_class=""):
     desc = html.escape(description or SITE_TAGLINE, quote=True)
-    ga, signup = ga_tag(), footer_signup()
+    ga = ga_tag()
     if page_title is None:
         page_title = title if title == SITE_NAME else f"{title} | {SITE_NAME}"
     og_image = og_image or f"{SITE_URL}/assets/og-default.png{file_v(SITE_DIR / 'og-default.png')}"
@@ -1434,7 +1384,6 @@ def layout(title, description, body, canonical, og_image=None, og_type="article"
 {body}
 </main>
 <footer class="site-foot"><div class="wrap">
-  {signup}
   <span>&copy; {TODAY.year} {SITE_NAME}. {SITE_TAGLINE}.</span>
   <span><a href="/blog/">All posts</a> &middot; <a href="/money/">Money</a> &middot; <a href="/health/">Health</a> &middot; <a href="/bitcoin/">Bitcoin</a> &middot; <a href="/start-here/">Start Here</a> &middot; <a href="/resources/">Resources</a> &middot; <a href="/faq/">FAQ</a> &middot; <a href="/about/">About</a> &middot; <a href="/what-i-earn/">What I Earn</a> &middot; <a href="/how-i-keep-this-accurate/">Accuracy</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/accessibility/">Accessibility</a> &middot; <a href="/rss.xml">RSS</a></span>
   <p class="disclaimer">Written by {AUTHOR}, a regular guy who does the homework, not a financial advisor, doctor, tax pro, or lawyer. Nothing here is financial, medical, tax, or legal advice. <strong>Normaltown USA is independent. It is not affiliated with, endorsed by, sponsored by, or employed by CrowdHealth, River, or anyone else named on this site.</strong> Some links (CrowdHealth, code NORMAL, and River) pay me a referral bonus at no extra cost to you, and I publish <a href="/what-i-earn/">exactly what I earn</a>. CrowdHealth is not insurance, and nobody is legally required to pay your medical bill.</p>
@@ -1993,6 +1942,8 @@ def render_llms_full(posts):
 # Old beehiiv URLs that Search Console still crawls and reports as 404. Cloudflare's
 # static assets read _redirects; the query string (?page=2 etc.) is carried over.
 REDIRECTS = """/subscribe / 301
+/subscribed / 301
+/subscribed/ / 301
 /upgrade / 301
 /publications / 301
 /forms / 301
@@ -2217,19 +2168,13 @@ def main(preview=False):
         "accessibility.md": {
             "slug": "accessibility",
             "desc": ("Normaltown USA aims to meet WCAG 2.1 AA. What that means, what's been done, "
-                     "the one known gap, and how to tell me if something doesn't work for you."),
+                     "and how to tell me if something doesn't work for you."),
             "page_title": "Accessibility Statement",
         },
         "contact-thanks.md": {
             "slug": "contact/thanks",
             "desc": "Your message is in my inbox. I'll write back as soon as I can.",
             "page_title": "Got it, thanks",
-            "noindex": True,
-        },
-        "subscribed.md": {
-            "slug": "subscribed",
-            "desc": "You're on the list. New posts will show up in your inbox.",
-            "page_title": "You're in",
             "noindex": True,
         },
     }
