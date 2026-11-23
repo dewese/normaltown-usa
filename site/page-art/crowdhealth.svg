@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+<rect class="f-bg" width="1000" height="1250"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="131.2" y1="201.2" x2="435.6" y2="778.0"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="223.8" y1="202.3" x2="449.2" y2="771.7"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="316.1" y1="203.2" x2="464.8" y2="766.6"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="408.1" y1="203.8" x2="481.9" y2="763.2"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="500.0" y1="204.0" x2="500.0" y2="762.0"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="591.9" y1="203.8" x2="518.1" y2="763.2"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="683.9" y1="203.2" x2="535.2" y2="766.6"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="776.2" y1="202.3" x2="550.8" y2="771.7"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="868.8" y1="201.2" x2="564.4" y2="778.0"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="171.7" y1="311.0" x2="432.8" y2="779.5"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="266.0" y1="312.3" x2="449.0" y2="771.8"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="359.9" y1="313.3" x2="467.9" y2="765.8"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="453.3" y1="313.9" x2="489.0" y2="762.4"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="546.7" y1="313.9" x2="511.0" y2="762.4"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="640.1" y1="313.3" x2="532.1" y2="765.8"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="734.0" y1="312.3" x2="551.0" y2="771.8"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="828.3" y1="311.0" x2="567.2" y2="779.5"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="212.3" y1="420.6" x2="429.0" y2="781.7"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="308.9" y1="422.3" x2="448.7" y2="771.9"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="404.7" y1="423.5" x2="472.9" y2="764.7"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="500.0" y1="424.0" x2="500.0" y2="762.0"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="595.3" y1="423.5" x2="527.1" y2="764.7"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="691.1" y1="422.3" x2="551.3" y2="771.9"/>
+<line class="s-ink" stroke-opacity="0.35" stroke-width="2" x1="787.7" y1="420.6" x2="571.0" y2="781.7"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="120.0" cy="180" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="215.0" cy="180" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="310.0" cy="180" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="405.0" cy="180" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="500.0" cy="180" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="595.0" cy="180" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="690.0" cy="180" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="785.0" cy="180" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="880.0" cy="180" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="160.0" cy="290" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="257.1" cy="290" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="354.3" cy="290" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="451.4" cy="290" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="548.6" cy="290" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="645.7" cy="290" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="742.9" cy="290" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="840.0" cy="290" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="200.0" cy="400" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="300.0" cy="400" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="400.0" cy="400" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="500.0" cy="400" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="600.0" cy="400" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="700.0" cy="400" r="22"/>
+<circle class="s-ink" fill="none" stroke-width="4" cx="800.0" cy="400" r="22"/>
+<circle class="f-ac" cx="500" cy="900" r="130"/>
+<text class="f-bg" x="500" y="916" font-size="46" font-weight="800" text-anchor="middle" letter-spacing="2">ONE BILL</text>
+</svg>

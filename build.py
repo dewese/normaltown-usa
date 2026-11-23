@@ -1175,18 +1175,22 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .contact-form .fine{margin:.9rem 0 0; font-size:.85rem; color:var(--muted)}
 
 /* about page: text + family photo */
-.about .wrap{display:grid; grid-template-columns:minmax(0,1fr) 21rem; gap:3.5rem;
+.about .wrap, .has-art .wrap{display:grid; grid-template-columns:minmax(0,1fr) 21rem; gap:3.5rem;
   align-items:start}
-.about .body{max-width:var(--measure)}
+.about .body, .has-art .body{max-width:var(--measure)}
 .about-photo{margin:.4rem 0 0; isolation:isolate}
 .about-photo img{width:100%; border-radius:22px; background:var(--panel);
   transform:rotate(1.5deg); box-shadow:0 18px 40px -18px rgba(60,40,20,.45)}
 .about-photo figcaption{margin:1.2rem 0 0; color:var(--muted); font-family:var(--serif);
   font-style:italic; font-size:1rem; line-height:1.5; text-align:center}
+/* page art (Start Here, CrowdHealth, Resources, FAQ, Contact) uses the same frame */
+.page-art{position:sticky; top:1.5rem}
+.page-art figcaption .partner-mark{margin:.55rem auto 0}
 
 @media (max-width:820px){
-  .about .wrap{grid-template-columns:1fr; gap:2.2rem}
+  .about .wrap, .has-art .wrap{grid-template-columns:1fr; gap:2.2rem}
   .about-photo{order:-1; max-width:20rem}
+  .page-art{position:static; max-width:11rem}
   .about-photo figcaption{margin-top:1rem}
 }
 
@@ -1814,6 +1818,55 @@ def about_figure():
       </figure>"""
 
 
+
+# Art beside the Start Here / CrowdHealth / Resources / FAQ / Contact pages, in the same
+# spot as the About photo. Drawn in the three hero colours in site/page-art/, then themed
+# by brand/theme-hero-svgs.py; copied to /assets/page-art/. slug -> (file, alt, caption);
+# a caption of None on crowdhealth gets the CrowdHealth wordmark instead.
+PAGE_ART_DIR = SITE_DIR / "page-art"
+PAGE_ART = {
+    "start-here": ("start-here.svg",
+                   "A dot marked You are here, on one line that branches to three circles: "
+                   "Money, Health and Bitcoin.",
+                   "One plain-English path, three topics."),
+    "crowdhealth": ("crowdhealth.svg",
+                    "Rows of small circles, each with a thin line running down to one large "
+                    "filled circle labelled One bill.",
+                    None),
+    "resources": ("resources.svg",
+                  "Two shelves holding blocks of different sizes, one of them filled in.",
+                  "Only what earns a spot on the shelf."),
+    "faq": ("faq.svg",
+            "A question mark in a circle, an arrow straight down, and a filled circle with a check mark.",
+            "Plain questions, plain answers."),
+    "contact": ("contact.svg",
+                "Two circles, You and Me. An arrow carries a dot from You to Me, and a dashed "
+                "arrow comes back.",
+                "You write. I read it myself and write back."),
+}
+
+
+def page_art_figure(slug):
+    """Return the art <figure> for a page in PAGE_ART, or '' if it has none."""
+    if slug not in PAGE_ART:
+        return ""
+    fname, alt, caption = PAGE_ART[slug]
+    path = PAGE_ART_DIR / fname
+    if not path.exists():
+        return ""
+    if caption is None:
+        mark = inline_svg(PARTNER_LOGO_DIR / "crowdhealth-wordmark.svg",
+                          cls="partner-mark mark-crowdhealth-wordmark", label="CrowdHealth")
+        cap = f'<span>An independent member&rsquo;s guide to</span>{mark}'
+    else:
+        cap = html.escape(caption)
+    return f"""<figure class="about-photo page-art">
+        <img src="/assets/page-art/{fname}{file_v(path)}" alt="{html.escape(alt, quote=True)}"
+             width="1000" height="1250" loading="eager">
+        <figcaption>{cap}</figcaption>
+      </figure>"""
+
+
 def load_page_md(filename):
     """Read a site/*.md file; return (title, body_without_title)."""
     path = SITE_DIR / filename
@@ -2081,6 +2134,8 @@ def main(preview=False):
 
     write(DIST / "styles.css", CSS)
     shutil.copytree(LOGO_DIR, DIST / "assets")
+    if PAGE_ART_DIR.exists():
+        shutil.copytree(PAGE_ART_DIR, DIST / "assets" / "page-art", dirs_exist_ok=True)
     if PARTNER_LOGO_DIR.exists():
         # only the finished marks ship; the color originals and the recolor script stay put
         shutil.copytree(PARTNER_LOGO_DIR, DIST / "assets" / "partners",
@@ -2188,6 +2243,10 @@ def main(preview=False):
             body = body.replace(CH_HUB_MARKER, crowdhealth_index_md(posts))
         figure, og_image = "", None
         page_class = f"page-{slug}" if slug == "resources" else ""
+        if slug in PAGE_ART:
+            figure = page_art_figure(slug)
+            if figure:
+                page_class = (page_class + " has-art").strip()
         schema = [website_schema(), org_schema()]
         page_url = f"{SITE_URL}/{slug}/"
         if slug == "about" and ABOUT_PHOTO.exists():

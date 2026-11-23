@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+<rect class="f-bg" width="1000" height="1250"/>
+<circle class="s-ink" fill="none" stroke-width="6" cx="230" cy="625" r="170"/>
+<text class="f-ink" x="230" y="642" font-size="50" font-weight="800" text-anchor="middle" letter-spacing="2">YOU</text>
+<circle class="s-ink" fill="none" stroke-width="6" cx="770" cy="625" r="170"/>
+<text class="f-ink" x="770" y="642" font-size="50" font-weight="800" text-anchor="middle" letter-spacing="2">ME</text>
+<path class="s-ink" fill="none" stroke-width="6" d="M310 475 Q500 250 690 475"/>
+<path class="s-ink" fill="none" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" d="M685.3 429.2 L690 475 L645.7 462.8"/>
+<circle class="f-ac" cx="500" cy="362" r="38"/>
+<path class="s-ink" stroke-opacity="0.6" fill="none" stroke-width="6" stroke-dasharray="16 16" d="M690 775 Q500 1000 310 775"/>
+<path class="s-ink" stroke-opacity="0.6" fill="none" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" d="M314.7 820.8 L310 775 L354.3 787.2"/>
+</svg>

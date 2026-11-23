@@ -106,8 +106,10 @@ def is_bitcoin(folder):
 
 def main():
     done = skipped = 0
-    for svg in sorted(POSTS.glob("*/*/*/*.svg")):
-        pal = PALETTE_BITCOIN if is_bitcoin(svg.parent) else PALETTE
+    # post heroes, plus the art beside the Start Here / CrowdHealth / Resources / FAQ /
+    # Contact pages (site/page-art/)
+    for svg in sorted(POSTS.glob("*/*/*/*.svg")) + sorted((ROOT / "site" / "page-art").glob("*.svg")):
+        pal = PALETTE_BITCOIN if POSTS in svg.parents and is_bitcoin(svg.parent) else PALETTE
         if convert(svg, pal):
             done += 1
         else:

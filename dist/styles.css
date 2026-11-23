@@ -354,18 +354,22 @@ a.tag:hover{border-color:var(--accent); text-decoration:none}
 .contact-form .fine{margin:.9rem 0 0; font-size:.85rem; color:var(--muted)}
 
 /* about page: text + family photo */
-.about .wrap{display:grid; grid-template-columns:minmax(0,1fr) 21rem; gap:3.5rem;
+.about .wrap, .has-art .wrap{display:grid; grid-template-columns:minmax(0,1fr) 21rem; gap:3.5rem;
   align-items:start}
-.about .body{max-width:var(--measure)}
+.about .body, .has-art .body{max-width:var(--measure)}
 .about-photo{margin:.4rem 0 0; isolation:isolate}
 .about-photo img{width:100%; border-radius:22px; background:var(--panel);
   transform:rotate(1.5deg); box-shadow:0 18px 40px -18px rgba(60,40,20,.45)}
 .about-photo figcaption{margin:1.2rem 0 0; color:var(--muted); font-family:var(--serif);
   font-style:italic; font-size:1rem; line-height:1.5; text-align:center}
+/* page art (Start Here, CrowdHealth, Resources, FAQ, Contact) uses the same frame */
+.page-art{position:sticky; top:1.5rem}
+.page-art figcaption .partner-mark{margin:.55rem auto 0}
 
 @media (max-width:820px){
-  .about .wrap{grid-template-columns:1fr; gap:2.2rem}
+  .about .wrap, .has-art .wrap{grid-template-columns:1fr; gap:2.2rem}
   .about-photo{order:-1; max-width:20rem}
+  .page-art{position:static; max-width:11rem}
   .about-photo figcaption{margin-top:1rem}
 }
 

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif">
+<style id="normaltown-theme">.f-bg{fill:#F3EDE4}.s-bg{stroke:#F3EDE4}.f-ink{fill:#1B1917}.s-ink{stroke:#1B1917}.f-ac{fill:#0E6F63}.s-ac{stroke:#0E6F63}@media (prefers-color-scheme:dark){.f-bg{fill:#141210}.s-bg{stroke:#141210}.f-ink{fill:#F7F3EC}.s-ink{stroke:#F7F3EC}.f-ac{fill:#4FC7B4}.s-ac{stroke:#4FC7B4}}</style>
+<rect class="f-bg" width="1000" height="1250"/>
+<circle class="s-ink" fill="none" stroke-width="5" cx="500" cy="340" r="150"/>
+<text class="f-ink" x="500" y="405" font-size="190" font-weight="800" text-anchor="middle" letter-spacing="0">?</text>
+<line class="s-ink" x1="500" y1="520" x2="500" y2="700" stroke-width="5"/>
+<path class="s-ink" fill="none" stroke-width="5" stroke-linejoin="round" d="M465 668 L500 708 L535 668"/>
+<circle class="f-ac" cx="500" cy="890" r="150"/>
+<path class="s-bg" fill="none" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" d="M435 893 L482 940 L572 846"/>
+</svg>
