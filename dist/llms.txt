@@ -123,6 +123,7 @@ Hub: https://www.normaltownusa.com/health/
 
 Hub: https://www.normaltownusa.com/bitcoin/
 
+- [Bitcoin Taxes Without the Headache](https://www.normaltownusa.com/p/bitcoin-taxes-plain-english/): Buying and holding bitcoin isn't taxable. Selling or spending can be. The one-year line, tax lots, records to keep, and how River's tools help.
 - [Your Paycheck, Straight Into Bitcoin (and Who Shouldn't Do It)](https://www.normaltownusa.com/p/paycheck-into-bitcoin/): River lets your paycheck land by direct deposit and split into bitcoin and cash. How it works, what it costs, and who should skip it for now.
 - [Most Bitcoin Is Stolen by Scams, Not Hackers. Here's the Lock I Use](https://www.normaltownusa.com/p/bitcoin-scams-and-forcefield/): Most bitcoin theft is scams, not hacks. How common scams work, and how River's ForceField weekly limit and 5-day delay protect your account.
 - [Auto-Withdrawals: How My Bitcoin Moves Itself to My Own Wallet](https://www.normaltownusa.com/p/bitcoin-auto-withdrawals/): How River's auto-withdrawals send your bitcoin to your own wallet once it hits an amount you pick, and the honest risks of holding your own keys.
