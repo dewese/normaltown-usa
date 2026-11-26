@@ -124,6 +124,7 @@ Hub: https://www.normaltownusa.com/health/
 
 Hub: https://www.normaltownusa.com/bitcoin/
 
+- [Thanksgiving Table Questions About Bitcoin, Answered Calmly](https://www.normaltownusa.com/p/thanksgiving-bitcoin-questions/): Is bitcoin a Ponzi scheme? Is it safe? Why does it swing so much? Is it for criminals? Calm, plain answers for the Thanksgiving table.
 - [Lightning: Bitcoin's Express Lane](https://www.normaltownusa.com/p/what-is-the-lightning-network/): The Lightning Network makes small bitcoin payments fast and cheap. How channels work, how River sends and receives either way, and why savings stay on-chain.
 - [Bitcoin Taxes Without the Headache](https://www.normaltownusa.com/p/bitcoin-taxes-plain-english/): Buying and holding bitcoin isn't taxable. Selling or spending can be. The one-year line, tax lots, records to keep, and how River's tools help.
 - [Your Paycheck, Straight Into Bitcoin (and Who Shouldn't Do It)](https://www.normaltownusa.com/p/paycheck-into-bitcoin/): River lets your paycheck land by direct deposit and split into bitcoin and cash. How it works, what it costs, and who should skip it for now.
