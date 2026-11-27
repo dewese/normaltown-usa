@@ -124,6 +124,7 @@ Hub: https://www.normaltownusa.com/health/
 
 Hub: https://www.normaltownusa.com/bitcoin/
 
+- [A Black Friday Gift That Isn't More Stuff: Sending Bitcoin by Text](https://www.normaltownusa.com/p/gift-bitcoin-by-text/): River Link lets you gift a little bitcoin as a link you can text or print with a QR code. How it works, how much to give, and the honest risks.
 - [Thanksgiving Table Questions About Bitcoin, Answered Calmly](https://www.normaltownusa.com/p/thanksgiving-bitcoin-questions/): Is bitcoin a Ponzi scheme? Is it safe? Why does it swing so much? Is it for criminals? Calm, plain answers for the Thanksgiving table.
 - [Lightning: Bitcoin's Express Lane](https://www.normaltownusa.com/p/what-is-the-lightning-network/): The Lightning Network makes small bitcoin payments fast and cheap. How channels work, how River sends and receives either way, and why savings stay on-chain.
 - [Bitcoin Taxes Without the Headache](https://www.normaltownusa.com/p/bitcoin-taxes-plain-english/): Buying and holding bitcoin isn't taxable. Selling or spending can be. The one-year line, tax lots, records to keep, and how River's tools help.
